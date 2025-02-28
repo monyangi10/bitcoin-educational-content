@@ -1,186 +1,186 @@
 ---
-name: Путовање Биткоина
-goal: Otkrijte osnove Bitcoina, uključujući njegovu monetarnu vrednosnu ponudu, rudare, transakcije i novčanike.
+name: Путовање биткоином
+goal: Откријте основе Битцоин-а, укључујући његову понуду монетарне вредности, рударе, трансакције и новчанике.
 objectives: 
 
-  - Steknite opšte razumijevanje Bitcoin tehnologije
-  - Razumite kako kupiti i obezbediti bitkoine
-  - Imajte opšte razumijevanje tehnologije Blockchain
-  - Upoznajte se sa konceptom Lightning Network
-  - Shvatite geopolitički i socijalni uticaj Bitcoina
+  - Стекните опште разумевање Битцоин технологије
+  - Сазнајте како да купите и обезбедите биткоине
+  - Имајте опште разумевање Блоцкцхаин технологије
+  - Упознајте се са концептом Лигхтнинг мреже
+  - Схватите геополитички и друштвени утицај биткоина
 
 ---
-# Ваша прва Биткоин авантура
+# Ваша прва Битцоин авантура
 
-U ovom kursu, objasnićemo osnove Bitcoina u 25 poglavlja, tako da možete razumeti ovu tehnologiju na jednostavan i efikasan način. Kurs istražuje osnove industrije u celini, uključujući teme poput rudarenja, novčanika, platformi za kupovinu/prodaju, i još mnogo toga. Dodatni obrazovni materijal će biti dostupan tokom putovanja, a takođe vas pozivamo da pogledate "21 Poster" u sekciji resursa nakon što završite ovaj kurs.
+У овом курсу ћемо објаснити основе Битцоин-а у 25 поглавља, тако да можете разумети ову технологију на једноставан и ефикасан начин. Курс истражује основе индустрије у целини, укључујући теме као што су рударство, новчаници, платформе за куповину/продају и још много тога. Додатни едукативни материјал биће доступан током целог путовања, а такође вас позивамо да погледате „21 постер“ у одељку ресурса након што завршите овај курс.
 
-Не треба вам никакво специфично знање да бисте почели. Заправо, следећи садржај је доступан студентима свих нивоа, и требало би да отприлике траје 15 сати да се заврши.
+Не треба вам неко посебно знање да бисте започели. У ствари, следећи садржај је доступан студентима свих нивоа и требало би да прође око 15 сати да се заврши.
 
 +++
 # Увод
 
 <partId>3cd2ac82-026c-53e1-874a-baf5842adc6d</partId>
 
-## Скок у Непознато
+## Скок у непознато
 
 <chapterId>27e3fb60-4b50-556b-9e70-c4f5475c121d</chapterId>
 
-### Добродошли у нови монетарни и технолошки парадигму.
+### Добродошли у нову монетарну и технолошку парадигму.
 
-Bitcoin je tehnološka i monetarna revolucija, sposobna da nas natera da preispitamo naš odnos prema novcu i društvu. Zapravo, Bitcoin (označen kao BTC) je **neutralna** i **decentralizovana** valuta, što znači da njome ne upravlja nijedna entitet ili institucija. To je inovacija koja ide dalje od puke "internet valute": to je i kompjuterski protokol (Bitcoin) i monetarna jedinica (bitcoin).
+Биткоин је технолошка и монетарна револуција, способна да доведе у питање наш однос са новцем и друштвом. У ствари, Битцоин (који се назива БТЦ) је **неутрална** и **децентрализована** валута, што значи да га не контролише ниједан ентитет или институција. То је иновација која превазилази пуку „интернет валуту“: то је и компјутерски протокол (Битцоин) и новчана јединица (Биткоин).
 
-Protokol koristi osnovne tehnologije kao što su kriptografija, mrežna komunikacija i poznati "blockchain", dok bitcoin jedinica služi kao neophodna valuta za pravilno funkcionisanje ovog protokola. U svakodnevnom životu, Salvadorci i bitcoineri širom sveta koriste bitcoin valutu za kupovinu i prodaju dobara i usluga, oslanjajući se na ovu tehnologiju da bi poboljšali svoje živote.
+Протокол користи основне технологије као што су криптографија, мрежна комуникација и чувени „блокчејн“, док биткоин јединица служи као неопходна валута за правилно функционисање овог протокола. У свакодневном животу, Салвадорци и биткоинери широм света користе биткоин валуту за куповину и продају добара и услуга, ослањајући се на ову технологију како би им живот био бољи.
 
-### Свеобухватан али доступан програм
+### Свеобухватан, али приступачан наставни план и програм
 
-U ovom kursu, razgovaraćemo o nekim monetarnim aspektima Bitcoina, uključujući kako kupiti i prodati bitcoine, sigurno ih čuvati u digitalnim novčanicima i koristiti ih za transakcije. Takođe ćemo ispitati ulogu rudara, koji su neophodni za stvaranje novih bitcoina i obezbeđivanje Bitcoin mreže. Na kraju, istražićemo budućnost Bitcoina i kako tehnologija Lightning Network može poboljšati Bitcoin transakcije.
+У овом курсу ћемо разговарати о неким монетарним аспектима Битцоин-а, укључујући како купити и продати биткоине, безбедно их чувати у дигиталним новчаницима и користити их за трансакције. Такође ћемо испитати улогу рудара, који су од суштинског значаја за креирање нових биткоина и обезбеђивање Битцоин мреже. Коначно, истражићемо будућност Битцоин-а и како технологија Лигхтнинг Нетворк може побољшати Битцоин трансакције.
 
 ![image](assets/en/01.webp)
 
-Bitno je razumeti da je Bitcoin novi monetarni sistem koji potpuno menja naš odnos prema novcu, tako da je učenje kako ga koristiti neophodna veština za svakoga ko želi da kontroliše svoja sredstva.
+Неопходно је разумети да је Битцоин нови монетарни систем који потпуно мења наш однос са новцем, тако да је учење како да га користи неопходна вештина за свакога ко жели да контролише своја средства.
 
-**Секција 1 - Новац**
+**Одељак 1 - Новац**
 
 
-- Поглавље 1 - Шта је новац?
-- Поглавље 2 - Фијат новац
+- Поглавље 1 – Шта је новац?
+- Поглавље 2 - Фиат новац
 - Поглавље 3 - Хиперинфлација
-- Поглавље 4 - Монетарна политика Биткоина
+- Поглавље 4 - Битцоин монетарна политика
 
-**Секција 2 - Биткоин новчаници**
+**Одељак 2 - Битцоин новчаници**
 
 
-- Поглавље 5 - Како функционишу Биткоин новчаници?
-- Поглавље 6 - Избор ваше безбедности
+- Поглавље 5 – Како функционишу Битцоин новчаници?
+- Поглавље 6 – Одабир сигурности
 - Поглавље 7 - Подешавање вашег новчаника
-- Поглавље 8 - Заштита против времена
+- Поглавље 8 – Заштита од времена
 
-**Секција 3 - Техничке карактеристике Биткоина**
+**Одељак 3 - Техничке карактеристике Битцоин-а**
 
 
-- Поглавље 9 - Шта је трансакција?
-- Поглавље 10 - Биткоин чворови
+- Поглавље 9 – Шта је трансакција?
+- Поглавље 10 - Битцоин чворови
 - Поглавље 11 - Рудари
-- Поглавље 12 - Рудари и екологија
+- Поглавље 12 – Рудари и екологија
 
-**Секција 4 - Штедња у Биткоину**
-
-
-- Поглавље 13 - Цена Биткоина
-- Поглавље 14 - Како купити Биткоин?
-- Поглавље 15 - Рад за Биткоин
-- Поглавље 16 - Хипер-биткоинизација
-
-**Sekcija 5 - Lightning Network**
+**Одељак 4 - Уштеда у Битцоин-у**
 
 
-- Поглавє 17 - Увод у Лајтнинг Мрежу
-- Поглавље 18 - Примене за Lightning Network
+- Поглавље 13 - Цена биткоина
+- Поглавље 14 - Како купујете Битцоин?
+- Поглавље 15 - Рад за Битцоин
+- Поглавље 16 - Хипер-битцоинизација
 
-Pre nego što uvedemo definiciju novca i njegovu funkciju u društvu (Poglavlje 1), trebali bismo početi od postanka Bitcoina. Pokrenut 2009. godine, Bitcoin je relativno nova tehnologija koja se razlikuje od svega ostalog. Stoga je normalno da ne razumemo sve o njemu odjednom. Zapravo, baš kao kada učite kako da koristite internet ili da vozite auto, ne morate odmah znati sve tehničke detalje: možete početi učeći kako da primite, platite i obezbedite svoja sredstva, a zatim polako proučavati sve dublje.
+**Одељак 5 - Лигхтнинг Нетворк**
 
-Ipak, mi smo samo na početnim fazama njegovog usvajanja, pošto smo prošli fazu početka: upravo ste na vreme da steknete koliko god želite znanja o ovoj važnoj inovaciji.
+
+- Поглавље 17 – Увод у Лигхтнинг Нетворк
+- Поглавље 18 - Случајеви коришћења Лигхтнинг мреже
+
+Пре него што уведемо дефиницију новца и његове функције у друштву (поглавље 1), требало би да кренемо од генезе биткоина. Покренут 2009. године, Битцоин је релативно нова технологија која се разликује од било чега другог. Стога је нормално да се не разуме све о томе, све одједном. У ствари, баш као када учите како да користите Интернет или да возите аутомобил, не морате одмах да знате све техничке детаље: можете почети тако што ћете научити како да примате, плаћате и обезбедите своја средства, а затим предузимате мале кораке да то дубље проучите.
+
+На крају крајева, тек смо у почетној фази његовог усвајања, јер смо прошли фазу покретања: управо сте на време да стекнете онолико знања колико желите о овој важној иновацији.
 
 ![image](assets/en/02.webp)
 
-Važna tačka ovde je razumeti ovu novu tehnologiju na opšti način, pa se nadamo da ćete uživati u ovom kursu i nastaviti da napredujete u ovom novom globalnom monetarnom paradigmu.
+Овде је важна ствар да разумете ову нову технологију на општи начин, тако да се надамо да ћете уживати у овом курсу и да ћете наставити да напредујете у овој новој глобалној монетарној парадигми.
 
-## Праисторија Биткоина
+## Праисторија биткоина
 
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
 
-Pre nego što je termin "Bitcoin" postao sinonim za digitalnu valutu i finansijsku transformaciju, osnova za njegovo stvaranje postavljena je kroz niz ideja, inovacija i društvenih pokreta. Među njima, pokret cypherpunk se ističe kao ključni element u preistoriji Bitcoina.
+Пре него што је термин „Битцоин“ постао синоним за дигиталну валуту и ​​финансијску трансформацију, темељ за његово стварање постављен је низом идеја, иновација и друштвених покрета. Међу њима, ципхерпунк покрет се истиче као кључни елемент у праисторији биткоина.
 
-### Cypherpunks: vizionari digitalnog sveta
+### Ципхерпункс: визионари дигиталног света
 
 ![image](assets/en/03.webp)
 
-У срцу технолошке еволуције 1980-их и 1990-их, група људи је почела да дубоко препиткује улогу приватности и слободе у дигиталном добу. Ови појединци, који би касније били познати као "сајферпанкс", чврсто су веровали да криптографија може служити као алат за заштиту индивидуалних права против умешаности влада и великих корпорација.
+У срцу технолошке еволуције 1980-их и 1990-их, група људи почела је да дубоко преиспитује улогу приватности и слободе у дигиталном добу. Ови појединци, који ће касније бити познати као „шиферпанкери“, чврсто су веровали да криптографија може послужити као алат за заштиту индивидуалних права од мешања влада и великих корпорација.
 
-Ikonične ličnosti poput Julian Assange, Wei Dai, Tim May i David Chaum odigrale su ključnu ulogu u oblikovanju filozofije i vizije pokreta. Ovi mislioci su delili svoje ideje na uticajnoj mailing listi, gde su učesnici iz celog sveta učestvovali u debatama o najboljim načinima za iskorišćavanje tehnologije za veću individualnu slobodu.
+Иконичне личности као што су Џулијан Асанж, Веи Даи, Тим Меј и Дејвид Чаум одиграле су кључну улогу у обликовању филозофије и визије покрета. Ови мислиоци су поделили своје идеје на утицајној мејлинг листи, где су учесници из целог света учествовали у дебатама о најбољим начинима да се технологија искористи за већу индивидуалну слободу.
 
-### Tri osnovna rada Cypherpunksa
+### Три основна документа Ципхерпункс-а
 
 ![image](assets/en/04.webp)
 
-Pokret cypherpunk, duboko ukorenjen u digitalni aktivizam i kriptografiju, oslanjao se na nekoliko osnovnih tekstova da bi artikulisao svoje principe i viziju za budućnost. Među ovim spisima, tri se posebno ističu:
+Шиферпанк покрет, дубоко укорењен у дигиталном активизму и криптографији, ослањао се на неколико темељних текстова да би артикулисао своје принципе и визију будућности. Међу овим списима посебно се истичу три:
 
 
-- "Cypherpunk Manifesto":
+- "Манифест Ципхерпунк":
 
-napisao Eric Hughes 1993. godine, "Cypherpunk Manifesto" tvrdi da je privatnost osnovno pravo. Autor tvrdi da je sposobnost slobodne i poverljive komunikacije neophodna za slobodno društvo. Manifest kaže: "Ne možemo očekivati da će nam vlade, korporacije ili druge velike, bezlične organizacije dati privatnost [...]. Moramo braniti našu privatnost ako očekujemo da je imamo".
-
-
-- "Manifest Kripto-Anarhista":
-
-написано од стране Тимотија Ц. Меја 1992. године, овај документ објашњава како употреба криптографије може довести до ере криптографске анархије у којој би владе биле беспомоћне да се мешају у приватне послове грађана. Меј је предвидео будућност у којој људи анонимно размењују информације и новац без интервенције треће стране.
+који је написао Ерик Хјуз 1993. године, „Манифест Ципхерпунк“ тврди да је приватност основно право. Аутор тврди да је способност слободног и поверљивог комуницирања од суштинског значаја за слободно друштво. У манифесту се каже: „Не можемо очекивати да нам владе, корпорације или друге велике, безличне организације дају приватност [...]. Морамо бранити сопствену приватност ако очекујемо да је имамо“.
 
 
-- "Декларација о независности киберпростора":
+- "Крипто-анархистички манифест":
 
-iako nije isključivo sajferpank, ovaj tekst odražava osećanja mnogih učesnika u pokretu. Napisao ga je 1996. godine John Perry Barlow, kao odgovor na sve veću regulaciju interneta od strane vlada. Deklaracija tvrdi da je sajberprostor odvojeno područje od fizičke sfere i ne bi trebalo da podleže istim zakonima. Kako se navodi, "Nemamo izabranu vladu, niti je verovatno da ćemo je imati".
+који је написао Тимотхи Ц. Маи 1992. године, овај документ објашњава како би употреба криптографије могла довести до ере криптографске анархије у којој би владе биле немоћне да се мијешају у приватне послове грађана. Меј је замислила будућност у којој људи анонимно размењују информације и новац без интервенције треће стране.
 
-### Претходници Биткоина
 
-Pre pojave Bitcoina, bilo je nekoliko pokušaja da se stvori digitalna valuta. Na primer, David Chaum je predstavio koncept "anonimnog elektronskog novca" sa svojim projektom "DigiCash" u 1980-im. Nažalost, zbog raznih ograničenja, DigiCash nikada nije procvetao.
+- „Декларација о независности сајбер простора“:
 
-Još jedan važan prethodnik je Wei Dai-jev "B-novac". Iako nikada nije implementiran, predstavio je ideju anonimne digitalne valute gde se detekcija prevare vrši od strane zajednice procenitelja, a ne centralne vlasti.
+иако не искључиво ципхерпунк, овај текст одражава осећања многих учесника покрета. Написао 1996. године Џон Пери Барлоу, то је одговор на све већу регулацију интернета од стране влада. Декларација тврди да је сајбер простор различито подручје од физичке сфере и да не би требало да буде подложан истим законима. Како се наводи, "немамо изабрану владу, нити ћемо је имати".
 
-Слика испод јасно илуструје развој покрета кроз своје бројне технолошке иновације.
+### Претходници Битцоин-а
+
+Пре појаве Битцоин-а, било је неколико покушаја да се створи дигитална валута. На пример, Дејвид Чаум је увео концепт „анонимног електронског новца” својим пројектом „ДигиЦасх” 1980-их. Нажалост, због разних ограничења, ДигиЦасх никада није процветао.
+
+Још један важан претходник је Веи Даиов "Б-новац". Иако никада није имплементиран, представио је идеју о анонимној дигиталној валути у којој је откривање преваре вршила заједница евалуатора, а не централна власт.
+
+Слика испод јасно илуструје развој покрета кроз његове бројне технолошке иновације.
 
 ![image](assets/en/05.webp)
 
-Upravo je u ovom plodnom okruženju misteriozni Satoshi Nakamoto objavio Bitcoin belu knjigu 2008. godine. U ovom dokumentu, on je kombinovao nekoliko ideja iz cypherpunk pokreta, kao što su dokaz o radu i kriptografski vremenski pečati, da bi stvorio decentralizovanu i otpornu na cenzuru digitalnu valutu.
+У овом плодном окружењу је мистериозни Сатоши Накамото објавио биткоин белу књигу 2008. У овом документу је комбиновао неколико идеја из покрета ципхерпунк, као што су доказ о раду и криптографске временске ознаке, како би створио децентрализовану дигиталну валуту отпорну на цензуру.
 
-Međutim, Bitcoin je bio više od toga: predstavljao je ostvarenje ideala kriptoanarhista. Osim svoje tehnologije, simbolizovao je revoluciju protiv tradicionalnih finansijskih sistema i ponudio alternativu zasnovanu na transparentnosti, decentralizaciji i individualnom suverenitetu.
+Међутим, Битцоин је био више од тога: представљао је достигнуће ципхерпунк идеала. Поред своје технологије, симболизовао је револуцију против традиционалних финансијских система и понудио алтернативу засновану на транспарентности, децентрализацији и индивидуалном суверенитету.
 
-### Zaključak
+### Закључак
 
-Praistorija Bitcoina duboko je ukorenjena u pokretu cypherpunk i kolektivnoj potrazi za većom slobodom u digitalnom dobu. Kombinovanjem principa kriptografije, decentralizacije i integriteta, Bitcoin je postao mnogo više od valute. Zapravo, on je proizvod filozofske i tehnološke revolucije koja nastavlja da preoblikuje naš svet.
+Праисторија Битцоин је дубоко укорењена у ципхерпунк покрету и колективној потрази за већом слободом у дигиталном добу. Комбинујући принципе криптографије, децентрализације и интегритета, Битцоин је постао много више од валуте. У ствари, то је производ филозофске и технолошке револуције која наставља да преобликује наш свет.
 
-Stoga, Bitcoin je protokol koji se proteže kroz duge vremenske periode, i podstiče nas da preispitamo naš odnos sa energijom, vremenom i novcem.
+Према томе, Битцоин је протокол који се протеже на дуге периоде и подстиче нас да преиспитамо наш однос са енергијом, временом и новцем.
 
-Međutim, da li je Bitcoin "prava" valuta? Da bismo to razumeli, prvo moramo da razumemo koncept novca i njegove različite oblike, koje ćemo istražiti u sledećem poglavlju.
+Међутим, да ли је Битцоин "права" валута? Да бисмо ово разумели, прво треба да разумемо појам новца и његове различите облике, које ћемо истражити у следећем поглављу.
 
-Ako želite da istražite istoriju Bitcoina u više detalja, toplo preporučujemo naš HIS 201 kurs, gde ćete otkriti poreklo i sporu pojavu Bitcoina, kao i početke njegove istorije i zajednice. Ovaj kurs je potpuno dokumentovan i izvoran, sa, naravno, mnogo anegdota:
+Ако желите да истражите историју Битцоин-а детаљније, топло препоручујемо наш ХИС 201 курс, где ћете открити порекло и споро настајање Битцоин-а, као и почетке његове историје и заједнице. Овај курс је у потпуности документован и извор, са, наравно, много анегдота:
 
 https://planb.network/courses/a51c7ceb-e079-4ac3-bf69-6700b985a082
-# Novac
+# Новац
 
 <partId>e913df1a-4cbd-5380-ba67-ca2a0414f671</partId>
 
-## Novac kroz istoriju
+## Новац кроз историју
 
 <chapterId>c838e64d-d59f-5703-8c74-ea5e8c4fdd31</chapterId>
 
-Evolucija novca je fascinantni aspekt ljudske istorije koji odražava inventivnost civilizacija kroz vekove u zadovoljavanju stalno evoluirajućih ekonomskih potreba.
+Еволуција новца је фасцинантан аспект људске историје који одражава генијалност цивилизација током векова у испуњавању економских потреба које се стално развијају.
 
 ![image](assets/en/06.webp)
 
-### Од шкољки до банкарских рачуна
+### Од шкољака до банковних рачуна
 
-Originalno, valuta je bila opipljiva imovina, poput žitarica, stoke ili neke druge robe. Međutim, ova dobra su imala veliki nedostatak jer su bila kvarljiva, što je otežavalo njihovu upotrebu kao sredstva za dugoročnu štednju. Na primer, loši prinosi ili bolest životinja mogli su preko noći uništiti bogatstvo pojedinca.
+У почетку, валута је била материјална имовина, као што су жито, стока или друга роба. Међутим, ова роба је имала главни недостатак што је била кварљива, што је отежавало коришћење као средство за дугорочну штедњу. На пример, лоша жетва или болест животиња могу уништити богатство појединца преко ноћи.
 
-Dakle, kako su civilizacije napredovale i trgovina se proširila na nove regije, pojavila se potreba za univerzalnim sredstvom razmene. Pojedinci su prvo eksperimentisali sa predmetima poput školjki i dragog kamenja, ali nisu bili tako izdržljivi ili retki kao što su verovali. Na kraju, zlato je postalo standard, zbog svoje retkosti, izdržljivosti i deljivosti. Bilo je, i ostaje do danas, simbol bogatstva i moći.
+Дакле, како су цивилизације напредовале и трговина се ширила на нове регионе, појавила се потреба за универзалним средством размене. Појединци су прво експериментисали са предметима као што су шкољке и драго камење, али они нису били тако издржљиви или оскудни као што су веровали. На крају, злато је постало стандард, због своје реткости, издржљивости и дељивости. Био је, и остао до данас, симбол богатства и моћи.
 
 ![image](assets/en/07.webp)
 
 ### Која је улога новца?
 
-Novac je izuzetno sofisticiran alat za komunikaciju:
+Новац је веома софистицирано средство комуникације:
 
 
-- Омогућава комуникацију између садашњости и будућности, јер претвара наше време и енергију у средство које се може поново користити у будућем времену без ризика од девалвације.
-- Omoгućava komunikaciju na univerzalnom jeziku: bez poznavanja jedno drugog ili govorenja istim jezikom, dva stranca mogu razmenjivati, trgovati i složiti se o vrednosti stvari.
+- Омогућава комуникацију између садашњости и будућности, јер претвара наше време и енергију у имовину која се може поново користити у времену које долази без ризика од девалвације.
+- Олакшава комуникацију на универзалном језику: без познавања или говорења истог језика, два странца могу да размењују, тргују и слажу се о вредности ствари.
 
-Njegova funkcija u našem svetu je teško veštački replicirati. Zapravo, nijedan pojedinac ili grupa ne može stvoriti novac, jer je to prirodna pojava koja mora proizaći iz tržišta i dobrovoljnog konsenzusa. U tom smislu, cene služe kao signali i delovi informacija koji usmeravaju društvo u raspodeli resursa.
+Његову функцију у нашем свету је тешко вештачки поновити. У ствари, ниједан појединац или група не може да ствара новац, јер је то природна појава која мора произаћи из тржишта и добровољног консензуса. У том смислу, цене служе као сигнали и информације које усмеравају друштво у расподели ресурса.
 
-Iz ovih razloga, zlato kao novac je rezultat 4.000 godina monetarnog darvinizma na osnovu sledećih Aristotelovih funkcija:
+Из ових разлога, злато као новац је резултат 4.000 година монетарног дарвинизма заснованог на следећим Аристотеловским функцијама:
 
 
-- Čuvanje vrednosti**: novac se može koristiti za prenos kupovne moći u budućnost, stoga mora biti izdržljiv materijal;
-- Средство размене**: новац се може користити у размени за робу и услуге уместо трговања, избегавајући тако совпадање жеља између трговаца;
-- Јединица рачуноводства**: новац нам такође омогућава да упоредимо вредности различитих добара како бисмо боље разумели њихову релативну погодност.
+- Складиште вредности**: новац се може користити за пренос куповне моћи у будућност, тако да мора да буде издржљив материјал;
+- Медијум размене**: новац се може користити у замену за робу и услуге уместо размене, чиме се избегава подударност жеља између трговаца;
+- Обрачунска јединица**: новац нам такође омогућава да упоредимо вредности различитих добара да бисмо боље разумели њихову релативну погодност.
 
 ![image](assets/en/08.webp)
 
@@ -190,103 +190,103 @@ Iz ovih razloga, zlato kao novac je rezultat 4.000 godina monetarnog darvinizma 
 
 ### Карактеристике новца
 
-Zlato idealno ispunjava kriterijume efikasne valute: njegova prirodna retkost ga čini vrednim, dok njegova hemijska svojstva osiguravaju da ne erodira tokom vremena. Ove karakteristike su učinile zlato odličnom **čuvarom vrednosti**, ali ne i uobičajenom valutom, jer se ovaj oblik novca ne može lako deliti ili prenositi na velike udaljenosti. U globalizovanom i digitalnom svetu, zlato se bori da drži korak i zahteva centralnu entitetu da bi ga učinilo deljivim i lako razmenjivim (npr. kroz kovane novčiće).
+Злато идеално испуњава критеријуме ефикасне валуте: његова природна реткост чини га вредним, док његова хемијска својства осигуравају да се не еродира током времена. Ове карактеристике су учиниле злато одличном **складиштем вредности**, али не и уобичајеном валутом, јер овај облик новца није лако дељив или преносив на велике удаљености. У глобализованом и дигиталном свету, злато се бори да одржи корак и захтева централни ентитет да га учини дељивим и лако заменљивим (тј. путем ковања новчића).
 
-С друге стране, државне фидуцијарне валуте (фиат) су лако употребљиве, али их стално девалвирају ентитети који их контролишу (краљеви, централне банке, цареви, диктатори).
+Насупрот томе, државне фидуцијарне валуте (фијат) су лако употребљиве, али их ентитети који их контролишу (краљеви, централне банке, цареви, диктатори) стално обезвређује.
 
-Da bismo bolje objasnili ovaj koncept, istražićemo karakteristike efikasne valute:
+Да бисмо боље објаснили овај концепт, истражићемо карактеристике ефективне валуте:
 
 ![image](assets/en/11.webp)
 
 
-- Fungibilnost**, što znači da je zamjenjiva s drugom jedinicom iste vrste bez gubitka vrednosti;
-- Deljivost**, pošto se može podeliti na manje jedinice kako bi se olakšale transakcije različitih obima;
-- Likvidnost**, što znači da se lako može pretvoriti u robe ili usluge.
+- Заменљивост**, што значи да је заменљива са другом јединицом исте врсте без губитка вредности;
+- Дељивост**, јер се може поделити на мање јединице како би се олакшале трансакције различитих обима;
+- Ликвидност**, што значи да се лако може претворити у робу или услуге.
 
-Da bi ispunio ove kriterijume, novac je istorijski evoluirao preduzimajući različite korake:
+Да би испунила ове критеријуме, валута је историјски еволуирала предузимањем различитих корака:
 
 
-- Sirovi kamen -> Novčić
-- Banknota -> Bankarska kartica
-- Blockchain -> Lightning Network
+- Сирови камен -> Новчић
+- Новчаница -> Банковна картица
+- Блоцкцхаин -> Лигхтнинг Нетворк
 
-Valute se i dalje razvijaju do današnjeg dana, prilagođavajući svoje oblike da bi zadovoljile različite slučajeve upotrebe. Kao što smo rekli, iako je zlato odlično sredstvo za čuvanje vrednosti, više nije pogodno za trenutnu globalizovanu ekonomiju. Slično tome, fiducijarne valute poput dolara i eura su vrlo likvidne i lako prenosive jer su sada uglavnom digitalne, ali njihova vrednost se stalno smanjuje monetarnom inflacijom.
+Валуте се и даље развијају до данас, прилагођавајући своје облике различитим случајевима употребе. Као што смо рекли, иако је злато одлично средство за складиштење вредности, оно више није погодно за тренутну глобализовану економију. Слично томе, фидуцијарне валуте као што су долар и евро су веома ликвидне и лако преносиве јер су сада углавном дигиталне, али им се вредност константно смањује монетарном инфлацијом.
 
-S druge strane, Bitcoin predstavlja nove mogućnosti. Njegove osobine, kao što je strogo ograničena ponuda, čine ga izvrsnom vrednošću za čuvanje. Štaviše, kao neutralna internet valuta, služi kao održivo **sredstvo razmene** koje prevazilazi granice. Međutim, i dalje nije široko prihvaćen u trgovini danas, uprkos njegovom [stalnom usvajanju](https://btcmap.org/map).
+С друге стране, Битцоин представља нове могућности. Његова својства, као што је стриктно ограничена понуда, чине га одличним залогом вредности. Штавише, као неутрална интернет валута, служи као одржив **медиј за размену** који превазилази границе. Међутим, данас још увек није широко прихваћен у трговини, упркос његовом [сталном усвајању] (хттпс://бтцмап.орг/мап).
 
-## Fiducijarne valute
+## Фидуцијарне валуте
 
 <chapterId>25151d46-7db1-5b48-8bba-cbde1944555a</chapterId>
 
-> "Oni koji ne mogu da se sete prošlosti osuđeni su da je ponavljaju" rekao je George Santayana.
-Истина која резонира звучно када је у питању тренутни монетарни систем.
+> „Они који не могу да се сете прошлости осуђени су да је понављају“, рекао је Џорџ Сантајана.
+Истина која добро одјекује када је у питању садашњи монетарни систем.
 
-### Fiduciary = Poverenik
+### Фидуцијар = поверење
 
-Danas, glavne valute kao što su Euro i Dolar smatraju se fiducijarnim. To znači da nemaju intrinsičnu vrednost i potpuno zavise od poverenja i sigurnosti koju polažemo u institucije koje ih upravljaju.
+Данас се главне валуте као што су евро и долар сматрају фидуцијарним. То значи да им недостаје суштинска вредност и да у потпуности зависе од поверења које имамо у институције које њима управљају.
 
-Fiducijarna valuta je oblik novca koji je dekretiran kao takav od strane institucije, tj. države, poput Kine sa Juanom, ili političko-ekonomske unije, kao što je Evropska Unija sa Eurom. Entitet zadužen za njeno izdavanje je centralna banka (Na primer, možemo pomenuti Narodnu banku Kine, Federalnu rezervu Sjedinjenih Država, ili Centralnu banku Republike Gvineje). Upravo su ove entitete zadužene za formulisanje monetarne politike i stoga koliko novca treba staviti u opticaj ili štampati.
+Фидуцијарна валута је облик новца који као такав одређује институција, односно држава, попут Кине са јуаном, или политичко-економска унија, као што је Европска унија са евром. Субјект задужен за његово издавање је централна банка (на пример, можемо поменути Народну банку Кине, Федералне резерве Сједињених Држава или Централну банку Републике Гвинеје). Управо су ти субјекти задужени за формулисање монетарне политике и самим тим колико новца треба ставити у оптицај или штампати.
 
 ![image](assets/en/12.webp)
 
-### Девалвација валуте: стратегија стара колико и Римско царство
+### Монетарна девалвација: стратегија стара колико и Римско царство
 
-Još od antike, zlato je služilo kao monetarna referenca, ali njegova rigidnost je često navodila lidere, bilo da su to rimski carevi ili moderni vlade, da usvajaju alternativne valute, često fiducijarne.
+Од антике, злато је служило као монетарна референца, али његова ригидност је често доводила лидере, било римске цареве или модерне владе, да усвоје алтернативне валуте, често фидуцијарне.
 
-Mehanizam je jednostavan i inspirisan je praksama koje postoje od početka civilizacije. Lideri, željni da ostvare kontrolu nad bogatstvom, počinju centralizacijom zlata, često iskorišćavajući svoju moć i obećavajući zaštitu i sigurnost. Sa ovom dragocenom rezervom u svojim rukama, oni uvode novu valutu, ekvivalentnu u vrednosti zlatu, ali kovanu u njihovom liku. Ova valuta tada počinje da cirkuliše, i ljudi se brzo prilagođavaju praktičnosti njene jednostavne upotrebe.
+Механизам је једноставан и инспирисан је праксама које постоје од настанка цивилизације. Лидери, жељни контроле над богатством, почињу централизацијом злата, често искоришћавајући своју моћ и обећавајући заштиту и сигурност. Са овом драгоценом резервом у својим рукама, они уводе нову валуту, еквивалентну по вредности злату, али исковану на њиховом лику. Ова валута тада почиње да циркулише и људи се брзо прилагођавају погодностима њене једноставне употребе.
 
-Međutim, ovi lideri potom počinju da devalviraju novu valutu na postepeni način, de facto smanjujući njenu vrednost za nekoliko procenata svake godine u poređenju sa početnom zlatnom cenom. Ova tiha devalvacija često se opravdava kao da je u interesu naroda. U stvarnosti, oni koji štede u ovoj fiducijarnoj valuti vide kako vrednost njihove štednje erodira, dok država finansira svoje projekte kroz inflaciju. Štaviše, ova devalvacija olakšava otplatu duga.
+Међутим, ови лидери тада почињу постепено да девалвирају нову валуту, де фацто смањујући њену вредност за неколико процената сваке године у поређењу са почетном ценом злата. Ова тиха девалвација се често оправдава да је у интересу народа. У стварности, они који штеде у овој фидуцијарној валути виде да им се вредност штедње смањује, док држава своје пројекте финансира кроз инфлацију. Штавише, ова девалвација олакшава отплату дуга.
 
 ![image](assets/en/13.webp)
 
-U kritičnom trenutku, lider pravi objavu: valuta više nije podržana zlatom. Javnost, sada naviknuta na fiducijarnu valutu i često pogrešno informisana o finansijskim pitanjima, prihvata ovu realnost, omogućavajući državi da slobodno manipuliše novčanom masom i štampa ogromne sume novca gotovo bez troškova.
+У критичном тренутку, лидер објављује: валута више није подржана златом. Јавност, која је сада навикла на фидуцијарну валуту и ​​често погрешно информисана о финансијским стварима, прихвата ову реалност, дозвољавајући држави да слободно манипулише новчаном масом и штампа огромне суме новца без икаквих трошкова.
 
-Štampanje novca zatim dovodi do inflacije i postepeno osiromašuje stanovništvo. Pored toga, finansijski sistem je regulisan i ograničen kako bi se izbegao njegov kolaps, jer bi bilo kakav poremećaj mogao izazvati veliku ekonomsku krizu. Suprotno masama, finansijske institucije i bogati pojedinci izuzetno profitiraju od ovog sistema, što stvara jaz nejednakosti i favorizuje autoritarizam. U ovom kontekstu, oni nisu motivisani da prave radikalne promene, dozvoljavajući sistemu da nastavi svoj tok do moguće implozije.
+Монетарно штампање тада доводи до инфлације и постепено осиромашује становништво. Осим тога, финансијски систем је регулисан и ограничен како би се избегао његов колапс, јер би сваки поремећај могао да изазове велику економску кризу. За разлику од маса, финансијске институције и богати појединци имају велике користи од овог система, који ствара јаз неједнакости и фаворизује ауторитаризам. У том контексту, они нису подстакнути на радикалне промене, дозвољавајући систему да настави својим током до могуће имплозије.
 
-Kada je dobro sprovedena, ova strategija može trajati decenijama. Međutim, važno je napomenuti da vrlo brza devalvacija ili gubitak poverenja mogu dovesti do hiperinflacije (videti sledeće poglavlje). Istorija pokazuje da je dolar izgubio 98% svoje vrednosti za 100 godina, evro 30% za 20 godina, a funta sterlinga 99% od svog nastanka.
+Када се добро спроведе, ова стратегија може трајати деценијама. Међутим, важно је напоменути да веома брза девалвација или губитак поверења може довести до хиперинфлације (види следеће поглавље). Историја показује да је долар изгубио 98% вредности за 100 година, евро 30% за 20 година, а фунта 99% од свог настанка.
 
-На крају, валута можда више неће имати никакву везу са златом, слично римским новчићима на крају Империје, или чак бити сведена на једноставну нумеричку вредност, одвојену од опипљиве стварности.
+На крају, валута можда више нема никакве везе са златом, слично римским новчићима на крају Царства, или чак може бити сведена на једноставну бројчану вредност, одвојену од опипљиве стварности.
 
-Danas, svedoci smo istorijske prekretnice. Dolar, koji je dugo dominirao, izgleda da je u padu, dok je zlato izgubilo svoju centralnu ulogu. Nalazimo se na pragu novog monetarnog ciklusa, podsećajući nas da se lekcije iz istorije često zaboravljaju.
+Данас смо сведоци историјског преокрета. Чини се да је долар, који је дуго доминирао, у паду, док је злато изгубило централну улогу. Стојимо на прагу новог монетарног циклуса, подсећајући нас да се лекције историје често заборављају
 
 ![image](assets/en/14.webp)
 
-### Да ли је Биткоин решење?
+### Да ли је Битцоин решење?
 
-Zbog ovih pretpostavki, revolucija Bitcoina dobija na zamahu. Za razliku od prethodnih valuta, ne zahteva **pouzdanu treću stranu** i cilja na odvajanje države od novca.
+Због ових премиса, Битцоин револуција добија на замаху. За разлику од претходних валута, он не захтева **нема поверљиве треће стране** и има за циљ да одвоји државу од новца.
 
 ![image](assets/en/15.webp)
 
-Zapravo, Bitcoin se predstavlja kao odgovor na ove sistematske izazove predlažući decentralizovano rešenje i novi paralelni monetarni sistem. Istorijiski, ako je zlato bilo favorizovano kao valuta zbog svoje otpornosti na falsifikovanje, Bitcoin takođe ne može biti falsifikovan. Štaviše, ograničen je na 21 milion jedinica, zahvaljujući svojoj decentralizovanoj i kriptografskoj prirodi. Bitcoin je valuta koja se oslanja na transparentnost i neutralnost, nudeći atraktivnu alternativu trenutnom centralizovanom monetarnom sistemu.
+У ствари, Битцоин се представља као одговор на ове системске изазове предлажући децентрализовано решење и нови паралелни монетарни систем. Историјски гледано, ако је злато фаворизовано као валута због његове отпорности на фалсификовање, Битцоин се на сличан начин не може фалсификовати. Штавише, ограничен је на 21 милион јединица, захваљујући својој децентрализованој и криптографској природи. Битцоин је валута која се ослања на транспарентност и неутралност, нудећи атрактивну алтернативу тренутном централизованом монетарном систему.
 
 ![image](assets/en/16.webp)
 
-Još jedan razlog zašto je Bitcoin privukao pažnju je pojava digitalnih valuta centralnih banaka, ili CBDC-a, što izgleda neizbežno. Ovaj novi oblik novca bi razvio ekonomiju koja je centralno planirana, i mogao bi i ometati finansijsku slobodu pojedinaca i olakšati autoritarne zloupotrebe.
+Други разлог зашто је Битцоин привукао пажњу је појава дигиталних валута централне банке, или ЦБДЦ, што се чини неизбежним. Овај нови облик новца би развио више централно планирану економију, и могао би да омета финансијску слободу појединаца и да олакша ауторитарне злоупотребе.
 
-Можемо закључити ово поглавље са цитатом добитника Нобелове награде Ф.А. Хајека из 1984:
+Ово поглавље можемо закључити цитатом добитника Нобелове награде Ф. А. Хајека из 1984. године:
 
-> "Не verujem da ćemo ikada ponovo imati dobar novac, pre nego što to izvučemo iz ruku vlade. Ako ne možemo nasilno da ih izvučemo iz ruku vlade, sve što možemo da uradimo je na neki lukav ili zaobilazan način da uvedemo nešto što ne mogu da zaustave."
-Da biste saznali više o ekonomskim zabludama i slobodi, pozivamo vas da otkrijete naš kurs ECO 102, koji prati život i ideje Frédérica Bastiata, francuskog mislioca iz 19. veka koji bi sigurno cenio pojavu Bitcoina:
+> "Не верујем да би икада више требало да имамо добар новац, пре него што ствар узмемо из руку власти. Ако не можемо насилно да их узмемо из руку власти, све што можемо да урадимо је да на неки лукав или заобилазни начин уведемо нешто што не могу да зауставе."
+Да бисте сазнали више о економским заблудама и слободи, позивамо вас да откријете наш ЕЦО 102 курс, који прати живот и идеје Фредерика Бастија, француског мислиоца из 19. века који би сигурно ценио појаву биткоина:
 
 https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 ## Хиперинфлација
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
 
-Hiperinflacija je monetarni fenomen koji je specifičan za fiat valute: karakteriše ga potpuni gubitak poverenja u valutu i drastičan porast inflacije zbog štampanja novca od strane vlasti. Kao rezultat, štednja koju su pojedinci akumulirali može nestati u relativno kratkom vremenskom periodu, gurajući zemlju na ivicu ekonomske, socijalne i političke propasti.
+Хиперинфлација је монетарни феномен који је специфичан за фиат валуте: карактерише је потпуни губитак поверења у валуту и ​​драстичан пораст инфлације услед штампања новца од стране власти. Као резултат тога, уштеђевине које су акумулирали појединци могу се распршити у релативно кратком временском периоду, гурајући земљу на ивицу економског, социјалног и политичког колапса.
 
-### Inflacija divlja!
+### Инфлација дивља!
 
-Da bismo razumeli uticaj inflacije na štednju, moramo uzeti u obzir različite stope inflacije.
+Да бисмо разумели утицај инфлације на штедњу, морамо узети у обзир различите стопе инфлације.
 
 
-- Sa inflacijom od 2%, svake godine gubite 2% svoje kupovne moći, što iznosi 10% tokom 5 godina.
-- Sa 7%, izgubite polovinu toga za 10 godina.
-- Са 20%, губите скоро половину тога за 3 године.
+- Са инфлацијом од 2% губите 2% своје куповне моћи годишње, што износи 10% током 5 година.
+- Са 7% губите половину за 10 година.
+- Са 20% губите скоро половину за 3 године.
 
-Kada dođe do hiperinflacije, više ne govorimo o 20% godišnje, već o 20% mesečno ili, u vrhuncu, čak dnevno. Doživljavanje 100% inflacije dnevno tokom tri dana je realističan scenario koji se dogodio i nastavlja da se dešava u našem svetu.
+Када дође до хиперинфлације, више не говоримо о 20% годишње, већ о 20% месечно или, на свом врхунцу, чак и по ДАНУ. Доживети инфлацију од 100% дневно током три дана је реалан сценарио који се догодио и наставља да се дешава у нашем свету.
 
-Кључно је разумети да хиперинфлација не настаје случајно, капитализмом или политичким нападима противника. Хиперинфлација је директна последица лоших монетарних одлука које доносе централни банкари и политичари. Њене последице погађају сваког грађанина и чак утичу на следеће генерације. Љубазно вас позивамо да проведете пет минута читајући следећу табелу да бисте у потпуности освестили стварни утицај овог феномена (курс ECO204 даље се упушта у ову тему). Као што можете видети, ниједна земља или валута нису потенцијално безбедне.
+Кључно је схватити да се хиперинфлација не дешава случајно, капитализмом или политичким нападима противника. Хиперинфлација је директна последица лоших монетарних одлука централних банкара и политичара. Његове последице утичу на сваког грађанина, па чак и на следеће генерације. Љубазно вас позивамо да одвојите пет минута читајући следећу табелу како бисте у потпуности схватили стварни утицај овог феномена (курс ЕЦО204 даље се бави овом темом). Као што видите, ниједна земља или валута није потенцијално безбедна.
 
 ![image](assets/en/17.webp)
 
@@ -294,171 +294,171 @@ Kada dođe do hiperinflacije, više ne govorimo o 20% godišnje, već o 20% mese
 
 ![image](assets/en/18.webp)
 
-Da bi došlo do hiperinflacije, određeni događaji moraju se odviti.
+Да би дошло до хиперинфлације, морају се десити одређени догађаји.
 
-Faza 1 - Gubitak poverenja
-
-
-- Централизација монетарне моћи олакшава стварање новца и његове злоупотребе. У овом контексту, неки спољни фактори могу покренути хиперинфлацију, обично ратови, социјалне мере или повећање цена кључних ресурса као што су пшеница или бензин. Стога, може доћи до губитка поверења у валуту, и појединци почињу да препиткују порекло новца и предности наметнуте монетарне политике.
-
-Фаза 2 - Колапс валуте и повећање цена
+Фаза 1 – Губитак самопоуздања
 
 
-- Kako vlade gube kontrolu nad poverenjem, pojedinci počinju da menjaju svoju valutu za stabilniju, kao što se desilo u Venecueli sa američkim dolarom. Ova okolnost dovodi do porasta cena, stvarajući zlu petlju u kojoj roba i usluge postaju sve skuplje. Da bi zadovoljila ove potrebe i ispravila monetarnu politiku, država štampa više novca, što rezultira eksponencijalnom inflacijom.
+- Централизација монетарне моћи олакшава стварање новца и његове злоупотребе. У овом контексту, неки спољни фактори могу изазвати хиперинфлацију, обично ратови, социјалне мере или повећање цена кључних ресурса попут пшенице или бензина. Тако може доћи до губитка поверења у валуту, а појединци почну да доводе у питање порекло новца и предности обавезне монетарне политике.
 
-Faza 3 - Zli krug štampanja novca
+Фаза 2 - Колапс валуте и раст цена
 
 
-- Dakle, sve više novčanica je potrebno za kupovinu robe, što rezultira oskudicom papirnog novca. Kao odgovor, vlade pribegavaju štampanju više novčanica, što dodatno podstiče inflaciju.
+- Како владе губе контролу над поверењем, појединци почињу да мењају своју валуту за стабилнију, као што се десило у Венецуели са америчким доларом. Ова околност доводи до раста цена, стварајући зачарани круг у коме роба и услуге постају све скупље. Да би задовољила ове потребе и кориговала монетарну политику, држава штампа више новца, што резултира експоненцијалном инфлацијом.
+
+Фаза 3 - Зачарани круг штампања новца
+
+
+- Стога је за куповину робе потребно све више рачуна, што резултира оскудицом папирног новца. Као одговор, владе прибегавају штампању више рачуна, што додатно подстиче инфлацију.
 
 ![image](assets/en/19.webp)
 
 Фаза 4 - Појава нове валуте
 
 
-- Nova valuta se zatim uvodi da bi zamenila staru, kako bi se prekinuo ciklus inflacije implementacijom strožijih kontrola koje nisu bile na mestu sa prethodnim zakonskim sredstvom plaćanja.
+- Затим се уводи нова валута која би заменила стару, како би се прекинуо циклус инфлације применом строжих контрола које нису постојале са претходним законским средством плаћања.
 
-Rešavanje krize hiperinflacije često zahteva radikalne promene, kao što su revolucije, promene vlade, promene centralnih bankara, među ostalima. Gubitak poverenja, kolaps valute i rekonstrukcija su esencijalne faze za oživljavanje ekonomije zasnovane na fiducijarnoj valuti.
+Решавање хиперинфлационе кризе често захтева радикалне промене, као што су револуције, смене владе, промене централних банака, између осталог. Губитак поверења, колапс валуте и реконструкција су суштинске фазе за оживљавање економије засноване на фиат валути.
 
-### Три знаменита примера
+### Три значајна примера
 
 
-- Nemačka, 1922-1923.
+- Немачка, 1922-1923.
 
-Jedan od najupečatljivijih primera hiperinflacije dogodio se u Nemačkoj Vajmarskoj Republici nakon Prvog svetskog rata.
+Један од најупечатљивијих примера хиперинфлације догодио се у Немачкој Вајмарској републици после Првог светског рата.
 
-Nemačka je pozajmila ogromne količine novca za finansiranje rata. Međutim, Nemačka nije samo izgubila rat, već je morala da plati milijarde dolara na ime reparacija. Mesec sa najvišom stopom inflacije bio je oktobar 1923. godine, kada je dostigla vrhunac od 29,500%, što je bilo jednako stopi inflacije od 20.9% dnevno. Cene su se udvostručavale svakih 3.7 dana!
+Немачка је позајмила огромне количине новца за финансирање рата. Међутим, не само да га је Немачка изгубила, већ је морала да плати милијарде долара репарације. Месец са највећом стопом инфлације био је октобар 1923. године, са максимумом од 29.500%, што је било једнако стопи инфлације од 20,9% дневно. Цене су се удвостручиле сваких 3,7 дана!
 
-Nemačka valuta postala je toliko beskorisna da su neki građani radije palili svoj papirni novac umesto drva jer je zapravo bilo jeftinije. Čak se priča da su u restoranima, konobari morali da objavljuju cene menija svakih 30 minuta da bi se prilagodili inflaciji.
+Немачка валута је постала толико бескорисна да су неки грађани радије спаљивали свој папирни новац уместо дрва јер је заправо био јефтинији. Чак се прича да су у ресторанима конобари морали да објављују цене јеловника сваких 30 минута како би урачунали инфлацију.
 
-На крају, власти су створиле нову валуту, подржану дуговима Немачке, Француске и Енглеске, и гарантовану немачком земљом.
+На крају су власти створиле нову валуту, иза које су стајали дугови Немачке, Француске и Енглеске, а гарантована немачком земљом.
 
 ![image](assets/en/20.webp)
 
 
-- Mađarska, 1945-1946
+- Мађарска, 1945-1946
 
-Zemlja koja je do sada doživela najgori period hiperinflacije je definitivno Mađarska nakon Drugog svetskog rata.
+Земља која је доживела најгори период хиперинфлације до сада је далеко Мађарска после Другог светског рата.
 
-Mađarska se našla na gubitničkoj strani sukoba, sa većinom svog industrijskog proizvodnog kapaciteta uništenim. Mesec sa najvećom inflacijom bio je jul 1946, koji je doživeo zapanjujuću inflaciju cena od 41,900,000,000,000,000%, što je ekvivalentno 207% dnevno. Cene su se udvostručavale svakih 15 sati!
+Мађарска се нашла на губитничкој страни сукоба, са највећим делом уништених капацитета индустријске производње. Месец са највећом инфлацијом био је јул 1946, када је забележена запањујућа инфлација цена од 41.900.000.000.000.000%, што је еквивалентно 207% дневно. Цене су удвостручене сваких 15 сати!
 
-Poslednja banknota koja je puštena u opticaj bila je 100 miliona milijardi Pengo (100,000,000,000,000,000) 1946. godine.
+Последња новчаница која је пуштена у оптицај била је 100 милиона милијарди пенга (100.000.000.000.000.000) 1946. године.
 
 ![image](assets/en/21.webp)
 
 
 - Зимбабве, 2007-2008
 
-Do 2000. godine, Zimbabve je bio samodostatan za gotovo sve svoje potrebe osim za naftu.
+До 2000. године Зимбабве је био самодовољан за скоро све своје потребе осим за нафту.
 
-1997. године, зимбабвеански долар се срушио за више од 72% након што је влада прихватила да надокнади ратним ветеранима еквивалент износа од 450 милиона америчких долара. Пошто влада није имала такав износ у својим залихама, прибегла је покретању штампарице. 2005. године, инфлација је достигла 586%, али је врхунац био средином новембра 2008. године са процењеном стопом од 79,600,000,000% месечно.
+Године 1997. зимбабвеански долар је пао за преко 72% након што је влада пристала да надокнади ратним ветеранима еквивалентан износ од 450 милиона америчких долара. Пошто влада није имала толику количину у залихама, прибегла је вођењу штампарије. У 2005. години инфлација је достигла 586%, али је врхунац био средином новембра 2008. са стопом процењеном на 79.600.000.000% месечно.
 
-U junu 2007. vlada je već reagovala nametanjem kontrola cena, ali ova akcija nije imala nikakav uticaj na ekonomiju. Prodavnice su bukvalno "opljačkane", a trgovci više nisu imali sredstava da dopune svoje radnje.
+Влада је већ у јуну 2007. реаговала увођењем контроле цена, али та акција није имала никакав утицај на привреду. Продавнице су буквално „пљачкане“, а трговци више нису имали средстава да попуне своје радње.
 
-У априлу 2009. године, министар финансија је објавио суспензију Зимбабвеанског долара и ауторизовао употребу различитих страних валута за трговину. Сва банковна рачуна, пензије и финансијске институције су преко ноћи виделе како њихова салда исчезавају.
+У априлу 2009. министар финансија је најавио суспензију зимбабвеанског долара и одобрио употребу различитих страних валута за трговину. На свим банковним рачунима, пензијама и финансијским институцијама стање је испарило преко ноћи.
 
 ![image](assets/en/15.webp)
 
-На крају, хиперинфлација има ефекат брзог умањења вредности валуте, што води до ерозије штедње и губитка поверења у монетарни систем. Како је Волтер једном предложио, валута на основу поверења ће увек на крају изгубити своју интринзичну вредност и конвергирати према нули.
+У закључку, хиперинфлација има за последицу брзу деградацију вредности валуте, што доводи до ерозије штедње и губитка поверења у монетарни систем. Као што је Волтер једном предложио, фиат валута ће увек на крају изгубити своју суштинску вредност и конвергирати ка нули.
 
-Валута која се ослања на поверљиву трећу страну као што је финансијска установа је, у пракси и на дуги рок, неисправна, јер не може да гарантује куповну моћ или да очува уштеђевину.
+Валута која се ослања на трећу страну од поверења као што је финансијска институција је, у пракси и дугорочно, дефектна, јер није у стању да гарантује куповну моћ или сачува штедњу.
 
-Da biste dublje istražili temu hiperinflacija, preporučujemo David St-Ongeov kurs ECO 204, gde ćete naučiti šta su hiperinflacioni ciklusi i njihov stvarni uticaj na naše živote. Takođe ćete otkriti sličnosti između ovih ciklusa i, što je najvažnije, kako da se zaštitite od njih.
+Да бисмо дубље проучили тему хиперинфлација, препоручујемо курс Дејвида Ст-Онгеа ЕЦО 204, где ћете научити шта су хиперинфлаторни циклуси и њихов стварни утицај на наше животе. Такође ћете открити сличности између ових циклуса и, што је најважније, како се заштитити од њих.
 
 https://planb.network/courses/caa75343-ac90-4249-bcca-0e2e57c3a0f1
-## 21 miliona bitkoina
+## 21 милион биткоина
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
 
-### Monetarna politika Bitcoina
+### Монетарна политика биткоина
 
-Bitcoin je decentralizovana digitalna valuta sa unapred definisanom maksimalnom količinom od **21 milion jedinica**. Ova inherentna karakteristika oskudice određena je njenim kompjuterskim kodom i pojačana je konsenzusom svih korisnika koji učestvuju u protokolu.
+Битцоин је децентрализована дигитална валута са унапред дефинисаном максималном количином од **21 милион јединица**. Ова суштинска карактеристика оскудице је одређена њеним компјутерским кодом и појачана консензусом свих корисника који учествују у протоколу.
 
 ![image](assets/en/22.webp)
 
-Njeno monetarno izdavanje može se ilustrovati krivom koja predstavlja količinu bitkoina kreiranih tokom vremena. Na primer, 2022. godine, u opticaju je bilo otprilike 18,5 miliona bitkoina. Prognoze pokazuju da će do 2025. godine biti oko 19,5 miliona bitkoina, što predstavlja oko 93% ukupne ponude, a do 2037. godine, ova cifra će dostići 20,4 miliona.
+Његово монетарно издавање може се илустровати кривом која представља количину биткоина створених током времена. На пример, 2022. године у оптицају је било око 18,5 милиона биткоина. Прогнозе показују да ће до 2025. године бити око 19,5 милиона биткоина, што представља око 93% укупне понуде, а до 2037. године ова цифра ће достићи 20,4 милиона.
 
-### Kako se stvaraju novi bitkoini?
+### Како настају нови биткоини?
 
-Stvaranje novih bitkoina je rezultat procesa rudarenja. U suštini, rudari koriste snažne računare koji rešavaju složene matematičke probleme, koji validiraju i obezbeđuju transakcije. Kada se problem reši, rudar dodaje novi blok transakcija na blokčejn, decentralizovanu i distribuiranu knjigu koja beleži sve transakcije izvršene na mreži. Blokčejn obezbeđuje transparentnost i sigurnost, jer je svaki blok povezan sa prethodnim, što čini gotovo nemogućim izmenu prošlih podataka bez konsenzusa mreže.
+Стварање нових биткоина је резултат процеса рударења. Укратко, рудари користе моћне рачунаре који решавају сложене математичке проблеме, који потврђују и обезбеђују трансакције. Једном када је проблем решен, рудар додаје нови блок трансакција у блоцкцхаин, децентрализовану и дистрибуирану књигу која бележи све трансакције направљене на мрежи. Блок ланац осигурава транспарентност и сигурност, јер је сваки блок повезан са претходним, што чини скоро немогућим промену прошлих података без консензуса мреже.
 
 ![image](assets/en/23.webp)
 
-Nakon uspešnog izvršenja ovog zadatka, rudari se nagrađuju izdavanjem novih bitkoina svakih deset minuta. Ova nagrada je programirana da se prepolovi svakih 210.000 blokova, što je otprilike svake četiri godine (događaj poznat kao "prepolovljavanje"), dajući monetarnoj izdavačkoj krivi postepeni oblik. Zbog ovog mehanizma, matematički se može predvideti da će stvaranje novih bitkoina prestati oko godine 2140, kada ukupan broj dostigne svoj limit od 21 milion.
+Након успешног обављања овог задатка, рудари се награђују издавањем нових биткоина сваких десет минута. Ова награда је програмирана да се преполови на сваких 210.000 блокова, што је отприлике сваке четири године (догађај познат као „преполовљење“), дајући кривуљи новчаног издавања степенастог облика. Због овог механизма, математички се може предвидети да ће стварање нових биткоина престати око 2140. године, када укупан број достиже границу од 21 милион.
 
-| Broj prepolovljenja | Visina bloka | BTC nagrada nakon prepolovljenja  | Procenjeni BTC u opticaju nakon prepolovljenja |
+| Преполовити број | Висина блока | БТЦ награда након преполовљења | Процењени БТЦ у оптицају након преполовљења |
 
-| -------------- | ------------ | ------------------------- | ------------------------------------------ |
+| -------------- | ------------ | ------------------------- | ----------------------------------------- |
 
-| 1              | 210,000      | 25 BTC                    | 10,500,000 BTC                             |
+| 1 | 210,000 | 25 БТЦ | 10,500,000 БТЦ |
 
-| 2              | 420,000      | 12.5 BTC                  | 15,750,000 BTC                             |
+| 2 | 420,000 | 12.5 БТЦ | 15,750,000 БТЦ |
 
-| 3              | 630,000      | 6.25 BTC                  | 18,375,000 BTC                             |
+| 3 | 630,000 | 6.25 БТЦ | 18,375,000 БТЦ |
 
-| 4              | 840,000      | 3.125 BTC                 | 19,687,500 BTC                             |
+| 4 | 840,000 | 3.125 БТЦ | 19,687,500 БТЦ |
 
-| 5              | 1,050,000    | 1.5625 BTC                | 20,343,750 BTC                             |
+| 5 | 1,050,000 | 1,5625 БТЦ | 20,343,750 БТЦ |
 
-| 6              | 1,260,000    | 0.78125 BTC               | 20,671,875 BTC                             |
+| 6 | 1,260,000 | 0,78125 БТЦ | 20,671,875 БТЦ |
 
-| 7              | 1,470,000    | 0.390625 BTC              | 20,835,937.5 BTC                           |
+| 7 | 1,470,000 | 0,390625 БТЦ | 20,835,937.5 БТЦ |
 
-| 8              | 1,680,000    | 0.1953125 BTC             | 20,917,968.75 BTC                          |
+| 8 | 1,680,000 | 0,1953125 БТЦ | 20,917,968.75 БТЦ |
 
-| 9              | 1,890,000    | 0.09765625 BTC            | 20,958,984.375 BTC                         |
+| 9 | 1,890,000 | 0,09765625 БТЦ | 20,958,984,375 БТЦ |
 
-| 10             | 2,100,000    | 0.048828125 BTC           | 20,979,492.188 BTC                         |
+| 10 | 2,100,000 | 0,048828125 БТЦ | 20,979,492.188 БТЦ |
 
-| 11             | 2,310,000    | 0.0244140625 BTC          | 20,989,746.094 BTC                         |
+| 11 | 2,310,000 | 0,0244140625 БТЦ | 20,989,746,094 БТЦ |
 
-| 12             | 2,520,000    | 0.01220703125 BTC         | 20,994,873.047 BTC                         |
+| 12 | 2,520,000 | 0,01220703125 БТЦ | 20,994,873,047 БТЦ |
 
-| 13             | 2,730,000    | 0.006103515625 BTC        | 20,997,436.523 BTC                         |
+| 13 | 2,730,000 | 0,006103515625 БТЦ | 20,997,436,523 БТЦ |
 
-| 14             | 2,940,000    | 0.0030517578125 BTC       | 20,998,718.262 BTC                         |
+| 14 | 2,940,000 | 0,0030517578125 БТЦ | 20,998,718,262 БТЦ |
 
-| 15             | 3,150,000    | 0.00152587890625 BTC      | 20,999,359.131 BTC                         |
+| 15 | 3,150,000 | 0,00152587890625 БТЦ | 20,999,359.131 БТЦ |
 
-| 16             | 3,360,000    | 0.000762939453125 BTC     | 20,999,679.566 BTC                         |
+| 16 | 3,360,000 | 0,000762939453125 БТЦ | 20,999,679,566 БТЦ |
 
-| 17             | 3,570,000    | 0.0003814697265625 BTC    | 20,999,839.783 BTC                         |
+| 17 | 3,570,000 | 0,0003814697265625 БТЦ | 20,999,839,783 БТЦ |
 
-| 18             | 3,780,000    | 0.00019073486328125 BTC   | 20,999,919.892 BTC                         |
+| 18 | 3,780,000 | 0,00019073486328125 БТЦ | 20,999,919,892 БТЦ |
 
-| 19             | 3,990,000    | 0.000095367431640625 BTC  | 20,999,959.946 BTC                         |
+| 19 | 3,990,000 | 0,000095367431640625 БТЦ | 20,999,959,946 БТЦ |
 
-| 20             | 4,200,000    | 0.0000476837158203125 BTC | 20,999,979.973 BTC                         |
+| 20 | 4,200,000 | 0,0000476837158203125 БТЦ | 20,999,979,973 БТЦ |
 
-Ponovo ćemo se pozabaviti konceptom rudarenja u više detalja u [poglavlju o rudaru](https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966/dbb8264a-7434-57e4-9d1b-fbd1bae37fdf).
+Више детаља ћемо размотрити концепт рударења у [поглављу рудара](хттпс://планб.нетворк/цоурсес/2б7дц507-81е3-4б70-88е6-41ед44239966/дбб8264а-7434-57е4-9д1б-ф7ф).
 
-### Garantovanje digitalne oskudice
+### Гарантовање дигиталне оскудице
 
-Ograničenje od 21 milion je osnova oskudice Bitcoina, i garantovano je kroz dva ključna mehanizma: prilagođavanje težine rudarenja i teoriju igara.
+Ограничење од 21 милион је основа несташице биткоина, а гарантују га два кључна механизма: прилагођавање тежине рударења и теорија игара.
 
 
-- Podešavanje težine rudarenja je proces koji se odvija svakih 2016 blokova, ili otprilike svake dve nedelje, kako bi se osiguralo da se novi blok dodaje u blokčejn svakih deset minuta u proseku. Ova frekvencija stvaranja blokova i ukupna količina bitkoina su fiksni aspekti Bitcoin protokola i ne mogu se promeniti bez opšteg konsenzusa, za razliku od proizvoljnih odluka koje se donose u tradicionalnim monetarnim sistemima.
+- Подешавање тежине рударења је процес који се одвија сваких 2016 блокова, или око две недеље, како би се осигурало да се нови блок додаје у блок ланац у просеку сваких десет минута. Ова учесталост креирања блокова и укупна количина биткоина су фиксни аспекти Битцоин протокола и не могу се мењати без општег консензуса, за разлику од произвољних одлука донетих у традиционалним монетарним системима.
 
-Težina pronalaženja važećeg heša prati vrstu ciklusa: ako se broj rudara povećava, to znači da je broj blokova koje pronalaze veći, što dovodi do smanjenja prosečnog vremena potrebnog za pronalaženje bloka. Zbog toga se težina povećava. Kao posledica, broj blokova koje rudari pronalaze se smanjuje, što znači da se mehanizam vraća na prosek od 10 minuta po bloku. Molim vas pogledajte sliku ispod za vizuelni prikaz.
+Тешкоћа проналажења важећег хеша прати неку врсту циклуса: ако се број рудара повећава, то значи да је број блокова које пронађу већи, што доводи до смањења просечног времена за проналажење блока. Због тога се повећава потешкоћа. Као последица тога, смањен је број блокова које рудари проналазе, што значи да се механизам враћа на просек од 10 минута по блоку. Молимо погледајте слику испод за визуелни приказ.
 
 ![image](assets/en/24.webp)
 
-Да ли сте знали да су рудари подстакнути да рударе блок како би зарадили нове биткоине кроз субвенцију блока, као и таксе за трансакције из трансакција које укључују у тај блок?
+Да ли сте знали да се рудари подстичу да рударе блок како би зарадили нове биткоине кроз субвенцију блока, као и накнаде за трансакције од трансакција које укључују у тај блок?
 
-Dakle, kako broj izdatih bitkoina prilazi limitu od 21 milion, rudari će biti više nagrađeni kroz svoje transakcijske provizije nego kroz subvenciju bloka.
+Дакле, како се број издатих биткоина приближава граници од 21 милион, рудари ће бити више плаћени кроз своје трансакцијске накнаде него кроз субвенцију блока.
 
 
-- Teorija igara je matematički koncept koji se oslanja na ljudsku racionalnost. Pretpostavlja se da pojedinci deluju logično, težeći da maksimiziraju svoje sopstvene koristi uzimajući u obzir potencijalne odluke drugih. U Bitcoinu, teorija igara pomaže da se osigura da će većina rudara i korisnika delovati u najboljem interesu mreže. Zapravo, pošto korisnici glasaju o promenama protokola, bilo kakva modifikacija Bitcoin protokola zahtevala bi saglasnost cele zajednice korisnika, što je izuzetno kompleksno. Dakle, ako bi neko želeo da stvori 22. milioniti bitcoin, morao bi da ubedi sve korisnike da dobrovoljno devalviraju svoje sopstvene uštede, što je malo verovatno da će se dogoditi jer je Bitcoin globalan i nije regulisan od strane centralne grupe.
+- Теорија игара је математички концепт који се ослања на људску рационалност. Претпоставља да се појединци понашају логично, настојећи да максимизирају сопствену корист док разматрају потенцијалне одлуке других. У Битцоин-у, теорија игара помаже да се осигура да ће већина рудара и корисника деловати у најбољем интересу мреже. У ствари, пошто промене протокола гласају корисници, свака модификација Битцоин протокола би захтевала сагласност целе заједнице корисника, што је веома сложено. Дакле, ако би неко желео да створи 22. милиона биткоина, морао би да убеди све кориснике да добровољно обезвређују сопствену уштеђевину, што је мало вероватно да ће се десити јер је биткоин глобалан и њиме не управља централна група.
 
 ![image](assets/en/25.webp)
 
-Идеја о девалвацији валуте је у супротности са основном филозофијом Биткоина, тако да је врло мало вероватно да ће доћи до промене у његовој укупној количини.
+Идеја девалвације валуте је у супротности са фундаменталном филозофијом Битцоин-а, тако да је мало вероватно да ће се десити промена у његовој укупној количини.
 
-### Revizibilna monetarna politika: svake sekunde, od početka i zauvek!
+### Новчана молитва која се може ревидирати: сваке секунде, од почетка и заувек!
 
-Оскудност Биткоина је велика предност, а максимална количина од 21 милион биткоина у оптицају је јавна и верификована од стране било кога.
+Недостатак биткоина је велика предност, а максимална количина од 21 милион биткоина у оптицају је јавна и свако може да је провери.
 
-Zapravo, svako može to da uradi kroz Bitcoin čvor (tj. validator transakcija) jednostavnim unošenjem sledeće komande: `bitcoin-cli gettxoutsetinfo`. Ova transparentnost jača poverenje u Bitcoin sistem, koji nije zasnovan na centralnim institucijama ili pojedincima, već na matematičkim i kriptografskim garancijama inherentnim u njegovom protokolu (Naučićete kako to lako da uradite u LNP201).
+У ствари, свако може то да уради преко Битцоин чвора (тј. валидатора трансакције) једноставним уношењем следеће команде: `битцоин-цли гетткоутсетинфо`. Ова транспарентност јача поверење у Битцоин систем, који се не заснива на централним институцијама или појединцима, већ на математичким и криптографским гаранцијама које су инхерентне његовом протоколу (Како то лако да урадите научићете у ЛНП201).
 
 ```json
 {
@@ -473,119 +473,119 @@ Zapravo, svako može to da uradi kroz Bitcoin čvor (tj. validator transakcija) 
 }
 ```
 
-Bitcoin garantuje zdravo monetarno upravljanje ograničavajući svoje stvaranje po dizajnu, što ga čini vrlo različitim od ostalih valuta jer može zaštititi korisničke uštede. U skladu sa principima austrijske ekonomije, njegova stabilna količina i predvidljiva distribucija štite ga od inherentnih rizika inflacije s kojima se tradicionalne valute moraju suočiti (pogledajte kurs ECO201 za više informacija).
+Битцоин гарантује добро монетарно управљање ограничавањем његовог креирања дизајном, што га чини веома другачијим од других валута јер може заштитити уштеде корисника. Усклађен са принципима аустријске економије, његова стабилна количина и предвидљива дистрибуција га штите од инхерентних ризика инфлације са којима се традиционалне валуте суочавају (погледајте курс ЕЦО201 да бисте сазнали више).
 
-У резимеу, Биткоин, са својом децентрализованом природом, програмираном оскудицом и транспарентношћу, нуди јединствену алтернативу традиционалним монетарним системима. Илуструје како технологија може бити коришћена за стварање валуте која не само да је корисна и верификована, већ такође чува вредност корисничке уштеђевине строго ограничавајући њену залihu.
+Укратко, Битцоин, са својом децентрализованом природом, програмираном оскудицом и транспарентношћу, нуди јединствену алтернативу традиционалним монетарним системима. Она илуструје како се технологија може користити за стварање валуте која не само да је корисна и проверљива, већ и чува вредност уштеђевине корисника стриктно ограничавајући њену понуду.
 
-### Zaključak sekcije 1!
+### Закључак одељка 1!
 
-# Bitcoin Novčanici
+# Битцоин новчаници
 
 <partId>28860585-4f61-59d9-b242-f4c57d837cc1</partId>
 
-## Šta su Bitcoin novčanici?
+## Шта су Битцоин новчаници?
 
 <chapterId>1c0166ab-cb7a-5bc6-9175-d13482bd91f1</chapterId>
 
-U delu 2, istražićemo skladištenje i sigurnost Bitcoina kroz upotrebu novčanika, kako bismo razumeli gde se nalaze ovi poznati bitkoini i kako da komuniciramo sa njima!
+У одељку 2, истражићемо складиштење и безбедност Битцоин-а кроз коришћење новчаника, како бисмо разумели где се ови познати биткоини налазе и како да комуницирамо са њима!
 
-### Demistifikacija Bitcoin novčanika
+### Демистификација Битцоин новчаника
 
-Koristimo novčanike za interakciju sa Bitcoin mrežom na tri glavna načina:
+Користимо новчанике за интеракцију са Битцоин мрежом на три главна начина:
 
 
-- Примати биткоине
-- Да пошаљете биткоине
-- Да их обезбедите од хаковања и покушаја крађе
+- За примање биткоина
+- За слање биткоина
+- Да их заштитите од хаковања и покушаја крађе
 
-Bitcoin novčanik može imati mnogo oblika i formi: softver na vašem računaru, aplikacija na vašem pametnom telefonu, fizički uređaj poput USB ključa, ili čak komad papira. Svaki od njih služi različitim upotrebama. Zapravo, neki su dizajnirani za velike transakcije sa naglaskom na sigurnost, dok drugi prioritet daju privatnosti, ili su namenjeni za dnevna plaćanja malih iznosa.
+Битцоин новчаник може имати много облика и облика: софтвер на вашем рачунару, апликацију на вашем паметном телефону, физички уређај као што је УСБ кључ, или чак комад папира. Сваки од њих служи различитим случајевима употребе. У ствари, неки су дизајнирани за велике трансакције са нагласком на безбедност, док други дају приоритет приватности или су намењени за свакодневна плаћања малих износа.
 
-Portfolii se stoga mogu kategorisati u široke porodice upotrebe, uvek centrirane oko ključnog pitanja: da li ste vlasnik sredstava ili ostavljate kontrolu nad svojim novcem trećoj strani? Ovu temu ćemo istražiti detaljno u sledećem poglavlju, ali pitanje ostaje jednostavno: da li je novac u vašem džepu ili u džepu vašeg bankara?
+Портфељи се стога могу категорисати у широке породице коришћења, увек усредсређене на кључно питање: да ли сте власник средстава или контролу над својим новцем препуштате трећој страни? Ову тему ћемо детаљно истражити у следећем поглављу, али питање остаје једноставно: да ли је новац у вашем џепу или у џепу вашег банкара?
 
 ![image](assets/en/26.webp)
 
-### Kako radi Bitcoin novčanik?
+### Како функционише Битцоин новчаник?
 
-Bilo da je to vaš Bitcoin "bankar" ili vi sami, velika većina Bitcoin novčanika radi sa sličnom tehnologijom zasnovanom na asimetričnoj kriptografiji, koja uključuje sistem parova ključeva: privatni ključ za trošenje i javni ključ za primanje.
+Било да је у питању ваш Битцоин „банкар“ или ви, велика већина Битцоин новчаника ради са сличном технологијом заснованом на асиметричној криптографији, која укључује систем парова кључева: приватни кључ за трошење и јавни кључ за примање.
 
 
 - Приватни кључ
 
-Prilikom inicijalizacije novčanika, tajna fraza za oporavak (privatni ključ) se generiše i predstavlja vam se u obliku 12 ili 24 reči.
+Приликом иницијализације новчаника, тајна фраза за опоравак (приватни кључ) се генерише и представља вам у облику од 12 или 24 речи.
 
-Privatni ključ je fundamentalan jer predstavlja vlasništvo nad bitkoinima i stoga pravo na njihovo korišćenje ili slanje. Stoga, vlasnik privatnog ključa je pravi vlasnik bitkoina.
+Приватни кључ је фундаменталан јер представља власништво над биткоинима, а самим тим и право на њихово коришћење или слање. Дакле, власник приватног кључа је прави власник биткоина.
 
-Ovaj ključ mora biti čuvan u tajnosti i dobro zaštićen, jer otključava vaše bogatstvo!
+Овај кључ се мора чувати у тајности и добро заштићен, јер откључава ваше богатство!
 
 
-- Јавни кључ & адреса
+- Јавни кључ и адреса
 
-Javni ključ se generiše iz privatnog ključa i povezan je sa njim. Deljenje javnog ključa predstavlja rizik za privatnost (jer drugi korisnici mogu videti vaš saldo) ali ne i za sigurnost (jer ne mogu potrošiti vaša sredstva bez posedovanja privatnog ključa). Zauzvrat, javni ključ se koristi za kreiranje Bitcoin adresa, i tako primanje novca.
+Јавни кључ се генерише из приватног кључа и са њим је повезан. Дељење јавног кључа представља ризик по приватност (јер други корисници могу да виде ваш баланс), али не и по безбедност (јер не могу да троше ваша средства без поседовања приватног кључа). Заузврат, јавни кључ се користи за креирање Битцоин адреса, а самим тим и за примање новца.
 
-Ove adrese automatski kreira vaš novčanik i mogu se sigurno deliti. Da biste maksimalno zaštitili svoju privatnost, preporučljivo je da ih koristite samo jednom.
+Ове адресе аутоматски креира ваш новчаник и могу се безбедно делити. Да бисте максимално повећали своју приватност, препоручљиво је да их користите само једном.
 
-Ukratko, ova tehnologija nam omogućava da primamo bitkoine bez omogućavanja primaocu da nam ukrade sredstva! Poštansko sanduče bi mogao biti prikladan metafor: ljudi mogu da polože novac u njega, ali samo vi možete da ga otvorite.
+Укратко, ова технологија нам омогућава да примамо биткоине без омогућавања примаоцу да украде наша средства! Поштанско сандуче би могло бити прикладна метафора: људи могу уложити новац у њега, али ви једини можете да га отворите.
 
 ![image](assets/en/27.webp)
 
-### Da li su bitkoini u novčaniku?
+### Да ли су биткоини у новчанику?
 
-Iako su vaši ključevi smešteni u vašem novčaniku, sami bitkoini su zapravo "smešteni" u Bitcoin blokčejnu, koji je javna distribuirana knjiga unutar Bitcoin peer-to-peer mreže (detaljnije ćemo se baviti time u odeljku 3). To znači da gubitak uređaja na kojem je vaš novčanik ne rezultira nužno gubitkom vaših bitkoina. Ono što vam omogućava da ponovo kreirate svoj novčanik i trošite svoj bitkoin je zapravo privatni ključ, zato uvek zapamtite da ga pravilno obezbedite!
+Иако су ваши кључеви ускладиштени у вашем новчанику, сами биткоини су заправо „складиштени“ у Битцоин блок ланцу, који је јавна дистрибуирана књига унутар Битцоин пеер-то-пеер мреже (у њу ћемо се позабавити у одељку 3). То значи да губитак уређаја који садржи ваш новчаник не мора нужно довести до губитка ваших биткоина. Оно што вам омогућава да поново направите свој новчаник и потрошите свој биткоин је заправо приватни кључ, па увек не заборавите да га правилно обезбедите!
 
 ![image](assets/en/28.webp)
 
-Srećom, od 2017. godine, privatni ključ može biti predstavljen jednostavnim spiskom od 12 ili 24 reči, poznatim kao 'mnemonička fraza', koje su prilično lako sačuvati. Ova fraza služi kao rezerva za vaša sredstva i omogućava vam da ponovo kreirate svoj novčanik koristeći bilo koji Bitcoin novčanik softver ili aplikaciju. Stoga, svako ko pronađe ovaj spisak reči može pristupiti vašim bitcoinima.
+На срећу, од 2017. приватни кључ може бити представљен једноставном листом од 12 или 24 речи, познатим као „мнемоничка фраза, које је прилично лако сачувати. Ова фраза служи као резервна копија ваших средстава и омогућава вам да поново креирате свој новчаник користећи било који софтвер или апликацију за Битцоин новчаник. Стога, свако ко пронађе ову листу речи може приступити вашим биткоинима.
 
 ### Шта је са хакерима?
 
-Шта ако неко случајно погоди нашу листу од 12 или 24 речи? Кратак одговор је да је то веома мало вероватно, захваљујући криптографији која се користи за креирање новчаника. Да бисмо то ставили у перспективу, случајно откривање ваше исте мнемоничке фразе је слично проналажењу "правог" броја између 1 и $2^256$, што је скоро еквивалентно проналажењу "правог" атома у Универзуму. Међутим, ако нисте задовољни овом подразумеваном безбедношћу, увек можете да је појачате додавањем лозинке (додатне речи) у ваш Биткоин новчаник.
+Шта ако неко случајно погоди нашу листу од 12 или 24 речи? Кратак одговор је да је то мало вероватно, захваљујући криптографији која се користи за креирање новчаника. Да то ставимо у перспективу, случајно откривање ваше исте мнемоничке фразе је слично проналажењу "правог" броја између 1 и $2^256$, што је скоро еквивалентно проналажењу "правог" атома у Универзуму. Међутим, ако нисте задовољни овом подразумеваном безбедношћу, увек можете да је побољшате додавањем приступне фразе (додатне речи) у свој Битцоин новчаник.
 
 ![image](assets/en/29.webp)
 
-Dakle, verovatnoća hakovanja vašeg Bitcoin novčanika je astronomski niska ako pratite dobre prakse bezbednosti koje ćemo detaljno opisati u sledećem odeljku.
+Дакле, вероватноћа хаковања вашег Битцоин новчаника је астрономски ниска ако следите добре безбедносне праксе које ћемо детаљно описати у следећем одељку.
 
-Имајте на уму да изаберете прави новчаник за своје потребе и коришћење: детаљни туторијали о управљању и обезбеђивању различитих новчаника доступни су у [секцији са туторијалима нашег универзитета](https://planb.network/tutorials/wallet).
+Имајте на уму да изаберете прави новчаник за ваше потребе и употребу: детаљни водичи о управљању и обезбеђивању различитих новчаника доступни су у [одељку за упутства на нашем универзитету] (хттпс://планб.нетворк/туториалс/валлет).
 
-Ако, током вашег путовања кроз кунију рупу, желите да научите више о изградњи Bitcoin новчаника, од ентропије до примања адреса, препоручујемо вам CYP 201 курс посвећен овој теми:
+Ако, током вашег путовања низ зечју рупу, желите да научите више о изградњи Битцоин новчаника, од ентропије до примања адреса, препоручујемо курс ЦИП 201 посвећен овој теми:
 
 https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
-## Bitcoin Novčanici i Sigurnost
+## Битцоин новчаници и безбедност
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
 
-### Postavljanje pravih pitanja pre početka
+### Постављање правих питања пре почетка
 
-Kada posedujete bitkoine, sigurnost vaših sredstava je glavna briga. Najbolji način da definisete nivo sigurnosti koji je prikladan za vašu situaciju je da sebi postavite niz pitanja:
+Када поседујете биткоине, сигурност ваших средстава је главна брига. Најбољи начин да дефинишете ниво безбедности који одговара вашој ситуацији је да себи поставите низ питања:
 
 
-- Ko može pristupiti vašim sredstvima? Drugim rečima, da li imate jedini pristup vašim bitkoinima, ili vam treća strana (kao što je kompanija) omogućava pristup vašim sredstvima?
-- Како планирате да користите биткоине у тој конкретној новчаници? Редовно? За средњорочну или дугорочну уштеђевину?
-- Koje su vaše tehničke veštine?
-- Koji je vaš budžet za bezbednost?
+- Ко може да приступи вашим средствима? Другим речима, да ли имате искључиви приступ својим биткоинима или вам трећа страна (као што је компанија) даје приступ вашим средствима?
+- Како планирате да користите биткоине у том конкретном новчанику? Редовно? За средњорочну или дугорочну штедњу?
+- Које су ваше техничке вештине?
+- Колики је ваш безбедносни буџет?
 
-Zapravo ne postoji univerzalni odgovor ili rešenje, pa izdvojite vreme da odgovorite na ova pitanja, jer će to pomoći da prilagodite svoje mere bezbednosti vašim potrebama.
+Заправо не постоји универзални одговор или решење, па одвојите време да одговорите на ова питања, јер ће то помоћи да своје безбедносне мере прилагодите својим потребама.
 
 ![image](assets/en/30.webp)
 
-### Размишљање о Bitcoin новчаницима у терминима сложености
+### Размишљајући о Битцоин новчаницима у смислу сложености
 
-Овде ћемо дефинисати неколико нивоа безбедности:
+У наставку ћемо дефинисати неколико нивоа безбедности:
 
 
-- Nivo 0**, koristite takozvani "uslužni servis" gde niste jedini vlasnik vaših bitkoina. Budite svesni da ovo poverljivo treće lice može ograničiti vaš pristup vašim sredstvima u bilo kom trenutku. U ovom slučaju, vaš nivo finansijskog suvereniteta je sličan onom u tradicionalnom bankarskom sistemu sa bankovnim računom.
+- Ниво 0**, користите такозвану „услугу чувања“ где нисте једини власник својих биткоина. Имајте на уму да ова трећа страна од поверења може да ограничи ваш приступ вашим средствима у било ком тренутку. У овом случају, ваш ниво финансијске суверености је сличан оном у традиционалном банкарском систему са банковним рачуном.
 
 ![image](assets/en/31.webp)
 
 
-- Nivo 1**, koristite Bitcoin novčanik na svom telefonu ili računaru, gde ste jedini vlasnik svojih bitkoina i lako možete izvršavati svoje transakcije. Gorepomenuti alat se naziva "hot wallet", jer se privatni ključ čuva na uređaju sa pristupom internetu. U ovom slučaju, ključno je da napravite rezervnu kopiju svoje mnemoničke fraze kako biste ponovo pristupili svojim sredstvima u slučaju gubitka telefona ili računara.
+- Ниво 1**, користите Битцоин новчаник на свом телефону или рачунару, где сте једини власник својих биткоина и лако можете да обављате своје трансакције. Горе поменути алат се назива „врући новчаник“, јер се приватни кључ чува на уређају са приступом интернету. У овом случају, кључно је да направите резервну копију своје мнемоничке фразе да бисте повратили приступ својим средствима у случају губитка телефона или рачунара.
 
-Na primer, možete koristiti Sparrow novčanik kao hot novčanik:
+На пример, можете користити Спарров новчаник као врући новчаник:
 
 https://planb.network/tutorials/wallet/desktop/sparrow-7e9a77c0-013d-4f8e-a811-408b71dc7607
 
-- Nivo 2**, koristite fizički novčanik, i obezbedili ste svoju listu od 12/24 reči. Često se naziva "hladni novčanik" jer su vaši ključevi sačuvani na uređaju koji nije povezan sa internetom. U ovom slučaju, uvek ćete morati da potpišete svaku transakciju sa svojim uređajem, što čini vaša sredstva manje dostupnim na dnevnoj bazi.
+- Ниво 2**, користите физички новчаник и обезбедили сте своју листу од 12/24 речи. Често се назива „хладни новчаник“ јер се ваши кључеви чувају на уређају који није повезан на интернет. У овом случају, увек ћете морати да потпишете сваку трансакцију са својим уређајем, што чини да ваша средства свакодневно буду мање доступна.
 
-На пример, можете користити Ledger, Satochip или Tapsigner:
+На пример, можете да користите Ледгер, Сатоцхип или Тапсигнер:
 
 https://planb.network/tutorials/wallet/hardware/ledger-nano-s-plus-75043cb3-2e8e-43e8-862d-ca243b8215a4
 https://planb.network/tutorials/wallet/hardware/satochip-e9bc81d9-d59b-420d-9672-3360212237ba
@@ -593,388 +593,388 @@ https://planb.network/tutorials/wallet/hardware/tapsigner-ab2bcdf9-9509-4908-9a4
 ![image](assets/en/32.webp)
 
 
-- Nivo 3**, koristite novčanik nivoa 1 ili 2, ali ste dodali dodatnu lozinku. U ovom slučaju, budite svesni da morate da napravite rezervnu kopiju i liste od 12/24 reči **i** vaše lozinke. Idealno, ova dva dela informacija se čuvaju na dva različita mesta.
+- Ниво 3**, користите новчаник нивоа 1 или 2, али сте додали додатну приступну фразу. У овом случају, имајте на уму да морате да направите резервну копију и листе од 12/24 речи **и** ваше приступне фразе. У идеалном случају, ове две информације се чувају на два различита места.
 
-Да бисте сазнали више о употреби и функционисању BIP39 лозинке:
+Да бисте сазнали више о употреби и функционисању приступне фразе БИП39:
 
 https://planb.network/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14-bafdeb1adce7
 ![image](assets/en/33.webp)
 
 
-- Nivo 4**, koristite skup novčanika da biste kreirali "multisig" novčanik, što znači da su potrebni višestruki potpisi za izvršenje transakcije. U ovom slučaju, budite svesni da svaki deo multisiga treba da bude smešten na različitim lokacijama. Ovaj pristup se često smatra naprednom upotrebom Bitcoina, prvenstveno za upravljanje velikim iznosima i za korporativne svrhe.
+- Ниво 4**, користите скуп новчаника да бисте креирали новчаник са више знакова, што значи да је за обављање трансакције потребно више потписа. У овом случају, имајте на уму да сваки део мултисигна треба да буде ускладиштен на различитим локацијама. Овај приступ се често сматра напредном употребом биткоина, првенствено за управљање великим количинама и за корпоративне сврхе.
 
 ![image](assets/en/34.webp)
 
-Naravno, različite upotrebe zahtevaju i različite Bitcoin novčanike, i ne postoji univerzalno rešenje koje odgovara svima.
+Наравно, различити случајеви употребе такође захтевају различите Битцоин новчанике и не постоји решење које би одговарало свима.
 
-### Sigurnost mora biti prilagođena
+### Сигурност мора бити прилагођена
 
-Iznos koji je neko spreman da ostavi na određenom nivou sigurnosti zavisi od svake pojedinačne osobe. Za neke, ostavljanje 1 BTC na hot novčaniku je razumno, dok je, za druge, suprotno. U svakom slučaju, kada želite da obezbedite mali iznos, savetujemo da ne trošite previše na sigurnost kupovinom fizičkog novčanika. Pored toga, imajte na umu da prekomplikovanje sigurnosti i pristupačnosti vaših bitkoina može biti štetno, posebno ako pogrešno rukujete sa rezervnim kopijama vaših novčanika.
+Износ који је неко спреман да остави на одређеном нивоу безбедности зависи од сваког појединца. За неке је разумно оставити 1 БТЦ у врућем новчанику, док је за друге то супротно. У сваком случају, када желите да обезбедите мали износ, саветујемо вам да не трошите превише на безбедност куповином физичког новчаника. Осим тога, имајте на уму да претерано компликовање безбедности и доступности ваших биткоина може бити штетно, посебно ако погрешно рукујете резервним копијама својих новчаника.
 
-Zaključno, direktno vlasništvo nad sopstvenim bitkoinima je ključni element za obezbeđivanje finansijskog suvereniteta. Preporučuje se upotreba mobilnog novčanika za svakodnevne troškove i offline, ili "hladni", fizički novčanik za čuvanje većih iznosa. Firme, s druge strane, treba da razmotre upotrebu sistema sa više potpisa, ili "multisig", za povećanu i deljenu sigurnost. Takođe je neophodno izbegavati usluge starateljstva, koje mogu replicirati neke ranjivosti tradicionalnog finansijskog sistema.
+У закључку, директно власништво над нечијим биткоинима је суштински елемент за осигурање финансијског суверенитета. Препоручује се коришћење мобилног новчаника за дневне трошкове и офлајн, или „хладног“, физичког новчаника за чување већих количина. Предузећа, с друге стране, треба да размотре коришћење система са више потписа, или „мултисиг“, за повећану и заједничку безбедност. Такође је неопходно избегавати услуге старатељства, које могу да реплицирају неке слабости традиционалног финансијског система.
 
-С обзиром на ово, сада можемо прећи на следећи одељак где описујемо како направити Bitcoin новчаник. Међутим, ако желите да даље истражујете тему безбедности, можете прочитати овај [чланак ДартКоина](https://asi0.substack.com/p/bitcoin-soyez-votre-propre-banque).
+Имајући ово на уму, сада можемо да пређемо на следећи одељак где описујемо како да креирамо Битцоин новчаник. Међутим, ако желите даље да истражите тему безбедности, можете прочитати овај [чланак од ДартхЦоин](хттпс://аси0.субстацк.цом/п/битцоин-соиез-вотре-пропре-банкуе).
 
 ## Подешавање новчаника
 
 <chapterId>615519eb-4565-557d-86a0-021badf7616f</chapterId>
 
-Bezbednost vaših bitkoina je od ključnog značaja, a jednostavna greška može imati katastrofalne posledice. Zato moramo da naučimo najbolje prakse koje treba usvojiti prilikom kreiranja novog Bitcoin novčanika.
+Сигурност ваших биткоина је од пресудног значаја, а једноставна грешка може имати катастрофалне последице. Зато морамо да научимо најбоље праксе које треба усвојити приликом креирања новог Битцоин новчаника.
 
-Molimo vas da obratite pažnju da će vas kurs BTC102 voditi kroz ovaj korak.
+Имајте на уму да ће вас курс БТЦ102 водити кроз овај корак.
 
 https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
-### Ovaj korak nije šala!
+### Овај корак није шала!
 
-Kada postavite novčanik, softver obično kreira vaš privatni ključ, obično predstavljen listom od 12/24 reči (često nazvan "seed phrase" ili "mnemonic phrase"): ove reči čine pristup vašim sredstvima. Ako se ovaj ključ ikada otkrije trećoj strani, trebali biste smatrati da su povezana sredstva kompromitovana. Stoga, prilikom postavljanja vašeg novčanika, neophodno je slediti ova pravila:
+Када подесите новчаник, софтвер обично креира ваш приватни кључ, обично представљен листом од 12/24 речи (које се често називају „почетна фраза“ или „мнемоничка фраза“): ове речи представљају приступ вашим средствима. Ако се овај кључ икада открије трећој страни, требало би да сматрате да су повезана средства угрожена. Стога, када подешавате свој новчаник, важно је да се придржавате ових правила:
 
 
-- Prekrijte sve kamere.
-- Не фотографишите листу са речима.
-- Не уносите то на рачунар или телефон.
-- Не чувајте га као контакт или га шаљите себи преко СМС-а.
-- Nikada ne ostavljajte svoje reči nenadgledane na svom stolu.
-- Nikada ne sakrivajte svoju listu reči na neobičnom mestu.
+- Покријте све камере.
+- Немојте фотографисати листу речи.
+- Немојте га уносити на рачунар или телефон.
+- Немојте га чувати као контакт или га слати себи путем СМС-а.
+- Никада не остављајте своје речи без надзора на свом столу.
+- Никада не сакривајте своју листу речи на необичном месту.
 
-Требало би буквално да узмете празан лист папира или да одштампате овај [шаблон](https://bitcoiner.guide/backup.pdf), и да напишете листу речи оловком, следећи представљени редослед чисто и јасно. Будите свесни да ако се тинта избледи током времена, можда ћете изгубити своја средства. Стога је важно да овај комад папира заштитите од онх еколошких фактора који би могли потенцијално да га оштете, као што су влага или ватра.
+Требало би буквално да узмете празан лист папира или одштампате овај [шаблон](хттпс://битцоинер.гуиде/бацкуп.пдф) и напишете листу речи оловком, пратећи приказани редослед уредно и јасно. Имајте на уму да ако мастило избледи током времена, можете изгубити средства. Због тога је важно да овај комад папира буде заштићен од оних фактора околине који би га потенцијално могли оштетити, попут влаге или ватре.
 
-Molim vas da pronađete primer kako da sastavite rad ovde ispod: reči su lažne, pa ih ne koristite!
+Молимо пронађите пример како саставити рад овде испод: речи су лажне, па их немојте користити!
 
 ![image](assets/en/35.webp)
 
-### Наши савети за правилно радење
+### Наши савети да то урадите како треба
 
-Osim toga, pobrinite se da ne napravite nijednu grešku tokom kopiranja, inače vaši naslednici mogu imati problema sa čitanjem i mogu biti nesposobni da povrate sredstva. Osim toga, kada ste sačuvali reči, preporučljivo je napraviti drugu kopiju i čuvati je na drugoj lokaciji od prve. Ovo osigurava da imate rezervu u slučaju da se original izgubi ili ošteti.
+Осим тога, уверите се да не направите никакву грешку током копирања, иначе ће ваши наследници можда имати проблема да је прочитају и можда неће моћи да поврате средства. Осим тога, након што сте сачували речи, препоручљиво је да направите другу копију и сачувате је на другој локацији од прве. Ово осигурава да имате резервну копију у случају да се оригинал изгуби или оштети.
 
 ![image](assets/en/36.webp)
 
-Liste reči treba čuvati na sigurnom mestu koje lako možete zapamtiti. Izbegavajte stvaranje previše komplikovanih planova za skrivanje koji bi mogli dovesti do gubitka istih.
+Листе речи треба да се чувају на безбедном месту које можете лако да запамтите. Избегавајте стварање превише компликованих планова скривања који би могли довести до њиховог губитка.
 
-**Tvoje reči = tvoj novac.**
+**Ваше речи = ваш новац.**
 
-I 'hladni' i 'topli' novčanici koriste metodu liste reči kao standard za pravljenje rezervnih kopija privatnih ključeva. Kao rezultat, možete uneti svoju mnemoničku frazu u bilo koji kompatibilni softver ili uređaj za novčanik da biste obnovili svoj pristup. S druge strane, snažno savetujemo protiv korišćenja novčanika koji ne pružaju seed frazu, jer mogu zahtevati da pružite račun, e-mail adresu, ili, što je još gore, ličnu kartu.
+И „хладни“ и „врући“ новчаници користе метод листе речи као стандард за прављење резервних копија приватних кључева. Као резултат, можете да унесете своју мнемоничку фразу у било који компатибилни софтвер или уређај за новчаник да бисте вратили свој приступ. С друге стране, изричито саветујемо да не користите новчанике који не садрже почетну фразу, јер они могу захтевати да наведете налог, адресу е-поште или, што је још горе, ИД.
 
-**ПАЖЊА: Одсуство листе од 12/24 речи треба да вас упозори.**
+**ПАЖЊА: Одсуство листе од 12/24 речи би требало да вас упозори.**
 
-Ako zatim želite da otkrijete, korak po korak, kako da podesite svoj novčanik i dobijete svoje prve bitkoine, takođe preporučujemo da pohađate ovaj drugi kurs:
+Ако затим желите да откријете, корак по корак, како да подесите сопствени новчаник и добијете своје прве биткоине, такође препоручујемо да похађате овај други курс:
 
 https://planb.network/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f
-## Пролазак кроз тест времена
+## Полагање теста времена
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
 
-Kao i svaki oblik bogatstva, vaši bitkoini moraju biti zaštićeni od gubitka, krađe i degradacije, posebno na duže staze. Zaštita vaših bitkoina zahteva neko tehničko znanje i razumijevanje povezanih rizika, što otvara put ka dve glavne strategije: graviranje vaših bitkoina na čeličnu ploču i uspostavljanje plana nasleđivanja.
+Као и сваки облик богатства, ваши биткоини морају бити заштићени од губитка, крађе и деградације, посебно на дужи рок. Заштита ваших биткоина захтева одређено техничко знање и разумевање повезаних ризика, што отвара пут ка две главне стратегије: гравирању ваших биткоина на челичној плочи и успостављању плана наслеђивања.
 
-### Graviranje u čeliku
+### Гравирање у челику
 
-Jedan način da obezbedite svoje bitkoine na duže staze je da ugravirate svoju mnemoničku frazu na otporan materijal poput čelika, stvarajući fizičku kopiju svojih ključeva koja je otporna na oštećenja od vode i vatre.
+Један од начина да осигурате своје биткоине на дуге стазе је да угравирате своју мнемоничку фразу на отпоран материјал као што је челик, креирањем физичке резервне копије ваших кључева која је отпорна и на штету од воде и ватре.
 
-Različita rešenja su dostupna: neka od njih su niskobudžetna, kao što je "Blockmit", dok druga mogu zahtevati specijalizovaniju opremu. Možete istražiti ovu temu dalje u [tutorijalima](https://planb.network/en/tutorials/wallet) sekciji naše akademije.
+Доступна су различита решења: нека од њих су јефтина, као што је „Блоцкмит“, док друга могу захтевати специјализованију опрему. Ову тему можете даље истражити у одељку [туторијали](хттпс://планб.нетворк/ен/туториалс/валлет) наше академије.
 
 ![image](assets/en/37.webp)
 
-### Размишљајте о следећој генерацији!
+### Размислите о следећој генерацији!
 
-Uz ovu prvu praksu, stvaranje plana nasleđivanja je ključni korak da se osigura da se vaši bitkoini pravilno upravljaju nakon vaše smrti. Ovaj plan uključuje pisanje pisma rukom u kojem opisujete prirodu vaše imovine, metode pristupa i kontakt informacije pouzdanih osoba koje imaju odgovornost nad njima. Takođe je važno razgovarati o nasleđivanju bitkoina sa notarom da bi se osigurala poreska usklađenost, čak i ako ova osoba nikada ne bi trebalo direktno da bude poverena upravljanje vašim bitkoinima.
+Поред ове прве праксе, креирање плана наслеђивања је кључни корак да се осигура да се вашим биткоинима правилно управља након ваше смрти. Овај план укључује рукописно писање писма у којем наводите природу своје имовине, њихове методе приступа и контакт информације особа од поверења које имају одговорност за њих. Такође је важно да разговарате о наслеђивању биткоина са бележником како бисте осигурали поштовање пореза, чак и ако тој особи никада не треба директно поверити управљање вашим биткоинима.
 
-Ako želite da dalje istražujete temu plana nasleđivanja za vaše bitkoine, preporučujemo da pročitate knjigu Pamele Morgan [Plan nasleđivanja kriptoimovine](https://planb.network/resources/books/28) ili da se upišete na kurs BTC102, gde pružamo smernice za kreiranje vašeg plana.
+Ако желите даље да истражите тему плана наслеђивања за ваше биткоине, препоручујемо вам да прочитате књигу Памеле Морган [План наслеђивања криптоактиве] (хттпс://планб.нетворк/ресоурцес/боокс/28) или да се упишете на курс БТЦ102, где пружамо упутства за креирање вашег плана.
 
 ![image](assets/en/38.webp)
 
 ### Приватност је важна
 
-Pored stvaranja fizičkih rezervnih kopija ili razvijanja plana nasleđivanja, privatnost je još jedna važna tema kada je u pitanju dugoročna sigurnost vaših bitkoina. Na primer, poželjno je kupiti bitkoine bez pružanja identifikacije kako bi se minimizirali rizici od krađe identiteta ili praćenja vaših sredstava od strane onih entiteta koji imaju prave alate.
+Поред прављења физичких резервних копија или развоја плана наслеђивања, приватност је још једна важна тема када је у питању дугорочна безбедност ваших биткоина. На пример, пожељно је купити биткоине без обезбеђивања идентификације како би се минимизирали ризици од крађе идентитета или праћења ваших средстава од стране тих субјеката уз помоћ правих алата.
 
-U pogledu privatnosti, ključno je izbegavati razgovor sa svima o vašim bitkoinima. Ne možemo predvideti kako će ova tehnologija biti percipirana u budućnosti, tako da je održavanje diskrecije o vašem vlasništvu mudar izbor: ne želite da privučete pažnju na sebe ili vaš novčanik.
+Што се тиче приватности, кључно је избегавати разговоре са свима о својим биткоинима. Не можемо предвидети како ће ова технологија бити перципирана у будућности, тако да је задржавање дискреције у вези са својим власништвом мудар избор: не желите да скрећете пажњу на себе или свој новчаник.
 
-Slično tome, izbegavajte otvoreno deljenje detalja o vašem sigurnosnom sistemu tokom sastanaka o bitcoinu ili susreta sa strancima...
+Слично томе, избегавајте да отворено делите детаље о вашем безбедносном систему током битцоин састанака или сусрета са странцима...
 
-### Rezime o sigurnosti Bitcoin novčanika
+### Резиме о безбедности Битцоин новчаника
 
-Bitcoin novčanici su komadi softvera koji vam omogućavaju da čuvate bitkoine i vršite transakcije. Postoji nekoliko tipova:
-
-
-- мобилни или PC новчаници, погодни за мале износе и/или редовне трошкове;
-- физички новчаници, погоднији за чување биткоина на средњи и дуги рок;
-- multisig novčanici, koji su složeniji za upravljanje i zahtevaju više potpisa za izvršavanje transakcija.
-
-Prilikom kreiranja novčanika, prvo morate napraviti rezervnu kopiju vaše liste od 12 ili 24 reči na komadu papira ili metalnoj ploči. Ova takozvana mnemonička fraza omogućava vam da obnovite svoj novčanik putem bilo koje Bitcoin novčanik aplikacije. Budite svesni da svako ko dobije pristup ovoj listi takođe dobija pristup vašim sredstvima.
-
-У свету Биткоина, финансијски суверенитет је тесно повезан са индивидуалном одговорношћу, што га чини неопходним да обезбедите приступ својим новчаницима и резервним копијама. Да бисте ово постигли, важно је пратити одређене смернице:
+Битцоин новчаници су комади софтвера који вам омогућавају да чувате биткоине и вршите трансакције. Постоји неколико типова:
 
 
-- Kreirajte plan nasleđivanja kako bi se osiguralo da vaši voljeni mogu preuzeti novac u slučaju bilo kakvog problema.
-- Izbegavajte ostavljanje vaših Bitkoina na platformama za razmenu jer mogu biti podložni hakerskim napadima.
-- Prilagodite svoj nivo sigurnosti svojim potrebama i slučajevima upotrebe, kako biste dobro izabrali među različitim dostupnim Bitcoin novčanicima.
+- мобилни или ПЦ новчаници, погодни за мале износе и/или редовне трошкове;
+- физички новчаници, погоднији за складиштење биткоина на средњи и дуги рок;
+- мултисиг новчаници, који су сложенији за управљање и захтевају више потписа за обављање трансакција.
 
-Sada kada smo pokrili osnove Bitcoin novčanika i najbolje prakse za njihovo obezbeđivanje, u sledećem poglavlju ćemo istražiti tehničke karakteristike Bitcoina. Još jednom, razumijevanje osnova Bitcoin protokola će poboljšati vaše razumijevanje kako on funkcioniše, omogućavajući vam da ga bolje koristite.
+Када креирате новчаник, прво морате направити резервну копију своје листе од 12 или 24 речи на комаду папира или металној плочи. Ова такозвана мнемоничка фраза вам омогућава да вратите свој новчаник путем било које апликације Битцоин новчаника. Имајте на уму да свако ко добије приступ овој листи такође добија приступ вашим средствима.
 
-# Технички аспекти Биткоина.
+У свету биткоина, финансијски суверенитет је уско повезан са индивидуалном одговорношћу, због чега је неопходно обезбедити приступ вашим новчаницима и резервним копијама. Да бисте то постигли, важно је следити одређена упутства:
+
+
+- Направите план наслеђивања како бисте осигурали да ваши најмилији могу повратити новац у случају било каквог проблема.
+- Избегавајте да остављате своје биткоине на платформама за размену јер могу бити подложни хакерским нападима.
+- Прилагодите свој ниво сигурности својим потребама и случајевима коришћења, како бисте добро бирали између различитих доступних Битцоин новчаника.
+
+Сада када смо покрили основе Битцоин новчаника и најбоље праксе за њихово обезбеђење, у следећем поглављу ћемо истражити техничке карактеристике Битцоин-а. Још једном, разумевање основа Битцоин протокола ће побољшати ваше разумевање како он функционише, оснажујући вас да га боље искористите.
+
+# Технички аспекти биткоина.
 
 <partId>a86d7439-e7a2-5f21-b1e9-6b5e23ca265b</partId>
 
-## Покретање Биткоина
+## Лансирање Битцоин
 
 <chapterId>b7561082-8943-519d-95d1-a5f60dd2686d</chapterId>
 
-### Hajde da počnemo sa malo istorije.
+### Почнимо са мало историје.
 
 ![image](assets/en/39.webp)
 
-31. октобар 2008. означава рођење нове финансијске технологије која је Биткоин. Тога дана, анонимни Сатоши Накамото је представио своју иновацију свету кроз е-пошту послату на мејлинг листу криптопанка, заједнице ентузијаста за криптографију посвећене промовисању приватности на интернету. Ова е-пошта је садржала документ назван "Бели папир", који је представљао како Биткоин функционише.
+31. октобар 2008. обележава рођење нове финансијске технологије која је Битцоин. На данашњи дан, анонимни Сатоши Накамото представио је свету своју иновацију путем е-поште послате на мејлинг листу ципхерпункс-а, заједнице ентузијаста криптографије посвећене промовисању приватности на интернету. Ова е-пошта је садржала документ под називом „Бела књига“, који је представио како Битцоин функционише.
 
-Ova inicijativa nije odmah generisala entuzijazam, verovatno zbog prethodnih neuspeha u pokušajima da se stvori digitalni novčani sistem. Ipak, ovaj Beli papir je na kraju postao referenca za korisnike Bitcoina i bio je predmet mnogih debata u Bitcoin ekosistemu tokom godina.
+Ова иницијатива није одмах изазвала ентузијазам, вероватно због претходних неуспеха у покушајима стварања дигиталног готовинског система. Ипак, ова Бела књига је на крају постала референца за кориснике Битцоин-а и била је предмет многих дебата у Битцоин екосистему током година.
 
 ![image](assets/en/40.webp)
 
-3. јануара 2009. године, Сатоши је службено покренуо Биткоин мрежу креирањем првог блока, такође познатог као "Генезис блок", који је обележио покретање Биткоин блокчејна. Овај блок садржи откривајућу поруку која одражава мисију Биткоина: "03/јан/2009 Канцлер на ивици друге спасилачке акције за банке."
+Сатоши је 3. јануара 2009. званично отворио Битцоин мрежу креирањем првог блока, такође познатог као „Генесис блок“, који је означио покретање Битцоин блок ланца. Овај блок садржи разоткривајућу поруку која одражава мисију биткоина: „03/јан/2009 Канцелар на ивици другог спаса за банке”.
 
 ![image](assets/en/41.webp)
 
-> "Možemo pobediti u velikoj bitci u trci za naoružanje i ostvariti veliku"
-> "нова територија слободе већ неколико година." - Сатоши Накамото
+> „Можемо да добијемо велику битку у трци у наоружању и добијемо а
+> нову територију слободе неколико година“. - Сатосхи Накамото
 ![image](assets/en/42.webp)
 
-### Bitcoin protokol dolazi do života
+### Битцоин протокол оживљава
 
-9. јануара 2009. године, Сатоши је најавио издавање верзије Биткоина 0.1.0. Ускоро после тога, Хал Фини преузео је софтвер и придружио се мрежи, што је означило присуство два чвора и, дакле, два рудара у мрежи. Фини је чак овејечио овај корак твитујући, 'Покрећем Биткоин'. 12. јануара 2009. године, извршена је прва Биткоин трансакција од 10 BTC између Сатошија и Хала Финија, и лако је можете пронаћи, ако се вратите до блока 170.
+9. јануара 2009. Сатоши је најавио издавање верзије Битцоин 0.1.0. Убрзо након тога, Хал Финнеи је преузео софтвер и придружио се мрежи, што је означило присуство два чвора, а самим тим и два рудара у мрежи. Фини је чак овековечио овај корак твитовањем „Руннинг Битцоин“. 12. јануара 2009. направљена је прва Битцоин трансакција од 10 БТЦ између Сатошија и Хала Финнија и лако ћете је пронаћи ако се вратите на блок 170.
 
 ![image](assets/en/43.webp)
 
-Interesovanje za Bitcoin je brzo raslo, navodeći mnoge ljude da ga testiraju, učestvuju u debatama, rešavaju greške i razmišljaju o njegovim etičkim, ekonomskim i filozofskim aspektima. Ljudi su bili toliko očarani da je Satoshi stvorio BitcoinTalk forum 22. novembra 2009. godine, kako bi olakšao ovakve vrste konfrontacija.
+Интересовање за Битцоин је брзо расло, што је навело многе људе да га тестирају, учествују у дебатама, решавају грешке и размишљају о његовим етичким, економским и филозофским аспектима. Људи су били толико очарани да је Сатоши 22. новембра 2009. године створио БитцоинТалк форум како би олакшао ове врсте конфронтације.
 
-Forum je brzo postao omiljeno mesto za diskusiju korisnika Bitcoina, toliko da su iz njega proizašli poznati memovi i simboli povezani sa Bitcoinom, kao što su [Bitcoin logo](https://bitcointalk.org/index.php?topic=64.0), poznati [Hodl](https://bitcointalk.org/index.php?topic=375643.0), ili čak [Dan pice](https://bitcointalk.org/index.php?topic=137.msg1195).
+Форум је брзо постао омиљено место за дискусију за Битцоин кориснике, толико да су се из њега родили познати мемови и симболи повезани са Битцоином, као што је [Битцоин лого](хттпс://битцоинталк.орг/индек.пхп?топиц=64.0), чувени [Ходл](хттпс://битцоинталк.орг/индек.пхп?топиц=375643.0), или чак [Пизза дан](хттпс://битцоинталк.орг/индек.пхп?топиц=137.мсг1195).
 
-**Да ли сте знали?** 22. маја 2010. године, Ласло Хањец је направио историју понудивши да купи две пице за 10.000 BTC: то је био први пут да је Биткоин коришћен за куповину физичких добара.
+**Да ли сте знали?** 22. маја 2010. Ласло Хањец је ушао у историју нудећи куповину две пице за 10.000 БТЦ: то је био први пут да је биткоин коришћен за куповину физичке робе.
 
 ![image](assets/en/44.webp)
 
-### Нестанак Сатоши Накамото
+### Нестанак Сатошија Накамота
 
-У 2010. години, када је Биткоин почео да привлачи медијску пажњу, Сатоши је одлучио да се дистанцира објављујући свој одлазак у поруци на форуму 12. децембра 2010. године. 23. априла 2011. године, обавио је своју последњу познату приватну размену путем е-поште, затим је нестао, остављајући своје творевине у рукама заједнице.
+Године 2010, када је Битцоин почео да привлачи пажњу медија, Сатоши је одлучио да се дистанцира најављујући свој одлазак у посту на форуму 12. децембра 2010. 23. априла 2011. направио је последњу познату приватну размену путем е-поште, а затим је нестао, остављајући своју креацију у рукама заједнице.
 
-> „Vlade su dobre u odsijecanju glava centralno
-> kontrolisane mreže poput Napstera, ali čiste P2P mreže poput
-> "Gnutella i Tor izgleda da se drže svojih." - Satoshi Nakamoto
-Uprkos odsustvu Satoshija, Bitcoin je nastavio da se razvija: istorija Bitcoina se piše svakih 10 minuta, a protokol nastavlja da funkcioniše do današnjeg dana kako je planirano. Bez obzira na strah, nesigurnost ili sumnju, Bitcoin nastavlja da ide napred, sa vrlo jakom online dostupnošću. Zapravo, prema ovoj [vebsajtu](https://bitcoinuptime.com/), Bitcoin je bio funkcionalan i radio bez velikih problema 99.988% vremena otkako je stvoren.
+> „Владе су добре у одсецању глава централно
+> контролисане мреже као што је Напстер, али чисте П2П мреже попут
+> Чини се да се Гнутела и Тор држе своје.” - Сатосхи Накамото
+Упркос Сатошијевом одсуству, Битцоин је наставио да се развија: историја биткоина се пише сваких 10 минута, а протокол наставља да функционише до данас како је предвиђено. Без обзира на било какав страх, неизвесност или сумњу, Битцоин наставља да напредује, са веома снажном доступношћу на мрежи. У ствари, према овој [веб страници] (хттпс://битцоинуптиме.цом/), Битцоин је био функционалан и радио без великих проблема 99,988% времена од када је створен.
 
-Za neke, Bitcoin je definisan kao gljivična entitet poput [micelijuma](https://brandonquittem.com/bitcoin-is-the-mycelium-of-money/), dok ga drugi opisuju kao [crnu rupu](https://dergigi.com/). Voleli ga ili mrzeli, Bitcoin nastavlja da postoji, sa svojim stalnim ritmom od 10 minuta po bloku, poput otkucaja srca novog monetarnog sistema.
+За неке, биткоин је дефинисан као гљивични ентитет као што је [мицелијум](хттпс://брандонкуиттем.цом/битцоин-ис-тхе-мицелиум-оф-монеи/), док га други описују као [црна рупа](хттпс://дергиги.цом/). Волео га или мрзети, Битцоин наставља да постоји, са својим сталним ритмом од 10 минута по блоку, попут откуцаја срца новог монетарног система.
 
-Da biste saznali više o pisanjima Satoshi Nakamotoa, preporučujemo čitanje ["Knjiga o Satoshiu"](https://planb.network/en/resources/books/98) autora Phil Champagne ili ARTE dokumentarac "Le mystaire Satoshi".
+Да бисте сазнали више о списима Сатошија Накамота, препоручујемо да прочитате [„Тхе Боок оф Сатосхи“](хттпс://планб.нетворк/ен/ресоурцес/боокс/98) Фила Шампањца или АРТЕ документарни филм „Ле мистаире Сатосхи“.
 
 ![image](assets/en/45.webp)
 
-> "Osnovni problem sa konvencionalnom valutom je sav poverenje koje je potrebno da bi ona funkcionisala. Centralna banka mora biti pouzdana da neće obezvrediti valutu, ali istorija fiat valuta je puna povreda tog poverenja. Banke moraju biti pouzdane da će čuvati naš novac i prenositi ga elektronski, ali one ga pozajmljuju u talasima kreditnih balona sa jedva delićem u rezervi" - [Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/)
-Sada kada imamo neko predznanje, hajde da ispitamo kako Bitcoin transakcija generalno funkcioniše.
+> „Основни проблем са конвенционалном валутом је сво поверење које је потребно да би она функционисала. Централној банци се мора веровати да неће ослабити валуту, али историја фиат валута је пуна кршења тог поверења. Мора се веровати банкама да држе наш новац и преносе га електронским путем, али оне га дају у таласима кредитних балона са једва делић резерве” – [Сатосхи Накамото](хттпс://сатосхи.накамотоинституте.орг/постс/п2пфоундатион/1/)
+Сада када имамо неку позадину, хајде да испитамо како Битцоин трансакција уопште функционише.
 
-## Трансакције са Биткоином
+## Битцоин трансакције
 
 <chapterId>03482644-5473-590b-975b-b43bb65eac21</chapterId>
 
-Bitcoin transakcija je jednostavno prenos vlasništva bitcoina kroz upotrebu Bitcoin adrese. Da bismo opisali ovaj proces, upoznajmo dva protagonista: Alisu i Boba. Alisa želi da stekne bitcoine, dok Bob već poseduje neke.
+Битцоин трансакција је једноставно пренос власништва над биткоинима коришћењем Битцоин адресе. Да бисмо описали овај процес, хајде да представимо два протагониста: Алис и Боба. Алис жели да набави биткоине, док их Боб већ поседује.
 
 ### Корак 1 - Креирање трансакције преко новчаника
 
-Da bi Bob preneo bitkoine Alisi, ona mora da mu pruži jednu od svojih Bitcoin adresa, koje su jedinstvene za njen Bitcoin novčanik. Baš kao što se privatni ključ koristi za generisanje javnog ključa, ovaj poslednji se zatim koristi za generisanje adresa.
+Да би Боб пренео биткоине Алиси, она мора да му обезбеди једну од својих Битцоин адреса, које су јединствене за њен Битцоин новчаник. Баш као што се приватни кључ користи за генерисање јавног кључа, овај други се затим користи за генерисање адреса.
 
-Konkretno, kada Alice otvori svoj novčanik i pritisne "primi", biće prikazan QR kod ili adresa (poput ove bc1q7957hh3nj47efn8t2r6xdzs2cy3wjcyp8pch6hfkggy7jwrzj93sv4uykr). Ovo služi kao njena vrsta 'Bitcoin IBAN', koju onda pruža Bobu.
+Конкретно, када Алиса отвори новчаник и притисне „прими“, приказаће се КР код или адреса (као што је ова бц1к7957хх3њ47ефн8т2р6кдзс2ци3вјцип8пцх6хфкгги7јврзј93св4уикр). Ово служи као њена врста 'Битцоин ИБАН', коју она затим даје Бобу.
 
-Nakon toga, Bob vrši transakciju otvaranjem svog Bitcoin novčanika i pritiskom na "send". Zatim kopira i lepi Alice-inu adresu u potrebno polje, dodaje iznos koji želi da pošalje, i odlučuje o transakcionim taksama, koje služe kao podsticaj za rudare da uključe transakciju u sledeći blok. Zapravo, što su takse koje Bob plaća veće, to su mu veće šanse da će transakcija biti uključena u sledeći blok dodat na blockchain, tj. javnu i nepromenljivu knjigu koja beleži sve Bitcoin transakcije.
+Након тога, Боб обавља трансакцију тако што отвара свој Битцоин новчаник и притисне „пошаљи“. Затим копира и налепи Алисину адресу у потребно поље, додаје износ који жели да пошаље и одлучује о накнадама за трансакцију, које служе као подстицај рударима да укључе трансакцију у следећи блок. У ствари, што су веће накнаде које Боб плаћа, веће су његове шансе да трансакција буде укључена у следећи блок који је додат у блок ланац, тј. јавну и непроменљиву књигу која бележи све Битцоин трансакције.
 
-Da bi završio transakciju, Bob mora da je potpiše svojim privatnim ključem kako bi potvrdio da je vlasnik bitkoina koje želi da prenese. Ovaj korak je obično automatski na mobilnim novčanicima, ili se javlja u obliku potvrde na vašem fizičkom novčaniku: "Da li ste sigurni da želite da pošaljete X na Y? Da ili ne".
+Да би завршио трансакцију, Боб мора да је потпише својим приватним кључем како би потврдио да је он власник биткоина које жели да пренесе. Овај корак је обично аутоматски на мобилним новчаницима или има облик потврде на вашем физичком новчанику: „Да ли сте сигурни да желите да пошаљете Кс на И? Да или не“.
 
 ![image](assets/en/46.webp)
 
-**Zašto plaćamo naknade?** Naknade su neophodne za stvaranje slobodnog tržišta za uključivanje transakcija u blokove. Zapravo, blok ima veličinu od 1 MB (koja je proširena na 4MB nakon Segwit ažuriranja), tako da je broj transakcija koje mogu biti "ubacene" u blok ograničen na nekoliko hiljada transakcija po bloku. Veličina transakcije zavisi od njene složenosti. Stoga, složenije transakcije obično podrazumevaju veće naknade.
+**Зашто плаћамо накнаде?** Накнаде су неопходне за стварање слободног тржишта за укључивање трансакција у блокове. У ствари, блок има величину од 1 МБ (која је проширена на 4 МБ након ажурирања Сегвит-а), тако да је број трансакција које се могу "убацити" у блок ограничен на неколико хиљада трансакција по блоку. Величина трансакције зависи од њене сложености. Због тога сложеније трансакције обично захтевају веће накнаде.
 
-### Корак 2: Пропагација трансакције кроз чворове
+### Корак 2: Ширење трансакције кроз чворове
 
-На овој фази, трансакција је креирана и Бобов новчаник ће је поделити са Биткоин мрежом. Да би то учинио, његов новчаник ће комуницирати са чвором Биткоин мреже, који ће ову информацију пропагирати другим чворовима. Ова врста процеса омогућава целој мрежи да види ову нову трансакцију и узме је у обзир.
+У овој фази, трансакција је креирана и Бобов новчаник ће је поделити са Битцоин мрежом. Да би то урадио, његов новчаник ће комуницирати са чвором Битцоин мреже, који ће ове информације пропагирати на друге чворове. Овакав процес омогућава целој мрежи да види ову нову трансакцију и узме је у обзир.
 
 ![image](assets/en/47.webp)
 
-У овом тренутку, иако је ова трансакција позната свима (путем алата под називом Mempool), не може се сматрати потврђеном док је рудар не убаци у блок, који је једини који валидира трансакције укључујући их у блокчејн.
+У овом тренутку, иако је ова трансакција свима позната (преко алата који се зове Мемпоол), не може се сматрати потврђеном све док је рудар не убаци у блок, који једини потврђује трансакције тако што их укључује у блоцкцхаин.
 
-Zapravo, rudari imaju ulogu prikupljanja važećih i nepotvrđenih transakcija kako bi ih sastavili u blok. U suštini, oni moraju rešiti kriptografsku zagonetku u procesu nazvanom "dokaz o radu" kako bi njihov blok bio sledeći u Bitcoin blokčejnu.
+У ствари, рудари имају улогу прикупљања важећих и непотврђених трансакција како би их саставили у блок. Укратко, они морају да реше криптографску загонетку у процесу који се зове „доказ рада“ како би њихов блок био следећи у Битцоин блоцкцхаину.
 
 ![image](assets/en/48.webp)
 
-### Корак 3: Трансакција је рударена у блоку од стране рудара.
+### Корак 3: Рудар је рударио трансакцију у блоку.
 
-Sistem dokaza o radu zahteva pronalaženje važećeg "hasha" za blok u pitanju: zamislite to kao jedinstveni otisak prsta povezan sa blokom, sastavljen od 256 karaktera. Važnost ovog hasha zavisi od stope težine Bitcoin mreže (o tome ćemo kasnije detaljnije govoriti). Za sada, pretpostavimo da je rudar pronašao važeći blok, i da je Bobova transakcija prema Alisi uključena u njega. Tada se novi važeći blok dodaje u blockchain, zajedničku knjigu za sve korisnike Bitcoina.
+Систем Прооф оф Ворк захтева проналажење важећег „хеша“ за дотични блок: замислите га као јединствени отисак прста повезан са блоком, састављен од 256 карактера. Ваљаност овог хеша зависи од степена тежине Битцоин мреже (касније ћемо ићи у више детаља). За сада, узмите у обзир да је рудар пронашао важећи блок и да је Бобова трансакција Алиси укључена у њега. Затим се нови важећи блок додаје у блоцкцхаин, заједничку књигу за све кориснике Битцоин-а.
 
 ![image](assets/en/49.webp)
 
 ### Корак 4: Блок је валидан и верификован од стране Алисиног референтног чвора.
 
-На овој стадији, трансакција се сматра важећом: рудар ће онда пропагирати нови блок кроз свој чвор мреже, и Алицин новчаник ће бити ажуриран.
+У овој фази, трансакција се сматра валидном: рудар ће затим пропагирати нови блок у мрежу преко свог чвора, а Алисин новчаник ће бити ажуриран.
 
 ![image](assets/en/50.webp)
 
-**Napomena:** Čak i ako je Alisi obavešteno da je primila bitkoine na jednoj od svojih adresa, preporučljivo je smatrati transakciju nepromenljivom tek nakon što je primila **šest** potvrda. To znači da se na vrh bloka koji sadrži Bobovu transakciju mora iskopati šest dodatnih blokova. Drugim rečima, što je transakcija starija u blokčejnu, postaje sve nepromenljivija.
+**Напомена:** Чак и ако је Алиса обавештена да је примила биткоине на једну од својих адреса, препоручљиво је да трансакцију сматрате непроменљивом тек након што добије **шест** потврда. То значи да шест додатних блокова мора бити минирано на врху блока који садржи Бобову трансакцију. Другим речима, што је трансакција старија у блокчејну, то постаје непроменљивија.
 
-### Колика је важност овог процеса?
+### Која је важност овог процеса?
 
-Bitcoin sistem transakcija je decentralizovan i funkcioniše od korisnika do korisnika, bez ikakvih pouzdanih posrednika.
+Битцоин трансакцијски систем је децентрализован и ради равноправно, без икаквих поузданих посредника.
 
-Bob šalje svoju transakciju na Bitcoin mrežu, i kada rudar objavi validan blok koji sadrži Bobovu transakciju, Alisa može početi da razmišlja da bitkoini pripadaju njoj. Poverenje nije potrebno ni u jednom koraku prenosa vlasništva bitkoina: samo pravila protokola i ekonomske podsticaje čine izuzetno skupim da se unutar Bitcoin sistema deluje zlonamerno.
+Боб шаље своју трансакцију у Битцоин мрежу, а када рудар објави важећи блок који садржи Бобову трансакцију, Алиса може почети да сматра да биткоини припадају њој. Поверење није потребно ни у једном кораку преноса власништва над биткоинима: правила протокола и економски подстицаји сами по себи чине да је злонамерно деловање унутар Битцоин система изузетно скупо.
 
-Zapravo, korisnici prenose vlasništvo nad svojim sredstvima digitalno potpisujući transakcije svojim privatnim ključevima. S druge strane, rudari imaju ograničenu moć, a korisnici održavaju značajnu kontrolu koristeći Bitcoin čvorove za validaciju novih blokova i uključenih transakcija. Svaki čvor ima ili potpunu ili delimičnu kopiju registra, tako da mreža formirana od strane Bitcoin čvorova čini sistem zaista decentralizovanim.
+У ствари, корисници преносе власништво над својим средствима дигиталним потписивањем трансакција сопственим приватним кључевима. С друге стране, рудари имају ограничену снагу, а корисници одржавају значајну контролу користећи Битцоин чворове за валидацију нових блокова и укључених трансакција. Сваки чвор има или пуну или делимичну копију књиге, тако да мрежа коју формирају Битцоин чворови чини систем заиста децентрализованим.
 
-Kao posledica, da bi se Bitcoin mreža potpuno uništila, svaka kopija blokčejna na svim Bitcoin čvorovima bi trebala biti eliminisana, što je praktično nemoguć zadatak zbog geografske distribucije ovih čvorova i teškoće fizičkog zaplenjivanja istih.
+Као последица тога, да би Битцоин мрежа била потпуно уништена, свака копија блок ланца на свим Битцоин чворовима би морала да буде елиминисана, што је практично немогућ задатак због географске дистрибуције ових чворова и потешкоћа да се они физички заузму.
 
-Hajde da se detaljnije pogledamo kako radi Bitcoin čvor.
+Хајде да ближе погледамо како функционише Битцоин чвор.
 
-## Bitcoin čvorovi
+## Битцоин чворови
 
 <chapterId>8533cebc-f799-528b-89df-8d75d4c37f1c</chapterId>
 
-Čvorovi su osnovni element arhitekture Bitcoin mreže, jer obavljaju razne ključne funkcije:
+Чворови су основни елемент архитектуре Битцоин мреже, јер обављају различите кључне функције:
 
 
-- Održavanje kopije Bitcoin blokčejna
-- Потврђивање трансакција
-- Пренос информација на друге чворове
-- Sprovođenje pravila Bitcoin protokola.
+- Одржавање копије Битцоин блоцкцхаина
+- Валидација трансакција
+- Пренос информација другим чворовима
+- Спровођење правила Битцоин протокола.
 
-Stoga, bilo koji uređaj koji pokreće deo Bitcoin softvera, nazvan Bitcoin čvor (često koristeći [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/)), doprinosi decentralizaciji mreže.
+Стога, сваки уређај који користи део Битцоин софтвера, који се зове Битцоин чвор (често користи [Битцоин Цоре](хттпс://битцоин.орг/ен/битцоин-цоре/)), доприноси децентрализацији мреже.
 
 ![image](assets/en/51.webp)
 
-### Čvorovi su centralna jezgra Bitcoina.
+### Чворови су централно језгро Битцоин-а.
 
-Svaki čvor drži kopiju blokčejna, što omogućava verifikaciju transakcija i sprečava bilo kakav pokušaj prevare. Decentralizovana priroda mreže daje Bitcoinu izuzetnu otpornost i robustnost. Zapravo, da bi se zaustavio Bitcoin protokol, svi čvorovi širom sveta bi morali biti isključeni. Za vašu informaciju, u septembru 2023. godine bilo je otprilike [45,000 čvorova](https://bitnodes.io/nodes/all/) raspoređenih širom sveta.
+Сваки чвор садржи копију блоцкцхаина, који дозвољава верификацију трансакције и спречава сваки покушај преваре. Децентрализована природа мреже даје Битцоин-у изузетну отпорност и робусност. У ствари, да би се зауставио Битцоин протокол, сви чворови широм света би морали да се угасе. За вашу информацију, од септембра 2023. било је приближно [45.000 чворова](хттпс://битнодес.ио/нодес/алл/) дистрибуираних широм света.
 
-Čvorovi su sposobni da provere validnost blokova i transakcija jer prate pravila Bitcoin konsenzusa. Ova pravila uspostavljaju monetarnu politiku Bitcoina, kao što je iznos nagrade rudarima (o čemu ćemo detaljnije razgovarati u sledećem odeljku) i količina bitcoina u opticaju. Na neki način, čvorovi deluju kao pravni sistem mreže jer svi učesnici mreže prate ista pravila zbog njih, pa oni osiguravaju neutralnost Bitcoin protokola. Pravila konsenzusa se retko menjaju, ako se uopšte menjaju, jer je za promene potrebna odobrenje svih čvorova.
+Чворови су способни да верификују валидност блокова и трансакција јер прате правила консензуса о Битцоин. Ова правила утврђују монетарну политику биткоина, као што је износ награде рудара (о чему ћемо детаљније говорити у следећем одељку) и количина биткоина у оптицају. На неки начин, чворови делују као правни систем мреже јер због њих сви учесници мреже поштују иста правила, па обезбеђују неутралност Битцоин протокола. Правила консензуса једва да се разликују, ако уопште постоје, јер да би се направиле промене, потребно је одобрење свих чворова.
 
 ![image](assets/en/52.webp)
 
-Upravljanje unutar protokola je izvan opsega ovog osnovnog kursa, ali je važno napomenuti da svaki korisnik koji pokreće Bitcoin čvor može odlučiti koja pravila da sledi. Korisnik može izabrati da se pridržava različitih pravila (tj. da vrši modifikacije koda), ali ako ove promene ponište trenutna pravila konsenzusa, taj čvor više neće biti deo Bitcoin mreže. Stoga su velike modifikacije retke i zahtevaju značajnu koordinaciju među hiljadama učesnika sa različitim ideologijama i interesima, što ih primorava da pruže ažuriranja koja su smatrana 'boljim' od svih Bitcoin korisnika.
+Управљање у оквиру протокола је ван оквира овог основног курса, али је важно напоменути да сваки корисник који користи Битцоин чвор може одлучити која правила ће пратити. Корисник може изабрати да се придржава различитих правила (тј. да изврши модификације кода), али ако ове промене пониште тренутна правила консензуса, тај чвор више неће бити део Битцоин мреже. Сходно томе, велике модификације су ретке и захтевају значајну координацију међу хиљадама учесника са различитим идеологијама и интересима, што их приморава да обезбеде ажурирања која сви корисници Битцоин-а сматрају „бољима“.
 
-### Kako izgleda čvor?
+### Како изгледа чвор?
 
-Postoji nekoliko opcija dostupnih kada želite da instalirate svoj čvor, sa različitim troškovima održavanja. Možete jednostavno pokrenuti Bitcoin Core softver na svom računaru, ali će vam biti potrebna značajna količina prostora za skladištenje, jer je blokčejn oko ~500GB. Da biste prevazišli ovo ograničenje, možete izabrati da u memoriji zadržite samo poslednjih N blokova kreiranjem "orezanog čvora". Za ovu drugu opciju, trošak je zanemarljiv jer je čvor aktivan samo kada vam je potreban.
+Постоји неколико доступних опција када желите да инсталирате сопствени чвор, са различитим трошковима одржавања. Можете једноставно покренути Битцоин Цоре софтвер на свом рачунару, али ће за то бити потребна значајна количина простора за складиштење, пошто је блок ланца око ~500 ГБ. Да бисте превазишли ово ограничење, можете изабрати да задржите само последњих Н блокова у меморији тако што ћете креирати „ошишани чвор“. За ово друго решење, цена је занемарљива јер је чвор активан само када вам је потребан.
 
 ![image](assets/en/53.webp)
 
-Druga opcija je da koristite poseban hardver za ovu svrhu, kao što je Raspberry Pi 4 sa dovoljno velikim SSD-om (oko ~1TB). Ova druga opcija je skuplja ako morate da kupite hardver, ali predstavlja malo manje od €10,00 godišnje u pogledu potrošnje električne energije.
+Друга опција је да користите наменски комад хардвера за ову сврху, као што је Распберри Пи 4 са довољно великим ССД-ом (око ~1ТБ). Ова друга опција је скупља ако морате да купите хардвер, али представља нешто мање од €10,00 годишње у смислу потрошње електричне енергије.
 
-Sa perspektive propusnog opsega, uzimajući u obzir 1 blok od 1MB svakih 10 minuta, to otprilike odgovara 5GB mesečno.
+Из перспективе пропусног опсега, узимајући у обзир 1 блок од 1МБ сваких 10 минута, то одговара приближно 5ГБ месечно.
 
-### Čvorovi moraju ostati dostupni svima!
+### Чворови морају остати доступни свима!
 
-Pristupačna cena i dostupnost Bitcoin čvora u pogledu hardverskih resursa, skladištenja i propusnog opsega je veoma važna karakteristika, jer olakšava decentralizaciju mreže.
+Приступачна цена и доступност Битцоин чвора у смислу хардверских ресурса, складиштења и пропусног опсега је веома важна карактеристика, јер олакшава децентрализацију мреже.
 
-Zaista, svako ima dobar razlog da pokrene čvor! Troškovi i napori su minimalni u poređenju sa dobijenom koristi. Samo trebate započeti avanturu i pridružiti se hiljadama drugih bitkoinera kako biste zajedno formirali Bitcoin mrežu.
+Заиста, свако има добар разлог да покрене чвор! Трошкови и напори су минимални у поређењу са добијеном добити. Само треба да се упустите у авантуру и придружите се хиљадама других битцоинера да бисте заједно формирали Битцоин мрежу.
 
 ![image](assets/en/54.webp)
 
-Напротив, ако би блокови били 100 пута тежи, могли бисмо свакако да обавимо 100 пута више трансакција сваких 10 минута, али би рад на Биткоин чвору захтевао 50ТБ хард диск, проток од преко 500ГБ/месец и хардвер способан за валидацију стотина хиљада трансакција за мање од 10 минута. У овој хипотетичкој ситуацији са 100 пута већим блоковима, рад на Биткоин чвору не би био доступан просечној особи, што би угрозило и децентрализацију протокола и непроменљивост трансакција и правила консензуса.
+Напротив, да су блокови 100 пута тежи, сигурно бисмо могли да направимо 100 пута више трансакција сваких 10 минута, али покретање Битцоин чвора захтевало би хард диск од 50ТБ, пропусни опсег од преко 500ГБ месечно и комад хардвера који може да потврди стотине хиљада трансакција за мање од 10 минута. У овој хипотетичкој ситуацији са 100 пута већим блоковима, покретање Битцоин чвора не би било доступно просечној особи, што би угрозило и децентрализацију протокола и непроменљивост трансакција и правила консензуса.
 
-Dakle, ograničenja protokola su dizajnirana da omoguće što većem broju ljudi da pokreću svoje sopstvene Bitcoin čvorove. Zapravo, godina 2017. je obeležena intenzivnom kontroverzom poznatom kao "rat veličine bloka". Ovaj sukob je suprotstavio one koji su želeli da modifikuju Bitcoin povećanjem veličine bloka kako bi poboljšali kapacitet transakcija (rudari, platforme za razmenu i institucije) protiv onih koji su težili da očuvaju nezavisnost i moć korisnika (čvorovi i korisnici). Na kraju, druga strana je trijumfovala.
+Стога су ограничења протокола дизајнирана да омогуће што већем броју људи да покрећу сопствене Битцоин чворове. У ствари, 2017. годину обележила је интензивна контроверза позната као „рат величине блока“. Овај сукоб је супротставио оне који су желели да модификују биткоин повећањем величине блока како би побољшали капацитет трансакције (рударе, платформе за размену и институције) против оних који су настојали да очувају независност и моћ корисника (чворови и корисници). На крају је тријумфовала друга партија.
 
-Nakon ove pobede, čvorovi su aktivirali ažuriranje pod nazivom SegWit, pripremajući teren za implementaciju Lightning Network-a, trenutne mreže za plaćanje Bitcoin-a izgrađene kao drugi sloj Bitcoin blockchain-a. Ova situacija pokazuje da korisnici, kroz svoje čvorove, imaju stvarnu moć unutar Bitcoina, omogućavajući im da se suprotstave velikim institucijama u vremenima neslaganja.
+Након ове победе, чворови су активирали ажурирање под називом СегВит, утирући пут за имплементацију Лигхтнинг мреже, тренутне мреже плаћања Битцоин-ом изграђене као други слој Битцоин блоцкцхаина. Ова ситуација показује да корисници, преко својих чворова, имају стварну моћ унутар Битцоин-а, омогућавајући им да се супротставе великим институцијама у временима неслагања.
 
-## Rudari
+## рудари
 
 <chapterId>dbb8264a-7434-57e4-9d1b-fbd1bae37fdf</chapterId>
 
-**Rudari obezbeđuju mrežu i dodaju transakcije u blokove. Koriste električnu energiju kroz ASIC mašine da reše Bitcoin dokaz o radu.**
+**Рудари обезбеђују мрежу и додају трансакције у блокове. Они користе струју преко АСИЦ машина да би решили Битцоин доказ о раду.**
 
 ![image](assets/en/55.webp)
 
 ### Објашњење доказа о раду
 
-"Dokaz o radu" (POW) je mehanizam sigurnosnog konsenzusa Bitcoin protokola. To je temelj svega i igra ključnu ulogu u teoriji igara Bitcoina.
+„Доказ рада“ (ПОВ) је механизам безбедносног консензуса Битцоин протокола. То је темељ свега и игра кључну улогу у теорији игара Битцоин-а.
 
-Da bih objasnio kako to funkcioniše, zamislite univerzalnu lutriju u kojoj svi mogu da učestvuju. Cilj je pronaći specifičan broj koji omogućava pobedniku da potpiše validan blok, zaradivši nagradu u Bitcoinu. Ovaj broj je vrlo jednostavan za proveru koristeći SHA-256 hash funkciju, ali težak za pronalaženje: učesnici (rudari) će isprobati milijarde i milijarde mogućnosti, kao što su 1, 52, 2648, 26874615, 15344854131318631, i tako dalje, dok ne otkriju pravi.
+Да бисте објаснили како то функционише, замислите универзалну лутрију у којој свако може да учествује. Циљ је пронаћи одређени број који омогућава победнику да потпише важећи блок, зарађујући награду у Битцоин-у. Овај број је веома једноставно проверити коришћењем хеш функције СХА-256, али га је тешко пронаћи: учесници (рудари) ће испробати милијарде и милијарде могућности, као што су 1, 52, 2648, 26874615, 15344854131318631, и тако даље, док не открију праву.
 
-Ako je izabrani broj tačan: Džekpot! U suprotnom, potraga se nastavlja.
+Ако је изабрани број тачан: Јацкпот! Иначе, потрага се наставља.
 
-Da bi optimizovali broj pokušaja, koristiće se specifične mašine nazvane ASICs, koje imaju jedinu ulogu da izračunavaju milijarde mogućnosti u sekundi (ukupna količina pokušaja se naziva "HashRate"). Da bi ove mašine radile, mora se potrošiti velika količina električne energije. Stoga, POW pretvara energiju u valutu, povezujući stvarni svet i digitalni svet kako bi stvorio prvu valutu zasnovanu na energiji.
+Да би оптимизовали број покушаја, користиће посебне машине које се зову АСИЦ-ови, који имају једину улогу да израчунавају милијарде могућности у секунди (укупна количина покушаја се назива „ХасхРате“). За рад ових машина морају се потрошити велике количине електричне енергије. Стога, ПОВ трансформише енергију у валуту, повезујући стварни и дигитални свет како би створио прву валуту засновану на енергији.
 
-Mašine rade neprekidno, i nakon prosečnih 10 minuta, pojavljuje se pobednik: ovaj učesnik je uspešno pronašao tačan hash koji je ispod praga težine. Veliki i jedini pobednik će potom potpisati novi blok vremenskog servera, dodajući ga u blockchain. Oni primaju svoje nagrade i vraćaju se da pokušaju sreću u rudarenju sledećeg bloka. Ovaj proces traje već više od deset godina, sa pobednikom koji potvrđuje Bitcoin transakcije svakih 10 minuta dok takođe obezbeđuje prethodne transakcije, čime čini Bitcoin blockchain jačim i sigurnijim.
+Машине раде непрекидно, а после просечно 10 минута излази победник: овај учесник је успешно пронашао тачан хеш који пада испод прага тежине. Велики и једини победник ће затим потписати нови блок сервера временске ознаке, додајући га у блок ланац. Добијају своје награде и враћају се да окушају срећу у рударењу следећег блока. Овај процес траје више од десет година, а победник потврђује Битцоин трансакције сваких 10 минута, истовремено обезбеђујући прошле трансакције, чинећи тако Битцоин блок ланац робуснијим и сигурнијим.
 
-Svaka 2016 blokova (otprilike svake dve nedelje), **prilagođavanje težine** uravnotežuje globalnu rudarsku igru na osnovu broja učesnika. Ovo prilagođavanje je neophodno jer broj rudara i njihova kombinovana računarska snaga mogu se značajno menjati tokom vremena. Da bi se održalo ciljano vreme bloka, mreža prilagođava nivo težine na osnovu brzine kojom su rudareni poslednji 2016 blokova. Ako su rudareni prebrzo, težina se povećava, čineći teže pronalaženje ispravnog haša. Naprotiv, ako su rudareni presporo, težina se smanjuje, čineći ga lakšim.
+Сваких 2016. блокова (отприлике сваке две недеље), **прилагођавање потешкоћа** поново балансира глобалну рударску игру на основу броја учесника. Ово прилагођавање је неопходно јер број рудара и њихова комбинована рачунарска снага могу значајно да варирају током времена. Да би одржала циљно време блока, мрежа поново калибрише ниво тежине на основу тога колико брзо су минирани последњи блокови у 2016. Ако су минирани пребрзо, потешкоће се повећавају, што отежава проналажење тачног хеша. Напротив, ако су минирани преспоро, тешкоћа се смањује, што олакшава.
 
 ![image](assets/en/24.webp)
 
-### Rudarstvo se neprestano razvija
+### Рударство се стално развија
 
-Tokom godina, rudari su se opremali sve efikasnijom računarskom opremom kako bi proizveli što više heševa po sekundi (HashRate) trošeći najmanje moguće energije na najekonomičniji mogući način. Rani rudari poput Satoshija ili Hala Finneya rudarili su koristeći samo svoj CPU, a zatim su drugi počeli da rudare sa svojim grafičkim karticama. Danas, rudari koriste ASIC-e (Application-Specific Integrated Circuit): mašine isključivo dizajnirane za primenu SHA256 algoritma.
+Током година, рудари су се опремили све ефикаснијим рачунарским хардвером да произведу што више хешова у секунди (ХасхРате) док троше најмању количину енергије на најисплативији могући начин. Рани рудари као што су Сатосхи или Хал Финнеи рударили су користећи само свој ЦПУ, а онда су други почели да рударе помоћу својих графичких картица. Данас рудари користе АСИЦ (апликацију-специфична интегрисана кола): машине дизајниране искључиво за примену СХА256 алгоритма.
 
 ![image](assets/en/56.webp)
 
-Hashrate Bitcoin mreže predstavlja broj pokušaja napravljenih u sekundi da se pronađe sledeći blok. Danas je čak premašio 500 TH/s, što je 500.000 milijardi pokušaja u sekundi! Što je globalni hashrate veći, teže je zlonamernom akteru da monopolizuje resurse potrebne za dobijanje većine rudarske snage i troši svoja sredstva više od jednom (problem dvostrukog trošenja). Stoga je ekonomski isplativije slediti pravila Bitcoin protokola nego delovati protiv njih.
+Хасхрате Битцоин мреже представља број покушаја у секунди да се пронађе следећи блок. Данас је чак премашио 500 ТХ/с, што је 500.000 милијарди покушаја у секунди! Што је већи глобални хешрејт, злонамерном актеру је теже да монополизује ресурсе потребне да добије већину рударске моћи и потроши своја средства више пута (проблем двоструке потрошње). Због тога је економски исплативије пратити правила Битцоин протокола него деловати против њих.
 
 ![image](assets/en/57.webp)
 
 ### Шта се може наћи у блоку?
 
-Zaglavlje bloka sadrži nekoliko elemenata kao što su vreme, ciljna težina, broj poslednjeg bloka, korišćena verzija i Merkle koren prethodnih transakcija.
+Заглавље блока садржи неколико елемената као што су време, циљ тежине, број последњег блока, коришћена верзија и Меркле Роот претходних трансакција.
 
-**Coinbase transakcija** je uvek prva koja je uključena u blok: sadrži nagradu rudara za obavljanje validatorovog posla. Zatim dolaze validirane transakcije. Rudari će izabrati da ubace transakcije koje im donose najviše profita, odnosno transakcije male veličine sa maksimalnim provizijama.
+**Трансакција цоинбасе** је увек прва укључена у блок: садржи награду рудара за обављање посла валидатора. Затим долазе валидиране трансакције. Рудари ће изабрати да убаце трансакције које им доносе највећи профит, односно мале трансакције са максималним накнадама.
 
-### Naknada rudara
+### Накнада рударима
 
-Inicijalno, rudar je kompenzovan kada pronađe validan blok. Preciznije, nagrađuju se na dva načina:
+У почетку, рудар добија надокнаду када пронађе важећи блок. Тачније, они су награђени на два начина:
 
 
-- преко субвенције (новоискованих биткоина) укључене у блок;
-- преко такса за трансакције из трансакција укључених у блок.
+- кроз субвенцију (новоковани биткоини) укључене у блок;
+- преко трансакционих накнада од трансакција укључених у блок.
 
-Iznos subvencije je definisan konsenzus pravilima i zavisi od Epoha: **nagrada za blok = subvencija za blok + transakcijske naknade**.
+Висина субвенције је дефинисана правилима консензуса и зависи од Епохе: **награда за блок = субвенција за блок + трансакционе накнаде**.
 
-Zaista, za prve blokove, subvencija za blok je bila 50 bitkoina. Svaki 210,000 blokova (otprilike svake 4 godine), ova količina se prepolovi. Danas (u 2024), mi smo u 5. Epohi, što znači da je subvencija 3.125 bitkoina. Ukratko, ovo je automatski mehanizam koji oslobađa nove bitkoine u sistemu. Subvencija se smanjuje vremenom, sve dok ne dostigne limit izdavanja od 21 milion bitkoina. Već je u opticaju preko 19.4 miliona bitkoina, što je preko 92%.
+Заиста, за прве блокове, блок субвенција је била 50 биткоина. На сваких 210.000 блокова (отприлике сваке 4 године), овај износ се преполови. Данас (2024. године) смо у 5. Епохи, што значи да је субвенција 3.125 биткоина. Укратко, ово је аутоматски механизам који ослобађа нове биткоине у систему. Субвенција се временом смањује, све док не достигне лимит издавања од 21 милион биткоина. У оптицају је већ преко 19,4 милиона биткоина, што је преко 92%.
 
 ![image](assets/en/58.webp)
 
-Drugi metod kompenzacije je definisan količinom koju korisnici odaberu za transakcione takse, koje pokazuju hitnost korisnika da njihova transakcija bude uključena u sledeći blok. Pošto rudari žele da maksimiziraju svoj prihod, oni će imati tendenciju da prioritet daju transakcijama sa visokim transakcionim taksama.
+Други начин компензације дефинисан је износом који корисници бирају за трансакционе накнаде, које показују колико је корисник хитан да се њихова трансакција укључи у следећи блок. Пошто рудари желе да максимизирају свој приход, они ће тежити да дају приоритет трансакцијама са високим накнадама за трансакције.
 
 ![image](assets/en/59.webp)
 
-Da bi stabilizovali svoj poslovni model, koji se oslanja na nagrade koje dobijaju za svaki validan blok, rudari često stvaraju grupe kroz "rudarske bazene", gde objedinjuju svoje računarske resurse.
+Да би стабилизовали свој пословни модел, који се ослања на награде које добијају за сваки важећи блок, рудари често креирају групе кроз „пулове за рударење“, где удружују своје рачунарске ресурсе.
 
-### Zašto se truditi oko svega ovoga?
+### Зашто се мучити радећи све ово?
 
-Ukratko, inovacija Bitcoina je predložiti rešenje za problem dvostrukog trošenja kroz upotrebu blockchaina zasnovanog na dokazu o radu sa promenljivom težinom. U digitalnom svetu, koncept vlasništva se razlikuje od onog u fizičkom svetu. Zapravo, u digitalnom svetu, sve se može kopirati i nalepiti, što stvara rizik od višestrukog korišćenja digitalnih sredstava vrednosti. Pouzdani posrednici, poput banaka, su stvoreni da reše ovaj tehnološki problem i osiguraju da kada se sredstvo prenese, ono više ne pripada pošiljaocu.
+Укратко, иновација Битцоин-а је да предложи решење за проблем двоструке потрошње кроз коришћење блоцкцхаина заснованог на Прооф оф Ворк са плутајућим потешкоћама. У дигиталном свету, концепт власништва се разликује од оног у физичком свету. У ствари, у дигиталном свету, све се може копирати и залепити, што ствара ризик да се дигитална средства вредности више пута користе. Повјерени посредници, као што су банке, створени су да ријеше овај технолошки проблем и осигурају да када се имовина пренесе, оно више не припада пошиљаоцу.
 
-Ali kako se to može postići bez pouzdanog posrednika? Ovaj problem je dobro opisan kroz paradoks Vizantijskih generala, problem koordinacije informacija u sistemu gde se različitim akterima ne može verovati. U problemu Vizantijskih generala, grupa generala mora da koordinira napad na grad, ali neki mogu biti izdajnici koji pokušavaju da poremete plan. Izazov je da lojalni generali postignu konsenzus o tome da li da napadnu ili se povuku, uprkos potencijalno obmanjujućim porukama od izdajnika.
+Али како се то може урадити без посредника од поверења? Овај проблем је добро описан кроз парадокс византијских генерала, проблем координације информација у систему у којем се не може веровати различитим актерима. У проблему византијских генерала, група генерала мора да координира напад на град, али неки могу бити издајници који покушавају да поремете план. Изазов је да лојални генерали постигну консензус о томе да ли да нападну или да се повуку, упркос томе што добијају потенцијално обмањујуће поруке од издајника.
 
 ![image](assets/en/60.webp)
 
-Bitcoin je stoga vrsta rešenja za rešavanje ovog problema, ili barem za njegovo zaobilaženje. "Generali" Bitcoina, ili rudari, proizvode blokove (informacija) a Bitcoin čvorovi verifikuju finansijske transakcije koristeći pravila konsenzusa kako bi osigurali autentičnost informacija. Asimetrija u energetskom trošku između proizvodnje informacija i verifikacije osigurava pouzdanost informacija, bez pouzdanog trećeg lica.
+Биткоин је стога својеврсно решење за решавање овог проблема, или бар за његово заобилажење. „Генерали“ Битцоин-а, или рудари, производе блокове (информација) и Битцоин чворови верифицирају финансијске трансакције користећи правила консензуса како би осигурали аутентичност информација. Асиметрија у цени енергије између производње информација и верификације обезбеђује поузданост информација, без треће стране од поверења.
 
-Rudari su graditelji sigurnosti Bitcoin mreže. Trošeći energiju da proizvedu haševe, oni grade zid koji čini izuzetno skupim za zlonamernog agenta da prepisuje istoriju transakcija, a ova ekonomska odvraćanja sprečavaju druge da se ponašaju nepošteno.
+Рудари су градитељи сигурности Битцоин мреже. Трошећи енергију за производњу хешева, они граде зид који чини изузетно скупим за злонамерног агента да препише историју трансакција, а овај економски дестимуланс одвраћа друге од непоштеног понашања.
 
-Чак и у случају напада од 51%, где би агент поседовао више од половине хашрејта, мрежа би остала сигурна јер нападач мора потрошити олико енергије колико и сви рудари заједно да би покушао да измени блокчејн. Овај механизам доказа о раду који захтева много енергије је оно што обезбеђује сигурност мреже.
+Чак и у случају напада од 51%, где би агент поседовао више од половине хешрате-а, мрежа би остала безбедна јер нападач мора да потроши толико енергије колико и сви рудари заједно да би покушали да модификују блоцкцхаин. Овај енергетски интензиван механизам за проверу рада је оно што обезбеђује сигурност мреже.
 
-### У суми
+### Укратко
 
-Teorija igre primenjena na Bitcoin eliminiše nepoštene rudare, koji koriste ASIC mašine za rudarenje i dobijaju nagradu u slučaju uspeha. Pored toga, često se pridružuju rudarskim bazenima da bi podelili svoju računarsku snagu i primali manje, ali redovnije nagrade. Iako rudarenje Bitcoina podrazumeva visoke energetske troškove, ono je ključno za rad i sigurnost Bitcoin mreže. Mehanizam dokaza o radu i tehnologija blokčejna rešavaju problem dvostrukog trošenja i osiguravaju integritet informacija bez oslanjanja na pouzdanu treću stranu. Iako proizvodnja informacija zahteva značajan energetski utrošak, provera tih informacija podrazumeva zanemarljiv trošak. Ova asimetrija pojačava sigurnost mreže, čineći je ekonomski održivijom za pridržavanje pravila konsenzusa nego za pokušaj njihovog kršenja.
+Теорија игре примењена на Битцоин елиминише непоштене рударе, који користе АСИЦ машине за рударење и добијају награду у случају успеха. Поред тога, често се придружују рударским скуповима како би поделили своју рачунарску снагу и добили мање, али редовније награде. Иако рударење Битцоин-а изазива високе трошкове енергије, оно је кључно за рад и сигурност Битцоин мреже. Механизам доказа о раду и блоцкцхаин технологија решавају проблем двоструке потрошње и обезбеђују интегритет информација без ослањања на трећу страну од поверења. Иако производња информација захтева значајне трошкове енергије, провера те информације има занемарљив трошак. Ова асиметрија јача безбедност мреже, чинећи је економски исплативијом да се придржава правила консензуса уместо да их покушава да прекрши.
 
-Ako želite da se detaljnije upustite u specifičnu temu rudarenja Bitcoina, možete se konsultovati sa našim MIN 201 kursom. Otkrićete kako funkcioniše i koja je uloga Dokaza-o-radu, kao i mehaniku industrije rudarenja. Takođe objašnjavamo kako da pretvorite ASIC u grejač, omogućavajući vam da rudarite svoje prve satoshije dok grejete svoj dom!
+Ако желите дубље да продрете у конкретну тему рударења биткоина, можете консултовати наш курс МИН 201. Открићете рад и улогу Прооф-оф-Ворк-а, као и механику рударске индустрије. Такође објашњавамо како да претворите АСИЦ у грејач, омогућавајући вам да рударите своје прве сатошије док грејете свој дом!
 
 https://planb.network/courses/ce272232-0d97-4482-884a-0f77a2ebc036
-## Bitcoin i Ekologija
+## Битцоин и екологија
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>
 
-U prethodnom delu, shvatili smo da sigurnost Bitcoin protokola zavisi od visoke potrošnje energije kako bi se proizvela javna knjiga transakcija bez pouzdanog trećeg lica. U mainstream medijima, ukupni energetski trošak često se upoređuje sa potrošnjom električne energije male zemlje. Ali da li ova poređenja imaju smisla? Da li je relevantno razumeti razloge iza takvih troškova?
+У претходном одељку смо разумели да се безбедност Битцоин протокола ослања на високу потрошњу енергије за производњу јавне књиге трансакција без поверљиве треће стране. У мејнстрим медијима, укупна цена енергије се често пореди са потрошњом електричне енергије у малој земљи. Али да ли ово поређење има смисла? Да ли је релевантно разумети разлоге за такве трошкове?
 
-### Енергетски трошкови Биткоина.
+### Трошкови енергије Битцоин-а.
 
-Prvo, hajde kvalitativno da procenimo ekološku cenu rudarenja. Rudar mora da ima mašinu poput ASIC-a i izvor energije u obliku električne energije za napajanje ovih mašina. ASIC-i su uglavnom napravljeni od aluminijuma i mogu se reciklirati ili ponovo koristiti za drugu svrhu (kao što je pokazano u projektu Attakaï opisanom u našem kursu MIN201), koji pretvara Antminer S9 u grejalice). Glavna briga je stoga potrošnja energije.
+Прво, хајде да квалитативно проценимо еколошке трошкове рударства. Рудар мора имати машину као што је АСИЦ и извор енергије у облику електричне енергије за напајање ових машина. АСИЦ-ови су углавном направљени од алуминијума и могу се или рециклирати или поново користити за другу сврху (као што је демонстрирано пројектом Аттакаи описаним у нашем курсу МИН201), који претвара Антминер С9 у грејач простора). Стога је главна брига потрошња енергије.
 
 ![image](assets/en/61.webp)
 
-Potrošnja električne energije predstavlja gotovo sve troškove za rudara. Stoga se oni podstiču da pronađu jeftin izvor električne energije, pa mogu otići na mesta gde su postrojene elektrane, ali još uvek nisu povezane sa električnom mrežom teritorije. U ovom slučaju, rudari deluju kao kupac poslednje nade, omogućavajući elektranama da obezbede finansiranje čak i pre nego što se povežu sa električnom mrežom. Kada se povežu, potražnja za električnom energijom će se povećati, što će podići cenu i učiniti manje profitabilnim za rudare da dobiju električnu energiju na ovim mestima. Pošto se mašine mogu lako premestiti, rudari će onda odlučiti da prenesu svoju instalaciju i nastane se dalje gde je potražnja niska, a tako je i cena, najčešće u oblastima gde mogu dobiti energiju iz zelenih elektrana.
+Потрошња електричне енергије представља скоро све трошкове рудара. Због тога се подстичу да пронађу јефтин извор електричне енергије, како би могли да оду на места где су електране инсталиране, али још нису прикључене на електричну мрежу територије. У овом случају рудари делују као купац у крајњој инстанци, омогућавајући електранама да обезбеде финансирање чак и пре него што буду прикључене на електричну мрежу. Када се они прикључе, повећаће се потражња за струјом, што ће подићи цену и рударима бити мање исплативо добијање струје на овим местима. Пошто се машине могу лако померити, рудари ће тада одлучити да преузму своју инсталацију и настањују се даље тамо где је потражња ниска, као и цена, најчешће у областима где могу добити енергију из зелених електрана.
 
-### Beskrajna debata
+### Бескрајна дебата
 
-Dakle, debata o ekološkom uticaju Bitcoina često je pogrešno usmerena, uglavnom zbog nedovoljnog razumijevanja njegove korisnosti. Bitcoin se ne može proceniti samo u smislu energetskih troškova po transakciji, jer rudari obezbeđuju i trenutnu i istorijsku mrežu, a transakcije su grupisane i nisu sve ekvivalentne. Pored toga, uticaj Lightning Network-a čak nije ni uzet u obzir. Oni koji tvrde da Bitcoin troši previše energije mogu imati političke motivacije ili pokušavaju prodati svoje vlastito blockchain rešenje. Mnogo puta, ekološki izgovor se koristi za opravdanje zabrane Bitcoina.
+Стога је дебата о еколошком утицају биткоина често погрешна, углавном због недовољног разумевања његове корисности. Битцоин се не може проценити једноставно у смислу трошкова енергије по трансакцији, јер рудари обезбеђују и тренутну и историјску мрежу, а трансакције су груписане и нису све еквивалентне. Осим тога, утицај Лигхтнинг мреже није чак ни узет у обзир. Они који тврде да биткоин троши превише енергије можда имају политичке мотиве или желе да продају сопствено решење за блок ланац. Много пута се еколошки изговор користи да се оправда забрана Битцоина.
 
-Važno je naglasiti da Bitcoin, kao revolucionarni izum, pruža sredstvo za pojedince koji žive pod finansijskom opresijom ili diktatorskim režimima da se bore za svoju slobodu. Kao poslednje sredstvo, Bitcoin nudi put ka finansijskoj nezavisnosti zaobilazeći cenzuru i bankarska ograničenja. Više od samo valute, Bitcoin služi kao oblik komunikacije i simbol slobode, a energija koju troše rudari igra ključnu ulogu u odbrani ove slobode, omogućavajući emancipaciju od finansijskog sistema koji dominira dugom i prekomernim stvaranjem novca od strane centralnih banaka.
+Важно је нагласити да биткоин, као револуционарни изум, омогућава појединцима који живе под финансијским угњетавањем или диктаторским режимима да се боре за своју слободу. Као последње средство, Битцоин нуди пут ка финансијској независности заобилажењем цензуре и банкарских ограничења. Више него само валута, Битцоин служи као облик комуникације и симбол слободе, а енергија коју троше рудари игра кључну улогу у одбрани ове слободе, омогућавајући еманципацију од финансијског система којим доминирају дугови и прекомерно стварање новца од стране централних банака.
 
 ![image](assets/en/62.webp)
 
@@ -982,434 +982,434 @@ Važno je naglasiti da Bitcoin, kao revolucionarni izum, pruža sredstvo za poje
 
 ![image](assets/en/64.webp)
 
-Za one koji žive u zemljama sa visokim stopama inflacije, Bitcoin je pitanje preživljavanja. Pruža sredstva za preživljavanje u nesigurnim finansijskim situacijama. Štaviše, Bitcoin nudi pravedniji i nepristrasan finansijski sistem, pružajući milijardama ljudi širom sveta pristup finansijskim resursima. S obzirom na ovu perspektivu, da li je potrošnja energije opravdana?
+За оне који живе у земљама са високом стопом инфлације, Битцоин је питање опстанка. Пружа средства за преживљавање у несигурним финансијским ситуацијама. Штавише, Битцоин нуди праведнији и непристраснији финансијски систем, пружајући милијардама људи широм света приступ финансијским ресурсима. С обзиром на ову перспективу, да ли је потрошња енергије оправдана?
 
-### Bitcoin bi mogao biti neto pozitivan za okolinu
+### Битцоин би могао бити нето позитиван за животну средину
 
-Konačno, neophodno je raspraviti ekonomske i ekološke posledice usvajanja Bitcoina.
+Коначно, неопходно је разговарати о економским и еколошким последицама усвајања биткоина.
 
-Kada ga uporedimo sa trenutnim finansijskim sistemom, ovaj poslednji, zbog svog podsticanja prekomerne potrošnje i duga, predstavlja ozbiljne probleme. Faktori kao što su lako dostupan kredit, izdavanje novca od strane banaka, i praksa frakcijskog rezervnog bankarstva, svi doprinose prevelikom zaduživanju i, kao rezultat, prekomernoj potrošnji.
+Када се упореди са садашњим финансијским системом, овај други, због подстицања прекомерне потрошње и дуга, представља озбиљне проблеме. Фактори као што су лак приступ кредитима, издавање новца од стране банака и пракса банкарства са делимичним резервама доприносе презадужености и, као резултат, прекомерној потрошњи.
 
 ![image](assets/en/65.webp)
 
-Неопходно је реформисати монетарни систем како би се оскудност наших ресурса одразила на оскудност наше валуте. Ово ће подстаћи одговорнију потрошњу и дугорочну визију. С друге стране, инфлација, подстицајем потрошње и инвестиција, има негативан дугорочни утицај на животну средину.
+Неопходно је реформисати монетарни систем како би се оскудица наших ресурса одразила са оскудицом наше валуте. То ће подстаћи одговорнију потрошњу и дугорочну визију. Насупрот томе, инфлација, подстичући потрошњу и инвестиције, има негативан дугорочни утицај на животну средину.
 
-Тренутни финансијски систем се усаглашава са идејама кејнсијанске економије, која, за разлику од аустријске економије, не узима у обзир временске и динамичке аспекте ситуација и ресурса. Другим речима, неограничена валута не може ефективно представљати ограничене ресурсе наше планете.
+Садашњи финансијски систем је у складу са идејама кејнзијанске економије, која, за разлику од аустријске економије, не узима у обзир временске и динамичке аспекте ситуација и ресурса. Другим речима, неограничена валута не може ефективно да представља ограничене ресурсе наше планете.
 
 ![image](assets/en/66.webp)
 
-С друге стране, политичари обично имају краткорочну визију и треба им економски раст да би били поново изабрани, тако да нису у стању да реше еколошке проблеме на дуги рок. С друге стране, усвајање здраве валуте као што је Биткоин је потенцијална алтернатива која би могла економски ојачати људе.
+С друге стране, политичари обично имају краткорочну визију и потребан им је економски раст да би поново били изабрани, тако да нису у стању да дугорочно решавају еколошке проблеме. Насупрот томе, усвајање здраве валуте као што је Битцоин је потенцијална алтернатива која би могла економски оснажити људе.
 
-Они не признају да Биткоин подстиче употребу зелене енергије. На пример, пламен који се пали на локацијама нафтних бушотина да би се спречило загађење може да се угаси од стране рудара Биткоина, јер се метан може претворити у струју за напајање рударских машина, што је корисно за животну средину.
+Они не знају да Битцоин промовише коришћење зелене енергије. На пример, биткоин рудари могу угасити пламен који се запали у нафтним бушотинама да би спалио метан и спречио загађење, јер се метан може претворити у електричну енергију за напајање машина за рударење, што је корисно за животну средину.
 
-**Pratite jedan od Bitkoinovih maksima: Ne veruj, proveri sam!**
+**Пратите једну од максима Битцоина: Не верујте, уверите се сами!**
 
-### Kratak pregled tehničkih karakteristika Bitcoina
+### Кратак резиме техничких карактеристика Битцоин-а
 
-Satoshi Nakamoto je objavio Bitcoin protokol u januaru 2009. godine, koji se od tada razvijao zahvaljujući rastućoj zajednici programera, rudara i korisnika sa Bitcoin čvorovima. Čuvanjem sopstvene kopije Bitcoin blokčejna, javne knjige svih Bitcoin transakcija, ovi čvorovi mogu osigurati validnost transakcija prema pravilima konsenzusa Bitcoina. To uključuje osiguranje da rudari proizvode validne blokove, koji sadrže hiljade čekajućih transakcija.
+Сатоши Накамото је објавио Битцоин протокол у јануару 2009. године, који је од тада еволуирао захваљујући растућој заједници програмера, рудара и корисника са Битцоин чворовима. Чувајући сопствену копију Битцоин блоцкцхаина, јавну књигу свих Битцоин трансакција, ови чворови могу осигурати валидност трансакција у складу са правилима консензуса Битцоин. Ово укључује осигурање да рудари производе важеће блокове, који садрже хиљаде трансакција на чекању.
 
-U proseku, blok se kreira svakih 10 minuta, a rudar koji pronađe važeći heš za sledeći blok nagrađuje se od strane protokola sa iznosom koji je definisan pravilima konsenzusa, kao i transakcionim taksama od svih transakcija uključenih u važeći blok. Pošto se rezultat heš algoritma (SHA256) za dati ulaz smatra nepredvidljivim, proces rudarenja uključuje izgradnju brojnih kandidatskih blokova i testiranje da li je njihov heš važeći ili ne. Međutim, da bi se osiguralo da prosečno vreme između dva bloka ostane konstantno (~10 min) bez obzira na broj rudara i njihovu računarsku snagu, težina pronalaženja važećeg heša se prilagođava svakih 2016 blokova, otprilike svake 2 nedelje. Rudari su tokom vremena razvili specijalizovane SHA256 mašine, nazvane ASICS, kako bi povećali heš stopu po džulu, što znači broj pokušaja po sekundi i po potrošenoj energiji.
+У просеку, блок се креира сваких 10 минута, а рудар који пронађе исправан хеш за следећи блок протоколом се награђује са износом који је дефинисан правилима консензуса, као и са накнадама за трансакције од свих трансакција укључених у важећи блок. Пошто се резултат алгоритма хеширања (СХА256) за дати улаз сматра непредвидивим, процес рударења укључује изградњу бројних блокова кандидата и тестирање да ли је њихов хеш валидан или не. Међутим, да би се осигурало да просечно време између два блока остане константно (~10 минута) без обзира на број рудара и њихову рачунарску снагу, тешкоћа проналажења важећег хеша се прилагођава сваких 2016 блокова, отприлике сваке 2 недеље. Рудари су током времена развили специјализоване СХА256 машине, назване АСИЦС, да повећају хеш стопу по џулу, што значи број покушаја у секунди и по утрошеној енергији.
 
-Da bi rudari bili što profitabilniji u svojoj aktivnosti, moraju nabaviti najjeftiniju moguću električnu energiju, koja se često nalazi na udaljenim lokacijama, unutar elektrana koje još nisu povezane sa mrežom. Rudar tada deluje kao kupac poslednje nade, i, čim cena električne energije poraste zbog povećanja potražnje, rudar će imati tendenciju da svoju aktivnost premesti negde drugde.
+Да би рудари били што профитабилнији у својој делатности, морају да набављају најјефтинију могућу струју, која се често налази на удаљеним локацијама, у оквиру електрана које још нису прикључене на мрежу. Рудар се тада понаша као купац у крајњој инстанци и, чим цена електричне енергије порасте због пораста потражње, рудар ће тежити да своју делатност премести на друго место.
 
-Dakle, Bitcoin protokol je necenzurirani i nezaustavljivi monetarni sistem jer je svaka komponenta protokola geografski raspoređena širom sveta. Na primer, postoji više od 40.000 Bitcoin čvorova na svim kontinentima. Pravila konsenzusa Bitcoina su takva da je ekonomski profitabilnije pratiti ih nego pokušati ih prekršiti, i stoga nije potrebno poverenje između aktera. Bitcoin nema vođu i ne može biti zaustavljen. Čak i ako je moguće regulisati razmene platformi da bi se ograničio Bitcoin, ovaj pristup ima marginalni uticaj na sistem. Ukratko, nijedan sudija ili država ne može cenzurisati ili zaustaviti Bitcoin.
+Дакле, Битцоин протокол је нецензурисан и незаустављив монетарни систем јер је свака компонента протокола географски дистрибуирана широм света. На пример, постоји више од 40.000 Битцоин чворова на свим континентима. Правила консензуса Битцоин-а су таква да их је економски исплативије пратити него покушавати да их прекршите, па стога није потребно поверење између актера. Битцоин нема лидера и не може се зауставити. Чак и ако је могуће регулисати платформе за размену како би се ограничили Битцоин, овај приступ има маргинални утицај на систем. Укратко, ниједан судија или држава не може цензурисати или зауставити Битцоин.
 
-# Kako Dobijate Bitcoin?
+# Како добијате Битцоин?
 
 <partId>517e1bb7-f032-51a0-930a-a91fe5148d3f</partId>
 
-## Bitcoin Nikada Ne Spava!
+## Битцоин никад не спава!
 
 <chapterId>d5e35e41-ea26-5478-8eb9-07daf9dff508</chapterId>
 
-Cena Bitcoina često se karakteriše značajnom volatilnošću. Njegova vrednost može se značajno kretati u zavisnosti od tržišnih varijacija ili u bikovskim i medveđim fazama, baš kao i bilo koje drugo finansijsko tržište.
+Цену биткоина често карактерише значајна волатилност. Његова вредност може значајно да варира у зависности од тржишних варијација или од биковских и медвеђих фаза, баш као и било које друго финансијско тржиште.
 
 ![image](assets/en/67.webp)
 
-Da bismo to jednostavno rekli, ljudi imaju tendenciju da sve kupe odjednom i sve prodaju odjednom. **Bitcoin nije imun na ljudsku prirodu.**
+Једноставно речено, људи имају тенденцију да купују све одједном и продају све одједном. **Битцоин није имун на људску природу.**
 
 ### Разумевање таласа усвајања
 
-И развој и еволуција Биткоина у великој мери су повезани са различитим групама аутора који су постепено интегрисали његов екосистем.
+И развој и еволуција Битцоин-а су у великој мери повезани са различитим групама актера који су постепено интегрисали његов екосистем.
 
 ![image](assets/en/68.webp)
 
 
 - Верници:
 
-Rani korisnici Bitcoina bili su uglavnom tehnofili, sajberpankeri, libertarijanci i zaljubljenici u zlato. Ove grupe su bile privučene njemu zbog njegove vrednosti kao elektronskog novca bez poverenja, njegovog otpora prema cenzuri, i njegove transparentne, nepromenljive monetarne politike.
+Рани корисници биткоина били су углавном технофили, циферпанкери, либертаријанци и ентузијасти злата. Ове групе су га привукле због његове вредности електронске готовине без поверења, отпора цензури и транспарентне, непроменљиве монетарне политике.
 
 
-- Тамна веб & криминалци
+- Мрачна мрежа и криминалци
 
-Onda se upotreba Bitcoina proširila na tržišta tamnog weba poput Silk Road-a, uglavnom zbog njegove nekontrolisane i pseudonimne prirode, koja je privukla i pojedince izvan te platforme, uključujući neke ljude koji su se bavili kriminalnim aktivnostima. Međutim, važno je naglasiti da je primena alata, a ne sam alat, ono što određuje legalnost. Ilegalna upotreba Bitcoina ne čini nekoga automatski kriminalcem; radi se o specifičnim radnjama koje se mogu klasifikovati kao ilegalne. Na primer, upotreba Bitcoina za kupovinu određenih droga može biti legalna ili ilegalna u zavisnosti od propisa koji regulišu teritoriju na kojoj se transakcija odvija.
-
-
-- ICO лудило и долазак шире јавности.
-
-Godina 2017. je obeležena značajnom spekulativnom balonom u svetu kriptovaluta, posebno sa lansiranjem hiljada Inicijalnih ponuda kovanica (ICOs). Međutim, mnoge od ovih novih kriptovaluta nisu imale konkretan razvoj ili korisnost, i brzo su nestale. Ovaj balon iz 2017. je bio praćen jakom korekcijom u 2018-2019.
+Затим се употреба биткоина проширила на мрачна веб тржишта попут Пута свиле, углавном због његове неконтролисане и псеудонимне природе, која је такође привукла појединце изван те платформе, укључујући и неке људе који се баве криминалним активностима. Међутим, важно је нагласити да је примена алата, а не сам алат, оно што одређује законитост. Незаконито коришћење Битцоина не чини некога криминалцем; него се конкретне радње могу класификовати као незаконите. На пример, коришћење биткоина за куповину одређених лекова може бити легално или нелегално у зависности од прописа који регулишу територију на којој се трансакција одвија.
 
 
-- NFT balon i DeFi
+- ИЦО помама и долазак шире јавности.
 
-Onda ponovo 2020. godine, tržište je doživelo još jedan spekulativni balon koji je podigao cenu Bitcoina na $60,000. Ovaj balon se razlikovao od prethodnih zbog šire diversifikacije investitora, uključujući finansijske institucije i velike korporacije. Međutim, kao i sa prethodnim balonima, značajne korekcije obično slede nakon što početna euforija nestane.
+Година 2017. обележена је значајним шпекулативним балоном у свету криптовалута, посебно са лансирањем хиљада почетних понуда кованица (ИЦО). Међутим, многе од ових нових криптовалута нису имале конкретан развој или корисност и брзо су нестале. Овај балон из 2017. пратила је снажна корекција у 2018-2019.
 
-### Bitcoin i volatilnost
 
-Na osnovu prethodnih ciklusa, čini se da je periodičnost ekonomskih ciklusa Bitcoina ekvivalentna trajanju između dva prepolovljavanja, možda zato što događaj prepolovljavanja deluje kao okidač smanjujući emisiju novih bitcoina na pola.
+- НФТ балон и ДеФи
 
-Ove značajne fluktuacije su donijele Bitcoinu reputaciju kao izuzetno nestabilne imovine, često dovodeći do značajnih gubitaka za njegove korisnike. Iako cena može da padne za 10%, 20% ili čak 50% za nekoliko dana, važno je razumeti da se Bitcoin protokol sam po sebi ne menja promenama cena.
+Затим је поново 2020. тржиште искусило још један шпекулативни балон који је довео цену биткоина на 60.000 долара. Овај балон се разликовао од претходних због шире диверсификације инвеститора, укључујући финансијске институције и велике корпорације. Међутим, као и код претходних мехурића, значајне корекције обично следе када почетна еуфорија избледи.
 
-Ova značajna volatilnost danas je potpuno prihvaćena od strane aktera Bitcoina i može se ublažiti nekoliko rešenja kao što su finansijski hedžovi (stabilne valute), snažno dugoročno verovanje (hodling), ili jednostavno izbegavanje rizika ulaganja 100% svojih sredstava u Bitcoin bez solidnog razumijevanja. Razumijevanje zašto se cena Bitcoina toliko menja je stoga esencijalno za napredak u ovoj industriji, jer su na kraju kretanja i ciklusi cena ti koji pomažu da se tržište do neke mere umiri i reguliše. Međutim, fundamentalno je napomenuti da kako Bitcoin raste i sazrijeva, volatilnost postaje manje uticajna.
+### Битцоин и волатилност
+
+На основу прошлих циклуса, чини се да је периодичност економских циклуса Битцоин-а еквивалентна трајању између два преполовљења, можда зато што догађај преполовљења делује као окидач преполовљавањем емисије нових биткоина.
+
+Ове значајне флуктуације су Битцоину стекле репутацију веома нестабилне имовине, што често доводи до значајних губитака за његове кориснике. Иако цена може пасти за 10%, 20% или чак 50% за неколико дана, важно је разумети да сам Битцоин протокол није под утицајем промена цена.
+
+Ову значајну волатилност данас у потпуности прихватају актери Битцоин-а и могу је ублажити неколико решења као што су финансијска заштита (стабилни кокови), снажно дугорочно уверење (ходлинг) или једноставно избегавање ризика улагања 100% својих средстава у Битцоин без чврстог разумевања. Разумевање зашто цена биткоина толико варира од суштинског је значаја за напредак у овој индустрији, јер су кретања цена и циклуси ти који у извесној мери помажу у ублажавању и регулацији тржишта. Међутим, битно је напоменути да како Битцоин расте и сазрева, волатилност постаје мање утицајна.
 
 ![image](assets/en/69.webp)
 
-Iako par btc/dolar fluktuira u kratkom roku, bitcoin, zbog svoje ograničene količine od 21 milion bitcoina i svog procesa prepolovljavanja (prepolovljavanje monetarne kreacije svake 4 godine u proseku), prati opšti uzlazni trend na gotovo mehanički način. Naravno, kao i svaka finansijska imovina, bitcoin je podložan ekonomskim ciklusima, uključujući periode euforije, spekulativne balone i korekcije. Ovaj fenomen je prilično čest kod novih tehnologija, gde tržište nije uvek racionalno ili efikasno.
+Иако пар бтц/долар краткорочно флуктуира, биткоин, због своје ограничене количине од 21 милион биткоина и процеса преполовљења (преполовљавање новчане креације сваке 4 године у просеку), прати општи узлазни тренд на квази-механички начин. Наравно, као и свака финансијска имовина, биткоин је подложан економским циклусима, укључујући периоде еуфорије, спекулативне балоне и корекције. Овај феномен је прилично чест у новим технологијама, где тржиште није увек рационално или ефикасно.
 
 ### Јединствено тржиште
 
-Ovi ciklusi spekulativnih balona su prilično jedinstveni u svetu, jer je retko da jedna imovina doživi takav niz balona jedan za drugim. Ovaj fenomen se može pripisati činjenici da Bitcoin nije samo balon koji je predodređen da pukne. Naprotiv, on funkcioniše kao valuta koja se aktivno koristi širom sveta. Bitcoin protokol se ističe svojom sposobnošću da radi na globalnom nivou, 24/7, što predstavlja značajne izazove za finansijske autoritete koji pokušavaju da ga regulišu.
+Ови циклуси спекулативних балона су прилично јединствени у свету, тако да је реткост да једна имовина доживи такву серију мехурића узастопно. Овај феномен се може приписати чињеници да Битцоин није само мехур који је предодређен да пукне. Уместо тога, функционише као валута која се активно користи широм света. Протокол биткоина истиче се по својој способности да функционише на глобалном нивоу, 24/7, што представља значајне изазове за финансијске власти које покушавају да га регулишу.
 
 ![image](assets/en/70.webp)
 
-Danas, Bitcoin nastavlja da opstaje i raste još više integracijom u tradicionalno tržište, a uvođenje Bitcoin ETF-ova, jasnijih regulativa i unapređenih alata za sticanje i skladištenje sve doprinose ovom pozitivnom zamahu. Bitcoin je JOŠ JEDNOM preživeo svoj spekulativni balon, pa možda ipak nije samo prazna priča!
+Данас, Битцоин наставља да опстаје и још више расте тако што се све више интегрише у традиционално тржиште, а увођење Битцоин ЕТФ-ова, јаснији прописи и побољшани алати за куповину и складиштење доприносе овом позитивном замаху. Битцоин је ЈОШ ЈЕДНОМ преживео свој шпекулативни балон, тако да можда ипак није само врео ваздух!
 
 ![image](assets/en/71.webp)
 
-## Dobijanje Bitcoina radom
+## Добијање биткоина радом
 
 <chapterId>be2d83be-406f-582c-83ca-6aa905ff7b04</chapterId>
 
 ### Развија се паралелна економија
 
-Bitcoin se može videti kao alat za stvaranje paralelne ekonomije fiat valutama, jer je moguće prodavati robu ili usluge i biti plaćen u bitcoinu. Transakcije se mogu izvršiti direktno u Bitcoinu, bez potrebe za prolaskom kroz platformu za razmenu, već jednostavno prelaskom iz jednog Bitcoin novčanika u drugi.
+Битцоин се може посматрати као алат за стварање паралелне економије са фиат валутама, јер је могуће продати робу или услуге и бити плаћен у биткоинима. Трансакције се могу извршити директно у Битцоин-у, без потребе за проласком кроз платформу за размену, већ једноставно прелазак из Битцоин новчаника у други.
 
-Bitcoin ekonomija postoji i razvija se u određenim regionima sveta, kao što je El Salvador, gde je Bitcoin bio zakonsko sredstvo plaćanja od 2021. godine. Sve oko nas postoje neki pojedinci, preduzeća i organizacije koje već prihvataju Bitcoin kao sredstvo plaćanja za svoje proizvode ili usluge.
+Битцоин економија постоји и развија се у одређеним регионима света, као у Ел Салвадору, где је Битцоин законско средство плаћања од 2021. Свуда око нас постоје појединци, предузећа и организације који већ прихватају Битцоин као средство плаћања за своје производе или услуге.
 
 ![image](assets/en/72.webp)
 
-Pored toga, pokrenut je otvoreni i kolaborativni projekat, [BTCMap](https://btcmap.org/map#2/21.28937/5.46680), kako bi se olakšala upotreba Bitcoina u svakodnevnim transakcijama. Ova platforma navodi sve trgovce koji prihvataju Bitcoin, kao i različite Bitcoin zajednice širom sveta, tako da možete posetiti njihovu web stranicu da biste otkrili Bitcoin ekosistem oko vas. Dakle, uprkos teškoćama i oklevanjima, postoje inicijative poput BTCMap koje doprinose da Bitcoin ekonomija bude dostupnija i pogodnija za sve.
+Поред тога, покренут је пројекат отвореног кода и сарадње, [БТЦМап](хттпс://бтцмап.орг/мап#2/21.28937/5.46680), како би се олакшало коришћење биткоина у свакодневним трансакцијама. Ова платформа наводи све трговце који прихватају Битцоин, као и различите Битцоин заједнице широм света, тако да можете посетити њихову веб страницу да бисте открили Битцоин екосистем око себе. Стога, упркос потешкоћама и оклевању, постоје иницијативе попут БТЦМап које доприносе да биткоин економија буде приступачнија и погоднија за све.
 
-### Zašto bi trebali prihvatiti Bitcoin umesto da ga kupujemo?
+### Зашто бисмо прихватили Битцоин уместо да га купујемо?
 
-Da biste dobili bitkoine, možete ih kupiti na platformama koje regulišu organizacije poput AMF-a (Autorité des Marchés Financiers) u Francuskoj, ili Komisije za hartije od vrednosti i berze (SEC) u SAD-u, ali ovo rešenje podrazumeva mogućnost praćenja vaših transakcija. Drugi način da dobijete bitkoine je da ih prihvatite kao sredstvo plaćanja za proizvode ili usluge koje nudite, tako da možete steći bitkoine kroz svoj rad bez stalne brige o ceni Bitkoina.
+Да бисте добили биткоине, можете их купити на платформама које регулишу организације као што су АМФ (Ауторите дес Марцхес Финанциерс) у Француској или Комисија за хартије од вредности (СЕЦ) у САД, али ово решење подразумева следљивост ваших трансакција. Други начин за добијање биткоина је да их прихватите као средство плаћања за производе или услуге које нудите, тако да можете да стекнете биткоине својим радом без сталног бриге о цени биткоина.
 
-Осим тога, прихватање Биткоина као трговца има неколико предности, укључујући отпор према цензури, смањене трансакционе таксе, повећану ефикасност, заштиту од инфлације, као и финансијску слободу и сувереност.
+Штавише, прихватање биткоина као трговца има неколико предности, укључујући отпор цензури, смањене накнаде за трансакције, повећану ефикасност, заштиту од инфлације, као и финансијску слободу и суверенитет.
 
 ![image](assets/en/73.webp)
 
-### Kako možete nastaviti?
+### Како можете наставити?
 
-Da biste prihvatili Bitcoin, neophodno je proučiti različita dostupna rešenja i odabrati ono koje najbolje odgovara vašem poslovanju. Ne postoji savršeno rešenje, i nekoliko faktora mora se uzeti u obzir prilikom vašeg izbora, kao što su očekivani obim transakcija, dodeljeni budžet i tip poslovanja (online ili fizičko).
+Да бисте прихватили Битцоин, потребно је проучити различита доступна решења и одабрати оно које најбоље одговара вашем пословању. Не постоји савршено решење и неколико фактора морате узети у обзир да бисте направили свој избор, као што су очекивани обим трансакције, додељени буџет и врста пословања (онлине или физичко).
 
-Обрадићемо ову тему детаљно у другом курсу, али да би било једноставно, можемо разматрати неколико категорија предузећа и стога повезана решења.
+Ову тему ћемо детаљно обрадити у другом курсу, али да бисмо били једноставнији, можемо размотрити неколико категорија пословања и стога сродна решења.
 
 
-- Једноставно онлајн решење: OpenNode
+- Једноставно решење на мрежи: ОпенНоде
 
 https://planb.network/tutorials/merchant/merchant/open-node-e69a0c1c-47f7-4932-8494-e6f26c3c9784
 
-- Rešenje za amaterske trgovce: Švajcarski Bitcoin Pay
+- Решење за трговце аматере: швајцарски Битцоин Паи
 
 https://planb.network/tutorials/merchant/merchant/swiss-bitcoin-pay-2-a78b057e-ed11-47ac-860c-71019fcb451a
 
-- Rešenje za velike strukture ili strastvene bitkoinere: BTCpay Server
+- Решење за велике структуре или страствене биткоинере: БТЦпаи сервер
 
-## Штедња са Биткоином
+## Уштеда уз Битцоин
 
 <chapterId>1d9570c6-5b63-51a6-b87c-7bdb0fc4aa87</chapterId>
 
 ### Упозорење пре него што почнете!
 
-Bitcoin je postao glavna finansijska imovina, uglavnom zbog svog ograničenog snabdevanja i rastuće potražnje. Međutim, kupovina Bitcoina nosi rizike koji zahtevaju posebnu pažnju. Stoga se preporučuje da sprovedete sopstvena istraživanja i saznate više o temi kako biste se upoznali sa tehnologijom pre ulaganja bilo kakvih sredstava.
+Битцоин је постао главна финансијска имовина, углавном због своје ограничене понуде и све веће потражње. Међутим, куповина биткоина носи ризике који захтевају посебну пажњу. Стога се препоручује да спроведете сопствено истраживање и научите више о теми како бисте се упознали са технологијом пре него што уложите било каква средства.
 
 
-- Samo ulažite ono što možete priuštiti da izgubite.
-- Bitcoin je izuzetno nestabilna finansijska imovina, i njegova cena može pasti na 0.
-- Прошли резултати нису pouzdani pokazatelj budućih rezultata.
-- Kontaktirajte svog finansijskog savetnika ako je potrebno.
+- Инвестирајте само оно што можете себи приуштити да изгубите.
+- Битцоин је веома нестабилна финансијска имовина и његова цена може пасти на 0.
+- Прошли учинак није поуздан показатељ будућег учинка.
+- Обратите се свом финансијском саветнику ако је потребно.
 
-**Plan ₿ Network не пружа никакав инвестициони савет, и ништа овде наведено не би требало да се сматра као такво**
+**План ₿ Мрежа не пружа никакве савете за инвестирање, и ништа што је овде наведено не треба сматрати таквим**
 
-### Мини чек-листа пре него што се упустите
+### Мини контролна листа пре него што кренете
 
-Pre nego što se upustite u kupovinu Bitcoina, proverite da li imate:
-
-
-- Сигурни новчаник.
-- Čvrsto razumijevanje Bitcoina.
-- Plan štednje za pratiti.
-- Dugoročna vizija.
-
-Ako je tema još uvek nejasna, znajte da će vas kurs BTC102 voditi kroz proces obezbeđivanja i sticanja vaših prvih bitkoina. Ovde ćemo samo preleteti preko površine teme.
-
-Konkretno, postoje dva pitanja koja treba da postavite sebi:
+Пре него што почнете да купујете биткоин, уверите се да имате:
 
 
-- Да ли бисте требали да примените постепену или стратегију стицања одједном?
+- Сигуран новчаник.
+- Добро разумевање Битцоин-а.
+- Следи план штедње.
+- Дугорочна визија.
+
+Ако је тема и даље нејасна, имајте на уму да ће вас курс БТЦ102 водити у обезбеђивању и стицању ваших првих биткоина. Овде ћемо само прелетјети површину теме.
+
+Конкретно, постоје два питања која треба себи да поставите:
+
+
+- Да ли треба да усвојите постепену или стратегију стицања одједном?
 - Да ли треба да користите регулисану или нерегулисану платформу?
 
-### Стратегије стицања
+### Стратегије аквизиције
 
 
-- Prosečna cena dolara
+- Просечна цена долара
 
-Postepena strategija podrazumeva ponavljajuće kupovine, što znači kupovinu malih količina Bitcoina u redovnim intervalima. Ova metoda izjednačava cenu tokom vremena i obezbeđuje kontinuirani rast količine bitcoina u vlasništvu. To je idealno rešenje za dugoročnu štednju i ublažava brige o volatilnosti cene Bitcoina. Jednom kada je postavljeno, možete jednostavno zaboraviti na to i gledati kako vaša investicija raste.
+Постепена стратегија укључује понављајуће куповине, што значи куповину малих количина биткоина у редовним интервалима. Овај метод временом изглађује цену и обезбеђује континуирани раст количине биткоина у власништву. То је идеално решење за дугорочну уштеду и ублажава забринутост око променљивости цена Битцоин-а. Када једном поставите, можете једноставно заборавити на то и гледати како ваша инвестиција расте.
 
 ![image](assets/en/74.webp)
 
-**Пазите на UTXO-ове**: Не заборавите да с времена на време консолидујете своје UTXO-ове у својим новчаницима. Ова пракса је суштинска за ефикасно управљање вашим биткоинима и избегавање непотребних такси током трансакција.
+**Чувајте се УТКСО-а**: Не заборавите да с времена на време консолидујете своје УТКСО-ове у новчанику. Ова пракса је неопходна за ефикасно управљање вашим биткоинима и избегавање непотребних накнада током трансакција.
 
 
 - Спонтана куповина
 
-Решење одједном би могла бити спонтана куповина, која се користи да би се одмах стекла изложеност биткоину. Било да је у питању куповина током пада или искоришћавање бонуса, одлука је на вама. Мораћете да скупите храброст и притиснете дугме за куповину.
+Решење за све одједном може бити спонтана куповина, која се користи да се одмах добије изложеност биткоину. Било да се ради о куповини током пада или искоришћавању бонуса, одлука је на вама. Мораћете да скупите храброст и притиснете дугме за куповину.
 
-У овом случају, требали бисте бити опрезни и контролисати своје емоције, јер цена биткоина може бити веома волатилна. Заправо, FOMO (Fear of Missing Out) и FUD (Fear, Uncertainty, Doubt) су ваши најгори непријатељи! Сетите се да останете мирни и пратите стратегију коју сте унапред установили, да бисте избегли импулсивно и потенцијално штетно доношење одлука.
+У овом случају, требало би да будете опрезни и контролишете своје емоције, јер цена биткоина може бити прилично нестабилна. У ствари, ФОМО (Страх од пропуштања) и ФУД (Страх, Неизвесност, Сумња) су ваши најгори непријатељи! Не заборавите да останете мирни и следите стратегију коју сте унапред успоставили, како бисте избегли импулсивно и потенцијално штетно доношење одлука.
 
-### Od koga treba da kupimo naš bitcoin?
+### Од кога да купимо наш биткоин?
 
-Postoji nekoliko načina za sticanje bitkoina, svaki podložan svojim propisima koji mogu varirati u zavisnosti od jurisdikcije. Neke platforme zahtevaju identifikaciju za verifikaciju (KYC), dok druge ne. Stoga je ključno razumeti propise povezane sa svakom platformom.
+Постоји неколико начина за стицање биткоина, од којих сваки подлеже сопственом скупу прописа који се могу разликовати у зависности од надлежности. Неке платформе захтевају идентификацију ради верификације (КИЦ), док друге не. Стога је кључно разумети прописе повезане са сваком платформом.
 
 
-- DCA платформе
+- ДЦА платформе
 
-Kao što smo gore predstavili, uobičajena metoda za akumulaciju bitkoina je prosečno trošenje dolara (DCA), koje podrazumeva redovnu kupovinu malih količina. Ovu uslugu nudi nekoliko platformi, kao što su one navedene na našoj [posvećenoj stranici](https://planb.network/tutorials/exchange). Pored jednostavnosti postavljanja DCA, isplate na vaš novčanik su generalno automatske, što znači da ćete uvek imati kontrolu nad svojim sredstvima.
+Као што смо горе навели, уобичајена метода за акумулацију биткоина је просечна цена долара (ДЦА), која укључује редовну куповину малих количина. Неколико платформи нуди ову услугу, као што су оне наведене на нашој [посебној страници] (хттпс://планб.нетворк/туториалс/екцханге). Поред једноставности подешавања ДЦА, повлачења у ваш новчаник су генерално аутоматска, што значи да ћете увек имати контролу над својом имовином.
 
-Danas, gotovo sva DCA rešenja su relativno efikasna i imaju gotovo slične takse, tako da će izbor više zavisiti o dostupnosti u vašoj zemlji.
+Данас су скоро сва ДЦА решења релативно ефикасна и имају скоро сличне накнаде, тако да ће избор више зависити од доступности у вашој земљи.
 
 
 - Брокерске платформе
 
-Za investicije velikih razmera, preporučuju se regulisane i priznate platforme kao što su Kraken, Bitstamp i Paymium. One nude sigurno i bezbedno okruženje za transakcije velikog obima.
+За инвестиције великих размера препоручују се регулисане и признате платформе као што су Кракен, Битстамп и Паимиум. Они нуде безбедно и безбедно окружење за велике трансакције.
 
 Њихова употреба је једноставна и доступна свима:
 
-1. Postavite KYC/\* nalog
+1. Подесите КИЦ/\* налог
 
-2. Prebacite sredstva na vaš račun
+2. Пренесите средства на свој рачун
 
-3. Kupovina bitkoina
+3. Купите биткоин
 
-4. Povucite bitcoin u vaš novčanik
+4. Повуците биткоин у новчаник
 
 ![image](assets/en/75.webp)
 
-Nakon kupovine, preporučljivo je odmah povući bitkoine sa platformi za razmenu kako bi se minimizirao rizik od hakovanja i blokiranja sredstava. Imajte na umu da provizije za povlačenje mogu biti visoke, ponekad i do 25 evra, u zavisnosti od platforme.
+Након куповине, препоручљиво је да одмах повучете биткоине са платформи за размену како бисте минимизирали ризике од хаковања и блокирања средстава. Имајте на уму да накнаде за повлачење могу бити високе, понекад и до 25 евра у зависности од платформе.
 
-**Propisi o Poznavanju Vašeg Klijenta (KYC) zahtevaju od korisnika da pruže identifikaciju u borbi protiv finansiranja terorizma, utaje poreza i pranja novca.**
+**Кнов Иоур Цустомер (КИЦ) прописи захтевају од корисника да обезбеде идентификацију ради борбе против финансирања тероризма, утаје пореза и прања новца.**
 
-Суштински је препознати да је KYC значајна тема расправе у Биткоин индустрији. Иако многи људи расправљају о његовој ефикасности, постоји множина бринућих се везаних за њега. У многим нашим програмима обуке и садржају академије, саветујемо напредним корисницима да избегавају платформе које захтевају KYC, пошто често постоје доступније алтернативе које су више фокусиране на приватност.
+Неопходно је препознати да је КИЦ значајна тема за дискусију у индустрији биткоина. Иако многи људи расправљају о његовој ефикасности, постоје бројне забринутости повезане с њим. У многим програмима и садржајима обуке наше академије, саветујемо напредним корисницима да избегавају платформе које захтевају КИЦ, јер често постоје алтернативе које су усредсређене на приватност.
 
-### Решења без KYC
+### Решења која нису КИЦ
 
-Pored toga, postoji nekoliko [tržišta](https://planb.network/tutorials/exchange) gde možete kupiti i prodati bitkoine u razmeni između vršnjaka. Uopšteno, možete razmotriti sledeće:
+Поред тога, постоји неколико [тржишта](хттпс://планб.нетворк/туториалс/екцханге) на којима можете купити и продати биткоине у пеер-то-пеер размени. Генерално, морате узети у обзир следеће:
 
 
-- Bitcoin bankomati
-- Физички сусрети са другим ентузијастима биткоина
+- Битцоин банкомати
+- Физички састанци са другим битцоин ентузијастима
 - Нелегалне и нерегулисане платформе
-- Решења за упаривање од корисника до корисника
-- Neobanke koje posluju u zemljama prijateljski nastrojenim prema Bitcoinu.
+- Пеер-то-пеер решења за повезивање
+- Необанке које раде у земљама које су погодне за Битцоин.
 
 ![image](assets/en/76.webp)
 
-Konačno, važno je napomenuti da poreske obaveze mogu varirati u zavisnosti od jurisdikcije, stoga vam snažno preporučujemo da se konsultujete sa propisima u vašoj zemlji pre nego što preduzmete bilo kakve radnje koje bi mogle da vas dovedu u rizik.
+На крају, важно је напоменути да пореске обавезе могу да варирају у зависности од јурисдикције, тако да вам препоручујемо да консултујете прописе у вашој земљи пре него што предузмете било какве радње које би вас могле довести у опасност.
 
-## Hiper-bitkoinizacija
+## Хипер-битцоинизација
 
 <chapterId>b7275d31-3b60-5fb7-b9f5-030097010553</chapterId>
 
-### Divlja trka tek počinje!
+### Дивља трка тек почиње!
 
-Kao i svaka nova tehnologija, usvajanje Bitcoina prati S-krivu, ilustrujući progresiju od ranih korisnika do šire prihvatanja. Prešli smo eru ranih korisnika, a indikatori sugerišu potencijalnu demokratizaciju Bitcoina. Uostalom, to je viralna tehnologija koja se ne može lako zaustaviti. S jedne strane, El Salvador je preduzeo hrabar korak potpunog usvajanja Bitcoina kao zakonskog sredstva plaćanja. S druge strane, druge zemlje su reagovale zabranom i kriminalizacijom njegove upotrebe, što pokazuje da je usvajanje Bitcoina složeno i izloženo uticaju kulturnih, istorijskih i nacionalnih faktora.
+Као и свака нова технологија, усвајање Битцоина прати С-криву, илуструјући прогресију од раних корисника до ширег прихватања. Прешли смо еру раних усвајача, а показатељи указују на потенцијалну демократизацију биткоина. На крају крајева, то је вирусна технологија која се не може лако зауставити. С једне стране, Ел Салвадор је предузео храбар корак да у потпуности усвоји Битцоин као законско средство плаћања. Напротив, друге земље су одговориле тако што су га забраниле и криминализовали његову употребу, што показује да је усвајање биткоина сложено и изложено утицају културних, историјских и националних фактора.
 
 ![image](assets/en/02.webp)
 
-Porast Bitcoina primorava kompanije, univerzitete, regulatore i pojedince da uzmu u obzir ovu novu tehnologiju. Moraju se stvoriti novi alati, usluge moraju biti prilagođene, a inovacija mora nastaviti da bi se osiguralo njihovo preživljavanje. Ovaj kontekst postavlja mnoga pitanja vezana za različite oblasti, uključujući kriptografiju, teoriju igara, ekonomiju i monetarnu politiku, informatiku, filozofiju, energiju, zakone i regulaciju. Ukratko, Bitcoin je multidisciplinarna tema.
+Пораст Битцоина приморава компаније, универзитете, регулаторе и појединце да узму у обзир ову нову технологију. Потребно је креирати нове алате, прилагодити услуге, а иновације морају наставити да би осигурале њихов опстанак. Овај контекст поставља многа питања везана за различите области, укључујући криптографију, теорију игара, економију и монетарну политику, рачунарство, филозофију, енергију, законе и регулативу. Укратко, Битцоин је мултидисциплинарна тема.
 
 ![image](assets/en/01.webp)
 
-### Bitcoin je 0 do 1
+### Битцоин је 0 према 1
 
-Na kraju, pozivamo vas da razmislite o ovoj novoj monetarnoj revoluciji. Toliko toga ima za istražiti sa Bitcoinom da je komplikovano sve odjednom asimilirati. Uzmite svoje vreme, Bitcoin neće nestati. Naprotiv, revolucija je tek počela. Verujemo da smo sposobni da stvorimo svet koji želimo da poverimo našoj deci: svet gde je ljudski suverenitet pravo, gde se privatnost poštuje po defaultu, i gde se novac ne manipuliše. Nadamo se da ćemo, zajedno, to postići.
+На крају, позивамо вас да размислите о овој новој монетарној револуцији. Има толико тога да се истражи са Битцоин-ом да је компликовано асимилирати све одједном. Само мало, Битцоин неће нестати. Напротив, револуција је тек почела. Верујемо да смо у стању да створимо свет који желимо да поверимо нашој деци: свет у коме је људски суверенитет право, где се приватност поштује подразумевано и где се новцем не манипулише. Надамо се да ћемо заједно то постићи.
 
 ![image](assets/en/77.webp)
 
-Ako želite proširiti svoje znanje o Bitcoinu, ovo je pravo vreme: veliki broj autora, mislilaca i esejista stvorio je edukativni sadržaj o Bitcoinu. Poslednjih nekoliko godina, mi smo popisivali i kategorizovali ova dela kako bismo ponudili [biblioteku resursa](https://planb.network/resources) najznatiželjnijima među vama. U tom odeljku, pronaći ćete najbolje podkaste, veb sajtove, članke, tutorijale, knjige i ostali sadržaj.
+Ако желите да проширите своје знање о Битцоин-у, ово је право време: велики број аутора, мислилаца и есејиста креирао је едукативни садржај о Битцоин-у. Последњих неколико година наводили смо и категоризовали ове радове да бисмо понудили [библиотеку ресурса](хттпс://планб.нетворк/ресоурцес) најрадозналијима међу вама. У том одељку ћете пронаћи најбоље подцасте, веб локације, чланке, туторијале, књиге и други садржај.
 
-> "Мислим да ће интернет бити један од главних фактора за смањење улоге владе. Једина ствар која недостаје, али ће ускоро бити развијена, је поуздана е-новац - метода помоћу које на интернету можете пренети средства са А на Б без да А зна за Б или Б зна за А." - Милтон Фридманова предвиђања у 1999.
-# Будућност Биткоина: Мрежа Муња
+> „Мислим да ће интернет бити једна од главних сила за смањење улоге владе. Једина ствар која недостаје, али ће ускоро бити развијена, јесте поуздана е-кеш – метода којом на Интернету можете преносити средства од А до Б, а да А не зна Б или Б не зна А.“ - Предвиђање Милтона Фридмана 1999
+# Будућност биткоина: мрежа муње
 
 <partId>899fd35e-39e6-5a25-a73e-6fed6e725094</partId>
 
-## Kratak uvod u Lightning Network
+## Кратак увод у Лигхтнинг Нетворк
 
 <chapterId>b403f1e4-f1ff-572b-a242-9b58cb3736d0</chapterId>
 
-Sada kada imamo osnove Bitcoin protokola, predstavićemo platnu mrežu koja koristi Bitcoin protokol kako bi omogućila munjevito brze transakcije: Lightning Network!
+Сада када имамо основе Битцоин протокола, увешћемо мрежу плаћања која користи Битцоин протокол за омогућавање муњевитих трансакција: Лигхтнинг Нетворк!
 
-Budite svesni da je sledeće samo opšti opis, pa, ako želite da ga razumete u dubljim detaljima, pozivamo vas da pogledate naš LNP201 kurs.
+Имајте на уму да је ово само општи опис, па, ако желите да га разумете детаљније, позивамо вас да проверите наш курс ЛНП201.
 
-### У најкраћем
+### Укратко
 
-Lightning Network je revolucionarna tehnologija koja je duboko promenila naše shvatanje Bitcoina, jer rešava problem skalabilnosti Bitcoina.
+Лигхтнинг Нетворк је револуционарна технологија која је дубоко променила нашу перцепцију Битцоин-а, јер се бави питањем скалабилности Битцоин-а.
 
-Da bi u potpunosti shvatili Lightning Network, ključno je razumeti kako se Bitcoin razvija i evoluira u slojevima infrastrukture: prvi sloj je blockchain, a drugi je Lightning Network.
+Да бисте у потпуности схватили Лигхтнинг Нетворк, кључно је разумети како Битцоин еволуира и развија се у инфраструктурним слојевима: први слој је блоцкцхаин, а други је Лигхтнинг Нетворк.
 
 ![image](assets/en/78.webp)
 
-### Блокчејн не може неограничено да расте
+### Блоцкцхаин не може расти бесконачно
 
-Lightning Network je validiran i implementiran 2017. godine kako bi rešio problem skalabilnosti Bitcoina, jer omogućava trenutne, niskotroškovne Bitcoin transakcije.
+Лигхтнинг Нетворк је потврђен и имплементиран 2017. године како би се решио проблем скалабилности Битцоин-а, јер омогућава тренутне, јефтине Битцоин трансакције.
 
-Problem skalabilnosti odnosi se na izazov implementacije monetarnog sistema sposobnog da pruži sve veći broj transakcija u sekundi kako bi se suočio sa povećanjem usvajanja. Ovo pitanje se odnosi na trilemu blokchaina. Zamislite trougao sa decentralizacijom, sigurnošću i skalabilnošću kao svojim vrhovima.
+Проблем скалабилности односи се на изазов имплементације монетарног система који је способан да обезбеди све већи број трансакција у секунди да би се суочио са све већим усвајањем. Ово питање се односи на блокчејн трилему. Замислите троугао чији су врхови децентрализација, сигурност и скалабилност.
 
 ![image](assets/en/79.webp)
 
-Prema tome, protokol zasnovan na blokčejnu može zadovoljiti samo dve od ove tri karakteristike. Unutar Bitcoin protokola, programeri su doneli odluke u korist decentralizacije i sigurnosti. S jedne strane, veličina bloka od 1MB i vreme između dva bloka (u proseku 10 minuta) omogućavaju pokretanje Bitcoin čvora po nižoj ceni, favorizujući decentralizaciju. S druge strane, proizvodnja blokova kroz dokaz o radu (Proof-of-Work) čini prevaru unutar protokola izuzetno skupom, dok olakšava verifikaciju od strane mrežnih čvorova i favorizuje sigurnost. Međutim, ovi izbori nameću limit na prosečan broj transakcija u bloku, što otprilike odgovara nekoliko transakcija u sekundi. Ovaj broj je smešan kada se uporedi sa računarskim kapacitetom procesora plaćanja poput VISA (1700/s), ali je ovaj limit neophodan kako bi se sa Bitcoinom moglo trgovati na način koji je otporan na cenzuru i bez potrebe za poverenjem. Ipak, oni koji razvijaju na Bitcoinu razmišljaju o ovom problemu od samog početka.
+Према њему, протокол заснован на блокчејну може задовољити само две од ове три карактеристике. У оквиру Битцоин протокола, програмери су одлучили да фаворизују децентрализацију и безбедност. С једне стране, величина блока од 1МБ и време између два блока (у просеку 10 минута) омогућавају покретање Битцоин чвора по нижој цени, фаворизујући децентрализацију. С друге стране, производња блокова кроз Прооф-оф-Ворк чини превару у оквиру протокола изузетно скупом, док истовремено олакшава верификацију мрежних чворова и фаворизује безбедност. Међутим, ови избори намећу ограничење на просечан број трансакција у блоку, што отприлике одговара неколико трансакција у секунди. Овај број је смешан у поређењу са рачунарским капацитетом процесора плаћања као што је ВИСА (1700/с), али ово ограничење је неопходно да би се трансакција са биткоином вршила на начин отпоран на цензуру и без поверења. Ипак, они који развијају Битцоин размишљају о овом проблему од почетка.
 
 ### Муња као слој на врху
 
-Nakon godina razmatranja i višestrukih pokušaja, pojavio se Lightning protokol. Koristeći određeni broj specifikacija, ovaj protokol konstruiše peer-to-peer mrežu za plaćanje oslanjajući se na sigurnost i programabilnost Bitcoin-ovog protokola za transakcije. Lightning mreža deluje kao mreža kanala za plaćanje, omogućavajući trenutne transakcije sa niskim provizijama za pošiljaoca, a čak stvara i rute za razmenu između pojedinaca koji nemaju direktnu konekciju kanala.
+Након година разматрања и вишеструких покушаја, појавио се Лигхтнинг протокол. Користећи одређени број спецификација, овај протокол конструише пеер-то-пеер мрежу плаћања користећи сигурност и програмибилност Битцоин-овог протокола за трансакције. Лигхтнинг Нетворк делује као мрежа канала плаћања, омогућавајући тренутне трансакције са ниским накнадама за пошиљаоца, а чак ствара и руте размене између појединаца који немају директну везу са каналом.
 
 ![image](assets/en/80.webp)
 
-Tradicionalne usluge prenosa novca kao što su Western Union, centralne banke, Visa i Mastercard mogle bi nestati ako ne usvoje tehnologiju Lightning Network, koja je efikasnija i ekonomičnija od trenutnih sistema plaćanja. Zapravo, Lightning Network omogućava gotovo neograničene transakcije između dva partnera koji dele kanal, uzimajući u obzir samo energetske troškove povezane sa transakcijom za objavljivanje stvaranja kanala, a ne na svakoj pojedinačnoj transakciji.
+Традиционалне услуге трансфера новца као што су Вестерн Унион, централне банке, Виса и Мастерцард могле би нестати ако не усвоје Лигхтнинг Нетворк технологију, која је ефикаснија и исплативија од тренутних система плаћања. У ствари, Лигхтнинг Нетворк омогућава скоро неограничене трансакције између два равноправна система који деле канал, сносећи само трошкове енергије повезане са трансакцијом за најаву стварања канала, а не за сваку појединачну трансакцију.
 
 ![image](assets/en/81.webp)
 
-Transakcije su obezbeđene kroz kriptografiju i indirektno kroz energiju koju troše rudari na Bitcoinu. Mogu se izvršiti trenutno, bez geografskih ograničenja, sa izuzetno niskim provizijama (često manje od 0,5%).
+Трансакције су обезбеђене криптографијом и индиректно кроз енергију коју рудари троше на Битцоин. Могу се направити тренутно, без географских ограничења, уз изузетно ниске накнаде (често мање од 0,5%).
 
-У резимеу, Lightning Network је обећавајући покушај да се развије ефикасан систем плаћања за куповину и продажу у Bitcoin-у. Већ постоји бројни Lightning новчаници доступни, које можете открити у нашем одељку за упутства или кроз наше курсеве о Lightning Network-у.
+Укратко, Лигхтнинг Нетворк је обећавајући покушај да се примени ефикасан систем плаћања за куповину и продају у Битцоин-у. Већ су доступни бројни Лигхтнинг новчаници, које можете открити у нашем одељку са туторијалима или кроз наше курсеве Лигхтнинг Нетворк.
 
-Ако желите да идете даље од овог увода и разумете све радње мреже Lightning, препоручујемо да посетите овај одличан курс Фаниса Михалакиса на ту тему:
+Ако желите да идете даље од овог увода и разумете све функционисање Лигхтнинг Нетворк-а, препоручујемо вам да похађате овај одличан курс Фаниса Михалакиса о овој теми:
 
 https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
-## Upotrebe Lightning mreže
+## Случајеви коришћења Лигхтнинг мреже
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>
 
-Kao što smo upravo videli, Bitcoin protokol, iako revolucionaran, suočava se sa značajnim izazovima u pogledu skalabilnosti potrebne za obradu svih naših dnevnih transakcija. Da bi se rešili ovi problemi, predložena je Lightning mreža koja se od tada razvila u nekoliko različitih implementacija, sve su međusobno kompatibilne:
+Као што смо управо видели, Битцоин протокол, иако револуционаран, суочава се са значајним изазовима у погледу скалабилности потребне за руковање свим нашим свакодневним трансакцијама. Да би се решили ови проблеми, Лигхтнинг Нетворк је предложена и од тада се развила у неколико различитих имплементација, од којих су све интероперабилне:
 
 
-- Core-svetlost od Blockstream
-- Eclair by Acinq
-- LND od udara groma
+- Цоре-лигхтнинг од Блоцкстреам-а
+- Ецлаир од Ацинк
+- ЛНД од удара грома
 
-Ova peer-to-peer mreža ima za cilj da olakša mikro-transakcije (sa vrlo niskom vrednošću) koje bi inače bile nepraktične zbog visokih provizija i dugih vremena potvrde na Bitcoin blockchain-u.
+Ова пеер-то-пеер мрежа има за циљ да олакша микро-трансакције (са веома ниском вредношћу) које би иначе биле непрактичне због високих накнада и дугог времена потврде на Битцоин блок ланцу.
 
 ### Који су случајеви употребе мреже?
 
-Ova tehnologija otvara vrata za širok spektar potencijalnih primena Bitcoina koje su ranije bile nedostupne zbog neophodnih ograničenja kako bi se osigurala sigurnost i decentralizacija Bitcoina. Među ovim svakodnevnim slučajevima upotrebe, možemo pomenuti trenutno naplaćivanje u fizičkoj i online trgovini, streaming novca za plaćanja u realnom vremenu, i mikro-donacije za kreatore sadržaja. Omogućavanjem mreže gotovo trenutnih, sigurnih i jeftinih transakcija (u proseku manje od 0,5%), mogu se ostvariti mnogi prethodno nezamislivi poslovni modeli. Ovo je omogućeno jer Lightning Network radi koristeći satoshis (sats), najmanju jedinicu Bitcoina.
+Ова технологија отвара врата широком спектру потенцијалних апликација за Битцоин које су раније биле ван домашаја због неопходних ограничења да би се осигурала сигурност и децентрализација Битцоина. Међу овим случајевима свакодневне употребе, можемо поменути инстант наплату у физичкој и онлајн трговини, стримовање новца за плаћања у реалном времену и микро-донације за креаторе садржаја. Омогућавањем мреже скоро тренутних, сигурних и јефтиних трансакција (у просеку мање од 0,5%), могу се реализовати многи раније незамисливи пословни модели. Ово је омогућено јер Лигхтнинг Нетворк ради користећи сатоши (сатс), најмању јединицу биткоина.
 
 ![image](assets/en/82.webp)
 
-Industrija video igara nudi posebno zanimljiv primer kako se Lightning Network može koristiti za transformaciju postojećih poslovnih modela. Koncept "kože u igri" je ideja koja je nedavno stekla popularnost u ovom kontekstu. U suštini se radi o finansijskom ulogu u ishodu igre. Zapravo, Lightning Network omogućava igračima da se klade na vrlo male sume novca prilikom igranja igara, kao što su nekoliko satoshija (oko dela evro centa) kako bi uspostavili ulog koji stimuliše konkurenciju dok značajno povećava troškove korišćenja botova.
+Индустрија видео игара нуди посебно занимљив пример како се Лигхтнинг Нетворк може користити за трансформацију постојећих пословних модела. Концепт "коже у игри" је идеја која је недавно стекла популарност у овом контексту. То у суштини укључује финансијски удео у исходу игре. У ствари, Лигхтнинг Нетворк омогућава играчима да уложе веома мале количине новца када играју игрице, као што је неколико сатошија (око делић евроцента) да би успоставили улог који стимулише конкуренцију уз значајно повећање трошкова коришћења ботова.
 
 ![image](assets/en/83.webp)
 
-У резимеу, будућност микро-трансакција са Биткоином изгледа обећавајуће захваљујући иновацијама као што је Лајтнинг Нетворк. Како ове технологије настављају да се развијају и сазревају, можемо очекивати да ћемо у скорој будућности видети нове и узбудљиве апликације.
+Укратко, будућност микро-трансакција са Битцоин-ом изгледа обећавајуће захваљујући иновацијама као што је Лигхтнинг Нетворк. Како ове технологије настављају да се развијају и сазревају, можемо очекивати појаву нових и узбудљивих апликација у блиској будућности.
 
 ![image](assets/en/84.webp)
 
-Još jedan primer bi mogao biti "novčani streaming": kroz Lightning Network, možemo vršiti mikro-transakcije svakog minuta (potencijalno bez pouzdane treće strane), što otvara vrata za eksperimentisanje sa ekonomskim modelima gde potrošači plaćaju za sadržaj na osnovu njihove stvarne potrošnje. Čak je zamislivo koristiti ovaj sistem za iznajmljivanje dobara. U takvom sistemu, novac se automatski deli, na osnovu unapred definisanog procenta, među različitim doprinositeljima usluge ili proizvoda. Ovo bi moglo revolucionirati način na koji razmišljamo o modelima plaćanja: umesto plaćanja mesečne pretplate za uslugu, korisnici bi mogli biti naplaćeni po minuti, ili čak po sekundi, za vreme koje provode koristeći uslugu. Takav ekonomski model bi mogao imati duboke implikacije za kreatore sadržaja, koji bi bili motivisani da proizvode kvalitetan sadržaj kako bi zadržali pažnju korisnika.
+Други пример би могао бити „стриминг новца“: преко Лигхтнинг Нетворк-а можемо да обављамо микротрансакције сваког минута (потенцијално без треће стране од поверења), што отвара врата експериментисању са економским моделима где потрошачи плаћају садржај на основу њихове стварне потрошње. Чак је и замисливо да се овај систем користи за изнајмљивање робе. У таквом систему, новац се аутоматски дели, на основу унапред дефинисаног процента, између различитих доприносиоца услуге или производа. Ово би могло да промени начин на који размишљамо о моделима плаћања: уместо да плаћају месечну претплату за услугу, корисницима би се могло наплаћивати по минуту, или чак по секунди, за време које проведу користећи услугу. Такав економски модел могао би имати дубоке импликације за креаторе садржаја, који би били подстакнути да производе квалитетан садржај како би задржали пажњу корисника.
 
 ![image](assets/en/85.webp)
 
-Zaključno, Lightning Network otvara mnoštvo uzbudljivih mogućnosti za korisnike Bitcoina. Rezultirajući ekonomski modeli i poslovne prilike su brojni i raznovrsni, i ohrabrujemo vas da se sami uverite probavši aplikaciju za podcast [Fountain](https://www.fountain.fm/), koja vam omogućava da budete nagrađeni sa nekoliko satsa za slušanje vaših omiljenih podcasta!
+У закључку, Лигхтнинг Нетворк отвара мноштво узбудљивих случајева употребе за Битцоин кориснике. Резултирајући економски модели и пословне могућности су бројни и разноврсни, а ми вас подстичемо да се уверите и сами испробавајући подкаст апликацију [Фоунтаин](хттпс://ввв.фоунтаин.фм/), која вам омогућава да будете награђени са неколико сати за слушање ваших омиљених подцаста!
 
-## Crvena pilula ili plava pilula?
+## Црвена пилула или плава пилула?
 
 <chapterId>c81cdb45-6aa9-5462-9835-c4852084b2cc</chapterId>
 
-Kao što je Morfej rekao Neo: "Uzmeš plavu pilulu, priča se završava, probudiš se u svom krevetu i veruješ šta god želiš da veruješ. Uzmeš crvenu pilulu, ostaješ u Zemlji čuda, i pokazujem ti koliko duboko ide zečja rupa." Da li ste spremni da istražite zečju rupu Bitcoina? Budite oprezni, jer biste mogli ponovo otkriti svoju finansijsku slobodu!
+Као што је Морфеус рекао Неу: "Узмеш плаву пилулу, прича се завршава, пробудиш се у свом кревету, и верујеш у шта год желиш. Узимаш црвену пилулу, остајеш у земљи чуда, а ја ћу ти показати колико дубоко иде зечја рупа." Да ли сте спремни да истражите зечју рупу Битцоина? Будите опрезни, јер бисте могли поново открити своју финансијску слободу!
 
 ### Технолошка будућност и њене импликације
 
-Tehnologija se razvija eksponencijalno, i niko ne može sa sigurnošću predvideti njene buduće razvoje. Svetska povezanost i veštačka inteligencija nastavljaju da napreduju, a znanje koje pojedinac može steći putem interneta postaje sve neizmernije vremenom.
+Технологија се експоненцијално развија и нико не може са сигурношћу да предвиди њен будући развој. Светска повезаност и вештачка интелигенција настављају да напредују, а знање које појединац може да стекне путем интернета временом постаје све немерљивије.
 
-Ako uzimamo AI kao primer, ove tehnologije su već nadmašile ili se približavaju ljudskom nivou performansi u sve većem broju domena, kao što su video igre, produkcija slika i teksta, i analiza podataka. Jedna potencijalna implikacija je da će preko 80% poslova nestati zbog AI i automatizacije. Kao posledica, na raspolaganju su nam nekoliko opcija, kao što su ograničavanje tehnološkog napretka ili iskorišćavanje povećanog kapitala od produktivnih dobitaka stvorenih od strane AI.
+Ако узмемо АИ као пример, ове технологије су већ превазишле или се приближавају перформансама на нивоу човека у све већем броју домена, као што су видео игре, производња слика и текста и анализа података. Једна потенцијална импликација је да ће преко 80% послова нестати због АИ и аутоматизације. Као последица тога, на располагању нам је неколико опција, као што је ограничавање технолошког напретка или искориштавање повећаног капитала из повећања продуктивности које ствара АИ.
 
-Imamo neka suštinska pitanja koja treba da postavimo sebi:
+Морамо себи да поставимо нека суштинска питања:
 
 
-- Kako upravljamo društvom u kojem će nestati 80% poslova?
-- Kako revitalizujemo populaciju?
-- Да ли је потребно толико наставника?
+- Како да управљамо друштвом у коме ће нестати 80% радних места?
+- Како ревитализовати становништво?
+- Има ли потребе за што више наставника?
 - Геополитичке, политичке и људске последице аутоматизације нису довољно дискутоване.
 
-Računarstvo, internet, strimovanje i VR će promeniti obrazovanje. Mogli bismo imati univerzalni kurs za sve francuske studente koji upravlja vlada i nastavnici koji više ne drže predavanja već direktno prate studente. Deca bi mogla da uđu u virtuelni svet i budu pratnja u učenju istorije.
+Рачунарство, интернет, стриминг и ВР ће променити образовање. Могли бисмо да имамо универзални курс за све француске студенте којим управља влада и наставници који више не држе предавања већ директно прате студенте. Деца би могла да оду у виртуелни свет и да буду у пратњи у учењу историје.
 
 
 - Где је граница између наставника и АИ персонификације?
-- Kako možemo garantovati društvo koje živi u prosperitetu?
+- Како можемо гарантовати друштво које живи у просперитету?
 
-Ova fundamentalna pitanja za našu budućnost moraju biti raspravljena i kolektivno odlučena.
+О овим фундаменталним питањима за нашу будућност мора се расправљати и колективно одлучивати.
 
-Koja je veza sa Bitcoinom? Baš kao što je internet revolucionizovao načine komunikacije, Bitcoin predstavlja tehnološku revoluciju za nove oblike organizacije velikih razmera, omogućavajući nam razmenu vrednosti bez oslanjanja na bilo koju pouzdanu treću stranu. Da li želimo da ometamo tehnološku evoluciju monetarnog sistema, ili želimo da prihvatimo potencijal za povećanje kapitala kroz desetostruke produktivne dobitke koje nudi korišćenje Bitcoin i Lightning protokola?
+Каква је веза са биткоином? Баш као што је Интернет револуционисао начине комуникације, Битцоин представља технолошку револуцију за нове облике организације великих размера, омогућавајући нам да размењујемо вредност без ослањања на било коју трећу страну од поверења. Да ли желимо да ометамо технолошку еволуцију монетарног система, или желимо да прихватимо потенцијал за повећање капитала кроз десетоструко повећање продуктивности које нуди коришћење Битцоин и Лигхтнинг протокола?
 
 ### Каква је будућност финансија?
 
-Ova razmatranja takođe postavljaju pitanja o tome ko bi trebao da drži, autorizuje i prati novac koji koristimo. Cilj je odlučiti između zatvorenog sistema sa neizabranim liderima ili otvorenog sistema bez pouzdanih trećih strana, gde prevladava neutralnost.
+Ова разматрања такође постављају питања о томе ко треба да држи, овласти и прати новац који користимо. Циљ је одлучити се између затвореног система са неизабраним лидерима или отвореног система без поверљивих трећих страна, где преовладава неутралност.
 
 
-- Da li je valuta oblik privatne svojine?
-- Могу ли се налози протестаната блокирати без наредбе Врховног суда?
+- Да ли је валута облик приватне својине?
+- Да ли се рачуни демонстраната могу блокирати без налога Врховног суда?
 - Ко гарантује финансијски систем?
-- Кака може појединац бити суверен над својим новцем и ослањати се на поверљиву трећу страну?
-- Може ли новац бити послат на другу страну света без такси или посредника?
+- Како појединац може бити суверен над својим новцем и ослонити се на трећу страну од поверења?
+- Може ли се новац послати на други крај света без провизија или посредника?
 
-Prihvatanje ovih novih tehnologija moglo bi generisati masivne ekonomije obima širom sveta. Da li treba dozvoliti slobodno kretanje kapitala? Međunarodne blokade imaju ekonomske i političke posledice. Da li je etično koristiti finansijske posrednike poput Western Union-a, koji ponekad naplaćuju do 25% provizije? Verujemo da u sve digitalnijem svetu, novac treba demokratizovati i smatrati zajedničkim dobrom koje pripada ljudima, a ne državi ili neprozirnim finansijskim institucijama.
+Прихватање ових нових технологија могло би да генерише огромне економије обима широм света. Да ли треба да дозволимо слободно кретање токова капитала? Међународне блокаде имају економске и политичке последице. Да ли је етично користити финансијске посреднике као што је Вестерн Унион, који понекад наплаћују и до 25% накнада? Верујемо да у све дигиталнијем свету новац треба демократизовати и сматрати га општим добром које припада људима, а не држави или непрозирним финансијским институцијама.
 
-Pitanje ko bi trebao kontrolisati bankarski sistem je ključno jer pravila bankarske igre nisu transparentna i razumljiva svima, što omogućava kasti političara i regulatora da održe svoj uticaj na sistem, pa je važno postaviti pitanje da li slobodno tržište ili grupa intelektualaca treba da ima moć nad njim.
+Питање ко треба да контролише банкарски систем је кључно јер правила банкарске игре нису транспарентна и свима разумљива, дозвољавајући касти политичара и регулатора да одрже контролу над системом, па је важно поставити питање да ли слободно тржиште или група интелектуалаца треба да има моћ над њим.
 
-### Naša sloboda je ugrožena.
+### Наша слобода је у питању.
 
-Cenzura takođe mora biti dovedena u pitanje: ko ima znanje da odluči šta treba biti cenzurisano ili ne? Mediji su promenili svoj stav o određenim informacijama i oni koji su pre bili cenzurisani danas više nisu cenzurisani.
+Цензура се такође мора преиспитивати: ко има знање да одлучује шта треба цензурисати или не? Медији су променили став о одређеним информацијама и они који су раније били цензурисани данас више нису цензурисани.
 
 
 - Ко одлучује шта је цензура или пропаганда?
 - Ко има божанску руку над нашим системом?
 
-Ми чврсто верујемо да толерисање цензуре може уништити слободу изражавања и право на окупљање, јер може имати негативан утицај на иновације и слободну вољу. Наметање цензуре је технички тешко без стварања потпуне дистопије. Дакле, која ентитет треба да има моћ цензуре? Питање је сложено, а такође је тешко одлучити ко би требао бити ограничен или не.
+Чврсто верујемо да толерисање цензуре може уништити слободу изражавања и право на окупљање, јер може имати негативан утицај на иновације и слободну вољу. Наметање цензуре је технички тешко без стварања потпуне дистопије. Дакле, који ентитет треба да има моћ цензуре? Ствар је компликована, а такође је тешко одлучити коме треба ограничити или не.
 
-Postoji 2,4 milijarde ljudi na svetu bez bankovnog računa, što nužno stvara geografske nejednakosti. S druge strane, Bitcoin omogućava jednakost transakcija, bez obzira na vaš socijalni status ili političku poziciju. Protokol je apolitičan i ne dodeljuje specifične privilegije liderima ili drugim uticajnim ličnostima, osiguravajući da svako ima iste mogućnosti za pokretanje razvoja napred, umesto da dozvoli nekolicini da ostanu na vrhu dok su drugi ostavljeni iza. Da li svako treba da ima pristup istoj valuti, bez obzira na svoj socijalni status? Neophodno je razmotriti svet koji želimo da ostavimo našoj deci, i težimo da stvorimo otvoren svet gde su slobodni da upravljaju svojim novcem kako žele.
+У свету има 2,4 милијарде људи без банковног рачуна, што нужно ствара географске неједнакости. С друге стране, биткоин даје једнакост трансакцијама, без обзира на ваш друштвени статус или политички положај. Протокол је аполитичан и не даје посебне привилегије лидерима или другим утицајним личностима, осигуравајући да сви имају исте могућности да покрећу развој напред, уместо да дозволи неколицини да остану на врху, док су други остављени. Да ли сви треба да имају приступ истој валути, без обзира на њихов друштвени статус? Од суштинске је важности да размотримо свет који желимо да оставимо нашој деци, а ми тежимо да створимо отворен свет у коме су они слободни да управљају својим новцем како желе.
 
-Bitcoin je važan i ne bi trebalo da se smatra samo igrom na sreću, stoga je ključno nastaviti postavljati pitanja o Bitcoinu i njegovim posledicama na svetu.
+Биткоин је важан и не треба га сматрати само игром на срећу, тако да је кључно да наставите да постављате питања о Битцоин-у и његовим последицама на свет.
 
-### Bitcoin: revolucionarni protokol
+### Битцоин: револуционарни протокол
 
-Kao što smo videli u prethodnom poglavlju, Bitcoin protokol je neutralan prema svim svojim korisnicima. Zahvaljujući pravilima konsenzusa i kriptografiji, možemo nepromenljivo zabeležiti transakcije u globalnom javnom registru, garantujući prenos monetarne vrednosti bez ikakve pouzdane treće strane. Infrastruktura drugog sloja (a uskoro i trećeg sloja, sa RGB) koristi se za skalabilnost mreže i razvoj novih funkcionalnosti.
+Као што смо видели у претходном поглављу, Битцоин протокол је неутралан према свим својим корисницима. Захваљујући правилима консензуса и криптографији, можемо непроменљиво да бележимо трансакције у глобалној јавној књизи, гарантујући трансфере новчане вредности без икакве треће стране од поверења. Инфраструктура другог слоја (а ускоро и трећи слој, са РГБ) се користи за скалабилност мреже и развој нових функционалности.
 
-Bitcoin ima sve neophodne karakteristike da bude efikasna i zdrava valuta: deljiv, trenutno prenosiv, necenzurisan, zanemarljivi troškovi verifikacije, i sa monetarnom politikom već postavljenom na 21 milion jedinica za vekove koji dolaze. Bitcoin je pseudoniman i može se razmenjivati bilo gde u svetu bez ikakve autorizacije od bilo koje entiteta. Samo trebate da držite svoje privatne ključeve i zapamtite izreku "Nisu tvoji ključevi, nisu tvoji bitkoini".
+Биткоин има све неопходне карактеристике да буде ефикасна и здрава валута: дељиви, тренутно преносиви, нецензурисани, занемарљиви трошкови верификације и са монетарном политиком која је већ постављена на 21 милион јединица у вековима који долазе. Битцоин је псеудоним и може се заменити било где у свету без икаквог овлашћења било ког ентитета. Само треба да држите своје приватне кључеве и запамтите изреку „Не ваши кључеви, не ваши биткоини“.
 
-Usvojen je od strane različitih grupa ljudi, od kriptografa, do libertarijanaca, do tradicionalnih preduzeća, pa čak i čitavih zemalja. Međutim, Bitcoin je za svakoga, i kako broj korisnika raste, tako raste i broj Bitcoin čvorova koji služe kao čuvari istorije transakcija, obezbeđujući njegovu decentralizaciju.
+Прихватају га различите групе људи, од криптографа, до либертаријанаца, до традиционалних предузећа, па чак и читавих земаља. Међутим, Битцоин је за свакога, а како број корисника расте, расте и број Битцоин чворова који служе као чувари историје трансакција, обезбеђујући његову децентрализацију.
 
-Bitcoin ne može biti zaustavljen i više ne može biti cenzurisan. To je mirna revolucija koja menja monetarni sistem i omogućava finansijsku inkluzivnost. Korisnici mogu dobiti bitcoine prihvatajući ih za svoju trgovinu ili kupovinom preko regulisanih ili neregulisanih platformi. Mogu čuvati sredstva u svojim novčanicima, mobilnim aplikacijama ili fizičkim uređajima, bez potrebe za pouzdanim posrednicima. Bitcoin zagovara transparentnost, slobodu i individualnu odgovornost: kako kaže izreka "Ne veruj, proveri".
+Битцоин се не може зауставити и више се не може цензурисати. То је мирна револуција која мења монетарни систем и омогућава финансијску инклузивност. Корисници могу да добију биткоине прихватањем за своју трговину или куповином преко регулисаних или нерегулисаних платформи. Они могу да чувају средства у својим новчаницима, мобилним апликацијама или физичким уређајима, без потребе за посредницима од поверења. Битцоин заговара транспарентност, слободу и индивидуалну одговорност: како се каже „Не веруј, провери“.
 
-Satoshi je stvorio Bitcoin 2008. godine da predloži promenu finansijskog sistema, kroz promenu valute, jer je znao da pristup lakom i "magičnom" novcu lako dovodi do korupcije. Bitcoin je stoga alternativa za izgradnju novog neutralnog monetarnog sistema, jer omogućava emancipaciju od bankarskog sistema. Na kraju, to je socijalni fenomen koji nas ohrabruje da učestvujemo u mirnoj revoluciji.
+Сатоши је створио биткоин 2008. године како би предложио промену финансијског система, кроз промену валуте, јер је знао да приступ лаком и „магичном“ новцу лако доводи до корупције. Биткоин је стога алтернатива за изградњу новог неутралног монетарног система, јер омогућава еманципацију од банкарског система. На крају крајева, то је друштвени феномен који нас подстиче да учествујемо у мирној револуцији.
 
 Да ли сте спремни да се придружите?
 
-# Zaključak
+# Закључак
 
 <partId>9ed4b454-2950-40b4-a56b-68d109689a82</partId>
 
-## Recenzije & Ocene
+## Рецензије и оцене
 
 <chapterId>585729e2-b0ab-51b5-89ec-593e3ea22c57</chapterId>
 
-<isCourseReview>tačno</isCourseReview>
+<исЦоурсеРевиев>труе</исЦоурсеРевиев>
 
 ## Завршни испит
 
 <chapterId>8410e961-3841-5abf-a51d-04fc0139dd59</chapterId>
 
-<isCourseExam>tačno</isCourseExam>
+<исЦоурсеЕкам>труе</исЦоурсеЕкам>
 
-## Zaključak
+## Закључак
 
 <chapterId>dfc534be-44a9-5e8c-9c98-e51ef0554e91</chapterId>
 
-<isCourseConclusion>tačno</isCourseConclusion>
+<исЦоурсеЦонцлусион>труе</исЦоурсеЦонцлусион>

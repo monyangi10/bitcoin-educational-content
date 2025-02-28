@@ -117,7 +117,7 @@
     {
       "code": "sr",
       "name": "Serbian",
-      "translator": "openai",
+      "translator": "google",
       "code_translator": "sr"
     },
     {
