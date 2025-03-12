@@ -166,10 +166,150 @@ In the following sections, the different file structures for each of the aforeme
 
 ## Add Channels
 
+- This is the empty template of the `channel.yml` file:
+
+```yaml
+id:
+name:
+language:
+links:
+  channel:
+  trailer:
+description: |
+
+contributors:
+  -
+tags:
+  -
+  -
+```
+
+- This is an example of how your `channel.yml` file should look like:
+
+```yaml
+id: cd639b66-83c8-4a8e-bc5d-a814bdab379b
+name: BTC Sessions
+language: en
+links:
+  channel: https://www.youtube.com/@BTCSessions
+  trailer: https://youtu.be/-R7TFUr0tzw
+description: |
+  BTC Sessions is geared towards helping you understand Bitcoin. Get the tutorials on wallets, hardware, security, exchanges and much more, as well as the latest news and industry interviews.
+contributors:
+  - YourGithubUsername
+tags:
+  - guides
+  - user-friendly
+  - wallets
+```
+
+#### Notes regarding compilation
+
+- The trailer can be identified as the pinned video on the platform (e.g. like on YouTube), the most viewed video or the most famous one. Dear contributor, this is gonna be up to you; we trust your choice between the aforementioned possibilities.
+
 ## Add Newsletters
+
+- This is the empty template of the `newsletter.yml` file:
+
+```yaml
+id:
+title:
+author:
+publication_date:
+level:
+link:
+  - website:
+language:
+  -
+description: |
+
+contributors:
+  -
+tags:
+  -
+  -
+```
+
+- This is an example of how your `channel.yml` file should look like:
+
+```yaml
+id: 32cd5246-ae6a-4d76-9e1d-8a25cb096e39
+title: Bitcoin Optech
+author: Adam Jonas, David A. Harding, Gloria Zhao, and al.
+publication_date: 2018-06-08
+level: expert
+link:
+  - website: https://bitcoinops.org/en/newsletters/
+language:
+  - en
+description: |
+  A key initiative from the Bitcoin Operations Technology Group (Optech) that bridges the gap between Bitcoin businesses and open source technology. The newsletter, released weekly, focuses on helping Bitcoin companies implement the most efficient and cost-effective operational practices. A primary focus is optimizing transaction sizes and managing fee costs through better technical implementation. The content covers technical developments, practical workshops, original research, and real-world case studies. What makes this newsletter particularly valuable is its non-profit nature (funded by member companies and seed investors Wences Casares and John Pfeffer) and its commitment to open source - all materials are released under the MIT license. It's especially relevant for engineers and managers at Bitcoin companies who want to stay current with the latest operational best practices and strengthen their connection to the open source community.
+contributors:
+  - YourGithubUsername
+tags:
+  - technical-analysis
+  - business
+  - good-practice
+```
 
 ## Add Movies
 
+- This is the empty template of the `newsletter.yml` file:
 
+```yaml
+id:
+title:
+author:
+publication_year:
+duration:
+links:
+  - platform:
+  - trailer
+language:
+description: |
+
+contributors:
+  -
+tags:
+  -
+  -
+```
+
+- This is an example of how your `channel.yml` file should look like:
+
+```yaml
+id: 1a95f951-1caa-4fed-96ca-a87c38e1f13a
+title: "Bitcoin: The End of Money as We Know It"
+author: Torsten Hoffmann
+publication_year: 2015
+duration: 60
+language: en
+links:
+  platform: https://youtu.be/zpNlG3VtcBM?si=Q0E7Q-UQC5s3Nvlf
+  trailer: https://youtu.be/lUF6klWuB38?si=oe7wEodxAbZbD_v1
+description: |
+  Bitcoin: The End Of Money As We Know It traces the history of money from the
+  bartering societies of the ancient world to the trading floors of Wall St. The
+  documentary exposes the practices of central banks and the dubious financial
+  actors who brought the world to its knees in the last crisis. It highlights the
+  Government influence on the money creation process and how it causes inflation.
+  Moreover, this film explains how most money we use today is created out of thin
+  air by banks when they create debt. Epic in scope, this film examines the
+  patterns of technological innovation and questions everything you thought you
+  knew about money. Is Bitcoin an alternative to national currencies backed by
+  debt? Will Bitcoin and cryptocurrency spark a revolution in how we use money
+  peer to peer? Is it a gift to criminals? Or is it the next bubble waiting to
+  burst? If you trust in your money just as it is - this film has news for you.
+contributors:
+  - YourGithubUsername
+tags:
+  - finance
+  - historical
+  - high-level
+```
+
+#### Notes regarding compilation
+
+- Duration is expressed in minutes. It is gonna be rendered on the platform with both hours and minutes.
 
 Thank you very much for your valuable contribution! :)
