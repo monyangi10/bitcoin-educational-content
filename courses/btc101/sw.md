@@ -4,7 +4,7 @@ goal: Gundua misingi ya Bitcoin, ikijumuisha pendekezo lake la thamani ya fedha,
 objectives: 
 
   - Pata ufahamu wa jumla wa teknolojia ya Bitcoin
-  - Kuelewa jinsi ya kununua na salama bitcoins
+  - Kuelewa jinsi ya kununua kwa salama Bitcoins
   - Kuwa na ufahamu wa jumla wa teknolojia ya Blockchain
   - Fahamu dhana ya Lightning Network
   - Tambua athari za kijiografia na kijamii za Bitcoin
@@ -12,7 +12,7 @@ objectives:
 ---
 # Matukio Yako ya Kwanza ya Bitcoin
 
-Katika kozi hii, tutaelezea misingi ya Bitcoin katika sura 25, ili uweze kuelewa teknolojia hii kwa njia rahisi na yenye ufanisi. Kozi hii inachunguza misingi ya sekta kwa ujumla, ikijumuisha mada kama vile Mining, pochi, majukwaa ya kununua/kuuza na zaidi. Nyenzo za ziada za elimu zitapatikana katika safari yote, na pia tunakualika kuangalia "Mabango 21" katika sehemu ya nyenzo baada ya kumaliza kozi hii.
+Katika kozi hii, tutaelezea misingi ya Bitcoin katika sura 25, ili uweze kuelewa teknolojia hii kwa njia rahisi na yenye ufanisi. Kozi hii inachunguza misingi ya sekta kwa ujumla, ikijumuisha mada kama vile uchimbaji, pochi, majukwaa ya kununua/kuuza na zaidi. Nyenzo za ziada za elimu zitapatikana katika safari yote, na pia tunakualika kuangalia "Mabango 21" katika sehemu ya nyenzo baada ya kumaliza kozi hii.
 
 Huhitaji maarifa yoyote maalum ili kuanza. Kwa hakika, maudhui yafuatayo yanaweza kufikiwa na wanafunzi wa viwango vyote, na inapaswa kuchukua takriban saa 15 kumaliza.
 
@@ -33,7 +33,7 @@ Itifaki hutumia teknolojia za msingi kama vile kriptografia, mawasiliano ya mtan
 
 ### Mtaala mpana lakini unaoweza kufikiwa
 
-Katika kozi hii, tutajadili baadhi ya vipengele vya fedha vya Bitcoin, ikiwa ni pamoja na jinsi ya kununua na kuuza bitcoins, kuzihifadhi kwa usalama katika pochi za kidijitali, na kuzitumia kwa miamala. Pia tutachunguza jukumu la wachimbaji, ambao ni muhimu kwa kuunda bitcoins mpya na kupata mtandao wa Bitcoin. Hatimaye, tutachunguza mustakabali wa Bitcoin na jinsi teknolojia ya Lightning Network inavyoweza kuboresha miamala ya Bitcoin.
+Katika kozi hii, tutajadili baadhi ya vipengele vya fedha vya Bitcoin, ikiwa ni pamoja na jinsi ya kununua na kuuza bitcoins, kuzihifadhi kwa usalama katika pochi za kidijitali, na kuzitumia kwa miamala. Pia tutachunguza jukumu la wachimbaji, ambalo ni muhimu kwa kuunda bitcoins mpya na kupata mtandao wa Bitcoin. Hatimaye, tutachunguza mustakabali wa Bitcoin na jinsi teknolojia ya Lightning Network inavyoweza kuboresha miamala ya Bitcoin.
 
 ![image](assets/en/01.webp)
 
@@ -43,7 +43,7 @@ Ni muhimu kuelewa kwamba Bitcoin ni mfumo mpya wa fedha ambao hubadilisha kabisa
 
 
 - Sura ya 1 - Pesa ni nini?
-- Sura ya 2 - Fiat pesa
+- Sura ya 2 - Fiat kama pesa
 - Sura ya 3 - Mfumuko wa bei
 - Sura ya 4 - Bitcoin sera ya fedha
 
@@ -77,7 +77,7 @@ Ni muhimu kuelewa kwamba Bitcoin ni mfumo mpya wa fedha ambao hubadilisha kabisa
 - Sura ya 17 - Utangulizi wa Lightning Network
 - Sura ya 18 - Tumia kesi kwa Lightning Network
 
-Kabla ya kuanzisha ufafanuzi wa pesa na kazi yake katika jamii (Sura ya 1), tunapaswa kuanza kutoka kwa Genesis ya Bitcoin. Ilizinduliwa mnamo 2009, Bitcoin ni teknolojia mpya ambayo ni tofauti na kitu kingine chochote. Kwa hiyo ni kawaida kutoelewa kila kitu kuhusu hilo, mara moja. Kwa kweli, kama vile unapojifunza jinsi ya kutumia Intaneti au kuendesha gari, huhitaji kujua maelezo yote ya kiufundi mara moja: unaweza kuanza kwa kujifunza jinsi ya kupokea, kulipa na kulinda pesa zako, na kisha kuchukua hatua ndogo ili kuisoma kwa undani zaidi.
+Kabla ya kuanzisha ufafanuzi wa pesa na kazi yake katika jamii (Sura ya 1), tunapaswa kuanza kutoka kwa Genesis ya Bitcoin. Ilizinduliwa mnamo 2009, Bitcoin ni teknolojia mpya ambayo ni tofauti na kitu kingine chochote. Kwa hiyo ni kawaida kutoelewa kila kitu kuhusu hilo, mara moja. Kwa kweli, kama vile unapojifunza jinsi ya kutumia mtandao au kuendesha gari, huhitaji kujua maelezo yote ya kiufundi mara moja: unaweza kuanza kwa kujifunza jinsi ya kupokea, kulipa na kulinda pesa zako, na kisha kuchukua hatua ndogo ili kuisoma kwa undani zaidi.
 
 Baada ya yote, tuko katika hatua za mwanzo tu za kupitishwa kwake, kwani tumepita awamu ya kuondoka: uko katika wakati wa kupata maarifa mengi kama unavyotaka kuhusu uvumbuzi huu muhimu.
 
@@ -97,7 +97,7 @@ Kabla ya neno "Bitcoin" kuwa sawa na sarafu ya kidijitali na mabadiliko ya kifed
 
 Katika moyo wa mageuzi ya kiteknolojia ya miaka ya 1980 na 1990, kundi la watu lilianza kutilia shaka kwa kina jukumu la faragha na uhuru katika enzi ya kidijitali. Watu hawa, ambao baadaye wangejulikana kama "cypherpunks", waliamini kabisa kwamba cryptography inaweza kutumika kama chombo cha kulinda haki za mtu binafsi dhidi ya kuingiliwa na serikali na mashirika makubwa.
 
-Watu mashuhuri kama vile Julian Assange, Wei Dai, Tim May, na David Chaum walichukua jukumu muhimu katika kuunda falsafa na maono ya harakati. Wanafikra hawa walishiriki mawazo yao kwenye orodha ya utumaji barua yenye ushawishi, ambapo washiriki kutoka kote ulimwenguni walishiriki katika mijadala kuhusu njia bora za kutumia teknolojia kwa uhuru zaidi wa mtu binafsi.
+Watu mashuhuri kama vile Julian Assange, Wei Dai, Tim May, na David Chaum walichukua jukumu muhimu katika kuunda falsafa na maono ya harakati. Wanafikra hawa walishirikisha mawazo yao kwenye orodha ya utumaji barua yenye ushawishi, ambapo washiriki kutoka kote ulimwenguni walishiriki katika mijadala kuhusu njia bora za kutumia teknolojia kwa uhuru zaidi wa mtu binafsi.
 
 ### Karatasi tatu za msingi za Cypherpunks
 
@@ -108,15 +108,15 @@ Harakati ya Cypherpunk, iliyojikita zaidi katika uanaharakati wa kidijitali na u
 
 - "Manifesto ya Cypherpunk":
 
-iliyoandikwa na Eric Hughes mwaka wa 1993, "Cypherpunk Manifesto" inadai kuwa faragha ni haki ya msingi. Mwandishi anadai kuwa uwezo wa kuwasiliana kwa uhuru na usiri ni muhimu kwa jamii huru. Ilani hiyo inasema: "Hatuwezi kutarajia serikali, mashirika, au mashirika mengine makubwa, yasiyo na uso kutupatia faragha [...]. Ni lazima tutetee faragha yetu ikiwa tunatarajia kuwa na yoyote".
+iliyoandikwa na Eric Hughes mwaka wa 1993, "Cypherpunk Manifesto" inadai kuwa faragha ni haki ya msingi. Mwandishi anadai kuwa uwezo wa kuwasiliana kwa uhuru na usiri ni muhimu kwa jamii huru. Ilani hiyo inasema: "Hatuwezi kutarajia serikali, shirika, au mashirika mengine makubwa, yasiyo na uso kutupatia faragha [...]. Ni lazima tutetee faragha yetu ikiwa tunatarajia kuwa na yoyote".
 
 
 - "Manifesto ya Crypto-Anarchist":
 
-iliyoandikwa na Timothy C. May mwaka wa 1992, hati hii inaeleza jinsi matumizi ya fiche yanaweza kusababisha enzi ya machafuko ya siri ambapo serikali zitakuwa hazina uwezo wa kuingilia masuala ya kibinafsi ya raia. May alifikiria siku zijazo ambapo watu bila kujulikana habari na pesa za Exchange bila kuingiliwa na mtu wa tatu.
+iliyoandikwa na Timothy C. May mwaka wa 1992, hati hii inaeleza jinsi matumizi ya fiche yanaweza kusababisha enzi ya machafuko ya siri ambapo serikali zitakuwa hazina uwezo wa kuingilia masuala ya kibinafsi ya raia. May alifikiria siku zijazo ambapo watu bila kujulikana habari na pesa za kubadilishana bila kuingiliwa na mtu wa tatu.
 
 
-- "Tamko la Uhuru wa Mtandao wa Mtandao":
+- "Tamko la Uhuru wa Mtandao":
 
 ingawa si Cypherpunk pekee, maandishi haya yanaonyesha hisia za washiriki wengi katika harakati. Iliyoandikwa mwaka wa 1996 na John Perry Barlow, ni jibu kwa udhibiti unaoongezeka wa mtandao na serikali. Tamko hilo linadai kuwa mtandao ni eneo tofauti na nyanja halisi na haipaswi kuwa chini ya sheria sawa. Kama inavyosema, "Hatuna serikali iliyochaguliwa, na hakuna uwezekano wa kuwa nayo".
 
@@ -130,7 +130,7 @@ Picha hapa chini inaonyesha wazi maendeleo ya harakati kupitia uvumbuzi wake mwi
 
 ![image](assets/en/05.webp)
 
-Ilikuwa katika mazingira haya yenye rutuba ambapo kampuni ya ajabu ya Satoshi Nakamoto ilichapisha karatasi nyeupe ya Bitcoin mwaka wa 2008. Katika waraka huu, alichanganya mawazo kadhaa kutoka kwa vuguvugu la Cypherpunk, kama vile Proof of Work na mihuri ya nyakati ya kriptografia, ili kuunda sarafu ya dijiti iliyogatuliwa na inayostahimili udhibiti.
+Ilikuwa katika mazingira haya yenye rutuba ambapo kampuni ya ajabu ya Satoshi Nakamoto ilichapisha karatasi nyeupe ya Bitcoin mwaka wa 2008. Katika waraka huu, alichanganya mawazo kadhaa kutoka kwa vuguvugu la Cypherpunk, kama vile Proof of Work na mihuri ya nyakati ya kriptografia, ili kuunda sarafu ya nambari iliyogatuliwa na inayostahimili udhibiti.
 
 Walakini, Bitcoin ilikuwa zaidi ya hiyo tu: iliwakilisha kufikiwa kwa maadili ya Cypherpunk. Zaidi ya teknolojia yake, iliashiria mapinduzi dhidi ya mifumo ya jadi ya kifedha na kutoa njia mbadala kulingana na uwazi, ugatuaji na uhuru wa mtu binafsi.
 
@@ -161,17 +161,17 @@ Mageuzi ya pesa ni kipengele cha kuvutia cha historia ya binadamu ambacho huakis
 
 Hapo awali, sarafu ilikuwa mali inayoonekana, kama vile nafaka, mifugo, au bidhaa nyingine. Hata hivyo, bidhaa hizi zilikuwa na hasara kubwa ya kuharibika, na hivyo kufanya kuwa vigumu kuzitumia kama njia ya kuokoa muda mrefu. Kwa mfano, mavuno duni au magonjwa ya wanyama yanaweza kuharibu mali ya mtu kwa usiku mmoja.
 
-Kwa hivyo, kadiri ustaarabu ulivyosonga mbele na biashara ilipanuka hadi katika maeneo mapya, hitaji la njia ya kimataifa ya Exchange liliibuka. Watu walijaribu kwanza vitu kama vile makombora na vito, lakini havikuwa vya kudumu au kovu kama walivyoamini. Hatimaye, dhahabu ikawa kiwango, kutokana na uhaba wake, uimara, na mgawanyiko. Ilikuwa, na inabaki hadi leo, ishara ya utajiri na nguvu.
+Kwa hivyo, kadiri ustaarabu ulivyosonga mbele na biashara ilivyopanuka hadi katika maeneo mapya, hitaji la njia la kimataifa la kubadilishana liliibuka. Watu walijaribu kwanza vitu kama vile makombora na vito, lakini havikuwa vya kudumu au kovu kama walivyoamini. Hatimaye, dhahabu ikawa kiwango, kutokana na uhaba wake, uimara, na mgawanyiko. Ilikuwa, na inabaki hadi leo, ishara ya utajiri na nguvu.
 
 ![image](assets/en/07.webp)
-
+r
 ### Je, jukumu la pesa ni nini?
 
 Pesa ni chombo cha kisasa cha mawasiliano:
 
 
 - Inaruhusu mawasiliano kati ya sasa na ya baadaye, kwa sababu inabadilisha wakati na nishati yetu kuwa mali ambayo inaweza kutumika tena katika wakati ujao bila hatari ya kushuka kwa thamani.
-- Inawezesha mawasiliano katika lugha ya ulimwengu wote: bila kujuana au kuzungumza lugha moja, wageni wawili wanaweza Exchange, kufanya biashara, na kukubaliana juu ya thamani ya vitu.
+- Inawezesha mawasiliano katika lugha ya ulimwengu wote: bila kujuana au kuzungumza lugha moja, wageni wawili wanaweza kubadilishana, kufanya biashara, na kukubaliana juu ya thamani ya vitu.
 
 Kazi yake katika ulimwengu wetu ni ngumu kuiga kwa njia bandia. Kwa kweli, hakuna mtu binafsi au kikundi kinachoweza kuunda pesa, kwani ni jambo la asili ambalo lazima litoke kwenye soko na makubaliano ya hiari. Kwa maana hii, bei hutumika kama ishara na vipande vya habari vinavyoongoza jamii katika kugawa rasilimali.
 
@@ -179,7 +179,7 @@ Kwa sababu hizi, dhahabu kama pesa ni matokeo ya miaka 4,000 ya imani ya Darwin 
 
 
 - Hifadhi ya thamani**: pesa inaweza kutumika kuhamisha nguvu ya ununuzi katika siku zijazo, kwa hiyo inahitaji kuwa nyenzo ya kudumu;
-- Kati ya Exchange**: pesa inaweza kutumika katika Exchange kwa bidhaa na huduma badala ya kubadilishana, hivyo kuepuka sadfa ya kutaka kati ya wafanyabiashara;
+- Kati ya kubadilishana**: pesa inaweza kutumika katika kubadilishana kwa bidhaa na huduma hivyo kuepuka sadfa ya kutaka kati ya wafanyabiashara;
 - Kitengo cha akaunti**: pesa pia huturuhusu kulinganisha thamani za bidhaa mbalimbali ili kuelewa vyema manufaa yake.
 
 ![image](assets/en/08.webp)
