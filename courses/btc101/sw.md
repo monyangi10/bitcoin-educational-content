@@ -1,6 +1,6 @@
 ---
 name: Safari ya Bitcoin
-goal: Gundua misingi ya Bitcoin, ikijumuisha pendekezo lake la thamani ya fedha, wachimbaji, miamala na pochi.
+lengo: Gundua misingi ya Bitcoin, ikijumuisha pendekezo lake la thamani ya fedha, wachimbaji, miamala na pochi.
 objectives: 
 
   - Pata ufahamu wa jumla wa teknolojia ya Bitcoin
