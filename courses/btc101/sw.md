@@ -178,9 +178,9 @@ Kazi yake katika ulimwengu wetu ni ngumu kuiga kwa njia bandia. Kwa kweli, hakun
 Kwa sababu hizi, dhahabu kama pesa ni matokeo ya miaka 4,000 ya imani ya Darwin ya kifedha kulingana na kazi zifuatazo za Aristotle:
 
 
-- Hifadhi ya thamani**: pesa inaweza kutumika kuhamisha nguvu za ununuzi katika siku zijazo, kwa hiyo inahitaji kuwa nyenzo ya kudumu;
-- Kati ya kubadilishana**: pesa inaweza kutumika kubadilishana kwa bidhaa na huduma,badala ya kubadilishana bidhaa kwa bidhaa, hivyo kuepuka sadfa ya kutaka ya wafanyabiashara;
-- Kitengo cha akaunti**: pesa pia huturuhusu kulinganisha thamani za bidhaa mbalimbali ili kuelewa vyema manufaa yake.
+- **Hifadhi ya thamani**: pesa inaweza kutumika kuhamisha nguvu za ununuzi katika siku zijazo, kwa hiyo inahitaji kuwa nyenzo ya kudumu;
+- **Kati ya kubadilishana**: pesa inaweza kutumika kubadilishana kwa bidhaa na huduma,badala ya kubadilishana bidhaa kwa bidhaa, hivyo kuepuka sadfa ya kutaka ya wafanyabiashara;
+- **Kitengo cha akaunti**: pesa pia huturuhusu kulinganisha thamani za bidhaa mbalimbali ili kuelewa vyema manufaa yake.
 
 ![image](assets/en/08.webp)
 
@@ -199,9 +199,9 @@ Ili kuelezea dhana hii vyema, tutachunguza sifa za sarafu inayofaa:
 ![image](assets/en/11.webp)
 
 
-- fungibility**, ikimaanisha kuwa inaweza kubadilishana na kitengo kingine cha aina sawa bila upotezaji wa thamani;
-- Mgawanyiko**, kwani inaweza kugawanywa katika vitengo vidogo ili kuwezesha shughuli za viwango tofauti;
-- Liquidity**, ambayo ina maana kwamba inaweza kubadilishwa kwa urahisi kuwa bidhaa au huduma.
+- **Fungibility**, ikimaanisha kuwa inaweza kubadilishana na kitengo kingine cha aina sawa bila upotezaji wa thamani;
+- **Mgawanyiko**, kwani inaweza kugawanywa katika vitengo vidogo ili kuwezesha shughuli za viwango tofauti;
+- **Liquidity**, ambayo ina maana kwamba inaweza kubadilishwa kwa urahisi kuwa bidhaa au huduma.
 
 Ili kufikia vigezo hivi, sarafu imebadilika kihistoria kwa kuchukua hatua tofauti:
 
@@ -572,18 +572,18 @@ Kwa kweli hakuna jibu au suluhisho la jumla, kwa hivyo chukua muda kujibu maswal
 Hapa chini, tutafafanua viwango kadhaa vya usalama:
 
 
-- Kiwango cha 0**, unatumia kinachojulikana kama "huduma ya uangalizi" ambapo wewe si mmiliki pekee wa bitcoins zako. Fahamu kuwa mtu huyu mwingine anayeaminika anaweza kukuwekea kikomo ufikiaji wa pesa zako wakati wowote. Katika hali hii, kiwango chako cha uhuru wa kifedha ni sawa na cha mfumo wa benki wa jadi na akaunti za benki.
+- **Kiwango cha 0**, unatumia kinachojulikana kama "huduma ya uangalizi" ambapo wewe si mmiliki pekee wa bitcoins zako. Fahamu kuwa mtu huyu mwingine anayeaminika anaweza kukuwekea kikomo ufikiaji wa pesa zako wakati wowote. Katika hali hii, kiwango chako cha uhuru wa kifedha ni sawa na cha mfumo wa benki wa jadi na akaunti za benki.
 
 ![image](assets/en/31.webp)
 
 
-- Kiwango cha 1**, unatumia Bitcoin Wallet kwenye simu au tarakilishi yako, ambapo wewe ndiwe mmiliki pekee wa bitcoins zako na unaweza kufanya miamala yako kwa urahisi. Zana iliyotajwa hapo juu inajulikana kama "Hot Wallet", kwa sababu ufunguo wa faragha umehifadhiwa kwenye kifaa kilicho na upatikanaji wa mtandao. Katika hali hii, ni muhimu kuhifadhi nakala ya maneno yako ya Mnemonic ili kurejesha ufikiaji wa pesa zako ikiwa utapoteza simu au kompyuta yako.
+- **Kiwango cha 1**, unatumia Bitcoin Wallet kwenye simu au tarakilishi yako, ambapo wewe ndiwe mmiliki pekee wa bitcoins zako na unaweza kufanya miamala yako kwa urahisi. Zana iliyotajwa hapo juu inajulikana kama "Hot Wallet", kwa sababu ufunguo wa faragha umehifadhiwa kwenye kifaa kilicho na upatikanaji wa mtandao. Katika hali hii, ni muhimu kuhifadhi nakala ya maneno yako ya Mnemonic ili kurejesha ufikiaji wa pesa zako ikiwa utapoteza simu au kompyuta yako.
 
 Kwa mfano, unaweza kutumia Sparrow Wallet kama Hot Wallet:
 
 https://planb.network/tutorials/wallet/desktop/sparrow-c674e2ac-d46f-4c82-92a7-7d1b0e262f5d
 
-- Kiwango cha 2**, unatumia Wallet halisi, na umepata orodha yako ya maneno 12/24. Mara nyingi hujulikana kama "Cold Wallet" kwa sababu funguo zako zimehifadhiwa kwenye kifaa ambacho hakijaunganishwa kwenye mtandao. Katika hali hii, utahitaji kutia sahihi kila shughuli ukitumia kifaa chako, jambo ambalo hufanya pesa zako zisifikiwe kila siku.
+- **Kiwango cha 2**, unatumia Wallet halisi, na umepata orodha yako ya maneno 12/24. Mara nyingi hujulikana kama "Cold Wallet" kwa sababu funguo zako zimehifadhiwa kwenye kifaa ambacho hakijaunganishwa kwenye mtandao. Katika hali hii, utahitaji kutia sahihi kila shughuli ukitumia kifaa chako, jambo ambalo hufanya pesa zako zisifikiwe kila siku.
 
 Kwa mfano, unaweza kutumia Ledger, Satochip, au Tapsigner:
 
@@ -593,7 +593,7 @@ https://planb.network/tutorials/wallet/hardware/tapsigner-ab2bcdf9-9509-4908-9a4
 ![image](assets/en/32.webp)
 
 
-- Kiwango cha 3**, unatumia kiwango cha 1 au 2 Wallet, lakini umeongeza passphrase ya ziada. Katika hali hii, fahamu kwamba unahitaji kuhifadhi nakala zote za orodha ya maneno 12/24 **na** passphrase yako. Kimsingi, taarifa hizi mbili zimehifadhiwa katika sehemu mbili tofauti.
+- **Kiwango cha 3**, unatumia kiwango cha 1 au 2 Wallet, lakini umeongeza passphrase ya ziada. Katika hali hii, fahamu kwamba unahitaji kuhifadhi nakala zote za orodha ya maneno 12/24 **na** passphrase yako. Kimsingi, taarifa hizi mbili zimehifadhiwa katika sehemu mbili tofauti.
 
 Ili kujifunza zaidi kuhusu matumizi na utendakazi wa BIP39 passphrase:
 
@@ -601,7 +601,7 @@ https://planb.network/tutorials/wallet/backup/passphrase-a26a0220-806c-44b4-af14
 ![image](assets/en/33.webp)
 
 
-- Kiwango cha 4**, unatumia seti ya pochi kuunda "Multisig" Wallet, ambayo ina maana kwamba sahihi nyingi zinahitajika kufanya shughuli. Katika kesi hii, fahamu kwamba kila sehemu ya Multisig inapaswa kuhifadhiwa katika maeneo tofauti. Mbinu hii mara nyingi inachukuliwa kuwa matumizi ya hali ya juu ya Bitcoin, haswa kwa kudhibiti kiasi kikubwa na kwa madhumuni ya ushirika.
+- **Kiwango cha 4**, unatumia seti ya pochi kuunda "Multisig" Wallet, ambayo ina maana kwamba sahihi nyingi zinahitajika kufanya shughuli. Katika kesi hii, fahamu kwamba kila sehemu ya Multisig inapaswa kuhifadhiwa katika maeneo tofauti. Mbinu hii mara nyingi inachukuliwa kuwa matumizi ya hali ya juu ya Bitcoin, haswa kwa kudhibiti kiasi kikubwa na kwa madhumuni ya ushirika.
 
 ![image](assets/en/34.webp)
 
@@ -1159,6 +1159,8 @@ Mkakati wa taratibu unahusisha ununuzi wa mara kwa mara, kumaanisha kununua kias
 ![image](assets/en/74.webp)
 
 **Jihadhari na UTXO**: Kumbuka kuunganisha UTXO zako kwenye pochi zako mara kwa mara. Zoezi hili ni muhimu kwa kusimamia vyema bitcoins zako na kuepuka ada zisizo za lazima wakati wa shughuli.
+
+A [UTXO](https://planb.network/en/resources/glossary/utxo) ni matokeo ya muamala ambayo bado haijatumiwa, ikimaanisha haijatumika kama ingizo kwa muamala mpya. Kuunganisha UTXOs kunamaanisha kuunganisha UTXOs ndogo kadhaa kuwa moja kubwa, ili kupunguza "uzito" wa muamala, na hivyo kulipa ada ndogo.
 
 
 - Ununuzi wa hiari
