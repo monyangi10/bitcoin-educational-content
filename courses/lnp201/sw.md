@@ -10,9 +10,9 @@ objectives:
   - Kuelewa matumizi ya kinadharia ya Lightning Network.
 
 ---
-# Safari ya Bitcoin ya Pili ya Layer
+# Safari ya Bitcoin ya Pili ya safu
 
-Ingia ndani ya moyo wa Lightning Network, mfumo muhimu kwa mustakabali wa shughuli za Bitcoin. LNP201 ni kozi ya kinadharia juu ya utendakazi wa kiufundi wa Umeme. Inafichua misingi na taratibu za mtandao huu wa pili wa Layer, iliyoundwa kufanya malipo ya Bitcoin haraka, kiuchumi na kwa kiasi kikubwa.
+Ingia ndani ya moyo wa Lightning Network, mfumo muhimu kwa mustakabali wa shughuli za Bitcoin. LNP201 ni kozi ya kinadharia juu ya utendakazi wa kiufundi wa Umeme. Inafichua misingi na taratibu za mtandao huu wa pili wa safu, iliyoundwa kufanya malipo ya Bitcoin haraka, kiuchumi na kwa kiasi kikubwa.
 
 Shukrani kwa mtandao wake wa njia za malipo, Umeme huwezesha miamala ya haraka na salama bila kurekodi kila Exchange kwenye Bitcoin Blockchain. Katika sura zote, utajifunza jinsi ufunguzi, usimamizi na kufungwa kwa vituo unavyofanya kazi, jinsi malipo yanavyopitishwa kupitia nodi za mpatanishi kwa usalama huku ukipunguza hitaji la uaminifu na jinsi ya kudhibiti ukwasi. Utagundua miamala ya Commitment, HTLC, funguo za kubatilisha, mbinu za adhabu, uelekezaji wa vitunguu, na ankara ni nini.
 
@@ -35,23 +35,23 @@ Karibu kwenye kozi ya LNP201, ambayo inalenga kueleza utendakazi wa kiufundi wa 
 
 Lightning Network ni mtandao wa njia za malipo zilizojengwa juu ya itifaki ya Bitcoin, inayolenga kuwezesha miamala ya haraka na ya gharama nafuu. Inaruhusu uundaji wa njia za malipo kati ya washiriki, ambapo miamala inaweza kufanywa karibu papo hapo na kwa ada ndogo, bila kulazimika kurekodi kila muamala mmoja mmoja kwenye Blockchain. Kwa hivyo, Lightning Network inalenga kuboresha uimara wa Bitcoin na kuifanya itumike kwa malipo ya bei ya chini.
 
-Kabla ya kuchunguza kipengele cha "mtandao", ni muhimu kuelewa dhana ya **njia ya malipo** kwenye Umeme, jinsi inavyofanya kazi, na maelezo yake mahususi. Hili ndilo somo la sura hii ya kwanza.
+Kabla ya kuchunguza kipengele cha "mtandao", ni muhimu kuelewa dhana ya njia za malipo kwenye Umeme, jinsi unavyofanya kazi, na maelezo yake mahususi. Hili ndilo somo la sura hii ya kwanza.
 
 ### Dhana ya Njia ya Malipo
 
-Njia ya malipo inaruhusu wahusika wawili, hapa **Alice** na **Bob**, kufadhili Exchange kupitia Lightning Network. Kila mhusika mkuu ana nodi, inayoonyeshwa na duara, na chaneli kati yao inawakilishwa na sehemu ya mstari.
+Njia ya malipo inaruhusu wahusika wawili, hapa **Alice** na **Bob**, kufadhili ubadilishanaji kupitia Lightning Network. Kila mhusika mkuu ana nodi, inayoonyeshwa na duara, na chaneli kati yao inawakilishwa na sehemu ya mstari.
 
 ![LNP201](assets/en/01.webp)
 
-Katika mfano wetu, Alice ana satoshi 100,000 kwa upande wake wa chaneli, na Bob ana 30,000, kwa jumla ya satoshi 130,000, ambayo inajumuisha **uwezo wa kituo**.
+Katika mfano wetu, Alice ana satoshi 100,000 kwa upande wake wa chaneli, na Bob ana 30,000, kwa jumla ya satoshi 130,000, ambayo inajumuisha uwezo wa kituo.
 
 **Lakini Satoshi ni nini?**
 
-**Satoshi** (au "iliyokaa") ni kitengo cha akaunti kwenye Bitcoin. Sawa na senti ya euro, Satoshi ni sehemu tu ya Bitcoin. Satoshi moja ni sawa na **0.00000001 Bitcoin**, au milioni mia moja ya Bitcoin. Kutumia Satoshi kunazidi kutumika kadri thamani ya Bitcoin inavyoongezeka.
+Satoshi (au "iliyokaa") ni kitengo cha akaunti kwenye Bitcoin. Sawa na senti ya euro, Satoshi ni sehemu tu ya Bitcoin. Satoshi moja ni sawa na **0.00000001 Bitcoin, au milioni mia moja ya Bitcoin. Kutumia Satoshi kunazidi kutumika kadri thamani ya Bitcoin inavyoongezeka.
 
 ### Ugawaji wa Fedha katika Chaneli
 
-Hebu turejee kwenye kituo cha malipo. Dhana kuu hapa ni "**upande wa kituo**". Kila mshiriki ana pesa upande wao wa chaneli: Alice satoshi 100,000 na Bob 30,000. Kama tulivyoona, jumla ya fedha hizi inawakilisha jumla ya uwezo wa kituo, takwimu iliyowekwa wakati inafunguliwa.
+Hebu turejee kwenye kituo cha malipo. Dhana kuu hapa ni "upande wa kituo". Kila mshiriki ana pesa upande wao wa chaneli: Alice satoshi 100,000 na Bob 30,000. Kama tulivyoona, jumla ya fedha hizi inawakilisha jumla ya uwezo wa kituo, takwimu iliyowekwa wakati inafunguliwa.
 
 ![LNP201](assets/en/02.webp)
 
