@@ -193,22 +193,22 @@ Ni vyema kutambua kwamba nodi ya Umeme inaweza kuwasiliana kupitia itifaki ya P2
 ![LNP201](assets/en/12.webp)
 
 
-- Muamala wa amana**: Alice anatayarisha muamala wa Bitcoin ili kuweka fedha kwenye Address hii ya sahihi nyingi. Kwa mfano, anaweza kuamua kutuma Satoshi 130,000 kwa Address hii ya sahihi nyingi. Muamala huu umejengwa lakini bado haujachapishwa kwenye Blockchain.
+- **Muamala wa amana**: Alice anatayarisha muamala wa Bitcoin ili kuweka fedha kwenye Address hii ya sahihi nyingi. Kwa mfano, anaweza kuamua kutuma Satoshi 130,000 kwa Address hii ya sahihi nyingi. Muamala huu umejengwa lakini bado haujachapishwa kwenye Blockchain.
 
 ![LNP201](assets/en/13.webp)
 
 
-- Muamala wa uondoaji**: Kabla ya kuchapisha muamala wa amana, Alice hutengeneza muamala wa uondoaji ili aweze kurejesha pesa zake endapo Bob atakabiliwa na tatizo. Hakika, mara tu Alice atakapochapisha shughuli ya kuweka amana, Sats zake zitafungwa kwenye Anwani yenye sahihi 2/2 ambayo inahitaji sahihi yake na sahihi ya Bob kufunguliwa. Alice hulinda dhidi ya hatari hii ya hasara kwa kuunda shughuli ya uondoaji inayomruhusu kurejesha pesa zake.
+- **Muamala wa uondoaji**: Kabla ya kuchapisha muamala wa amana, Alice hutengeneza muamala wa uondoaji ili aweze kurejesha pesa zake endapo Bob atakabiliwa na tatizo. Hakika, mara tu Alice atakapochapisha shughuli ya kuweka amana, Sats zake zitafungwa kwenye Anwani yenye sahihi 2/2 ambayo inahitaji sahihi yake na sahihi ya Bob kufunguliwa. Alice hulinda dhidi ya hatari hii ya hasara kwa kuunda shughuli ya uondoaji inayomruhusu kurejesha pesa zake.
 
 ![LNP201](assets/en/14.webp)
 
 
-- Sahihi ya Bob: Alice anatuma muamala wa amana kwa Bob kama uthibitisho na kumwomba atie sahihi katika shughuli ya uondoaji. Mara tu sahihi ya Bob itakapopatikana kwenye shughuli ya uondoaji, Alice anahakikishiwa kuwa ataweza kurejesha pesa zake wakati wowote, kwani ni sahihi yake pekee ndiyo inayohitajika ili kufungua sahihi nyingi.
+- **Sahihi ya Bob**: Alice anatuma muamala wa amana kwa Bob kama uthibitisho na kumwomba atie sahihi katika shughuli ya uondoaji. Mara tu sahihi ya Bob itakapopatikana kwenye shughuli ya uondoaji, Alice anahakikishiwa kuwa ataweza kurejesha pesa zake wakati wowote, kwani ni sahihi yake pekee ndiyo inayohitajika ili kufungua sahihi nyingi.
 
 ![LNP201](assets/en/15.webp)
 
 
-- Uchapishaji wa shughuli ya kuweka pesa: Sahihi ya Bob ikishapatikana, Alice anaweza kuchapisha muamala wa amana kwenye Bitcoin Blockchain, na hivyo kufungua rasmi chaneli ya Umeme kati ya watumiaji hao wawili.
+- **Uchapishaji wa shughuli ya kuweka pesa**: Sahihi ya Bob ikishapatikana, Alice anaweza kuchapisha muamala wa amana kwenye Bitcoin Blockchain, na hivyo kufungua rasmi chaneli ya Umeme kati ya watumiaji hao wawili.
 
 ![LNP201](assets/en/16.webp)
 
@@ -252,8 +252,8 @@ Wakati Alice anafanya muamala katika kituo kutuma pesa kwa Bob, muamala mpya wa 
 Hebu tuchukue mfano na Alice akituma satoshi 30,000 kwa Bob:
 
 
-- Hapo awali**: Alice ana satoshi 130,000.
-- Baada ya muamala**: Alice ana satoshi 100,000, na Bob 30,000 satoshi.
+- **Hapo awali**: Alice ana satoshi 130,000.
+- **Baada ya muamala**: Alice ana satoshi 100,000, na Bob 30,000 satoshi.
 
 Ili kuthibitisha uhamisho huu, Alice na Bob wataunda **muamala mpya wa Bitcoin** ambao haujachapishwa ambao utatuma **satoshi 100,000 kwa Alice** na **satoshi 30,000 kwa Bob** kutoka kwa Address ya sahihi nyingi. Pande zote mbili huunda muamala huu kwa kujitegemea, lakini kwa data sawa (kiasi na anwani). Mara baada ya kujengwa, kila mmoja husaini shughuli na kubadilishana saini yake na nyingine. Hii inaruhusu upande wowote kuchapisha shughuli hiyo wakati wowote ikihitajika ili kurejesha sehemu yao ya kituo kwenye Bitcoin Blockchain kuu.
 
@@ -303,10 +303,10 @@ Kama inavyoonekana hapo awali, miamala kwenye Umeme inategemea shughuli ambayo h
 Hebu tuchukue mfano rahisi:
 
 
-- Hali ya awali: Alice ana satoshi 100,000, Bob 30,000 satoshi.
-- Baada ya muamala ambapo Alice hutuma satoshi 40,000 kwa Bob, kujitolea shughuli mpya inasambaza fedha kama ifuatavyo:
-  - Alice: 60,000 satoshi
-  - Bob: 70,000 satoshi
+- **Hali ya awali**: Alice ana satoshi 100,000, Bob 30,000 satoshi.
+- Baada ya muamala ambapo Alice hutuma **satoshi 40,000** kwa Bob, kujitolea shughuli mpya inasambaza fedha kama ifuatavyo:
+  - Alice: **60,000 satoshi**
+  - Bob: **70,000 satoshi**
 
 ![LNP201](assets/en/22.webp)
 
@@ -327,8 +327,8 @@ Mbaya zaidi, Alice angeweza kuchapisha shughuli ya kwanza kabisa ya uondoaji, il
 Ili kuzuia aina hii ya udanganyifu wa Alice, kwenye Lightning Network, njia za usalama huongezwa kwa miamala ya kujitolea:
 
 
-- Saa: Kila kujitolea shughuli inajumuisha muda wa pesa za Alice. Muda wa kufunga ni Smart contract ya awali ambayo huweka masharti ya muda ambayo lazima yatimizwe ili shughuli iongezwe kwenye kizuizi. Hii inamaanisha kuwa Alice hawezi kurejesha pesa zake hadi idadi fulani ya vitalu ipitishwe ikiwa atachapisha moja ya miamala ya kujitolea. Muda huu unaanza kutumika kutoka kwa uthibitisho wa kujitolea shughuli. Muda wake kwa ujumla ni sawia na ukubwa wa kituo, lakini pia inaweza kusanidiwa kwa mikono.
-- Ufunguo wa Kubatilisha: Pesa za Alice pia zinaweza kutumiwa mara moja na Bob ikiwa ana ufunguo wa kubatilisha. Ufunguo huu una siri iliyoshikiliwa na Alice na siri iliyoshikiliwa na Bob. Kumbuka kuwa siri hii ni tofauti kwa kila kujitolea shughuli.
+- **Saa**: Kila kujitolea shughuli inajumuisha muda wa pesa za Alice. Muda wa kufunga ni Smart contract ya awali ambayo huweka masharti ya muda ambayo lazima yatimizwe ili shughuli iongezwe kwenye kizuizi. Hii inamaanisha kuwa Alice hawezi kurejesha pesa zake hadi idadi fulani ya vitalu ipitishwe ikiwa atachapisha moja ya miamala ya kujitolea. Muda huu unaanza kutumika kutoka kwa uthibitisho wa kujitolea shughuli. Muda wake kwa ujumla ni sawia na ukubwa wa kituo, lakini pia inaweza kusanidiwa kwa mikono.
+- **Ufunguo wa Kubatilisha**: Pesa za Alice pia zinaweza kutumiwa mara moja na Bob ikiwa ana ufunguo wa kubatilisha. Ufunguo huu una siri iliyoshikiliwa na Alice na siri iliyoshikiliwa na Bob. Kumbuka kuwa siri hii ni tofauti kwa kila kujitolea shughuli.
 
 Shukrani kwa mifumo hii 2 iliyojumuishwa, Bob ana wakati wa kugundua jaribio la Alice la kudanganya, na kumwadhibu kwa kurudisha matokeo yake kwa ufunguo wa kubatilisha, ambao kwa Bob unamaanisha kurejesha pesa zote za kituo. kujitolea shughuli yetu mpya sasa itaonekana kama hii:
 
@@ -347,7 +347,7 @@ Wakati Alice na Bob wanasasisha hali ya kituo kwa muamala mpya wa Umeme, wao huw
 Hebu tuchukue mfano ili kuelewa mchakato huu vizuri:
 
 
-- Jimbo la Awali: Alice ana Satoshi 100,000, Bob 30,000 Satoshi.
+- **Jimbo la Awali**: Alice ana **satoshi 100,000**, Bob **30,000 satoshi**.
 
 ![LNP201](assets/en/26.webp)
 
@@ -367,7 +367,7 @@ Hebu tuchukue mfano ili kuelewa mchakato huu vizuri:
 
 Hata kama, katika kesi hii, Bob hana nia ya kiuchumi ya kujaribu kudanganya, ikiwa atafanya hivyo hata hivyo, Alice pia ananufaika kutokana na ulinzi wa ulinganifu unaompa dhamana sawa.
 
-Unapaswa kuchukua nini kutoka kwa sura hii?
+**Unapaswa kuchukua nini kutoka kwa sura hii?**
 
 Shughuli za kujitolea kwenye Lightning Network zinajumuisha mbinu za usalama ambazo hupunguza hatari ya kudanganya na motisha ya kufanya hivyo. Kabla ya kusaini kujitolea shughuli mpya, Alice na Bob kubadilishana siri zao kwa miamala ya awali ya kujitolea. Ikiwa Alice atajaribu kuchapisha kujitolea shughuli ya zamani, Bob anaweza kutumia ufunguo wa kubatilisha kurejesha pesa zote kabla Alice hajaweza (kwa sababu amezuiwa na kizuizi cha saa), ambayo humuadhibu kwa kujaribu kudanganya.
 
@@ -381,7 +381,7 @@ Katika hatua hii ya mafunzo, sasa unajua jinsi njia za Umeme hufunguliwa na jins
 
 ![video en](https://youtu.be/zmAa2fj_V7w)
 
-Katika sura hii, tutajadili kufunga chaneli kwenye Lightning Network, ambayo hufanywa kupitia muamala wa Bitcoin, kama vile kufungua chaneli. Baada ya kuona jinsi miamala ndani ya kituo inavyofanya kazi, sasa ni wakati wa kuona jinsi ya kufunga chaneli na kurejesha pesa kwenye Bitcoin Blockchain.
+Katika sura hii, tutajadili kufunga **chaneli kwenye Lightning Network**, ambayo hufanywa kupitia muamala wa Bitcoin, kama vile kufungua chaneli. Baada ya kuona jinsi miamala ndani ya kituo inavyofanya kazi, sasa ni wakati wa kuona jinsi ya kufunga chaneli na kurejesha pesa kwenye Bitcoin Blockchain.
 
 ### Kikumbusho cha mzunguko wa maisha wa kituo
 
@@ -394,9 +394,9 @@ Mzunguko wa maisha wa kituo huanza na ufunguzi wake, kupitia shughuli ya Bitcoin
 Kuna njia tatu kuu za kufunga chaneli hii, ambazo zinaweza kuitwa mzuri, mkatili, na mtoro (iliyoongozwa na Andreas Antonopoulos katika _Mastering the Lightning Network_):
 
 
-- The Good: kufungwa kwa ushirika, ambapo Alice na Bob wanakubali kufunga kituo.
-- Mbaya: kufungwa kwa lazima, ambapo mmoja wa wahusika anaamua kufunga kituo kwa uaminifu, lakini bila makubaliano ya mwingine.
-- The Ugly: kufungwa kwa udanganyifu, ambapo mmoja wa wahusika anajaribu kuiba fedha kwa kuchapisha kujitolea shughuli ya zamani (yoyote lakini si ya mwisho, ambayo inaonyesha mgawanyo halisi na wa haki wa fedha).
+- **The Good**: kufungwa kwa ushirika, ambapo Alice na Bob wanakubali kufunga kituo.
+- **Mbaya**: kufungwa kwa lazima, ambapo mmoja wa wahusika anaamua kufunga kituo kwa uaminifu, lakini bila makubaliano ya mwingine.
+- **The Ugly**: kufungwa kwa udanganyifu, ambapo mmoja wa wahusika anajaribu kuiba fedha kwa kuchapisha kujitolea shughuli ya zamani (yoyote lakini si ya mwisho, ambayo inaonyesha mgawanyo halisi na wa haki wa fedha).
 
 Hebu tuchukue mfano:
 
@@ -408,7 +408,7 @@ Hebu tuchukue mfano:
 
 ### Nzuri: kufungwa kwa ushirika
 
-Katika kufungwa kwa ushirika, Alice na Bob wanakubali kufunga kituo. Hivi ndivyo inavyoendelea:
+**Katika kufungwa kwa ushirika**, Alice na Bob wanakubali kufunga kituo. Hivi ndivyo inavyoendelea:
 
 
 - Alice anatuma ujumbe kwa Bob kupitia itifaki ya mawasiliano ya Umeme kupendekeza kufunga kituo.
@@ -459,9 +459,9 @@ Unapaswa kuchukua nini kutoka kwa sura hii?
 Kuna njia tatu za kufunga chaneli:
 
 
-- Kufungwa kwa Ushirika: Haraka na kwa gharama ya chini, ambapo pande zote mbili zinakubali kufunga kituo na kuchapisha muamala uliowekwa maalum.
-- Kufungwa Kwa Kulazimishwa: Haifai, kwani inategemea uchapishaji wa kujitolea shughuli, yenye ada zinazoweza kuwa zisizofaa na kizuizi cha muda, ambacho hupunguza kasi ya kufungwa.
-- Kudanganya: Iwapo mmoja wa wahusika atajaribu kuiba fedha kwa kuchapisha muamala wa zamani, mwingine anaweza kutumia ufunguo wa kubatilisha kuadhibu udanganyifu huu.
+- **Kufungwa kwa Ushirika**: Haraka na kwa gharama ya chini, ambapo pande zote mbili zinakubali kufunga kituo na kuchapisha muamala uliowekwa maalum.
+- **Kufungwa Kwa Kulazimishwa**: Haifai, kwani inategemea uchapishaji wa kujitolea shughuli, yenye ada zinazoweza kuwa zisizofaa na kizuizi cha muda, ambacho hupunguza kasi ya kufungwa.
+- **Kudanganya**: Iwapo mmoja wa wahusika atajaribu kuiba fedha kwa kuchapisha muamala wa zamani, mwingine anaweza kutumia ufunguo wa kubatilisha kuadhibu udanganyifu huu.
 
 Katika sura zijazo, tutachunguza Lightning Network kutoka kwa mtazamo mpana, tukizingatia jinsi mtandao wake unavyofanya kazi.
 
@@ -486,8 +486,8 @@ Ili kutatua tatizo hili, Lightning Network inaruhusu kuelekeza malipo kupitia nj
 Kwa mfano, fikiria kwamba:
 
 
-- Alice (mwenye rangi ya chungwa) ana chaneli iliyo na Suzie (ya kijivu) yenye satoshi 100,000 upande wake na satoshi 30,000 kwa upande wa Suzie.
-- Suzie ana chaneli na Bob ambamo anamiliki 250,000 Satoshi na ambapo Bob hana Satoshi.
+- **Alice** (mwenye rangi ya chungwa) ana chaneli iliyo na Suzie (ya kijivu) yenye satoshi 100,000 upande wake na satoshi 30,000 kwa upande wa Suzie.
+- **Suzie** ana chaneli na Bob ambamo anamiliki 250,000 Satoshi na ambapo Bob hana Satoshi.
 
 ![LNP201](assets/en/37.webp)
 
@@ -496,8 +496,8 @@ Ikiwa Alice anataka kutuma pesa kwa Bob bila kufungua chaneli moja kwa moja naye
 Tuseme Alice anataka kutuma satoshi 50,000 kwa Bob:
 
 
-- Alice hutuma satoshi 50,000 kwa Suzie katika kituo chao cha pamoja.
-- Suzie anaiga uhamisho huu kwa kutuma satoshi 50,000 kwa Bob katika idhaa yao.
+- **Alice** hutuma satoshi 50,000 kwa Suzie katika kituo chao cha pamoja.
+- **Suzie** anaiga uhamisho huu kwa kutuma satoshi 50,000 kwa Bob katika idhaa yao.
 
 ![LNP201](assets/en/38.webp)
 
@@ -510,15 +510,15 @@ Uhamisho huu kwa hivyo unazuiliwa na kiasi kinachopatikana katika mwelekeo wa uh
 Wacha tuchukue mfano wa kinadharia wa mtandao mwingine na:
 
 
-- Satoshi 130,000 kwa upande wa Alice (mwenye rangi ya chungwa) kwenye chaneli yake akiwa na Suzie (mwenye kijivu).
-- Satoshi 90,000 kwa upande wa wa Suzie na satoshi 200,000 kwa upande wa Carol (mwenye waridi).
-- 150,000 satoshi kwa upande wa Carol na satoshi 100,000 kwa upande wa Bob.
+- **Satoshi 130,000** kwa upande wa Alice (mwenye rangi ya chungwa) kwenye chaneli yake akiwa na **Suzie** (mwenye kijivu).
+- **Satoshi 90,000** kwa upande wa wa Suzie na satoshi 200,000 kwa upande wa **Carol** (mwenye waridi).
+- **150,000 satoshi** kwa upande wa Carol na satoshi 100,000 kwa upande wa **Bob**.
 
 ![LNP201](assets/en/39.webp)
 
-Kiwango cha juu zaidi cha Alice anaweza kutuma kwa Bob katika usanidi huu ni Satoshi 90,000, kwa kuwa anazuiliwa na kiasi kidogo cha fedha kinachopatikana katika chaneli kutoka kwa Suzie hadi Carol. Katika mwelekeo tofauti (kutoka kwa Bob hadi Alice), hakuna malipo yanayowezekana kwa sababu upande wa wa Suzie katika kituo ulio na Alice hauna satoshi. Kwa hivyo, hakuna njia inayoweza kutumika kwa uhamishaji katika mwelekeo huu.
+Kiwango cha juu zaidi cha Alice anaweza kutuma kwa Bob katika usanidi huu ni **Satoshi 90,000**, kwa kuwa anazuiliwa na kiasi kidogo cha fedha kinachopatikana katika chaneli kutoka kwa Suzie hadi Carol. Katika mwelekeo tofauti (kutoka kwa Bob hadi Alice), hakuna malipo yanayowezekana kwa sababu upande wa wa Suzie katika kituo ulio na Alice hauna satoshi. Kwa hivyo, hakuna njia inayoweza kutumika kwa uhamishaji katika mwelekeo huu.
 
-Alice hutuma Satoshi 40,000 kwa Bob kupitia chaneli:
+Alice hutuma **Satoshi 40,000** kwa Bob kupitia chaneli:
 
 
 - Alice anahamisha Satoshi 40,000 kwenye chaneli yake na Suzie.
@@ -540,25 +540,25 @@ Kwa hiyo jukumu la nodes za kati ni muhimu sana katika utendaji wa Lightning Net
 Nodi za kati hutoza ada ili kuruhusu malipo kupitia chaneli zao. Ada hizi zimewekwa na kila nodi kwa kila kituo. Ada hizo zinajumuisha vipengele viwili:
 
 
-- "Ada ya msingi": kiasi kisichobadilika kwa kila kituo, mara nyingi 1 ilikaa kama chaguo-msingi, lakini inayoweza kubinafsishwa.
-- "Ada ya kubadilika": asilimia ya kiasi kilichohamishwa, kinachokokotolewa katika sehemu kwa milioni (ppm). Kwa chaguo-msingi, ni 1 ppm (1 ilikaa kwa satoshi milioni iliyohamishwa), lakini pia inaweza kurekebishwa.
+- "**Ada ya msingi**": kiasi kisichobadilika kwa kila kituo, mara nyingi 1 ilikaa kama chaguo-msingi, lakini inayoweza kubinafsishwa.
+- "**Ada ya kubadilika**": asilimia ya kiasi kilichohamishwa, kinachokokotolewa katika sehemu kwa milioni (ppm). Kwa chaguo-msingi, ni 1 ppm (1 ilikaa kwa satoshi milioni iliyohamishwa), lakini pia inaweza kurekebishwa.
 
 Ada pia hutofautiana kulingana na mwelekeo wa uhamishaji. Kwa mfano, kwa uhamisho kutoka kwa Alice hadi kwa Suzie, ada za Alice zitatumika. Kinyume chake, kutoka kwa Suzie hadi Alice, ada za Suzie hutumiwa.
 
 Kwa mfano, kwa kituo kati ya Alice na Suzie, tunaweza kuwa na:
 
 
-- Alice: ada ya msingi ya 1 sat na 1 ppm kwa ada zinazobadilika.
-- Suzie: ada ya msingi ya 0.5 sat na 10 ppm kwa ada zinazobadilika.
+- **Alice**: ada ya msingi ya 1 sat na 1 ppm kwa ada zinazobadilika.
+- **Suzie**: ada ya msingi ya 0.5 sat na 10 ppm kwa ada zinazobadilika.
 
 ![LNP201](assets/en/42.webp)
 
 Ili kuelewa vyema jinsi ada zinavyofanya kazi, hebu tusome Lightning Network sawa na hapo awali, lakini sasa kwa ada zifuatazo za uelekezaji:
 
 
-- Kituo cha Alice - Suzie: ada ya msingi ya 1 Satoshi na 1 ppm kwa Alice.
-- Kituo Suzie - Carol: ada ya msingi ya 0 Satoshi na 200 ppm kwa Suzie.
-- Carol - Bob Channeli: ada ya msingi ya 1 Satoshi na 1 ppm kwa Suzie 2.
+- Kituo cha **Alice - Suzie**: ada ya msingi ya 1 Satoshi na 1 ppm kwa Alice.
+- Kituo **Suzie - Carol**: ada ya msingi ya 0 Satoshi na 200 ppm kwa Suzie.
+- **Carol - Bob** Channeli: ada ya msingi ya 1 Satoshi na 1 ppm kwa Suzie 2.
 
 ![LNP201](assets/en/43.webp)
 
@@ -570,7 +570,6 @@ Kwa malipo yale yale ya Satoshi 40,000 kwa Bob, Alice atalazimika kutuma zaidi k
 $$ f*{\text{Carol-Bob}} = \maandishi{ada ya msingi} + \left(\frac{\text{ppm} \mara \maandishi{kiasi}}{10^6}\kulia) $$
 
 $$ f*{\text{Carol-Bob}} = 1 + \frac{1 \mara 40000}{10^6} = 1 + 0.04 = 1.04 \maandishi{ Sats} $$
-
 
 - Suzie anakata satoshi 8 katika ada kwenye kituo na Carol:
 
@@ -591,8 +590,8 @@ Kwa hivyo ukwasi unasasishwa:
 Ili kuelekeza malipo kutoka kwa mtumaji hadi kwa mpokeaji, Lightning Network hutumia njia inayoitwa "njia ya vitunguu". Tofauti na uelekezaji wa data ya kitamaduni, ambapo kila kipanga njia huamua mwelekeo wa data kulingana na marudio yao, uelekezaji wa vitunguu hufanya kazi tofauti:
 
 
-- Njia ya kutuma hukokotoa njia nzima: Alice, kwa mfano, anaamua kwamba malipo yake lazima yapitie kwa Suzie na Carol kabla ya kufika kwa Bob.
-- Kila nodi ya mpatanishi inafahamu jirani wake wa karibu tu: Suzie anajua tu kwamba alipokea pesa kutoka kwa Alice na kwamba lazima azihamishe kwa Carol. Walakini, Suzie hajui ikiwa Alice ndiye nodi ya chanzo au nodi ya mpatanishi, na pia hajui kama Carol ndiye nodi ya mpokeaji au nodi nyingine ya mpatanishi. Kanuni hii inatumika pia kwa Carol na nodi zingine zote kwenye njia. Uelekezaji wa kitunguu hivyo huhifadhi usiri wa miamala kwa kuficha utambulisho wa mtumaji na mpokeaji wa mwisho.
+- **Njia ya kutuma hukokotoa njia nzima**: Alice, kwa mfano, anaamua kwamba malipo yake lazima yapitie kwa Suzie na Carol kabla ya kufika kwa Bob.
+- **Kila nodi ya mpatanishi inafahamu jirani wake wa karibu tu**: Suzie anajua tu kwamba alipokea pesa kutoka kwa Alice na kwamba lazima azihamishe kwa Carol. Walakini, Suzie hajui ikiwa Alice ndiye nodi ya chanzo au nodi ya mpatanishi, na pia hajui kama Carol ndiye nodi ya mpokeaji au nodi nyingine ya mpatanishi. Kanuni hii inatumika pia kwa Carol na nodi zingine zote kwenye njia. Uelekezaji wa kitunguu hivyo huhifadhi usiri wa miamala kwa kuficha utambulisho wa mtumaji na mpokeaji wa mwisho.
 
 Ili kuhakikisha nodi ya utumaji inaweza kukokotoa njia kamili kwa mpokeaji katika uelekezaji wa kitunguu, ni lazima kudumisha grafu ya mtandao ili kujua topolojia yake na kubainisha njia zinazowezekana.
 
@@ -634,8 +633,8 @@ Ili kuepuka hali hii, kwenye Umeme, tunatumia HTLCs (Hashed Time-Locked Contract
 HTLC ni mkataba maalum kulingana na kanuni mbili:
 
 
-- Hali ya ufikiaji: Ni lazima mpokeaji afichue siri ili kufungua malipo anayodaiwa.
-- Muda wake wa kuisha: Ikiwa malipo hayajakamilika kikamilifu ndani ya muda uliobainishwa, yanaghairiwa, na pesa zitarudi kwa mtumaji.
+- **Hali ya ufikiaji**: Ni lazima mpokeaji afichue siri ili kufungua malipo anayodaiwa.
+- **Muda wake wa kuisha**: Ikiwa malipo hayajakamilika kikamilifu ndani ya muda uliobainishwa, yanaghairiwa, na pesa zitarudi kwa mtumaji.
 
 Hivi ndivyo mchakato huu unavyofanya kazi katika mfano wetu na Alice, Suzie, na Bob:
 
@@ -651,11 +650,11 @@ Kutumia kitendakazi cha kuficha hufanya isiwezekane kupata _s_ kwa kuficha pekee
 
 ![LNP201](assets/en/49.webp)
 
-Kutuma ombi la malipo: Bob anatuma anwani ya ununuzi kwa Alice akiomba malipo. anwani hii ya ununuzi inajumuisha haswa kuficha siri.
+**Kutuma ombi la malipo**: Bob anatuma anwani ya ununuzi kwa Alice akiomba malipo. anwani hii ya ununuzi inajumuisha haswa kuficha siri.
 
 ![LNP201](assets/en/50.webp)
 
-Kutuma malipo ya masharti: Alice anatuma HTLC kati ya Satoshi 40,000 kwa Suzie. Masharti ya Suzie kupokea fedha hizi ni kwamba ampe Alice siri inayokidhi mlinganyo ufuatao:
+**Kutuma malipo ya masharti**: Alice anatuma HTLC kati ya Satoshi 40,000 kwa Suzie. Masharti ya Suzie kupokea fedha hizi ni kwamba ampe Alice siri inayokidhi mlinganyo ufuatao:
 
 $$
 h(s') = r
@@ -759,8 +758,8 @@ Ili kusasisha ramani ya mtandao wao, nodi mara kwa mara ujumbe wa ubadilishanaji
 Ujumbe 2 kuu unaobadilishana kati ya nodi za Umeme ni kama ifuatavyo:
 
 
-- "Matangazo ya Kituo": ujumbe unaoashiria kufunguliwa kwa kituo kipya.
-- "Sasisho za Kituo": sasisha ujumbe kuhusu hali ya kituo, hasa kuhusu mabadiliko ya ada (lakini si kuhusu usambazaji wa ukwasi).
+- "**Matangazo ya Kituo**": ujumbe unaoashiria kufunguliwa kwa kituo kipya.
+- "**Sasisho za Kituo**": sasisha ujumbe kuhusu hali ya kituo, hasa kuhusu mabadiliko ya ada (lakini si kuhusu usambazaji wa ukwasi).
 
 Nodi za umeme pia hufuatilia Bitcoin Blockchain ili kugundua shughuli za kufunga chaneli. Kisha kituo kilichofungwa huondolewa kwenye ramani kwa sababu hakiwezi kutumika tena kuelekeza malipo yetu.
 
@@ -773,14 +772,14 @@ Hebu tuchukue mfano wa Lightning Network ndogo yenye nodi 7: Alice, Bob, 1, 2, 3
 Huu hapa ni mgawanyo halisi wa fedha katika njia hizi:
 
 
-- Mkondo kati ya Alice na 1: 250,000 Sats kwa upande wa Alice, 80,000 kwa upande wa 1 (jumla ya uwezo wa 330,000 Sats).
-- Kituo kati ya 1 na 2: 300,000 Sats kwa upande wa 1, 200,000 kwa upande wa 2 (jumla ya uwezo wa 500,000 Sats).
-- Kituo kati ya 2 na 3: 50,000 Sats kwa upande wa 2, 60,000 upande wa 3 (jumla ya uwezo wa 110,000 Sats).
-- Mkondo kati ya 2 na 5: 90,000 Sats upande wa 2, 160,000 upande wa 5 (jumla ya uwezo wa 250,000 Sats).
-- Mkondo kati ya 2 na 4: 180,000 Sats upande wa 2, 110,000 upande wa 4 (jumla ya uwezo wa 290,000 Sats).
-- Channel kati ya 4 na 5: 200,000 Sats upande wa 4, 10,000 upande wa 5 (jumla ya uwezo wa 210,000 Sats).
-- Mkondo kati wa 3 na Bob: 50,000 Sats upande wa 3, 250,000 upande wa Bob (jumla ya uwezo wa 300,000 Sats).
-- Mkondo kati ya 5 na Bob: 260,000 Sats upande wa 5, 100,000 upande wa Bob (jumla ya uwezo wa 360,000 Sats).
+- **Mkondo kati ya Alice na 1**: 250,000 Sats kwa upande wa Alice, 80,000 kwa upande wa 1 (jumla ya uwezo wa 330,000 Sats).
+- **Kituo kati ya 1 na 2**: 300,000 Sats kwa upande wa 1, 200,000 kwa upande wa 2 (jumla ya uwezo wa 500,000 Sats).
+- **Kituo kati ya 2 na 3**: 50,000 Sats kwa upande wa 2, 60,000 upande wa 3 (jumla ya uwezo wa 110,000 Sats).
+- **Mkondo kati ya 2 na 5**: 90,000 Sats upande wa 2, 160,000 upande wa 5 (jumla ya uwezo wa 250,000 Sats).
+- **Mkondo kati ya 2 na 4**: 180,000 Sats upande wa 2, 110,000 upande wa 4 (jumla ya uwezo wa 290,000 Sats).
+- **Channel kati ya 4 na 5**: 200,000 Sats upande wa 4, 10,000 upande wa 5 (jumla ya uwezo wa 210,000 Sats).
+- **Mkondo kati wa 3 na Bob**: 50,000 Sats upande wa 3, 250,000 upande wa Bob (jumla ya uwezo wa 300,000 Sats).
+- **Mkondo kati ya 5 na Bob**: 260,000 Sats upande wa 5, 100,000 upande wa Bob (jumla ya uwezo wa 360,000 Sats).
 
 ![LNP201](assets/en/64.webp)
 
@@ -912,13 +911,13 @@ $$
 Upakiaji wa anwani ya ununuzi ni pamoja na vipande kadhaa vya habari muhimu kwa usindikaji wa malipo:
 
 
-- Muhuri wa wakati : Wakati wa kuundwa kwa anwani ya ununuzi, iliyoonyeshwa katika Unix muhuri wa wakati (idadi ya sekunde ambazo zimepita tangu Januari 1, 1970).
-- Kuficha Siri: Kama tulivyoona katika sehemu ya HTLCs, nodi ya kupokea lazima itoe nodi ya kutuma na Hash ya taswira. Hii inatumika katika HTLC kulinda muamala. Tuliitaja kama "_r_".
-- Siri ya Malipo**: Siri nyingine inatolewa na mpokeaji, lakini wakati huu inapitishwa kwenye nodi ya kutuma. Hutumika katika uelekezaji wa kitunguu ili kuzuia nodi za kati kukisia ikiwa nodi inayofuata ndiyo mpokeaji wa mwisho au la. Kwa hivyo hii hudumisha aina ya usiri kwa mpokeaji kwa heshima na nodi ya mwisho ya kati kwenye njia.
-- Ufunguo wa Umma wa Mpokeaji: Huonyesha kwa mlipaji kitambulisho cha mtu anayepaswa kulipwa.
-- Muda wa Kuisha: Muda wa juu zaidi wa anwani ya ununuzi ya kulipwa (saa 1 kwa chaguomsingi).
-- Vidokezo vya Njia: Maelezo ya ziada yanayotolewa na mpokeaji ili kumsaidia mtumaji kuboresha njia ya malipo.
-- Sahihi: Inathibitisha uadilifu wa anwani ya ununuzi kwa kuthibitisha taarifa zote.
+- **Muhuri wa wakati** : Wakati wa kuundwa kwa anwani ya ununuzi, iliyoonyeshwa katika Unix muhuri wa wakati (idadi ya sekunde ambazo zimepita tangu Januari 1, 1970).
+- **Kuficha Siri**: Kama tulivyoona katika sehemu ya HTLCs, nodi ya kupokea lazima itoe nodi ya kutuma na Hash ya taswira. Hii inatumika katika HTLC kulinda muamala. Tuliitaja kama "_r_".
+- **Siri ya Malipo**: Siri nyingine inatolewa na mpokeaji, lakini wakati huu inapitishwa kwenye nodi ya kutuma. Hutumika katika uelekezaji wa kitunguu ili kuzuia nodi za kati kukisia ikiwa nodi inayofuata ndiyo mpokeaji wa mwisho au la. Kwa hivyo hii hudumisha aina ya usiri kwa mpokeaji kwa heshima na nodi ya mwisho ya kati kwenye njia.
+- **Ufunguo wa Umma wa Mpokeaji**: Huonyesha kwa mlipaji kitambulisho cha mtu anayepaswa kulipwa.
+- **Muda wa Kuisha**: Muda wa juu zaidi wa anwani ya ununuzi ya kulipwa (saa 1 kwa chaguomsingi).
+- **Vidokezo vya Njia**: Maelezo ya ziada yanayotolewa na mpokeaji ili kumsaidia mtumaji kuboresha njia ya malipo.
+- **Sahihi**: Inathibitisha uadilifu wa anwani ya ununuzi kwa kuthibitisha taarifa zote.
 
 Kisha ankara husimbwa katika bech32, umbizo sawa na la anwani za Bitcoin SegWit (umbizo linaloanza na `bc1`).
 
@@ -944,12 +943,12 @@ Ili kurahisisha, katika itifaki hii, ni mtumaji ndiye hutoa siri inayotumika kat
 
 ![LNP201](assets/en/70.webp)
 
-Unapaswa kuchukua nini kutoka kwa sura hii?
+**Unapaswa kuchukua nini kutoka kwa sura hii?**
 
 
 - Umeme anwani ya ununuzi ni ombi la malipo linalojumuisha sehemu inayoweza kusomeka na binadamu na sehemu ya data ya mashine.
-- Anwani ya ununuzi imesimbwa katika bech32, ikiwa na kitenganishi `1` ili kuwezesha kunakili na sehemu ya data iliyo na maelezo yote muhimu ili kuchakata malipo.
-- Michakato mingine ya malipo inapatikana kwenye Umeme, hasa LNURL-Ondosha ili kuwezesha uondoaji, na Tuma Ufunguo kwa uhamisho wa moja kwa moja bila anwani ya ununuzi.
+- Anwani ya ununuzi imesimbwa katika **bech32**, ikiwa na kitenganishi `1` ili kuwezesha kunakili na sehemu ya data iliyo na maelezo yote muhimu ili kuchakata malipo.
+- Michakato mingine ya malipo inapatikana kwenye Umeme, hasa **LNURL-Ondosha** ili kuwezesha uondoaji, na Tuma Ufunguo kwa uhamisho wa moja kwa moja bila anwani ya ununuzi.
 
 Katika sura ifuatayo, tutaona jinsi mwendeshaji wa nodi anavyoweza kudhibiti ukwasi katika vituo vyao, ili wasiwahi kuzuiwa na kuwa na uwezo wa kutuma na kupokea malipo kila mara kwenye Lightning Network.
 
@@ -966,9 +965,9 @@ Katika sura hii, tutachunguza mikakati ya kusimamia vyema ukwasi kwenye Lightnin
 Kuna wasifu kuu tatu za watumiaji kwenye Umeme, kila moja ikiwa na mahitaji maalum ya ukwasi:
 
 
-- Mlipaji: Huyu ndiye anayelipa. Wanahitaji ukwasi unaotoka ili kuweza kuhamisha fedha kwa watumiaji wengine. Kwa mfano, hii inaweza kuwa mtumiaji.
-- Muuzaji (au Mlipwaji): Huyu ndiye anayepokea malipo. Wanahitaji ukwasi unaoingia ili waweze kukubali malipo kwenye nodi zao. Kwa mfano, hii inaweza kuwa biashara au duka la mtandaoni.
-- Kipanga njia: Njia ya kati, ambayo mara nyingi ni maalum katika malipo ya uelekezaji, ambao ni lazima uboreshe ukwasi wake katika kila kituo ili kuelekeza malipo mengi iwezekanavyo na kupata ada.
+- **Mlipaji**: Huyu ndiye anayelipa. Wanahitaji ukwasi unaotoka ili kuweza kuhamisha fedha kwa watumiaji wengine. Kwa mfano, hii inaweza kuwa mtumiaji.
+- **Muuzaji (au Mlipwaji)**: Huyu ndiye anayepokea malipo. Wanahitaji ukwasi unaoingia ili waweze kukubali malipo kwenye nodi zao. Kwa mfano, hii inaweza kuwa biashara au duka la mtandaoni.
+- **Kipanga njia**: Njia ya kati, ambayo mara nyingi ni maalum katika malipo ya uelekezaji, ambao ni lazima uboreshe ukwasi wake katika kila kituo ili kuelekeza malipo mengi iwezekanavyo na kupata ada.
 
 Profaili hizi ni wazi hazijasasishwa; mtumiaji anaweza kubadilisha kati ya mlipaji na anayelipwa kulingana na miamala. Kwa mfano, Bob angeweza kupokea mshahara wake kwenye Umeme kutoka kwa mwajiri wake, na kumweka katika nafasi ya "muuzaji" anayehitaji ukwasi unaoingia. Baadaye, kama anataka kutumia mshahara wake kununua chakula, anakuwa "mlipaji" na lazima awe na ukwasi unaotoka.
 
@@ -992,14 +991,14 @@ Walipaji lazima wahakikishe kudumisha ukwasi wa kutosha kwa upande wao wa chanel
 Kwa upande mwingine, kwa muuzaji, kazi ni ngumu zaidi. Ili waweze kupokea malipo, ni lazima wawe na ukwasi upande wa pili wa chaneli zao. Kwa hivyo, kufungua chaneli haitoshi: lazima pia wafanye malipo katika kituo hiki ili kuhamisha ukwasi hadi upande mwingine kabla ya wao kupokea malipo. Kwa wasifu fulani wa watumiaji wa Umeme, kama vile wafanyabiashara, kuna tofauti ya wazi kati ya kile nodi yao hutuma na kile inachopokea, kwani lengo la biashara kimsingi ni kukusanya zaidi ya inavyotumia, ili kupata faida ya kuzalisha. Kwa bahati nzuri, kwa watumiaji hawa walio na mahitaji maalum ya ukwasi unaoingia, suluhu kadhaa zipo:
 
 
-- Vituo vya kuvutia: Mfanyabiashara ananufaika kutokana na faida kutokana na wingi wa malipo yanayoingia yanayotarajiwa kwenye nodi zao. Kwa kuzingatia hili, wanaweza kujaribu kuvutia maeneo ya uelekezaji ambao unatafuta mapato kutokana na ada za miamala na ambao wanaweza kufungua njia kuelekea kwao, wakitumai kuelekeza malipo yao na kukusanya ada zinazohusiana.
-- Harakati ya ukwasi: Muuzaji pia anaweza kufungua chaneli na kuhamisha baadhi ya fedha kwa upande mwingine kwa kufanya malipo ya uwongo kwenye nodi nyingine, ambayo itarudisha pesa kwa njia nyingine. Tutaona katika sehemu inayofuata jinsi ya kutekeleza operesheni hii.
-- Ufunguzi wa pembetatu: Majukwaa yapo kwa nodi zinazotaka kufungua chaneli kwa ushirikiano, kuruhusu kila moja kunufaika kutokana na ukwasi unaoingia na unaotoka mara moja. Kwa mfano, [LightningNetwork+](https://lightningnetwork.plus/) inatoa huduma hii. Ikiwa Alice, Bob, na Suzie wanataka kufungua chaneli yenye 100,000 Sats, wanaweza kukubaliana kwenye jukwaa hili ili Alice afungue chaneli kuelekea Bob, Bob kuelekea Suzie, na Suzie kuelekea Alice. Kwa njia hii, kila moja ina 100,000 Sats ya ukwasi unaotoka na 100,000 Sats ya ukwasi unaoingia, huku ikiwa imefungia 100,000 Sats tu.
+- **Vituo vya kuvutia**: Mfanyabiashara ananufaika kutokana na faida kutokana na wingi wa malipo yanayoingia yanayotarajiwa kwenye nodi zao. Kwa kuzingatia hili, wanaweza kujaribu kuvutia maeneo ya uelekezaji ambao unatafuta mapato kutokana na ada za miamala na ambao wanaweza kufungua njia kuelekea kwao, wakitumai kuelekeza malipo yao na kukusanya ada zinazohusiana.
+- **Harakati ya ukwasi**: Muuzaji pia anaweza kufungua chaneli na kuhamisha baadhi ya fedha kwa upande mwingine kwa kufanya malipo ya uwongo kwenye nodi nyingine, ambayo itarudisha pesa kwa njia nyingine. Tutaona katika sehemu inayofuata jinsi ya kutekeleza operesheni hii.
+- **Ufunguzi wa pembetatu**: Majukwaa yapo kwa nodi zinazotaka kufungua chaneli kwa ushirikiano, kuruhusu kila moja kunufaika kutokana na ukwasi unaoingia na unaotoka mara moja. Kwa mfano, [LightningNetwork+](https://lightningnetwork.plus/) inatoa huduma hii. Ikiwa Alice, Bob, na Suzie wanataka kufungua chaneli yenye 100,000 Sats, wanaweza kukubaliana kwenye jukwaa hili ili Alice afungue chaneli kuelekea Bob, Bob kuelekea Suzie, na Suzie kuelekea Alice. Kwa njia hii, kila moja ina 100,000 Sats ya ukwasi unaotoka na 100,000 Sats ya ukwasi unaoingia, huku ikiwa imefungia 100,000 Sats tu.
 
 ![LNP201](assets/en/73.webp)
 
 
-- Kununua chaneli: Huduma za kukodisha chaneli za Umeme pia zipo ili kupata ukwasi unaoingia, kama vile [Bitrefill Thor](https://www.bitrefill.com/thor-lightning-network-channels/) au [Lightning Labs Pool](https://lightning.engineering/pool/). Kwa mfano, Alice anaweza kununua chaneli ya Satoshi milioni moja kuelekea nodi yake ili aweze kupokea malipo.
+- **Kununua chaneli**: Huduma za kukodisha chaneli za Umeme pia zipo ili kupata ukwasi unaoingia, kama vile [Bitrefill Thor](https://www.bitrefill.com/thor-lightning-network-channels/) au [Lightning Labs Pool](https://lightning.engineering/pool/). Kwa mfano, Alice anaweza kununua chaneli ya Satoshi milioni moja kuelekea nodi yake ili aweze kupokea malipo.
 
 ![LNP201](assets/en/74.webp)
 
@@ -1045,14 +1044,14 @@ Lengo la mafunzo haya lilikuwa kukupa uelewa wa kina na wa kiufundi wa Lightning
 Katika sura za awali, tulichunguza jinsi wahusika wawili, kwa kufungua njia ya malipo, wanaweza kufanya miamala nje ya Bitcoin Blockchain. Hapa kuna hatua zilizofunikwa:
 
 
-- Ufunguzi wa Kituo: Uundaji wa kituo unafanywa kupitia muamala wa Bitcoin ambao hufunga fedha katika Anwani ya sahihi 2/2 nyingi. Amana hii inawakilisha chaneli ya Umeme kwenye Blockchain.
+- **Ufunguzi wa Kituo**: Uundaji wa kituo unafanywa kupitia muamala wa Bitcoin ambao hufunga fedha katika Anwani ya sahihi 2/2 nyingi. Amana hii inawakilisha chaneli ya Umeme kwenye Blockchain.
 
 ![LNP201](assets/en/76.webp) 2. shughuli kwenye kituo: katika kitui hiki kuna uwezekano wa kufanya shughuli nyingi bila uchapishaji kwenye Blockchain. kila Lightning transaction inaunda chaneli mpya inayoangazia kujitolea shughuli.
 
 ![LNP201](assets/en/77.webp)
 
 
-- Kulinda na Kufunga: Washiriki wanajitolea kwa hali mpya ya kituo kwa kubadilishana funguo za ubatilishaji ili kupata pesa na kuzuia udanganyifu wowote. Pande zote mbili zinaweza kufunga chaneli kwa ushirikiano kwa kufanya muamala mpya kwenye Bitcoin Blockchain, au kama suluhu la mwisho kwa kufungwa kwa lazima. Chaguo hili la mwisho, ingawa lina ufanisi mdogo kwa sababu ni refu na wakati mwingine halijatathminiwa vizuri katika suala la ada, bado linaruhusu urejeshaji wa fedha. Katika kesi ya kudanganya, mwathirika anaweza kuadhibu mdanganyifu kwa kurejesha pesa zote kutoka kwa kituo cha Blockchain.
+- **Kulinda na Kufunga**: Washiriki wanajitolea kwa hali mpya ya kituo kwa kubadilishana funguo za ubatilishaji ili kupata pesa na kuzuia udanganyifu wowote. Pande zote mbili zinaweza kufunga chaneli kwa ushirikiano kwa kufanya muamala mpya kwenye Bitcoin Blockchain, au kama suluhu la mwisho kwa kufungwa kwa lazima. Chaguo hili la mwisho, ingawa lina ufanisi mdogo kwa sababu ni refu na wakati mwingine halijatathminiwa vizuri katika suala la ada, bado linaruhusu urejeshaji wa fedha. Katika kesi ya kudanganya, mwathirika anaweza kuadhibu mdanganyifu kwa kurejesha pesa zote kutoka kwa kituo cha Blockchain.
 
 ![LNP201](assets/en/78.webp)
 
@@ -1061,17 +1060,17 @@ Katika sura za awali, tulichunguza jinsi wahusika wawili, kwa kufungua njia ya m
 Baada ya kusoma chaneli zilizotengwa, tulipanua uchambuzi wetu kwa mtandao wa chaneli:
 
 
-- Uelekezaji: Wakati pande mbili hazijaunganishwa moja kwa moja na chaneli, mtandao unaruhusu kuelekeza kupitia nodi za kati. Malipo kisha husafirishwa kutoka nodi moja hadi nyingine.
+- **Uelekezaji**: Wakati pande mbili hazijaunganishwa moja kwa moja na chaneli, mtandao unaruhusu kuelekeza kupitia nodi za kati. Malipo kisha husafirishwa kutoka nodi moja hadi nyingine.
 
 ![LNP201](assets/en/79.webp)
 
 
-- HTLCs: Malipo yanayopitishwa kupitia nodi za kati hulindwa na "_Hash Time-Locked Contracts_" (HTLC), ambayo huruhusu pesa kufungwa hadi malipo yakamilishwe mwanzo-mwisho.
+- **HTLCs**: Malipo yanayopitishwa kupitia nodi za kati hulindwa na "_Hash Time-Locked Contracts_" (HTLC), ambayo huruhusu pesa kufungwa hadi malipo yakamilishwe mwanzo-mwisho.
 
 ![LNP201](assets/en/80.webp)
 
 
-- Uelekezaji wa Vitunguu: Ili kuhakikisha usiri wa malipo, uelekezaji wa kitunguu hufunika mahali pa mwisho kwa nodi za kati. Kwa hivyo nodi ya kutuma lazima ihesabu njia nzima, lakini kwa kukosekana kwa taarifa kamili juu ya ukwasi wa njia, inaendelea kupitia majaribio mfululizo ili kuelekeza malipo.
+- **Uelekezaji wa Vitunguu**: Ili kuhakikisha usiri wa malipo, uelekezaji wa kitunguu hufunika mahali pa mwisho kwa nodi za kati. Kwa hivyo nodi ya kutuma lazima ihesabu njia nzima, lakini kwa kukosekana kwa taarifa kamili juu ya ukwasi wa njia, inaendelea kupitia majaribio mfululizo ili kuelekeza malipo.
 
 ![LNP201](assets/en/81.webp)
 
@@ -1080,18 +1079,18 @@ Baada ya kusoma chaneli zilizotengwa, tulipanua uchambuzi wetu kwa mtandao wa ch
 Tumeona kuwa usimamizi wa ukwasi ni changamoto kwenye Umeme ili kuhakikisha mtiririko mzuri wa malipo. Kutuma malipo ni rahisi kiasi: inahitaji tu kufungua kituo. Hata hivyo, kupokea malipo kunahitaji kuwa na ukwasi upande mwingine wa chaneli za mtu. Hapa kuna baadhi ya mikakati iliyojadiliwa:
 
 
-- Vituo vya Kuvutia: Kwa kuhimiza nodi zingine kufungua njia kuelekea yeye mwenyewe, mtumiaji hupata ukwasi unaoingia.
-- Ushuru wa Kusonga: Kwa kutuma malipo kwa vituo vingine, ukwasi uhamia upande mwingine.
+- **Vituo vya Kuvutia**: Kwa kuhimiza nodi zingine kufungua njia kuelekea yeye mwenyewe, mtumiaji hupata ukwasi unaoingia.
+- **Ushuru wa Kusonga**: Kwa kutuma malipo kwa vituo vingine, ukwasi uhamia upande mwingine.
 
 ![LNP201](assets/en/82.webp)
 
 
-- Kutumia Huduma kama vile Loop na Pool: Huduma hizi huruhusu kusawazisha upya au kununua chaneli zenye ukwasi upande mwingine.
+- **Kutumia Huduma kama vile Loop na Pool**: Huduma hizi huruhusu kusawazisha upya au kununua chaneli zenye ukwasi upande mwingine.
 
 ![LNP201](assets/en/83.webp)
 
 
-- Nafasi za Kushirikiana: Pia kuna mifumo inayopatikana ya kuunganisha ili kutekeleza fursa za pembe tatu na kuwa na ukwasi unaoingia.
+- **Nafasi za Kushirikiana**: Pia kuna mifumo inayopatikana ya kuunganisha ili kutekeleza fursa za pembe tatu na kuwa na ukwasi unaoingia.
 
 ![LNP201](assets/en/84.webp)
 
