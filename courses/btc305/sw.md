@@ -16,7 +16,7 @@ HADITHI ISIYOKAMALIZWA
 
 "Huu Ni Uongo, Imani Yangu Kwako Imevunjika, Nitakufanya Uwe kizamani".
 
-Imetolewa na BTPay Server Foundation
+Imetolewa na BTCPay Server Foundation
 
 +++
 # Utangulizi
@@ -27,23 +27,23 @@ Imetolewa na BTPay Server Foundation
 
 <chapterId>e1fe6294-3c82-5203-9537-779f9087c35a</chapterId>
 
-Wacha tuanze na Seva ya BTPay ni nini na ilitoka wapi. Tunathamini uwazi na viwango fulani ili kuunda uaminifu katika nafasi ya Bitcoin.
+Wacha tuanze na Seva ya BTCPay ni nini na ilitoka wapi. Tunathamini uwazi na viwango fulani ili kuunda uaminifu katika nafasi ya Bitcoin.
 
-Mradi katika nafasi ulivunja maadili haya. Msanidi programu mkuu wa BTPay Server, Nicolas Dorier, alichukulia hili kibinafsi na kutoa ahadi ya kuzifuta. Hapa tuko miaka mingi baadaye na tunafanya kazi kuelekea siku zijazo, chanzo wazi kabisa, kila siku.
+Mradi katika nafasi ulivunja maadili haya. Msanidi programu mkuu wa BTCPay Server, Nicolas Dorier, alichukulia hili kibinafsi na kutoa ahadi ya kuzifuta. Hapa tuko miaka mingi baadaye na tunafanya kazi kuelekea siku zijazo, chanzo wazi kabisa, kila siku.
 
 > Huu ni uongo, imani yangu kwako imevunjika, nitakufanya uwe kizamani.
 > Nicolas Dorier
-Baada ya maneno yaliyosemwa na Nicolas, ilikuwa wakati wa kuanza kujenga. Kazi nyingi ziliingia kwenye kile tunachokiita sasa Seva ya BTPay. Watu zaidi walitaka kusaidia na msukumo huu. Wanaotambulika zaidi ni r0ckstardev, MrKukks, Pavlenex, na mfanyabiashara wa kwanza kutumia programu, astupidmoose.
+Baada ya maneno yaliyosemwa na Nicolas, ilikuwa wakati wa kuanza kujenga. Kazi nyingi ziliingia kwenye kile tunachokiita sasa Seva ya BTCPay. Watu zaidi walitaka kusaidia na msukumo huu. Wanaotambulika zaidi ni r0ckstardev, MrKukks, Pavlenex, na mfanyabiashara wa kwanza kutumia programu, astupidmoose.
 
 Chanzo wazi kinamaanisha nini, na ni nini kinachoingia kwenye mradi kama huo?
 
-FOSS inawakilisha Programu ya Bure & Open-Chanzo. Ya kwanza inarejelea masharti ambayo huruhusu mtu yeyote kunakili, kurekebisha, na hata kusambaza matoleo (hata kwa faida) ya programu. Mwisho unarejelea kushiriki kwa uwazi msimbo wa chanzo, kuhimiza umma kuchangia na kuuboresha.
+FOSS inawakilisha Programu ya Bure na Open-Chanzo. Ya kwanza inarejelea masharti ambayo huruhusu mtu yeyote kunakili, kurekebisha, na hata kusambaza matoleo (hata kwa faida) ya programu. Mwisho unarejelea kushiriki kwa uwazi msimbo wa chanzo, kuhimiza umma kuchangia na kuuboresha.
 
 Hii huleta watumiaji wazoefu shauku ya kuchangia programu ambayo tayari wanatumia na kupata thamani kutoka kwayo, na hivyo kuthibitisha baada ya muda kushinda katika kupitishwa kwa programu inayomilikiwa. Inalingana na kanuni za Bitcoin kwamba "habari hutamani kuwa huru." Huleta pamoja watu wenye shauku wanaounda jumuiya na ni ya kufurahisha zaidi. Kama Bitcoin, FOSS haiwezi kuepukika.
 
 ### Kabla hatujaanza
 
-Kozi hii ina sehemu nyingi. Mengi yatatunzwa na mwalimu wako wa darasani, mazingira ya Onyesho ambayo unaweza kupata ufikiaji, seva inayopangishwa kwako mwenyewe, na ikiwezekana jina la kikoa. Ukikamilisha kozi hii kwa kujitegemea, tafadhali fahamu kuwa mazingira yaliyo na lebo ya DEMO hayatapatikana kwako.
+Kozi hii ina sehemu nyingi. Mengi yatafunzwa na mwalimu wako wa darasani, mazingira ya Onyesho ambayo unaweza kupata ufikiaji, seva inayopangishwa kwako mwenyewe, na ikiwezekana jina la kikoa. Ukikamilisha kozi hii kwa kujitegemea, tafadhali fahamu kuwa mazingira yaliyo na alama ya DEMO hayatapatikana kwako.
 
 NB. Ukifuata kozi hii kulingana na darasa, majina ya seva yanaweza kutofautiana kulingana na usanidi wa darasa lako. Vigezo katika majina ya Seva vinaweza kuwa tofauti kwa sababu ya hii.
 
@@ -57,7 +57,7 @@ Akiwa na Kozi ya Seva ya BTCPay, mwanafunzi anaweza kuelewa kanuni za kimsingi, 
 
 ### Anwani muhimu za Wavuti au Fursa za Mawasiliano
 
-Wakfu wa Seva ya BTPay, ambao uliruhusu Alekos na Bas kuandika kozi hii, uko Tokyo, japani. Msingi wa Seva ya BTPay unaweza kufikiwa kupitia tovuti iliyoorodheshwa;
+Wakfu wa Seva ya BTPay, ambao uliruhusu Alekos na Bas kuandika kozi hii, uko Tokyo, Japani. Msingi wa Seva ya BTCPay unaweza kufikiwa kupitia tovuti iliyoorodheshwa;
 
 
 - https://foundation.btcpayserver.org
@@ -84,7 +84,7 @@ Majukumu ni:
 
 - 1 Mteja
 - 1 Mfanyabiashara
-- 7 hadi 9 Bitcoin nodes
+- 7 hadi nodi 9 za Bitcoin 
 
 **Mpangilio ni kama ifuatavyo:**
 
@@ -115,23 +115,23 @@ Wateja hununua bidhaa kutoka kwa duka na Bitcoin.
 
 - Sanidi:
   - Angalia michoro/mfafanuzi katika Figjam iliyoambatishwa - [Mpango wa Shughuli](https://www.figma.com/file/ckmvMq02Jm2MegSsVCDFhc/Day-1-Classroom-Activity?type=whiteboard&node-id=0-1&t=KR31ofMaJX6S9).
-  - Badilisha Benki na wanafunzi tisa ambao watachukua nafasi ya Kompyuta (Bitcoin Nodes/Miners) katika mtandao kuchukua nafasi ya Benki.
+  - Badilisha Benki na wanafunzi tisa ambao watachukua nafasi ya Kompyuta (Bitcoin Nodi/Wachimbaji) katika mtandao kuchukua nafasi ya Benki.
 - Kila moja ya Kompyuta 9 ina rekodi kamili ya kihistoria ya miamala yote ya zamani iliyowahi kufanywa (hivyo mizani sahihi bila kughushi), pamoja na seti ya sheria:
-  - Thibitisha kuwa muamala umetiwa saini ipasavyo (thekeyfitsthelock)
+  - Thibitisha kuwa muamala umetiwa sahihi ipasavyo (thekeyfitsthelock)
   - Tangaza na upokee miamala halali kwa wenzako kwenye mtandao, tupa zisizo sahihi (ikiwa ni pamoja na jaribio lolote la kutumia pesa sawa mara mbili)
 - Sasisha/Ongeza rekodi mara kwa mara na miamala mipya iliyopokelewa kutoka kwa kompyuta "nasibu" mradi tu yaliyomo yote ni halali (kumbuka: tunapuuza, kwa sasa, kipengele cha Proof of Work kwa haya yote, kwa urahisi), vinginevyo kataa hizi na uendelee kama hapo awali hadi kompyuta inayofuata "ya nasibu" itume sasisho.
   - Kiasi kinachofaa kilituzwa ikiwa maudhui yalikuwa halali.
 - Igiza mlolongo wa matukio:
   - Mteja- anavinjari duka mtandaoni na kupata bidhaa kwa $25 anazotaka, na kumfahamisha Mfanyabiashara ambaye angependa kununua.
-  - Merchant- anaomba malipo kwa kumtumia mteja Invoice/Address kutoka Wallet yake.
-  - Mteja- hutengeneza muamala (kutuma BTC ya thamani ya $25 kwa Address iliyotolewa na Muuzaji) na kuitangaza kwa Mtandao wa Bitcoin.
+  - Mfanyabiashara- anaomba malipo kwa kumtumia mteja Anwani ya ununuzi/Anwani kutoka kwa Pochi lake.
+  - Mteja- hutengeneza muamala (kutuma BTC ya thamani ya $25 kwa Anwani iliyotolewa na Muuzaji) na kuitangaza kwa Mtandao wa Bitcoin.
 - Kompyuta- pokea muamala na uthibitishe:
-  - Kuna angalau $25 ya BTC katika Address inatumwa kutoka
-  - Muamala umetiwa saini ipasavyo ("kufunguliwa" na mteja)
+  - Kuna angalau $25 ya BTC katika Anwani iliyotumwa.
+  - Muamala umetiwa sahihi ipasavyo ("kufunguliwa" na mteja)
   - Ikiwa sio kesi, basi shughuli hiyo haitaenezwa kupitia mtandao, na ikiwa ni hivyo, basi inaenea na inafanyika kwa kusubiri.
-  - Wauzaji wanaweza kuangalia kama muamala unasubiri na unasubiri.
+  - Wauzaji wanaweza kuangalia kama muamala unasubiriwa na unasubiri.
 - Kompyuta moja "inachaguliwa kwa nasibu" kupendekeza kukamilisha shughuli inayopendekezwa kwa kutangaza "block" iliyo nayo; ikiwa itaangalia, watapata tuzo ya BTC.
-  - SI LAZIMA/ADVANCED - badala ya kuchagua Kompyuta kwa nasibu, iga Mining kwa kuweka kete za Kompyuta hadi matokeo yaliyoamuliwa mapema yatokee (k.m. ya kwanza kukunja sita sita imechaguliwa)
+  - SI LAZIMA/YA JUU - badala ya kuchagua Kompyuta kwa nasibu, iga Uchimbaji kwa kuweka kete za Kompyuta hadi matokeo yaliyoamuliwa mapema yatokee (k.m. ya kwanza kukunja sita sita imechaguliwa)
   - Inaweza pia kucheza nini kitatokea ikiwa Kompyuta mbili zitashinda takriban wakati huo huo, na kusababisha mgawanyiko wa mnyororo.
   - Kompyuta hukagua uhalali, kusasisha/kuongeza rekodi kwenye daftari zao ikiwa sheria zitatimizwa, na kutangaza block kwa programu zingine.
   - Kompyuta iliyochaguliwa kwa nasibu hupokea zawadi kwa kupendekeza kizuizi halali.
@@ -139,17 +139,17 @@ Wateja hununua bidhaa kutoka kwa duka na Bitcoin.
 - Maoni:
   - Ona hakukuwa na haja ya uhusiano wa benki uliokuwepo hapo awali.
   - Hakuna mtu wa tatu anayehitajika kuwezesha; nafasi yake kuchukuliwa na kanuni/motisha.
-  - Hakuna mkusanyiko wa data na mtu yeyote nje ya Exchange ya moja kwa moja na ni lazima tu kiasi kinachohitajika kibadilishwe kati ya washiriki (k.m., usafirishaji wa Address).
+  - Hakuna mkusanyiko wa data na mtu yeyote nje ya ubadilishanaji wa moja kwa moja na ni lazima tu kiasi kinachohitajika kibadilishwe kati ya washiriki (k.m., usafirishaji wa Anwani).
   - Hakuna uaminifu unaohitajika kati ya watu (mbali na Mfanyabiashara anayetuma bidhaa), kama ununuzi wa pesa taslimu kwa njia nyingi.
   - Pesa hizo zinamilikiwa moja kwa moja na watu binafsi.
-  - Bitcoin Ledger inaonyeshwa kwa dola kwa unyenyekevu, lakini kwa kweli, ni BTC.
+  - Bitcoin Leja inaonyeshwa kwa dola kwa unyenyekevu, lakini kwa kweli, ni BTC.
   - Tunaiga muamala mmoja unaotangazwa, lakini kwa kweli, miamala mingi inasubiri kwenye mtandao, na vizuizi vinajumuisha maelfu ya miamala kwa wakati mmoja. Nodi pia angalia hakuna shughuli za kutumia mara mbili zinazosubiri (ningetupa zote isipokuwa moja ikiwa ingekuwa hivyo).
 - Matukio ya kudanganya:
   - Je, ikiwa mteja hakuwa na $ 25 BTC?
-    - Hawangeweza kuunda shughuli kwa sababu "kufungua" na "Ownership" ni kitu kimoja, na shughuli za ukaguzi wa kompyuta zimesainiwa vizuri; vinginevyo, wanaikataa
-  - Je, ikiwa kompyuta iliyochaguliwa kwa nasibu itajaribu "kubadilisha Ledger"?
+    - Hawangeweza kuunda shughuli kwa sababu "kufungua" na "Umiliki" ni kitu kimoja, na shughuli za ukaguzi wa kompyuta zimetiwa sahihi vizuri; vinginevyo, wanaikataa
+  - Je, ikiwa kompyuta iliyochaguliwa kwa nasibu itajaribu "kubadilisha Leja"?
     - Kizuizi kitakataliwa, kwa kuwa kila kompyuta nyingine ina historia kamili na ingeona mabadiliko, ikikiuka moja ya sheria zao.
-    - Kompyuta isiyo ya kawaida haingeweza kupata thawabu, na hakuna miamala kutoka kwa kizuizi chao ingekamilishwa.
+    - Kompyuta isiyo ya kawaida haingeweza kupata thawabu, na hakuna miamala kutoka kwa kizuizi chao ambayo ingekamilishwa.
 
 ## Tathmini ya maarifa
 
@@ -173,27 +173,27 @@ Bainisha maneno muhimu yafuatayo yaliyoletwa katika sehemu iliyotangulia:
 
 Blockchain, Transaction, Double-Spend, Byzantine Generals’ Problem, Mining, Proof of Work (PoW), Hash Function, Block reward, Blockchain, Longest Chain, 51% Attack, Output, Output Lock, Change, Satoshis, Public/Private GWKey5 Keygraphy Sahihi, Wallet
 
-# Tunakuletea Seva ya BTPay
+# Tunakuletea Seva ya BTCPay
 
 <partId>9c8a2d0c-9ba1-5c39-874c-f9eaf1bba663</partId>
 
-## Kuelewa skrini ya kuingia ya Seva ya BTPay
+## Kuelewa skrini ya kuingia ya Seva ya BTCPay
 
 <chapterId>14aad54c-9bd8-54f2-9455-178b8ae63408</chapterId>
 
-### Kufanya kazi na Seva ya BTPay
+### Kufanya kazi na Seva ya BTCPay
 
-Madhumuni ya kizuizi hiki cha kozi itakuwa kuwa na uelewa wa jumla wa programu ya Seva ya BTPay. Katika mazingira ya pamoja, inashauriwa kufuata onyesho la mwalimu na kufuata pamoja na Kitabu cha Kozi cha Seva ya BTPay ili kumfuata mwalimu. Utajifunza jinsi ya kuunda Wallet kupitia njia nyingi. Mifano ni pamoja na usanidi wa Hot Wallet na pochi za maunzi zilizounganishwa kupitia BTPay Server Vault. Malengo haya hutokea katika mazingira ya Onyesho, yanayoonyeshwa na kupewa ufikiaji na mwalimu wako wa kozi.
+Madhumuni ya kizuizi hiki cha kozi itakuwa kuwa na uelewa wa jumla wa programu ya Seva ya BTCPay. Katika mazingira ya pamoja, inashauriwa kufuata onyesho la mwalimu na kufuata pamoja na Kitabu cha Kozi cha Seva ya BTCPay ili kumfuata mwalimu. Utajifunza jinsi ya kuunda Pochi kupitia njia nyingi. Mifano ni pamoja na usanidi wa Hot Wallet na pochi za maunzi zilizounganishwa kupitia BTCPay Server Vault. Malengo haya hutokea katika mazingira ya Onyesho, yanayoonyeshwa na kupewa ufikiaji na mwalimu wako wa kozi.
 
 Ukifuata kozi hii peke yako, unaweza kupata orodha ya wapangishi wengine kwa madhumuni ya Onyesho kwenye https://directory.btcpayserver.org/filter/hosts. Tunashauri sana dhidi ya kutumia chaguo hizi za wahusika wengine kama mazingira ya uzalishaji, lakini zinatumika kwa madhumuni yanayofaa kwa utangulizi wa kutumia Bitcoin na Seva ya BTCPay.
 
-Kama mwanafunzi wa rockstar wa Seva ya BTCPay, unaweza kuwa na uzoefu wa awali wa kusanidi nodi ya Bitcoin. Kozi hii itazungumza maalum kwa rafu ya Programu ya Seva ya BTPay.
+Kama mwanafunzi wa rockstar wa Seva ya BTCPay, unaweza kuwa na uzoefu wa awali wa kusanidi nodi ya Bitcoin. Kozi hii itazungumza maalum kwa rafu ya Programu ya Seva ya BTCPay.
 
-Chaguo nyingi katika Seva ya BTCPay zipo kwa namna fulani au nyingine katika programu nyingine zinazohusiana na Bitcoin Wallet.
+Chaguo nyingi katika Seva ya BTCPay zipo kwa namna fulani au nyingine katika programu zingine zinazohusiana na Pochi za Bitcoin.
 
-### Skrini ya Kuingia ya Seva ya BTPay
+### Skrini ya Kuingia ya Seva ya BTCPay
 
-Unapokaribishwa kwenye mazingira ya Onyesho, unaombwa ‘Ingia’ au ‘Ufungue akaunti yako.’ Wasimamizi wa seva wanaweza kuzima kipengele cha kuunda akaunti mpya kwa sababu za usalama. Nembo na rangi za vitufe vya Seva ya BTCPay zinaweza kubadilishwa kwa sababu Seva ya BTCPay ni Programu Huria. Mpangishi mwingine anaweza kuweka lebo kwenye programu Nyeupe na kubadilisha mwonekano mzima.
+Unapokaribishwa kwenye mazingira ya Onyesho, unaombwa ‘Ingia’ au ‘Ufungue akaunti yako.’ Wasimamizi wa seva wanaweza kuzima kipengele cha kuunda akaunti mpya kwa sababu za usalama. Nembo na rangi za vitufe vya Seva ya BTCPay zinaweza kubadilishwa kwa sababu Seva ya BTCPay ni Programu Huria. Mpangishi mwingine anaweza kuweka alama kwenye programu Nyeupe na kubadilisha mwonekano mzima.
 
 ![image](assets/en/0.webp)
 
