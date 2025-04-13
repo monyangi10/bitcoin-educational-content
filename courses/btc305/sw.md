@@ -901,13 +901,13 @@ Katika sehemu hii umejifunza:
 
 - Jinsi ya kuunganisha nodi ya Umeme ya ndani au ya nje
 - Yaliyomo na utendakazi wa vigae mbalimbali vinavyohusiana na Umeme kwenye Dashibodi
-- Jinsi ya kusanidi Umeme Wallet kwa kutumia Voltage Surge au Alby
+- Jinsi ya kusanidi Pochi la Umeme kwa kutumia Voltage Surge au Alby
 
 ### Tathmini ya Maarifa Mapitio ya Vitendo
 
-Eleza baadhi ya chaguo mbalimbali za kuunganisha umeme wa Wallet kwenye duka lako.
+Eleza baadhi ya chaguo mbalimbali za kuunganisha pochi la umeme kwenye duka lako.
 
-# Seva ya BTPay Interface
+# Seva ya BTCPay kiolesura
 
 <partId>25e88b81-e1ab-515f-a035-09f2a3075556</partId>
 
@@ -915,14 +915,14 @@ Eleza baadhi ya chaguo mbalimbali za kuunganisha umeme wa Wallet kwenye duka lak
 
 <chapterId>410ff28b-a272-5c91-93e0-48d5b28c53ab</chapterId>
 
-Seva ya BTPay ni kifurushi cha programu cha kawaida. Hata hivyo, kuna viwango ambavyo kila Seva ya BTCPay itakuwa navyo na Msimamizi/watumiaji wataingiliana navyo. Kuanzia na Dashibodi. Sehemu kuu ya kuingilia kwa kila Seva ya BTCPay baada ya kuingia. Dashibodi inatoa muhtasari wa jinsi duka lako linavyofanya kazi, salio la sasa la Wallet na tx za mwisho katika siku 7 zilizopita. Kwa vile ni mwonekano wa kawaida, Programu-jalizi zinaweza kutumia mwonekano huu kwa manufaa yao na kuunda vigae vyao kwenye Dashibodi. Kwa kitabu hiki cha kozi, tutazungumza tu kuhusu programu jalizi/programu za kawaida na mitazamo yao katika Seva ya BTCPay.
+Seva ya BTCPay ni kifurushi cha programu cha kawaida. Hata hivyo, kuna viwango ambavyo kila Seva ya BTCPay itakuwa navyo na Msimamizi/watumiaji wataingiliana navyo. Kuanzia na Dashibodi. Sehemu kuu ya kuingilia kwa kila Seva ya BTCPay baada ya kuingia. Dashibodi inatoa muhtasari wa jinsi duka lako linavyofanya kazi, salio la sasa la Pochi na tx za mwisho katika siku 7 zilizopita. Kwa vile ni mwonekano wa kawaida, Programu-jalizi zinaweza kutumia mwonekano huu kwa manufaa yao na kuunda vigae vyao kwenye Dashibodi. Kwa kitabu hiki cha kozi, tutazungumza tu kuhusu programu jalizi/programu za kawaida na mitazamo yao katika Seva ya BTCPay.
 
 ### Vigae vya Dashibodi
 
 Ndani ya mwonekano mkuu wa dashibodi ya Seva ya BTCPay kuna vigae kadhaa vya kawaida vinavyopatikana. Vigae hivi vimekusudiwa mmiliki wa Duka au Msimamizi kudhibiti duka lake katika muhtasari mmoja haraka.
 
 
-- Wallet usawa
+- Pochi ya usawa
 - Shughuli ya muamala
 - Mizani ya Umeme (ikiwa Umeme umewashwa kwenye duka)
 - Huduma za Umeme (ikiwa Umeme umewashwa kwenye duka)
@@ -931,15 +931,15 @@ Ndani ya mwonekano mkuu wa dashibodi ya Seva ya BTCPay kuna vigae kadhaa vya kaw
 - Mkusanyiko wa Fedha unaotumika sasa
 - Hifadhi utendaji / bidhaa zinazouzwa sana.
 
-### Wallet usawa
+### Pochi ya usawa
 
-Kigae cha Salio cha Wallet kinatoa muhtasari wa haraka wa fedha na utendakazi wa Wallet yako. Inaweza kutazamwa katika sarafu ya BTC au Fiat katika grafu ya Kila Wiki, mwezi, au kila mwaka.
+Kigae cha Salio cha Pochi kinatoa muhtasari wa haraka wa fedha na utendakazi wa pochi yako. Inaweza kutazamwa katika sarafu ya BTC au pesa za serikali katika grafu ya Kila Wiki, mwezi, au kila mwaka.
 
 ![image](assets/en/40.webp)
 
 ### Shughuli ya muamala
 
-Kando ya kigae cha Salio cha Wallet, Seva ya BTCPay inaonyesha muhtasari wa haraka wa Malipo yanayosubiri, kiasi cha Miamala katika siku 7 zilizopita, na ikiwa duka lako limerejeshewa pesa. Kubofya kitufe cha Dhibiti hukuleta katika usimamizi wa malipo yanayosubiri (pata maelezo zaidi kuhusu malipo katika Seva ya BTCPay - sura ya Malipo).
+Kando ya kigae cha Salio cha Pochi, Seva ya BTCPay inaonyesha muhtasari wa haraka wa Malipo yanayosubiri, kiasi cha Miamala katika siku 7 zilizopita, na ikiwa duka lako limerejeshewa pesa. Kubofya kitufe cha Dhibiti hukuleta katika usimamizi wa malipo yanayosubiri (pata maelezo zaidi kuhusu malipo katika Seva ya BTCPay - sura ya Malipo).
 
 ![image](assets/en/41.webp)
 
@@ -955,25 +955,25 @@ Wakati Msimamizi ameruhusu ufikiaji wa Lightning Network, dashibodi ya Seva ya B
 
 Hii inaonekana tu wakati umeme unafanya kazi.
 
-Karibu na kuona salio lako la Umeme kwenye dashibodi ya Seva ya BTCPay, wasimamizi pia wataona kigae cha Huduma za Umeme. Hapa wasimamizi wanaweza kupata vitufe vya haraka vya zana wanazotumia kudhibiti nodi zao za Umeme; kwa mfano, Ride the Lightning ni mojawapo ya zana za kawaida zilizo na Seva ya BTCPay kwa usimamizi wa nodi za Umeme.
+Karibu na kuona salio lako la Umeme kwenye dashibodi ya Seva ya BTCPay, wasimamizi pia wataona kigae cha Huduma za Umeme. Hapa wasimamizi wanaweza kupata vitufe vya haraka vya zana wanazotumia kudhibiti nodi zao za Umeme; kwa mfano,Ride the Lightning ni mojawapo ya zana za kawaida zilizo na Seva ya BTCPay kwa usimamizi wa nodi za Umeme.
 
 ![image](assets/en/43.webp)
 
 ### Shughuli za Hivi Punde
 
-Kigae cha miamala ya hivi majuzi kitaonyesha miamala ya hivi majuzi zaidi ya duka lako. Kwa mbofyo mmoja, Msimamizi wa mfano wa Seva ya BTPay sasa anaweza kuona shughuli ya hivi punde na kuona ikiwa umakini unahitajika kuihusu.
+Kigae cha miamala ya hivi majuzi kitaonyesha miamala ya hivi majuzi zaidi ya duka lako. Kwa mbofyo mmoja, Msimamizi wa mfano wa Seva ya BTCPay sasa anaweza kuona shughuli ya hivi punde na kuona ikiwa umakini unahitajika kuihusu.
 
 ![image](assets/en/44.webp)
 
 ### Ankara za hivi majuzi
 
-Kigae cha ankara za hivi majuzi kinaonyesha ankara 6 za hivi punde zilizotolewa na Seva yako ya BTCPay, ikijumuisha Hali na kiasi cha Invoice. Kigae pia kina kitufe cha "Angalia yote" ili kufikia muhtasari kamili wa Invoice kwa urahisi.
+Kigae cha ankara za hivi majuzi kinaonyesha ankara 6 za hivi punde zilizotolewa na Seva yako ya BTCPay, ikijumuisha Hali na kiasi cha Anwani ya ununuzi. Kigae pia kina kitufe cha "Angalia yote" ili kufikia muhtasari kamili wa Anwani ya ununuzi kwa urahisi.
 
 ![image](assets/en/45.webp)
 
 ### Sehemu ya Uuzaji na Mifuko ya Watu wengi
 
-Seva ya BTCPay inapoleta seti ya programu-jalizi au programu za kawaida, Point of Sale na Crowdfund ndizo programu-jalizi kuu mbili za Seva ya BTCPay. Kwa kila duka na Wallet, mtumiaji wa Seva ya BTPay anaweza generate kama Pointi za Mauzo au Pesa za Mkusanyiko kadri anavyoona inafaa. Kila moja itaunda kigae kipya cha dashibodi kinachoonyesha utendaji wa programu jalizi.
+Seva ya BTCPay inapoleta seti ya programu-jalizi au programu za kawaida, pointi ya mauzo na Crowdfund ndizo programu-jalizi kuu mbili za Seva ya BTCPay. Kwa kila duka na pochi, mtumiaji wa Seva ya BTPay anaweza kuzalisha kama Pointi za Mauzo au Pesa za Mkusanyiko kadri anavyoona inafaa. Kila moja itaunda kigae kipya cha dashibodi kinachoonyesha utendaji wa programu jalizi.
 
 ![image](assets/en/46.webp)
 
@@ -983,7 +983,7 @@ Angalia tofauti kidogo kati ya Sehemu ya Uuzaji na kigae cha Crowdfund. Msimamiz
 
 **!?Kumbuka!?**
 
-Grafu za salio na miamala ya hivi majuzi zinapatikana tu kwa njia ya malipo ya On-Chain. Taarifa kuhusu salio na miamala ya Lightning Network iko kwenye mambo ya kufanya. Kuanzia Toleo la 1.6.0 la Seva ya BTPay, salio la msingi la Lightning Network linapatikana.
+Grafu za salio na miamala ya hivi majuzi zinapatikana tu kwa njia ya malipo ya On-Chain. Taarifa kuhusu salio na miamala ya Lightning Network iko kwenye mambo ya kufanya. Kuanzia Toleo la 1.6.0 la Seva ya BTCPay, salio la msingi la Lightning Network linapatikana.
 
 ### Muhtasari wa Ujuzi
 
@@ -997,7 +997,7 @@ Katika sehemu hii, umejifunza yafuatayo:
 
 Orodhesha vigae vingi kutoka kwenye kumbukumbu uwezavyo kutoka kwenye Dashibodi.
 
-## Seva ya BTPay - Mipangilio ya Hifadhi
+## Seva ya BTCPay - Mipangilio ya Hifadhi
 
 <chapterId>e8faef7b-278d-550e-a511-bc3a442daf64</chapterId>
 
