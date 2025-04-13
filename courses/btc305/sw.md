@@ -4,7 +4,7 @@ goal: Sakinisha Seva ya Malipo ya BTC kwa biashara yako
 objectives: 
 
   - Kuelewa btcpayserver ni nini.
-  - Mwenyeji mwenyewe na usanidi Seva ya Malipo ya BTC.
+  - Mwenyeji mwenyewe anasanidi Seva ya Malipo ya BTC.
   - Tumia btcpayserver katika biashara yako ya kila siku.
 
 ---
@@ -12,11 +12,11 @@ objectives:
 
 Hii ni kozi ya utangulizi kuhusu BTCPay Server Operator iliyoandikwa na Alekos na Bas, ambayo ilichukuliwa katika Mpango wa ₿ Muundo wa Kozi na melontwist na asi0.
 
-HADITHI ISIYOKAMALIZWA
+HADITHI ISIYOKAMALISHWA
 
 "Huu Ni Uongo, Imani Yangu Kwako Imevunjika, Nitakufanya Uwe kizamani".
 
-Imetolewa na BTPay Server Foundation
+Imetolewa na BTCPay Msingi Wa Server
 
 +++
 # Utangulizi
@@ -29,21 +29,21 @@ Imetolewa na BTPay Server Foundation
 
 Wacha tuanze na Seva ya BTPay ni nini na ilitoka wapi. Tunathamini uwazi na viwango fulani ili kuunda uaminifu katika nafasi ya Bitcoin.
 
-Mradi katika nafasi ulivunja maadili haya. Msanidi programu mkuu wa BTPay Server, Nicolas Dorier, alichukulia hili kibinafsi na kutoa ahadi ya kuzifuta. Hapa tuko miaka mingi baadaye na tunafanya kazi kuelekea siku zijazo, chanzo wazi kabisa, kila siku.
+Mradi katika nafasi ulivunja maadili haya. Msanidi programu mkuu wa BTCPay Server, Nicolas Dorier, alichukulia hili kibinafsi na kutoa ahadi ya kuzifuta. Hapa tuko miaka mingi baadaye na tunafanya kazi kuelekea siku zijazo, chanzo wazi kabisa, kila siku.
 
 > Huu ni uongo, imani yangu kwako imevunjika, nitakufanya uwe kizamani.
 > Nicolas Dorier
-Baada ya maneno yaliyosemwa na Nicolas, ilikuwa wakati wa kuanza kujenga. Kazi nyingi ziliingia kwenye kile tunachokiita sasa Seva ya BTPay. Watu zaidi walitaka kusaidia na msukumo huu. Wanaotambulika zaidi ni r0ckstardev, MrKukks, Pavlenex, na mfanyabiashara wa kwanza kutumia programu, astupidmoose.
+Baada ya maneno yaliyosemwa na Nicolas, ilikuwa wakati wa kuanza kujenga. Kazi nyingi ziliingia kwenye kile tunachokiita sasa Seva ya BTCPay. Watu zaidi walitaka kusaidia kwa msukumo huu. Wanaotambulika zaidi ni r0ckstardev, MrKukks, Pavlenex, na mfanyabiashara wa kwanza kutumia programu, astupidmoose.
 
 Chanzo wazi kinamaanisha nini, na ni nini kinachoingia kwenye mradi kama huo?
 
-FOSS inawakilisha Programu ya Bure & Open-Chanzo. Ya kwanza inarejelea masharti ambayo huruhusu mtu yeyote kunakili, kurekebisha, na hata kusambaza matoleo (hata kwa faida) ya programu. Mwisho unarejelea kushiriki kwa uwazi msimbo wa chanzo, kuhimiza umma kuchangia na kuuboresha.
+FOSS inawakilisha Programu ya Bure pia Open-Chanzo. Ya kwanza inarejelea masharti ambayo huruhusu mtu yeyote kunakili, kurekebisha, na hata kusambaza matoleo (hata kwa faida) ya programu. Mwisho unarejelea kushiriki kwa uwazi msimbo wa chanzo, kuhimiza umma kuchangia na kuuboresha.
 
 Hii huleta watumiaji wazoefu shauku ya kuchangia programu ambayo tayari wanatumia na kupata thamani kutoka kwayo, na hivyo kuthibitisha baada ya muda kushinda katika kupitishwa kwa programu inayomilikiwa. Inalingana na kanuni za Bitcoin kwamba "habari hutamani kuwa huru." Huleta pamoja watu wenye shauku wanaounda jumuiya na ni ya kufurahisha zaidi. Kama Bitcoin, FOSS haiwezi kuepukika.
 
 ### Kabla hatujaanza
 
-Kozi hii ina sehemu nyingi. Mengi yatatunzwa na mwalimu wako wa darasani, mazingira ya Onyesho ambayo unaweza kupata ufikiaji, seva inayopangishwa kwako mwenyewe, na ikiwezekana jina la kikoa. Ukikamilisha kozi hii kwa kujitegemea, tafadhali fahamu kuwa mazingira yaliyo na lebo ya DEMO hayatapatikana kwako.
+Kozi hii ina sehemu nyingi. Mengi yatafunzwa na mwalimu wako wa darasani, mazingira ya Onyesho ambayo unaweza kupata ufikiaji, seva inayopangishwa kwako mwenyewe, na ikiwezekana jina la kikoa. Ukikamilisha kozi hii kwa kujitegemea, tafadhali fahamu kuwa mazingira yaliyo na alama ya DEMO hayatapatikana kwako.
 
 NB. Ukifuata kozi hii kulingana na darasa, majina ya seva yanaweza kutofautiana kulingana na usanidi wa darasa lako. Vigezo katika majina ya Seva vinaweza kuwa tofauti kwa sababu ya hii.
 
@@ -51,13 +51,13 @@ NB. Ukifuata kozi hii kulingana na darasa, majina ya seva yanaweza kutofautiana 
 
 Kila sura ina malengo na tathmini ya maarifa. Katika kozi hii, tutashughulikia kila moja ya haya na kuwa na muhtasari wa vipengele muhimu katika kila somo (yaani sura). Vielelezo vinaangaziwa ili kutoa maoni ya kuona na kuimarisha dhana muhimu katika kipengele cha kuona. Malengo yamewekwa mwanzoni mwa kila sehemu ya somo. Malengo haya huenda zaidi ya orodha ya ukaguzi. Hizi hukupa mwongozo wa seti mpya ya ujuzi. Tathmini ya Maarifa inazidi kuleta changamoto katika usanidi wa Seva yako ya BTCPay.
 
-### Wanafunzi hupokea nini na kozi?
+### Wanafunzi hupokea nini kwa kozi?
 
 Akiwa na Kozi ya Seva ya BTCPay, mwanafunzi anaweza kuelewa kanuni za kimsingi, kiufundi na zisizo za kiufundi za Bitcoin. Mafunzo ya kina ya kutumia Bitcoin kupitia Seva ya BTCPay yataruhusu wanafunzi kuendesha miundombinu yao ya Bitcoin.
 
 ### Anwani muhimu za Wavuti au Fursa za Mawasiliano
 
-Wakfu wa Seva ya BTPay, ambao uliruhusu Alekos na Bas kuandika kozi hii, uko Tokyo, japani. Msingi wa Seva ya BTPay unaweza kufikiwa kupitia tovuti iliyoorodheshwa;
+Wakfu wa Seva ya BTCPay, ulioruhusu Alekos na Bas kuandika kozi hii, uko Tokyo, Japani. Msingi wa Seva ya BTCPay unaweza kufikiwa kupitia tovuti iliyoorodheshwa;
 
 
 - https://foundation.btcpayserver.org
@@ -75,7 +75,7 @@ Zoezi hilo linaanza baada ya kutazama utangulizi "Jinsi Bitcoin na Blockchain zi
 
 ![how bitcoin and the blockchain works](https://youtu.be/mhE_vvwAiRc)
 
-Zoezi hili linahitaji angalau watu tisa kushiriki. Zoezi hili linakusudia kupata wazo la jinsi Bitcoin inavyofanya kazi. Kwa kucheza kila jukumu kwenye mtandao, utakuwa na njia shirikishi na ya kucheza ya kujifunza. Zoezi hili halihusishi Lightning Network.
+Zoezi hili linahitaji angalau watu tisa kushiriki. Zoezi hili linakusudia kupata wazo la jinsi Bitcoin inavyofanya kazi. Kwa kucheza kwa kila jukumu kwenye mtandao, utakuwa na njia shirikishi na ya kucheza na kujifunza. Zoezi hili halihusishi Lightning Network.
 
 ### Mfano; Inahitaji watu 9/11
 
@@ -84,9 +84,9 @@ Majukumu ni:
 
 - 1 Mteja
 - 1 Mfanyabiashara
-- 7 hadi 9 Bitcoin nodes
+- 7 hadi nodi 9 za Bitcoin 
 
-**Mpangilio ni kama ifuatavyo:**
+**Mpangilio ni kama ufuatao:**
 
 Wateja hununua bidhaa kutoka kwa duka na Bitcoin.
 
@@ -100,7 +100,7 @@ Wateja hununua bidhaa kutoka kwa duka na Bitcoin.
   - Mteja- anavinjari duka mtandaoni na kupata bidhaa kwa $25 wanazotaka, na kumfahamisha Mfanyabiashara ambaye angependa kununua.
   - Mfanyabiashara - anauliza malipo.
   - Mteja- hutuma taarifa za kadi kwa Mfanyabiashara
-  - Mfanyabiashara- hupeleka taarifa kwa Benki (kutambulisha wao wenyewe na utambulisho/taarifa) akiomba malipo ya
+  - Mfanyabiashara- hupeleka taarifa kwa Benki (kutambulisha wao wenyewe na utambulisho/taarifa) akiomba malipo yao.
   - Benki hukusanya taarifa kuhusu Mteja na Muuzaji (Alice na Bob) na kuangalia kama salio la mteja linatosha.
   - Inakata \$25 kutoka kwa akaunti ya Alice, kuongeza \$24 kwenye akaunti ya Bob, inachukua \$1 kwa huduma.
   - Mfanyabiashara hupokea dole gumba kutoka kwa Benki na kusafirisha bidhaa hiyo kwa mteja.
@@ -110,28 +110,28 @@ Wateja hununua bidhaa kutoka kwa duka na Bitcoin.
   - Benki inachukua kata.
   - Benki lazima iaminiwe kutunza pesa za kila mshiriki wakati wote.
 
-**Scenario 2 - Bitcoin System**
+**Scenario 2 -Mfumo wa Bitcoin**
 
 
 - Sanidi:
   - Angalia michoro/mfafanuzi katika Figjam iliyoambatishwa - [Mpango wa Shughuli](https://www.figma.com/file/ckmvMq02Jm2MegSsVCDFhc/Day-1-Classroom-Activity?type=whiteboard&node-id=0-1&t=KR31ofMaJX6S9).
-  - Badilisha Benki na wanafunzi tisa ambao watachukua nafasi ya Kompyuta (Bitcoin Nodes/Miners) katika mtandao kuchukua nafasi ya Benki.
-- Kila moja ya Kompyuta 9 ina rekodi kamili ya kihistoria ya miamala yote ya zamani iliyowahi kufanywa (hivyo mizani sahihi bila kughushi), pamoja na seti ya sheria:
-  - Thibitisha kuwa muamala umetiwa saini ipasavyo (thekeyfitsthelock)
-  - Tangaza na upokee miamala halali kwa wenzako kwenye mtandao, tupa zisizo sahihi (ikiwa ni pamoja na jaribio lolote la kutumia pesa sawa mara mbili)
+  - Badilisha Benki na wanafunzi tisa ambao watachukua nafasi ya Kompyuta (Nodi za Bitcoin/Wachimbaji) kwenye mtandao kuchukua nafasi ya Benki.
+- Kila moja ya Kompyuta 9 ina rekodi kamili ya kihistoria ya miamala yote ya zamani iliyowahi kufanywa (hivyo mizani sahihi bila kughushi), pamoja na seti za sheria:
+  - Thibitisha kuwa muamala umetiwa sahihi ipasavyo (thekeyfitsthelock)
+  - Tangaza na upokee miamala halali kwa wenzako kwa mtandao, tupa zisizo sahihi (ikiwa ni pamoja na jaribio lolote la kutumia pesa sawa mara mbili)
 - Sasisha/Ongeza rekodi mara kwa mara na miamala mipya iliyopokelewa kutoka kwa kompyuta "nasibu" mradi tu yaliyomo yote ni halali (kumbuka: tunapuuza, kwa sasa, kipengele cha Proof of Work kwa haya yote, kwa urahisi), vinginevyo kataa hizi na uendelee kama hapo awali hadi kompyuta inayofuata "ya nasibu" itume sasisho.
-  - Kiasi kinachofaa kilituzwa ikiwa maudhui yalikuwa halali.
+  - Kiasi kinachofaa kitatuzwa ikiwa maudhui yatakuwa halali.
 - Igiza mlolongo wa matukio:
   - Mteja- anavinjari duka mtandaoni na kupata bidhaa kwa $25 anazotaka, na kumfahamisha Mfanyabiashara ambaye angependa kununua.
-  - Merchant- anaomba malipo kwa kumtumia mteja Invoice/Address kutoka Wallet yake.
-  - Mteja- hutengeneza muamala (kutuma BTC ya thamani ya $25 kwa Address iliyotolewa na Muuzaji) na kuitangaza kwa Mtandao wa Bitcoin.
+  - Mfanyabiashara- anaomba malipo kwa kumtumia mteja Anwani ya ununuzi/Anwani kutoka kwa pochi lake.
+  - Mteja- hutengeneza muamala (kutuma BTC ya thamani ya $25 kwa Anwani iliyotolewa na Muuzaji) na kuitangaza kwa Mtandao wa Bitcoin.
 - Kompyuta- pokea muamala na uthibitishe:
-  - Kuna angalau $25 ya BTC katika Address inatumwa kutoka
-  - Muamala umetiwa saini ipasavyo ("kufunguliwa" na mteja)
+  - Kuna angalau $25 ya BTC katika Anwani inayotumwa kutoka
+  - Muamala umetiwa sahihi ipasavyo ("kufunguliwa" na mteja)
   - Ikiwa sio kesi, basi shughuli hiyo haitaenezwa kupitia mtandao, na ikiwa ni hivyo, basi inaenea na inafanyika kwa kusubiri.
-  - Wauzaji wanaweza kuangalia kama muamala unasubiri na unasubiri.
+  - Wauzaji wanaweza kuangalia kama muamala unasubiri na unasubiriwa.
 - Kompyuta moja "inachaguliwa kwa nasibu" kupendekeza kukamilisha shughuli inayopendekezwa kwa kutangaza "block" iliyo nayo; ikiwa itaangalia, watapata tuzo ya BTC.
-  - SI LAZIMA/ADVANCED - badala ya kuchagua Kompyuta kwa nasibu, iga Mining kwa kuweka kete za Kompyuta hadi matokeo yaliyoamuliwa mapema yatokee (k.m. ya kwanza kukunja sita sita imechaguliwa)
+  - SI LAZIMA/YA JUU - badala ya kuchagua Kompyuta kwa nasibu, iga Uchimbaji kwa kuweka kete za Kompyuta hadi matokeo yaliyoamuliwa mapema yatokee (k.m. ya kwanza kukunja sita sita imechaguliwa)
   - Inaweza pia kucheza nini kitatokea ikiwa Kompyuta mbili zitashinda takriban wakati huo huo, na kusababisha mgawanyiko wa mnyororo.
   - Kompyuta hukagua uhalali, kusasisha/kuongeza rekodi kwenye daftari zao ikiwa sheria zitatimizwa, na kutangaza block kwa programu zingine.
   - Kompyuta iliyochaguliwa kwa nasibu hupokea zawadi kwa kupendekeza kizuizi halali.
@@ -139,17 +139,17 @@ Wateja hununua bidhaa kutoka kwa duka na Bitcoin.
 - Maoni:
   - Ona hakukuwa na haja ya uhusiano wa benki uliokuwepo hapo awali.
   - Hakuna mtu wa tatu anayehitajika kuwezesha; nafasi yake kuchukuliwa na kanuni/motisha.
-  - Hakuna mkusanyiko wa data na mtu yeyote nje ya Exchange ya moja kwa moja na ni lazima tu kiasi kinachohitajika kibadilishwe kati ya washiriki (k.m., usafirishaji wa Address).
+  - Hakuna mkusanyiko wa data na mtu yeyote nje ya ubadilishanaji wa moja kwa moja. Na ni lazima tu kiasi kinachohitajika kibadilishwe kati ya washiriki (k.m., usafirishaji wa Anwani).
   - Hakuna uaminifu unaohitajika kati ya watu (mbali na Mfanyabiashara anayetuma bidhaa), kama ununuzi wa pesa taslimu kwa njia nyingi.
   - Pesa hizo zinamilikiwa moja kwa moja na watu binafsi.
-  - Bitcoin Ledger inaonyeshwa kwa dola kwa unyenyekevu, lakini kwa kweli, ni BTC.
-  - Tunaiga muamala mmoja unaotangazwa, lakini kwa kweli, miamala mingi inasubiri kwenye mtandao, na vizuizi vinajumuisha maelfu ya miamala kwa wakati mmoja. Nodi pia angalia hakuna shughuli za kutumia mara mbili zinazosubiri (ningetupa zote isipokuwa moja ikiwa ingekuwa hivyo).
+  - Bitcoin Leja inaonyeshwa kwa dola kwa unyenyekevu, lakini kwa kweli, ni BTC.
+  - Tunaiga muamala mmoja unaotangazwa, lakini kwa kweli, miamala mingi inasubiriwa kwenye mtandao, na vizuizi vinajumuisha maelfu ya miamala kwa wakati mmoja. Nodi pia angalia hakuna shughuli za kutumia mara mbili zinazosubiri (ningetupa zote isipokuwa moja ikiwa ingekuwa hivyo).
 - Matukio ya kudanganya:
   - Je, ikiwa mteja hakuwa na $ 25 BTC?
-    - Hawangeweza kuunda shughuli kwa sababu "kufungua" na "Ownership" ni kitu kimoja, na shughuli za ukaguzi wa kompyuta zimesainiwa vizuri; vinginevyo, wanaikataa
-  - Je, ikiwa kompyuta iliyochaguliwa kwa nasibu itajaribu "kubadilisha Ledger"?
+    - Hawangeweza kuunda shughuli kwa sababu ya "kufungua" na "Umiliki" ni kitu kimoja, na shughuli za ukaguzi wa kompyuta zimetiwa sahihi vizuri; vinginevyo, wanaikataa
+  - Je, ikiwa kompyuta iliyochaguliwa kwa nasibu itajaribu "kubadilisha Leja"?
     - Kizuizi kitakataliwa, kwa kuwa kila kompyuta nyingine ina historia kamili na ingeona mabadiliko, ikikiuka moja ya sheria zao.
-    - Kompyuta isiyo ya kawaida haingeweza kupata thawabu, na hakuna miamala kutoka kwa kizuizi chao ingekamilishwa.
+    - Kompyuta isiyo ya kawaida haingeweza kupata thawabu, na hakuna miamala kutoka kwa kizuizi chao ambayo ingekamilishwa.
 
 ## Tathmini ya maarifa
 
@@ -173,25 +173,25 @@ Bainisha maneno muhimu yafuatayo yaliyoletwa katika sehemu iliyotangulia:
 
 Blockchain, Transaction, Double-Spend, Byzantine Generals’ Problem, Mining, Proof of Work (PoW), Hash Function, Block reward, Blockchain, Longest Chain, 51% Attack, Output, Output Lock, Change, Satoshis, Public/Private GWKey5 Keygraphy Sahihi, Wallet
 
-# Tunakuletea Seva ya BTPay
+# Tunakuletea Seva ya BTCPay
 
 <partId>9c8a2d0c-9ba1-5c39-874c-f9eaf1bba663</partId>
 
-## Kuelewa skrini ya kuingia ya Seva ya BTPay
+## Kuelewa skrini ya kuingia ya Seva ya BTCPay
 
 <chapterId>14aad54c-9bd8-54f2-9455-178b8ae63408</chapterId>
 
-### Kufanya kazi na Seva ya BTPay
+### Kufanya kazi na Seva ya BTCPay
 
-Madhumuni ya kizuizi hiki cha kozi itakuwa kuwa na uelewa wa jumla wa programu ya Seva ya BTPay. Katika mazingira ya pamoja, inashauriwa kufuata onyesho la mwalimu na kufuata pamoja na Kitabu cha Kozi cha Seva ya BTPay ili kumfuata mwalimu. Utajifunza jinsi ya kuunda Wallet kupitia njia nyingi. Mifano ni pamoja na usanidi wa Hot Wallet na pochi za maunzi zilizounganishwa kupitia BTPay Server Vault. Malengo haya hutokea katika mazingira ya Onyesho, yanayoonyeshwa na kupewa ufikiaji na mwalimu wako wa kozi.
+Madhumuni ya kizuizi hiki cha kozi itakuwa Ni kuwa na uelewa wa jumla wa programu ya Seva ya BTCPay. Katika mazingira ya pamoja, inashauriwa kufuata onyesho la mwalimu na kufuata pamoja na Kitabu cha Kozi cha Seva ya BTCPay ili kumfuata mwalimu. Utajifunza jinsi ya kuunda Pochi kupitia njia nyingi. Mifano ni pamoja na usanidi wa Hot Wallet na pochi za maunzi zilizounganishwa kupitia BTCPay Server Vault. Malengo haya hutokea katika mazingira ya Onyesho, yanayoonyeshwa na kupewa ufikiaji na mwalimu wako wa kozi.
 
-Ukifuata kozi hii peke yako, unaweza kupata orodha ya wapangishi wengine kwa madhumuni ya Onyesho kwenye https://directory.btcpayserver.org/filter/hosts. Tunashauri sana dhidi ya kutumia chaguo hizi za wahusika wengine kama mazingira ya uzalishaji, lakini zinatumika kwa madhumuni yanayofaa kwa utangulizi wa kutumia Bitcoin na Seva ya BTCPay.
+Ukifuata kozi hii peke yako, unaweza kupata orodha ya wapangishi wengine kwa madhumuni ya Onyesho kwenye https://directory.btcpayserver.org/filter/hosts. Tunashauri sana dhidi ya kutumia chaguo hili la wahusika wengine kama mazingira ya uzalishaji, lakini zinatumika kwa madhumuni yanayofaa kwa utangulizi wa kutumia Bitcoin na Seva ya BTCPay.
 
-Kama mwanafunzi wa rockstar wa Seva ya BTCPay, unaweza kuwa na uzoefu wa awali wa kusanidi nodi ya Bitcoin. Kozi hii itazungumza maalum kwa rafu ya Programu ya Seva ya BTPay.
+Kama mwanafunzi wa rockstar wa Seva ya BTCPay, unaweza kuwa na uzoefu wa awali wa kusanidi nodi ya Bitcoin. Kozi hii itazungumza maalum kwa rafu ya Programu ya Seva ya BTCPay.
 
-Chaguo nyingi katika Seva ya BTCPay zipo kwa namna fulani au nyingine katika programu nyingine zinazohusiana na Bitcoin Wallet.
+Chaguo nyingi katika Seva ya BTCPay zipo kwa namna fulani katika programu nyingine inayohusiana na Pochi la Bitcoin.
 
-### Skrini ya Kuingia ya Seva ya BTPay
+### Skrini ya Kuingia ya Seva ya BTCPay
 
 Unapokaribishwa kwenye mazingira ya Onyesho, unaombwa ‘Ingia’ au ‘Ufungue akaunti yako.’ Wasimamizi wa seva wanaweza kuzima kipengele cha kuunda akaunti mpya kwa sababu za usalama. Nembo na rangi za vitufe vya Seva ya BTCPay zinaweza kubadilishwa kwa sababu Seva ya BTCPay ni Programu Huria. Mpangishi mwingine anaweza kuweka lebo kwenye programu Nyeupe na kubadilisha mwonekano mzima.
 
@@ -199,11 +199,11 @@ Unapokaribishwa kwenye mazingira ya Onyesho, unaombwa ‘Ingia’ au ‘Ufungue 
 
 ### Unda dirisha la Akaunti
 
-Kufungua akaunti kwenye Seva ya BTCPay kunahitaji mifuatano halali ya Barua pepe ya Address; example@email.com itakuwa mfuatano halali wa Barua pepe.
+Kufungua akaunti kwenye Seva ya BTCPay kunahitaji mifuatano halali ya Barua pepe ya Anwani; example@email.com itakuwa mfuatano halali wa Barua pepe.
 
-Nenosiri linahitaji kuwa na urefu wa angalau vibambo 8, ikijumuisha herufi, nambari na vibambo. Baada ya kuweka nenosiri mara moja, itabidi uthibitishe nenosiri lililochapwa ili kuhakikisha kuwa ni sahihi kwa kile kilichoandikwa katika sehemu ya kwanza ya nenosiri.
+Nenosiri linahitaji kuwa na urefu wa angalau vibambo 8, likijumuisha herufi, nambari na vibambo. Baada ya kuweka nenosiri mara moja, itabidi uthibitishe nenosiri lililochapwa ili kuhakikisha kuwa ni sahihi kwa kile kilichoandikwa katika sehemu ya kwanza ya nenosiri.
 
-Wakati sehemu zote mbili za Barua pepe na Nenosiri zimejazwa ipasavyo, bofya kitufe cha 'Unda Akaunti'. Hii itahifadhi Barua pepe na nenosiri kwenye mfano wa Seva ya BTPay ya mwalimu.
+Wakati sehemu zote mbili za Barua pepe na Nenosiri zimejazwa ipasavyo, bofya kitufe cha 'Unda Akaunti'. Hii itahifadhi Barua pepe na nenosiri kwenye mfano wa Seva ya BTCPay ya mwalimu.
 
 ![image](assets/en/1.webp)
 
@@ -211,21 +211,21 @@ Wakati sehemu zote mbili za Barua pepe na Nenosiri zimejazwa ipasavyo, bofya kit
 
 Ukifuata kozi hii peke yako, kuunda akaunti hii itakuwa jambo ambalo unaweza kufanya kwa mpangishaji mwingine; kwa hivyo, tena, tunataja kutotumia haya kama mazingira ya uzalishaji bali kwa madhumuni ya mafunzo tu.
 
-### Uundaji wa Akaunti na Msimamizi wa Seva ya BTPay
+### Uundaji wa Akaunti na Msimamizi wa Seva ya BTCPay
 
 Msimamizi wa Hali ya Seva ya BTCPay pia anaweza kuunda akaunti kwa ajili ya Seva ya BTCPay. Msimamizi wa mfano wa Seva ya BTCPay anaweza kubofya ‘Mipangilio ya Seva’ (1), bofya kichupo cha ‘Watumiaji’ (2), na ubofye kitufe cha “+ Ongeza Mtumiaji” (3) katika sehemu ya juu kulia ya kichupo cha Watumiaji. Katika Lengo (4.3), utajifunza zaidi kuhusu udhibiti wa msimamizi wa Akaunti.
 
 ![image](assets/en/2.webp)
 
-Kama msimamizi, utahitaji Barua pepe ya mtumiaji Address na kuweka nenosiri la kawaida. Inashauriwa kama Msimamizi kumjulisha mtumiaji kwamba anapaswa kubadilisha nenosiri hili kabla ya kutumia akaunti kwa sababu za usalama. Iwapo Msimamizi ASIWEKI Nenosiri na SMTP imewekwa kwenye seva, mtumiaji atapokea barua pepe yenye kiungo cha mwaliko ili kuunda akaunti yake na kuweka nenosiri mwenyewe.
+Kama msimamizi, utahitaji Barua pepe ya mtumiaji Anwani na kuweka nenosiri la kawaida. Inashauriwa kama Msimamizi kumjulisha mtumiaji kwamba anapaswa kubadilisha nenosiri hili kabla ya kutumia akaunti kwa sababu za usalama. Iwapo Msimamizi ASIWEKE Nenosiri na SMTP imewekwa kwenye seva, mtumiaji atapokea barua pepe yenye kiungo cha mwaliko ili kuunda akaunti yake na kuweka nenosiri mwenyewe.
 
 ### Mfano
 
-Unapofuata kozi na mwalimu, fuata kiungo ulichopewa na mwalimu na uunde akaunti yako kwenye mazingira ya Onyesho yaliyotolewa. Hakikisha barua pepe yako Address na nenosiri zimehifadhiwa kwa usalama; utahitaji kitambulisho hiki cha kuingia kwa malengo mengine ya onyesho katika kozi hii.
+Unapofuata kozi na mwalimu, fuata kiungo ulichopewa na mwalimu na uunde akaunti yako kwenye mazingira ya Onyesho yaliyotolewa. Hakikisha barua pepe yako Anwani na nenosiri zimehifadhiwa kwa usalama; utahitaji kitambulisho hiki cha kuingia kwa malengo mengine ya onyesho katika kozi hii.
 
-Huenda mwalimu wako amekusanya barua pepe ya Address mapema na kutuma kiungo cha mwaliko kabla ya zoezi hili. Ukielekezwa, angalia Barua pepe yako.
+Huenda mwalimu wako amekusanya barua pepe ya Anwani mapema na kutuma kiungo cha mwaliko kabla ya zoezi hili. Ukielekezwa, angalia Barua pepe yako.
 
-Unapochukua kozi bila mwalimu, fungua akaunti yako kwa kutumia mazingira ya onyesho la Seva ya BTPay; kwenda kwa
+Unapochukua kozi bila mwalimu, fungua akaunti yako kwa kutumia mazingira ya onyesho la Seva ya BTCPay; kwenda kwa
 
 https://Mainnet.demo.btcpayserver.org/login.
 
@@ -249,9 +249,9 @@ Toa sababu kwa nini kutumia Seva ya Onyesho ni wazo mbaya kwa madhumuni ya uzali
 
 <chapterId>b58ca6ee-b7fc-5e81-a6aa-c8ff212b4c55</chapterId>
 
-### Usimamizi wa Akaunti kwenye Seva ya BTPay
+### Usimamizi wa Akaunti kwenye Seva ya BTCPay
 
-Baada ya mmiliki wa duka kufungua akaunti yake, anaweza kuidhibiti katika Sehemu ya Chini Kushoto ya UI ya Seva ya BTPay. Chini ya kitufe cha Akaunti, kuna mipangilio mingi ya kiwango cha juu.
+Baada ya mmiliki wa duka kufungua akaunti yake, anaweza kuidhibiti katika Sehemu ya Chini Kushoto ya UI ya Seva ya BTCPay. Chini ya kitufe cha Akaunti, kuna mipangilio mingi ya kiwango cha juu.
 
 
 - Hali ya giza/Nuru.
@@ -262,19 +262,19 @@ Baada ya mmiliki wa duka kufungua akaunti yake, anaweza kuidhibiti katika Sehemu
 
 ### Hali ya Giza na Mwanga
 
-Watumiaji wa Seva ya BTCPay wanaweza kuchagua kati ya toleo la Kiolesura cha Nuru au Giza. Kurasa zinazowakabili wateja hazitabadilika. Wanatumia mipangilio inayopendekezwa na mteja kuhusu hali ya giza au nyepesi.
+Watumiaji wa Seva ya BTCPay wanaweza kuchagua kati ya toleo la Kiolesura cha Nuru au Giza. Kurasa zinazowakabili wateja hazitabadilika. Wanatumia mipangilio inayopendekezwa na mteja kuhusu hali ya giza au mwanga.
 
 ### Ficha kigeuzi cha maelezo Nyeti
 
-Kitufe cha kuficha maelezo nyeti huleta usalama wa Layer wa haraka na rahisi. Wakati wowote unapohitaji kutumia Seva yako ya BTCPay, lakini kunaweza kuwa na watu wanaonyemelea begani mwako kwenye nafasi ya umma, washa Ficha Maelezo Nyeti, na maadili yote katika Seva ya BTCPay yatafichwa. Mtu anaweza kutazama juu ya bega lako lakini hawezi tena kuona maadili unayoshughulika nayo.
+Kitufe cha kuficha maelezo nyeti huleta usalama wa safu wa haraka na rahisi. Wakati wowote unapohitaji kutumia Seva yako ya BTCPay, lakini kunaweza kuwa na watu wanaonyemelea begani mwako kwenye nafasi ya umma, washa Ficha Maelezo Nyeti, na maadili yote katika Seva ya BTCPay yatafichwa. Mtu anaweza kutazama juu ya bega lako lakini hawezi tena kuona maadili unayoshughulika nayo.
 
 ### Dhibiti Akaunti
 
-Baada ya kufungua akaunti ya mtumiaji, hapa ndipo pa kudhibiti manenosiri, 2fa au API.
+Baada ya kufungua akaunti ya mtumiaji, hapa ndipo pa kudhibiti maneno ya siri, 2fa au API.
 
 ### Dhibiti Akaunti - Akaunti
 
-Sasisha akaunti yako kwa hiari ukitumia Barua pepe tofauti ya Address. Ili kuhakikisha barua pepe yako ya Address ni sahihi, Seva ya BTPay hukuruhusu kutuma barua pepe ya uthibitishaji. Bofya hifadhi ikiwa mtumiaji ataweka barua pepe mpya Address na kuthibitisha uthibitishaji ulifanya kazi. Jina la mtumiaji linasalia kuwa sawa na Barua pepe iliyotangulia.
+Sasisha akaunti yako kwa hiari ukitumia Barua pepe tofauti ya Anwani. Ili kuhakikisha barua pepe yako ya Anwani ni sahihi, Seva ya BTCPay hukuruhusu kutuma barua pepe ya uthibitishaji. Bofya hifadhi ikiwa mtumiaji ataweka barua pepe mpya Anwani na kuthibitisha uthibitishaji ulifanya kazi. Jina la mtumiaji linasalia kuwa sawa na Barua pepe iliyotangulia.
 
 Mtumiaji anaweza kuamua kufuta akaunti yake yote. Hii inaweza kufanyika kwa kubofya kitufe cha kufuta kwenye kichupo cha Akaunti.
 
@@ -282,7 +282,7 @@ Mtumiaji anaweza kuamua kufuta akaunti yake yote. Hii inaweza kufanyika kwa kubo
 
 **!Kumbuka!**
 
-Baada ya kubadilisha Barua pepe, jina la mtumiaji la akaunti halitabadilika. Barua pepe iliyopewa hapo awali ya Address itasalia kuwa jina la Kuingia.
+Baada ya kubadilisha Barua pepe, jina la mtumiaji la akaunti halitabadilika. Barua pepe iliyopewa hapo awali ya Anwani itasalia kuwa jina la Kuingia.
 
 ### Dhibiti Akaunti - Nenosiri
 
@@ -310,10 +310,10 @@ Kulingana na Mfumo wa Uendeshaji wa simu yako ya mkononi (Android au iOS), watum
 2. Baada ya kupakua na kusakinisha Programu ya Kithibitishaji.
 
 
-   - Changanua Msimbo wa QR uliotolewa na Seva ya BTPay
-   - Au weka ufunguo uliotolewa na Seva ya BTCPay mwenyewe kwenye programu yako ya Kithibitishaji.
+   - Changanua Msimbo wa QR uliotolewa na Seva ya BTCPay
+   - Au weka ufunguo uliotolewa na Seva ya BTCPay mwenyewe kwenye programu yako ya Uthibitishaji.
 
-3. Programu ya Kithibitishaji itakupa msimbo wa kipekee. Weka msimbo wa kipekee katika Seva ya BTCPay ili uthibitishe usanidi, na ubofye thibitisha ili ukamilishe mchakato huo.
+3. Programu ya Uthibitishaji itakupa msimbo wa kipekee. Weka msimbo wa kipekee katika Seva ya BTCPay ili uthibitishe usanidi, na ubofye thibitisha ili ukamilishe mchakato huo.
 
 ![image](assets/en/6.webp)
 
@@ -322,14 +322,14 @@ Kulingana na Mfumo wa Uendeshaji wa simu yako ya mkononi (Android au iOS), watum
 Katika sehemu hii, umejifunza yafuatayo:
 
 
-- Chaguo za usimamizi wa akaunti na njia mbalimbali za kudhibiti akaunti kwenye mfano wa Seva ya BTPay.
+- Chaguo za usimamizi wa akaunti na njia mbalimbali za kudhibiti akaunti kwenye mfano wa Seva ya BTCPay.
 - Jinsi ya kusanidi 2FA inayotegemea programu.
 
 ### Tathmini ya maarifa
 
 #### Uhakiki wa Dhana ya KA
 
-Eleza jinsi 2FA inayotokana na programu inavyosaidia kulinda akaunti yako
+Eleza jinsi 2FA inayotokana na programu, inavyosaidia kulinda akaunti yako
 
 ## Kuunda duka jipya
 
@@ -337,7 +337,7 @@ Eleza jinsi 2FA inayotokana na programu inavyosaidia kulinda akaunti yako
 
 ### Unda mchawi wa duka lako
 
-Mtumiaji mpya anapoingia kwenye Seva ya BTCPay, mazingira ni tupu na yanahitaji duka la kwanza. Mchawi wa utangulizi wa Seva ya BTCPay itampa mtumiaji chaguo la 'Unda duka lako' (1). Duka linaweza kuonekana kama Nyumba kwa mahitaji yako ya Bitcoin. Njia mpya ya Seva ya BTPay itaanza kwa Kusawazisha Bitcoin Blockchain (2). Kulingana na miundombinu gani unayotumia Seva ya BTCPay, hii inaweza kuanzia saa chache hadi siku chache. Toleo la sasa la mfano linaonyeshwa katika kona ya chini kulia ya UI yako ya Seva ya BTPay. Hii ni muhimu kwa marejeleo wakati wa utatuzi.
+Mtumiaji mpya anapoingia kwenye Seva ya BTCPay, mazingira ni tupu na yanahitaji duka la kwanza. Mchawi wa utangulizi wa Seva ya BTCPay itampa mtumiaji chaguo la 'Unda duka lako' (1). Duka linaweza kuonekana kama Nyumba kwa mahitaji yako ya Bitcoin. Njia mpya ya Seva ya BTCPay itaanza kwa Kusawazisha Bitcoin Blockchain (2). Kulingana na miundombinu gani unayotumia Seva ya BTCPay, hii inaweza kuanzia saa chache mpaka siku chache. Toleo la sasa la mfano linaonyeshwa katika kona ya chini kulia ya UI yako ya Seva ya BTCPay. Hii ni muhimu kwa marejeleo wakati wa utatuzi.
 
 ![image](assets/en/7.webp)
 
@@ -351,7 +351,7 @@ Mtumiaji anaweza kuamua kufuta akaunti yake yote. Hii inaweza kufanyika kwa kubo
 
 **!Kumbuka!**
 
-Akaunti ya Seva ya BTPay inaweza kutengeneza duka nyingi bila kikomo. Kila duka ni Wallet au "nyumbani".
+Akaunti ya Seva ya BTCPay inaweza kutengeneza duka nyingi bila kikomo. Kila duka ni Pochi au "nyumbani".
 
 ### Mfano
 
@@ -361,7 +361,7 @@ Anza kwa kubofya "Unda duka lako".
 
 Hii itaunda Nyumbani na dashibodi yako ya kwanza ya kutumia seva ya BTCPay.
 
-(1) Baada ya kubofya "Unda duka lako", Seva ya BTPay itakuhitaji kutaja duka; hii inaweza kuwa kitu chochote muhimu kwako.
+(1) Baada ya kubofya "Unda duka lako", Seva ya BTCPay itakuhitaji kutaja duka; hii inaweza kuwa kitu chochote muhimu kwako.
 
 ![image](assets/en/10.webp)
 
@@ -369,11 +369,11 @@ Hii itaunda Nyumbani na dashibodi yako ya kwanza ya kutumia seva ya BTCPay.
 
 ![image](assets/en/11.webp)
 
-(3) Kama kigezo cha mwisho kwenye usanidi wa duka, Seva ya BTCPay inakuhitaji uweke "Chanzo cha bei Inayopendekezwa" ili kulinganisha bei ya Bitcoin dhidi ya bei ya sasa ya malipo ili duka lako lionyeshe kiwango sahihi cha Exchange kati ya Bitcoin na sarafu ya mtandaoni ya fiat. Tutashikamana na chaguo-msingi katika mfano wa Onyesho na kuweka hii kwa Kraken Exchange. Seva ya BTCPay hutumia API ya Kraken kuangalia viwango vya Exchange.
+(3) Kama kigezo cha mwisho kwenye usanidi wa duka, Seva ya BTCPay inakuhitaji uweke "Chanzo cha bei Inayopendekezwa" ili kulinganisha bei ya Bitcoin dhidi ya bei ya sasa ya malipo ili duka lako lionyeshe kiwango sahihi cha Ubadilishanaji kati ya Bitcoin na sarafu ya mtandaoni ya pesa za serikali. Tutashikamana na chaguo-msingi katika mfano wa Onyesho na kuweka hii kwa ubadilishanaji wa Kraken. Seva ya BTCPay hutumia API ya Kraken kuangalia viwango vya Ubadilishanaji.
 
 ![image](assets/en/12.webp)
 
-(4) Kwa kuwa sasa vigezo hivi vya duka vimewekwa, bofya kitufe cha Unda, na Seva ya BTPay itaunda dashibodi yako ya kwanza ya duka, ambapo mchawi utaendelea.
+(4) Kwa kuwa sasa vigezo hivi vya duka vimewekwa, bofya kitufe cha Unda, na Seva ya BTCPay itaunda dashibodi yako ya kwanza ya duka, ambapo mchawi ataendelea.
 
 ![image](assets/en/13.webp)
 
@@ -387,7 +387,7 @@ Katika sehemu hii, umejifunza:
 
 
 - Uundaji wa duka na kusanidi sarafu chaguo-msingi pamoja na mapendeleo ya chanzo cha bei.
-- Kila "Duka" ni nyumba mpya iliyotenganishwa na maduka mengine kwenye usakinishaji huu wa Seva ya BTPay.
+- Kila "Duka" ni nyumba mpya iliyotenganishwa na maduka mengine kwenye usakinishaji huu wa Seva ya BTCPay.
 
 # Utangulizi wa Kulinda Funguo za Bitcoin
 
@@ -407,23 +407,23 @@ Kizazi cha seed kinafanywa kulingana na kiwango cha sekta kinachojulikana kama m
 
 ### Anwani
 
-Seva ya BTPay iliyojengwa hadi generate Address mpya. Hii inapunguza tatizo la ufunguo wa umma au kutumia tena Address. Kutumia ufunguo sawa wa Umma hurahisisha sana kufuatilia historia yako yote ya malipo. Kufikiria funguo kama vocha za matumizi ya mara moja kunaweza kuboresha faragha yako kwa kiasi kikubwa. Pia tunatumia Anwani za Bitcoin, usichanganye hizi na funguo za Umma.
+Seva ya BTCPay iliyojengwa hadi kuzalisha Anwani mpya. Hii inapunguza tatizo la ufunguo wa umma au kutumia tena Anwani. Kutumia ufunguo sawa wa Umma hurahisisha sana kufuatilia historia yako yote ya malipo. Kufikiria funguo kama vocha za matumizi ya mara moja kunaweza kuboresha faragha yako kwa kiasi kikubwa. Pia tunatumia Anwani za Bitcoin, usichanganye hizi na funguo za Umma.
 
-Address inatolewa kutoka kwa ufunguo wa Umma kupitia "algorithm ya hashing." Pochi nyingi na miamala, hata hivyo, zitaonyesha Anwani badala ya funguo hizo za umma. Kwa ujumla, anwani ni fupi kuliko vitufe vya umma na kwa kawaida huanza na `1`, `3`, au `bc1`, ambapo funguo za umma huanza na `02`, `03`, au `04`.
+Anwani inatolewa kutoka kwa ufunguo wa Umma kupitia "algorithm ya hashing." Pochi nyingi na miamala, hata hivyo, zitaonyesha Anwani badala ya funguo hizo za umma. Kwa ujumla, anwani ni fupi kuliko vitufe vya umma na kwa kawaida huanza na `1`, `3`, au `bc1`, ambapo funguo za umma huanza na `02`, `03`, au `04`.
 
 
-- Anwani zinazoanza na `1.....` bado ni anwani za kawaida sana. Kama ilivyotajwa katika sura Kuunda duka jipya, hizi ni anwani za urithi. Aina hii ya Address inakusudiwa kwa shughuli za P2PKH. P2Pkh hutumia usimbaji wa Base58, ambao hufanya Address kuwa nyeti kwa kesi. Muundo wake unategemea ufunguo wa umma wenye tarakimu 1 ya ziada kama kitambulisho.
+- Anwani zinazoanza na `1.....` bado ni anwani za kawaida sana. Kama ilivyotajwa katika sura Kuunda duka jipya, hizi ni anwani za urithi. Aina hii ya Anwani inakusudiwa kwa shughuli za P2PKH. P2Pkh hutumia usimbaji wa Base58, ambao hufanya Anwani kuwa nyeti kwa kesi. Muundo wake unategemea ufunguo wa umma wenye tarakimu 1 ya ziada kama kitambulisho.
 - Anwani zinazoanza na `bc1...` zinahamia polepole hadi kwenye anwani za kawaida. Hizi zinajulikana kama (asili) Anwani za SegWit. Hizi hutoa muundo bora wa ada kuliko Anwani zingine zilizotajwa. Anwani za Asili za SegWit hutumia usimbaji wa Bech32 na huruhusu herufi ndogo pekee.
-- Anwani zinazoanza na `3...` bado hutumiwa na mabadilishano ya anwani za amana. Anwani hizi zimetajwa katika sura Kuunda duka jipya, anwani za SegWit zilizofungwa au zilizowekwa kiota. Walakini, zinaweza pia kufanya kazi kama "Multisig Address". Inapotumika kama SegWit Address, kuna akiba kwa ada za muamala tena, chini ya hiyo ya SegWit ya Asili. Anwani za P2SH hutumia usimbaji wa Base58. Hii inafanya iwe Nyeti, kama Address iliyopitwa na wakati.
-- Anwani zinazoanza na `2...` ni anwani za Testnet. Zinakusudiwa kupokea Testnet Bitcoin (tBTC). Hupaswi kamwe kuchanganya hili na kutuma Bitcoin kwa anwani hizi. Kwa madhumuni ya maendeleo, unaweza generate a Testnet Wallet. Kuna mabomba mengi mtandaoni ili kupata Testnet Bitcoin. Kamwe usinunue Testnet Bitcoin. Testnet Bitcoin inachimbwa. Hii inaweza kuwa sababu ya msanidi programu kutumia Regtest badala yake. Haya ni mazingira ya uwanja wa michezo kwa wasanidi programu, kukosa vipengee fulani vya mtandao. Bitcoin ni, hata hivyo, kwa madhumuni ya maendeleo, muhimu sana.
+- Anwani zinazoanza na `3...` bado hutumiwa na mabadilishano ya anwani za amana. Anwani hizi zimetajwa katika sura Kuunda duka jipya, anwani za SegWit zilizofungwa au zilizowekwa kiota. Walakini, zinaweza pia kufanya kazi kama "Sahihi nyingi". Inapotumika kama Anwani ya SegWit, kuna akiba kwa ada za muamala tena, chini ya hiyo ya SegWit ya Asili. Anwani za P2SH hutumia usimbaji wa Base58. Hii inafanya iwe Nyeti, kama Anwani iliyopitwa na wakati.
+- Anwani zinazoanza na `2...` ni anwani za Testnet. Zinakusudiwa kupokea Testnet Bitcoin (tBTC). Hupaswi kamwe kuchanganya hili na kutuma Bitcoin kwa anwani hizi. Kwa madhumuni ya maendeleo, unaweza kuzalisha Pochi ya Testnet. Kuna mabomba mengi mtandaoni ili kupata Testnet Bitcoin. Kamwe usinunue Testnet Bitcoin. Testnet Bitcoin inachimbwa. Hii inaweza kuwa sababu ya msanidi programu kutumia Regtest badala yake. Haya ni mazingira ya uwanja wa michezo kwa wasanidi programu, kukosa vipengee fulani vya mtandao.Hata hivyo, kwa madhumuni ya maendeleo, ni muhimu sana.
 
 ### Funguo za Umma
 
 Vifunguo vya umma vinatumika kidogo katika mazoezi leo. Baada ya muda watumiaji wa Bitcoin wamekuwa wakizibadilisha na Anwani badala yake. Bado zipo na bado zinatumika mara kwa mara. Funguo za umma, kwa ujumla, ni mifuatano mirefu zaidi kuliko anwani. Kama tu na anwani, huanza na kitambulisho maalum.
 
 
-- Kwanza, `02...` na `03...` ni vitambulishi vya kawaida vya vitufe vya umma vilivyosimbwa katika umbizo la SEC. Hizi zinaweza kuchakatwa na kugeuzwa kuwa anwani za kupokea, kutumika kuunda anwani za multi-sig, au kuthibitisha saini. Shughuli za mapema za Bitcoin zilitumia vitufe vya umma kama sehemu ya shughuli za P2PK.
-- Pochi za HD, hata hivyo, hutumia muundo tofauti. `xpub...`, `ypub...` au `zpub...` huitwa funguo za umma zilizopanuliwa badala yake huitwa xpub. Vifunguo hivi hutumika kupata funguo nyingi za umma kwani ni sehemu ya HD Wallet. Kwa vile xpub yako inashikilia rekodi za historia yako yote, kumaanisha shughuli za awali na zijazo, usiwahi kushiriki hizi na watu wasioaminika.
+- Kwanza, `02...` na `03...` ni vitambulishi vya kawaida vya vitufe vya umma vilivyosimbwa katika umbizo la SEC. Hizi zinaweza kuchakatwa na kugeuzwa kuwa anwani za kupokea, kutumika kuunda anwani za sahihi nyingi, au kuthibitisha sahihi. Shughuli za mapema za Bitcoin zilitumia vitufe vya umma kama sehemu ya shughuli za P2PK.
+- Pochi za HD, hata hivyo, hutumia muundo tofauti. `xpub...`, `ypub...` au `zpub...` huitwa funguo za umma zilizopanuliwa badala yake huitwa xpub. Vifunguo hivi hutumika kupata funguo nyingi za umma kwani ni sehemu ya Pochi za HD . Kwa vile xpub yako inashikilia rekodi za historia yako yote, kumaanisha shughuli za awali na zijazo, usiwahi kushiriki hizi na watu wasioaminika.
 
 ### Muhtasari wa Ujuzi
 
@@ -434,7 +434,7 @@ Katika sehemu hii, umejifunza yafuatayo:
 
 ### Tathmini ya maarifa
 
-Eleza manufaa ya kutumia anwani mpya kwa kila muamala ikilinganishwa na kutumia tena Address au mbinu muhimu za umma
+Eleza manufaa ya kutumia anwani mpya kwa kila muamala ikilinganishwa na kutumia tena Anwani au mbinu muhimu za umma
 
 ## Kulinda funguo na Hardware Wallet
 
@@ -442,23 +442,23 @@ Eleza manufaa ya kutumia anwani mpya kwa kila muamala ikilinganishwa na kutumia 
 
 ### Kuhifadhi Funguo za Bitcoin
 
-Baada ya kuzalisha maneno ya seed, orodha ya maneno 12 - 24 yaliyotolewa katika kitabu hiki inahitaji chelezo sahihi na usalama, kwani maneno haya ndiyo njia pekee ya kurejesha ufikiaji wa Wallet. Muundo wa pochi za HD na jinsi inavyotengeneza anwani kwa kuamua kwa kutumia hiyo seed, anwani zako zote ulizounda zitahifadhiwa nakala kwa kutumia orodha hii ya maneno ya Mnemonic yanayowakilisha seed yako au kishazi cha kurejesha akaunti.
+Baada ya kuzalisha maneno ya seed, orodha ya maneno 12 - 24 yaliyotolewa katika kitabu hiki yanahitaji chelezo sahihi na usalama, kwani maneno haya ndiyo njia pekee ya kurejesha ufikiaji wa Pochi. Muundo wa pochi za HD na jinsi inavyotengeneza anwani kwa kuamua kwa kutumia hiyo seed, anwani zako zote ulizounda zitahifadhiwa nakala kwa kutumia orodha hii ya maneno ya Mnemonic yanayowakilisha seed yako au kishazi cha kurejesha akaunti.
 
 Weka maneno yako ya kurejesha akaunti salama. Ikifikiwa na mtu, haswa kwa nia mbaya, anaweza kuhamisha pesa zako. Kuweka seed salama na salama lakini pia kukumbuka ni kuheshimiana. Kuna mbinu kadhaa za kuhifadhi funguo za faragha za Bitcoin, kila moja ikiwa na manufaa na hasara, ama katika usalama, faragha, urahisi, au njia halisi. Kutokana na umuhimu wa funguo za faragha, watumiaji wa Bitcoin huwa na tabia ya kuhifadhi na kuweka funguo hizi kwa usalama katika "kujitunza" kwa kutumia huduma za "utunzaji" kama vile benki. Kulingana na mtumiaji, anapaswa kutumia suluhisho la hifadhi ya Cold au Hot Wallet.
 
 ### Uhifadhi wa Hot na Cold wa funguo za Bitcoin
 
-Kawaida, pochi za Bitcoin zinajumuishwa katika Hot Wallet au Cold Wallet. Biashara nyingi ziko katika urahisi, urahisi wa kutumia, na hatari za usalama. Kila moja ya njia hizi zinaweza pia kuonekana katika suluhisho la mtunzaji. Hata hivyo, ubadilishanaji hapa ni msingi wa usalama na faragha na huenda zaidi ya upeo wa kozi hii.
+Kawaida, pochi za Bitcoin zinajumuishwa katika Hot Wallet au Cold Wallet. Biashara nyingi ziko katika, urahisi wa kutumia, na hatari za usalama. Kila moja ya njia hizi zinaweza pia kuonekana katika suluhisho la mtunzaji. Hata hivyo, ubadilishanaji hapa ni msingi wa usalama na faragha na huenda zaidi ya upeo wa kozi hii.
 
 ### Hot Wallet
 
-Pochi za Hot ndiyo njia rahisi zaidi ya kuingiliana na Bitcoin kupitia simu, wavuti au programu ya kompyuta ya mezani. Wallet daima huunganishwa kwenye mtandao, na hivyo kuwawezesha watumiaji kutuma au kupokea Bitcoin. Huu, hata hivyo, pia ni udhaifu wake, Wallet, kwa kuwa iko mtandaoni kila wakati, sasa iko katika hatari zaidi ya kushambuliwa na wadukuzi au programu hasidi kwenye kifaa chako. Katika Seva ya BTCPay, pochi za Hot huhifadhi funguo za kibinafsi kwenye mfano. Mtu yeyote anayefikia duka lako la Seva ya BTPay anaweza kuiba pesa kutoka kwa Address hii ikiwa ni hasidi. Wakati Seva ya BTCPay inaendeshwa katika mazingira yaliyopangishwa, unapaswa kuzingatia hili kila wakati katika wasifu wako wa usalama na ikiwezekana usitumie Hot-Wallet katika hali kama hiyo. Wakati Seva ya BTCPay imesakinishwa kwenye maunzi unayomiliki, yanayolindwa na kuaminiwa na wewe, wasifu wa hatari hupungua sana, lakini hautoweka kamwe!
+Pochi za Hot ndiyo njia rahisi zaidi ya kuingiliana na Bitcoin kupitia simu, wavuti au programu ya kompyuta ya mezani. Pochi daima huunganishwa kwenye mtandao, na hivyo kuwawezesha watumiaji kutuma au kupokea Bitcoin. Huu, hata hivyo, pia ni udhaifu wake, Pochi, kwa kuwa iko mtandaoni kila wakati, sasa iko katika hatari zaidi ya kushambuliwa na wadukuzi au programu hasidi kwenye kifaa chako. Katika Seva ya BTCPay, pochi za Hot huhifadhi funguo za kibinafsi kwenye mfano. Mtu yeyote anayefikia duka lako la Seva ya BTCPay anaweza kuiba pesa kutoka kwa Anwani hii ikiwa ni hasidi. Wakati Seva ya BTCPay inaendeshwa katika mazingira yaliyopangishwa, unapaswa kuzingatia hili kila wakati katika wasifu wako wa usalama na ikiwezekana usitumie Hot-Wallet katika hali kama hiyo. Wakati Seva ya BTCPay imesakinishwa kwenye maunzi unayomiliki, yanayolindwa na kuaminiwa na wewe, wasifu wa hatari hupungua sana, lakini hautoweka kamwe!
 
 ### Cold Wallet
 
-Watu huhamisha Bitcoin yao hadi Cold Wallet kwa sababu inaweza kutenga funguo za faragha kutoka kwa mtandao. Kuondoa muunganisho wa intaneti kutoka kwa mlinganyo hupunguza hatari ya programu hasidi, vidadisi na ubadilishanaji wa SIM. Hifadhi ya Cold inaaminika kuwa bora kuliko hifadhi ya Hot kwa usalama na uhuru, mradi tu tahadhari za kutosha zichukuliwe ili kuepuka kupoteza funguo za faragha za Bitcoin. Hifadhi ya Cold inafaa zaidi kwa kiasi kikubwa cha Bitcoin, ambayo haijakusudiwa kutumiwa mara nyingi kutokana na utata wa kuanzisha Wallet.
+Watu huhamisha Bitcoin yao hadi Cold Wallet kwa sababu inaweza kutenga funguo za faragha kutoka kwa mtandao. Kuondoa muunganisho wa intaneti kutoka kwa mlinganyo hupunguza hatari ya programu hasidi, vidadisi na ubadilishanaji wa SIM. Hifadhi ya Cold inaaminika kuwa bora kuliko hifadhi ya Hot kwa usalama na uhuru, mradi tu tahadhari za kutosha zichukuliwe ili kuepuka kupoteza funguo za faragha za Bitcoin. Hifadhi ya Cold inafaa zaidi kwa kiasi kikubwa cha Bitcoin, ambayo haijakusudiwa kutumiwa mara nyingi kutokana na utata wa kuanzisha Pochi.
 
-Kuna mbinu mbalimbali za jinsi ya kuhifadhi funguo za Bitcoin katika hifadhi ya Cold, kutoka kwa pochi za karatasi hadi kwenye ubongo, pochi za vifaa, au, tangu mwanzo, faili ya Wallet. Pochi nyingi hutumia BIP 39 hadi generate maneno ya seed. Hata hivyo, ndani ya programu ya msingi ya Bitcoin, makubaliano bado hayajafikiwa kuhusu kuitumia. Programu ya Bitcoin Core bado itakuwa generate faili ya Wallet.dat unayohitaji kuhifadhi katika eneo salama la nje ya mtandao.
+Kuna mbinu mbalimbali za jinsi ya kuhifadhi funguo za Bitcoin katika hifadhi ya Cold, kutoka kwa pochi za karatasi hadi kwenye ubongo, pochi za vifaa, au, tangu mwanzo, faili ya Pochi. Pochi nyingi hutumia BIP 39 hadi uzalishaji wa maneno ya seed. Hata hivyo, ndani ya programu ya msingi ya Bitcoin, makubaliano bado hayajafikiwa kuhusu kuitumia. Programu ya Bitcoin Core bado itakuwa inazalisha faili ya Pochi.dat unayohitaji kuhifadhi katika eneo salama la nje ya mtandao.
 
 ### Muhtasari wa Ujuzi
 
@@ -470,17 +470,17 @@ Katika sehemu hii, umejifunza:
 ### Tathmini ya Maarifa Mapitio ya Dhana
 
 
-- Wallet ni nini?
+- Pochi ni nini?
 - Kuna tofauti gani kati ya pochi za Hot na Cold?
-- Eleza nini maana ya "kuzalisha Wallet"?
+- Eleza nini maana ya "kuzalisha Pochi"?
 
 ## Kwa kutumia funguo zako za Bitcoin
 
 <chapterId>bff488de-5052-56e6-b696-97e896f762ae</chapterId>
 
-### Seva ya BTCPay Wallet
+### Seva ya Pochi Za BTCPay 
 
-Seva ya BTCPay ina vipengele vifuatavyo vya kawaida vya Wallet:
+Seva ya BTCPay ina vipengele vifuatavyo vya kawaida vya Pochi:
 
 
 - Shughuli
@@ -494,19 +494,19 @@ Seva ya BTCPay ina vipengele vifuatavyo vya kawaida vya Wallet:
 
 ### Shughuli
 
-Wasimamizi wanaweza kuona miamala ya ndani na inayotoka ya On-Chain Wallet iliyounganishwa kwenye duka hili mahususi katika mwonekano wa miamala. Kila muamala una tofauti kati ya kupokewa na kutumwa. Itakayopokelewa itakuwa Green na miamala inayotoka itakuwa nyekundu. Ndani ya mwonekano wa muamala wa Seva ya BTCPay, wasimamizi pia wataona seti ya lebo za kawaida.
+Wasimamizi wanaweza kuona miamala ya ndani na inayotoka ya Pochi ya On-Chain iliyounganishwa kwenye duka hili mahususi katika mwonekano wa miamala. Kila muamala una tofauti kati ya kupokewa na kutumwa. Itakayopokelewa itakuwa Kijani na miamala inayotoka itakuwa nyekundu. Ndani ya mwonekano wa muamala wa Seva ya BTCPay, wasimamizi pia wataona seti ya lebo za kawaida.
 
 | Aina ya Muamala | Maelezo |
 
 | ---------------- | ------------------------------------------------- |
 
-| Programu | Malipo yamepokelewa kupitia programu iliyoundwa Invoice |
+| Programu | Malipo yamepokelewa kupitia programu iliyoundwa Anwani Ya Ununuzi |
 
-| Invoice | Malipo yalipokelewa kupitia Invoice |
+| Anwani Ya Ununuzi | Malipo yalipokelewa kupitia Anwani Ya Ununuzi |
 
-| PayJoin | Haijalipwa, kipima muda cha Invoice bado hakijaisha muda wake |
+| PayJoin | Haijalipwa, kipima muda cha Anwani ya ununuzi bado hakijaisha muda wake |
 
-| PayJoin-iliyofichuliwa | UTXO ilifichuliwa kupitia pendekezo la Invoice PayJoin |
+| PayJoin-iliyofichuliwa | UTXO ilifichuliwa kupitia pendekezo la Anwani ya ununuzi ya PayJoin |
 
 | malipo-ombi | Malipo yalipokelewa kupitia ombi la malipo |
 
@@ -514,7 +514,7 @@ Wasimamizi wanaweza kuona miamala ya ndani na inayotoka ya On-Chain Wallet iliyo
 
 ### Jinsi ya Kutuma
 
-Kitendaji cha kutuma cha seva ya BTPay hutuma miamala kutoka kwa Seva yako ya BTCPay On-Chain Wallet. Seva ya BTCPay inaruhusu njia nyingi za kusaini miamala yako ili kutumia pesa. Shughuli inaweza kusainiwa na;
+Kitendaji cha kutuma cha seva ya BTCPay hutuma miamala kutoka kwa Seva yako ya Pochi ya BTCPay On-Chain . Seva ya BTCPay inaruhusu njia nyingi za kutia sahihi miamala yako ili kutumia pesa. Shughuli inaweza kutiwa sahihi na;
 
 
 - Hardware Wallet
@@ -524,29 +524,29 @@ Kitendaji cha kutuma cha seva ya BTPay hutuma miamala kutoka kwa Seva yako ya BT
 
 #### Hardware Wallet
 
-Seva ya BTCPay ina usaidizi uliojengewa ndani wa Hardware Wallet unaokuruhusu kutumia Hardware Wallet yako na BTCPay Vault bila kuvuja maelezo kwa programu au seva za watu wengine. Muunganisho wa Hardware Wallet ndani ya Seva ya BTPay hukuruhusu kuingiza Hardware Wallet yako na kutumia pesa zinazoingia kwa uthibitisho rahisi kwenye kifaa chako. Vifunguo vyako vya faragha havitawahi kuondoka kwenye kifaa, na pesa zote zinathibitishwa dhidi ya Full node yako kwa hivyo hakuna uvujaji wa data.
+Seva ya BTCPay ina usaidizi uliojengewa ndani wa Hardware Wallet unaokuruhusu kutumia Hardware Wallet yako na BTCPay Vault bila kuvunja maelezo kwa programu au seva za watu wengine. Muunganisho wa Hardware Wallet ndani ya Seva ya BTCPay hukuruhusu kuingiza Hardware Wallet yako na kutumia pesa zinazoingia kwa uthibitisho rahisi kwenye kifaa chako. Vifunguo vyako vya faragha havitawahi kuondoka kwenye kifaa, na pesa zote zinathibitishwa dhidi ya Nodi kamili yako kwa hivyo hakuna uvujaji wa data.
 
-#### Kusaini na Wallet inayounga mkono PSBT
+#### Kutia sahihi na Wallet inayounga mkono PSBT
 
-PSBT (Shughuli za Bitcoin Zilizotiwa Saini kwa Kiasi) ni umbizo la kubadilishana kwa shughuli za Bitcoin ambazo bado zinahitaji kutiwa saini kikamilifu. PSBT inatumika katika Seva ya BTCPay na inaweza kutiwa saini kwa vifaa vinavyooana na pochi za programu.
+PSBT (Shughuli za Bitcoin Zilizotiwa Sahihi kwa Kiasi) ni umbizo la kubadilishana kwa shughuli za Bitcoin ambazo bado zinahitaji kutiwa sahihi kikamilifu. PSBT inatumika katika Seva ya BTCPay na inaweza kutiwa sahihi kwa vifaa vinavyooana na pochi za programu.
 
-Ujenzi wa muamala wa Bitcoin uliotiwa saini kikamilifu unapitia hatua zifuatazo:
+Ujenzi wa muamala wa Bitcoin uliotiwa sahihi kikamilifu unapitia hatua zifuatazo:
 
 
-- PSBT hujengwa kwa pembejeo na matokeo mahususi lakini hakuna saini
-- PSBT iliyosafirishwa inaweza kuletwa na Wallet inayotumia umbizo hili
-- Data ya muamala inaweza kukaguliwa na kusainiwa kwa kutumia Wallet
-- Faili ya PSBT iliyotiwa saini husafirishwa kutoka kwa Wallet na kuingizwa kwa Seva ya BTPay.
+- PSBT hujengwa kwa pembejeo na matokeo mahususi lakini hakuna sahihi
+- PSBT iliyosafirishwa inaweza kuletwa na Pochi inayotumia umbizo hili
+- Data ya muamala inaweza kukaguliwa na kutiwa sahihi kwa kutumia Pochi
+- Faili ya PSBT iliyotiwa sahihi husafirishwa kutoka kwa Pochi na kuingizwa kwa Seva ya BTCPay.
 - Seva ya BTCPay inazalisha muamala wa mwisho wa Bitcoin
 - Unathibitisha matokeo na kuyatangaza kwa mtandao
 
-#### Kusaini kwa Ufunguo wa Faragha wa HD au Mnemonic seed
+#### Kutia sahihi kwa Ufunguo wa Faragha wa HD au Mnemonic seed
 
-Iwapo umeunda Wallet kabla ya kutumia Seva ya BTCPay, unaweza kutumia fedha kwa kuingiza ufunguo wako wa faragha kwenye sehemu inayofaa. Weka "AccountKeyPath" sahihi katika Wallet> Mipangilio; vinginevyo, huwezi kutumia.
+Iwapo umeunda Pochi kabla ya kutumia Seva ya BTCPay, unaweza kutumia fedha kwa kuingiza ufunguo wako wa faragha kwenye sehemu inayofaa. Weka "AccountKeyPath" sahihi katika Pochi> Mipangilio; vinginevyo, huwezi kutumia.
 
-#### Kusaini na Hot Wallet
+#### Kutia sahihi na Hot Wallet
 
-Ikiwa uliunda Wallet mpya wakati wa kusanidi duka lako na kuiwasha kama Hot Wallet, itatumia kiotomatiki seed iliyohifadhiwa kwenye seva kutia sahihi.
+Ikiwa uliunda Pochi mpya wakati wa kusanidi duka lako na kuiwasha kama Hot Wallet, itatumia kiotomatiki seed iliyohifadhiwa kwenye seva kutia sahihi.
 
 ### RBF (Replace-by-fee)
 
