@@ -622,31 +622,31 @@ Chaguo la Hot Wallet katika Seva ya BTCPay inaruhusu vipengele kama vile 'PayJoi
 
 Ili kupunguza hatari kama hiyo katika Seva ya BTCPay, Msimamizi anaweza kuweka katika Mipangilio ya Seva > Sera > "Ruhusu watu wasio wasimamizi kuunda pochi za Hot kwa ajili ya maduka yao" hadi hapana, kwa kuwa ni kwa chaguomsingi. Ili kuimarisha usalama wa pochi hizo za Hot, msimamizi wa seva anapaswa kuwezesha uthibitishaji wa 2FA kwenye akaunti zinazoruhusiwa kuwa na pochi za Hot. Kuhifadhi funguo za faragha kwenye seva ya umma ni hatari na huja na hatari. Baadhi ni sawa na hatari za Lightning Network (tazama sura inayofuata kwa hatari za Lightning Network).
 
-Chaguo la pili la Seva ya BTCPay inatoka katika kuzalisha Pochi mpya na kwa kuunda Watch-only wallet. Seva ya BTCPay ita zalisha funguo zako za faragha mara moja. Baada ya mtumiaji kuthibitisha kuwa ameandika Maneno yake ya siri, Seva ya BTPay itafuta funguo za faragha kutoka kwa seva. Kwa hivyo, duka lako sasa lina Watch- pekee Wallet iliyounganishwa nayo. Ili kutumia pesa ulizopokea kwenye Watch-only wallet yako, angalia sura ya Jinsi ya Kutuma, ama kwa kutumia BTPay Server Vault, PSBT (Partially Signed Bitcoin Transaction), au, inayopendekezwa sana, kutoa mwenyewe maneno yako ya seed.
+Chaguo la pili la Seva ya BTCPay inatoka katika kuzalisha Pochi mpya na kwa kuunda Pochi la Watch-only. Seva ya BTCPay ita zalisha funguo zako za faragha mara moja. Baada ya mtumiaji kuthibitisha kuwa ameandika Maneno yake ya siri, Seva ya BTCPay itafuta funguo za faragha kutoka kwa seva. Kwa hivyo, duka lako sasa lina Watch- pekee Wallet iliyounganishwa nayo. Ili kutumia pesa ulizopokea kwenye Watch-only wallet yako, angalia sura ya Jinsi ya Kutuma, ama kwa kutumia BTCPay Server Vault, PSBT (Partially Signed Bitcoin Transaction), au, inayopendekezwa sana, kutoa mwenyewe maneno yako ya seed.
 
-Uliunda 'Duka' jipya katika sehemu iliyopita. Mchawi wa usakinishaji utaendelea kwa kuuliza "Weka Wallet" au "Weka nodi ya Umeme". Katika mfano huu, utafuata mchakato wa mchawi wa "Sanidi Wallet" (1).
+Uliunda 'Duka' jipya katika sehemu iliyopita. Mchawi wa usakinishaji utaendelea kwa kuuliza "Weka Pochi" au "Weka nodi ya Umeme". Katika mfano huu, utafuata mchakato wa mchawi wa "Sanidi Pochi" (1).
 
 ![image](assets/en/21.webp)
 
-Baada ya kubofya "Weka Wallet", mchawi utaendelea kwa kuomba jinsi unavyotaka kuendelea; Seva ya BTPay sasa inatoa chaguo la kuunganisha Bitcoin Wallet iliyopo kwenye duka lako jipya. Ikiwa huna Wallet, Seva ya BTPay inapendekeza kuunda mpya. Mfano huu utafuata hatua za "unda Wallet mpya" (2). Fuata hatua ili kujifunza jinsi ya "Kuunganisha Wallet (1) iliyopo.
+Baada ya kubofya "Weka Pochi", mchawi utaendelea kwa kuomba jinsi unavyotaka kuendelea; Seva ya BTCPay sasa inatoa chaguo la kuunganisha Pochi la  Bitcoin iliyopo kwenye duka lako jipya. Ikiwa huna Pochi, Seva ya BTCPay inapendekeza kuunda mpya. Mfano huu utafuata hatua za "unda Pochi jipya" (2). Fuata hatua ili kujifunza jinsi ya "Kuunganisha Pochi (1) iliyopo.
 
 ![image](assets/en/22.webp)
 
 **!Kumbuka!**
 
-Ukisomea kozi hii katika chumba cha darasa, mfano wa sasa na seed tuliounda ni kwa madhumuni ya kielimu pekee. Kamwe kusiwe na kiasi chochote kikubwa isipokuwa kinachohitajika wakati wote wa mazoezi kwenye anwani hizi.
+Ukisomea kozi hii katika chumba cha darasa, mfano wa sasa na mbegu tuliounda ni kwa madhumuni ya kielimu pekee. Kamwe kusiwe na kiasi chochote kikubwa isipokuwa kinachohitajika wakati wote wa mazoezi kwenye anwani hizi.
 
-(1) Endelea na kichawi cha “Mpya Wallet” kwa kubofya kitufe cha "Unda Wallet mpya".
+(1) Endelea na kichawi cha “Pochi jipya” kwa kubofya kitufe cha "Unda Pochi jipya".
 
 ![image](assets/en/23.webp)
 
-(2) Baada ya kubofya "Unda Wallet mpya," dirisha linalofuata katika mchawi litatoa chaguzi "Hot Wallet" na "Watch-only wallet." Ukifuata pamoja na mwalimu, mazingira yako ni Onyesho la pamoja, na unaweza kuunda Watch-only wallet pekee. Angalia tofauti kati ya takwimu zote mbili chini. Ukiwa katika mazingira ya Onyesho ukifuata pamoja na mwalimu, unda "Watch-only wallet" na uendelee na kichawi cha "Wallet Mpya".
+(2) Baada ya kubofya "Unda Pochi mpya," dirisha linalofuata katika mchawi litatoa chaguzi "Hot Wallet" na "Watch-only wallet." Ukifuata pamoja na mwalimu, mazingira yako ni Onyesho la pamoja, na unaweza kuunda Watch-only wallet pekee. Angalia tofauti kati ya takwimu zote mbili chini. Ukiwa katika mazingira ya Onyesho ukifuata pamoja na mwalimu, unda "Watch-only wallet" na uendelee na kichawi cha "Wallet Mpya".
 
 ![image](assets/en/24.webp)
 
 ![image](assets/en/25.webp)
 
-(3) Kuendeleza mchawi mpya wa Wallet, sasa uko kwenye sehemu ya Unda BTC Watch-only wallet. Hapa tunapata kuweka Seva ya Wallet "Address" BTCPay hukuruhusu kuchagua aina unayopendelea ya Address; kama ilivyoandikwa kwa kozi hii, bado inashauriwa kutumia anwani za bech32. Jifunze zaidi kwa undani kuhusu anwani katika sura ya kwanza ya sehemu hii.
+(3) Kuendeleza mchawi mpya wa Wallet, sasa uko kwenye sehemu ya Unda BTC Watch-only wallet. Hapa tunapata kuweka Seva ya Pochi "Anwani" BTCPay hukuruhusu kuchagua aina unayopendelea ya Anwani; kama ilivyoandikwa kwa kozi hii, bado inashauriwa kutumia anwani za bech32. Jifunze zaidi kwa undani kuhusu anwani katika sura ya kwanza ya sehemu hii.
 
 
 - SegWit (bech32)
@@ -662,19 +662,19 @@ Ukisomea kozi hii katika chumba cha darasa, mfano wa sasa na seed tuliounda ni k
   - SegWit iliyofungwa ni anwani zinazoanza na `3`.
   - Mfano: `37BBXXXXXXXXXXXXXXXXXXXXX`
 
-Chagua SegWit (inapendekezwa) kama aina unayopendelea ya Wallet Address.
+Chagua SegWit (inapendekezwa) kama aina unayopendelea ya Pochi ya Anwani.
 
 ![image](assets/en/26.webp)
 
-(4) Unapoweka kigezo cha Wallet, Seva ya BTPay inaruhusu watumiaji kuweka passphrase ya hiari kupitia BIP39, hakikisha kuwa umethibitisha nenosiri lako.
+(4) Unapoweka kigezo cha Pochi, Seva ya BTCPay inaruhusu watumiaji kuweka fungu nywila ya hiari kupitia BIP39, hakikisha kuwa umethibitisha nenosiri lako.
 
 ![image](assets/en/27.webp)
 
-(5) Baada ya kuweka aina ya Address ya Wallet na ikiwezekana kuweka chaguo mahiri, bofya Unda, na Seva ya BTPay ita generate Wallet yako mpya. Kumbuka kwamba hii ni hatua ya mwisho kabla ya kuzalisha maneno yako ya seed. Hakikisha unafanya hivi katika mazingira ambayo mtu hawezi kuiba maneno ya seed kwa kuangalia skrini yako.
+(5) Baada ya kuweka aina ya Anwani ya Pochi na ikiwezekana kuweka chaguo mahiri, bofya Unda, na Seva ya BTCPay ita zalisha Pochi lako jipya. Kumbuka kwamba hii ni hatua ya mwisho kabla ya kuzalisha maneno yako ya mbegu. Hakikisha unafanya hivi katika mazingira ambayo mtu hawezi kuiba maneno ya mbegu kwa kuangalia skrini yako.
 
 ![image](assets/en/28.webp)
 
-(6) Katika skrini ifuatayo ya mchawi, Seva ya BTPay inakuonyesha maneno ya Urejeshaji seed ya Wallet yako mpya; hizi ndizo funguo za kurejesha Wallet yako na shughuli za kusaini. Seva ya BTCPay inazalisha kifungu cha maneno cha seed cha maneno 12. Maneno haya yatafutwa kutoka kwa seva baada ya skrini hii ya usanidi. Wallet hii hasa ni Watch-only wallet. Inashauriwa kutohifadhi kifungu hiki cha seed kidijitali au kwa picha ya picha. Watumiaji wanaweza tu kwenda mbali zaidi katika mchawi ikiwa watakubali kikamilifu kwamba waliandika maneno yao ya seed.
+(6) Katika skrini ifuatayo ya mchawi, Seva ya BTCPay inakuonyesha maneno ya Urejeshaji mbegu ya Pochi lako mpya; hizi ndizo funguo za kurejesha Pochi lako na shughuli za kutia sahihi. Seva ya BTCPay inazalisha kifungu cha maneno cha mbegu cha maneno 12. Maneno haya yatafutwa kutoka kwa seva baada ya skrini hii ya usanidi. Pochi hii hasa ni Watch-only wallet. Inashauriwa kutohifadhi kifungu hiki cha mbegu kidijitali au kwa picha ya picha. Watumiaji wanaweza tu kwenda mbali zaidi katika mchawi ikiwa watakubali kikamilifu kwamba waliandika maneno yao ya seed.
 
 ![image](assets/en/29.webp)
 
