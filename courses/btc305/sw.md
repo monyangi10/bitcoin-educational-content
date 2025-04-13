@@ -674,35 +674,35 @@ Chagua SegWit (inapendekezwa) kama aina unayopendelea ya Pochi ya Anwani.
 
 ![image](assets/en/28.webp)
 
-(6) Katika skrini ifuatayo ya mchawi, Seva ya BTCPay inakuonyesha maneno ya Urejeshaji mbegu ya Pochi lako mpya; hizi ndizo funguo za kurejesha Pochi lako na shughuli za kutia sahihi. Seva ya BTCPay inazalisha kifungu cha maneno cha mbegu cha maneno 12. Maneno haya yatafutwa kutoka kwa seva baada ya skrini hii ya usanidi. Pochi hii hasa ni Watch-only wallet. Inashauriwa kutohifadhi kifungu hiki cha mbegu kidijitali au kwa picha ya picha. Watumiaji wanaweza tu kwenda mbali zaidi katika mchawi ikiwa watakubali kikamilifu kwamba waliandika maneno yao ya seed.
+(6) Katika skrini ifuatayo ya mchawi, Seva ya BTCPay inakuonyesha maneno ya Urejeshaji mbegu ya Pochi lako mpya; hizi ndizo funguo za kurejesha Pochi lako na shughuli za kutia sahihi. Seva ya BTCPay inazalisha kifungu cha maneno cha mbegu cha maneno 12. Maneno haya yatafutwa kutoka kwa seva baada ya skrini hii ya usanidi. Pochi hili hasa ni pochi la Watch-only. Inashauriwa kutohifadhi kifungu hiki cha mbegu kidijitali kwa picha. Watumiaji wanaweza tu kwenda mbali zaidi katika mchawi ikiwa watakubali kikamilifu kwamba waliandika maneno yao ya mbegu.
 
 ![image](assets/en/29.webp)
 
-(7) Baada ya kubofya Nimekamilisha na kupata maneno mapya ya Bitcoin seed yaliyotolewa, Seva ya BTPay itasasisha duka lako kwa kutumia Wallet mpya iliyoambatishwa na iko tayari kupokea malipo. Katika Mtumiaji Interface, katika menyu ya kushoto ya kusogeza, tambua jinsi Bitcoin sasa inavyoangaziwa na kuwashwa chini ya Wallet.
+(7) Baada ya kubofya Nimekamilisha na kupata maneno mapya ya mbegu ya Bitcoin yaliyotolewa, Seva ya BTCPay itasasisha duka lako kwa kutumia Pochi mpya iliyoambatishwa na iko tayari kupokea malipo. Katika Mtumiaji kiolesura, katika menyu ya kushoto ya kusogeza, tambua jinsi Bitcoin sasa inavyoangaziwa na kuwashwa chini ya Pochi.
 
 ![image](assets/en/30.webp)
 
-### Mfano: Kuandika maneno ya seed
+### Mfano: Kuandika maneno ya mbegu
 
-Huu ni wakati maalum na salama wa kutumia Bitcoin. Kama ilivyotajwa hapo awali, wewe pekee ndiye unayepaswa kufikia au ujuzi kuhusu maneno yako ya seed. Unapofuata pamoja na mwalimu na darasa, seed inayozalishwa inapaswa kutumika katika kozi hii pekee. Sababu nyingi sana, macho ya kutazama kutoka kwa wanafunzi wenzako, mifumo isiyo salama, na mengine mengi hufanya funguo hizi kuwa za kielimu na zisizoaminika. Walakini, funguo zinazozalishwa bado zinapaswa kuhifadhiwa kwa mifano ya kozi.
+Huu ni wakati maalum na salama wa kutumia Bitcoin. Kama ilivyotajwa hapo awali, wewe pekee ndiye unayepaswa kufikia au ujuzi kuhusu maneno yako ya mbegu. Unapofuata pamoja na mwalimu wa darasa, mbegu inayozalishwa inapaswa kutumika katika kozi hii pekee. Sababu nyingi sana, macho ya kutazama kutoka kwa wanafunzi wenzako, mifumo isiyo salama, na mengine mengi hufanya funguo hizi kuwa za kielimu na zisizoaminika. Walakini, funguo zinazozalishwa bado zinapaswa kuhifadhiwa kwa mifano ya kozi.
 
-Njia ya kwanza tutakayotumia katika hali ya sasa, pia iliyo salama kidogo, ni kuandika kifungu cha seed kwa mpangilio ufaao. Kadi ya maneno ya seed iko katika nyenzo ya kozi iliyotolewa kwa mwanafunzi au inapatikana kwenye Seva ya BTPay GitHub. Tutatumia kadi hii kuandika maneno yaliyotolewa katika hatua ya awali. Hakikisha unayaandika kwa mpangilio sahihi. Baada ya kuziandika, ziangalie dhidi ya kile ulichopewa na programu ili kuhakikisha kuwa umeziandika kwa mpangilio sahihi. Mara baada ya kukiandika, bofya kisanduku cha kuteua kinachosema kuwa umeandika maneno yako ya seed vizuri.
+Njia ya kwanza tutakayotumia katika hali ya sasa, pia iliyo salama kidogo, ni kuandika kifungu cha mbegu kwa mpangilio ufaao. Kadi ya maneno ya mbegu iko katika nyenzo ya kozi iliyotolewa kwa mwanafunzi au inapatikana kwenye Seva ya BTCPay GitHub. Tutatumia kadi hii kuandika maneno yaliyotolewa katika hatua ya awali. Hakikisha unayaandika kwa mpangilio sahihi. Baada ya kuziandika, ziangalie dhidi ya kile ulichopewa na programu ili kuhakikisha kuwa umeziandika kwa mpangilio sahihi. Mara baada ya kukiandika, bofya kisanduku cha kuteua kinachosema kuwa umeandika maneno yako ya mbegu vizuri.
 
-### Mfano: Kuhifadhi maneno ya seed kwenye Hardware Wallet
+### Mfano: Kuhifadhi maneno ya mbegu kwenye Hardware Wallet
 
-Katika kozi hii, tunagusa kuhifadhi maneno ya seed kwenye Hardware Wallet. Kufuatia kozi hii na mwalimu kunaweza tu wakati mwingine kujumuisha kifaa kama hicho. Katika kozi, nyenzo za mwongozo zimeandika orodha ya pochi za vifaa zinazotolewa ambazo zingefaa zoezi hili.
+Katika kozi hii, tunagusa kuhifadhi maneno ya mbegu kwenye Hardware Wallet. Kufuatia kozi hii na mwalimu kunaweza tu wakati mwingine kujumuisha kifaa kama hicho. Katika kozi, nyenzo za mwongozo zimeandika orodha ya pochi za vifaa zinazotolewa ambazo zingefaa zoezi hili.
 
-Tutatumia vault ya Seva ya BTPay na Blockstream Jade Hardware Wallet katika mfano huu.
+Tutatumia kuba ya Seva ya BTCPay na Blockstream Jade Hardware Wallet katika mfano huu.
 
 Unaweza pia kufuata kwa video kwa marejeleo ya kuunganisha Hardware Wallet.
 
 ![BTCPay Server - How to connect your hardware wallet with BTCPay Vault.](https://youtu.be/s4qbGxef43A)
 
-Pakua Vault ya Seva ya BTCPay: https://github.com/btcpayserver/BTCPayServer.Vault/releases
+Pakua kuba ya Seva ya BTCPay: https://github.com/btcpayserver/BTCPayServer.Vault/releases
 
-Hakikisha unapakua faili sahihi za mfumo wako. Watumiaji wa Windows wanapaswa kupakua [BTCPayServerVault-2.0.5-setup.exe](https://github.com/btcpayserver/BTCPayServer.Vault/releases/download/Vault%2Fv2.0.5/BTCPayServerVault-2.0.5-setup.exe) kifurushi cha watumiaji wa Mac [BTCPayServerVault-osx-x64-2.0.5.dmg](https://github.com/btcpayserver/BTCPayServer.Vault/releases/download/Vault%2Fv2.0.5/BTCPayServerVault-osx-x64-2.0.5 watumiaji wa Linuxd. [BTCPayServerVault-Linux-2.0.5.tar.gz](https://github.com/btcpayserver/BTCPayServer.Vault/releases/download/Vault%2Fv2.0.5/BTCPayServerVault-Linux-2.0.5.tar.gz)
+Hakikisha unapakua faili sahihi za mfumo wako. Watumiaji wa dirisha wanapaswa kupakua [BTCPayServerVault-2.0.5-setup.exe](https://github.com/btcpayserver/BTCPayServer.Vault/releases/download/Vault%2Fv2.0.5/BTCPayServerVault-2.0.5-setup.exe) kifurushi cha watumiaji wa Mac [BTCPayServerVault-osx-x64-2.0.5.dmg](https://github.com/btcpayserver/BTCPayServer.Vault/releases/download/Vault%2Fv2.0.5/BTCPayServerVault-osx-x64-2.0.5 watumiaji wa Linuxd. [BTCPayServerVault-Linux-2.0.5.tar.gz](https://github.com/btcpayserver/BTCPayServer.Vault/releases/download/Vault%2Fv2.0.5/BTCPayServerVault-Linux-2.0.5.tar.gz)
 
-Baada ya kusakinisha BTPay Server Vault, anza programu kwa kubofya ikoni kwenye Eneo-kazi lako. Wakati Vault ya Seva ya BTPay imesakinishwa vizuri na kuanza kwa mara ya kwanza, itaomba ruhusa ya kutumiwa na Programu za Wavuti. Itaomba kukupa ufikiaji kwa Seva mahususi ya BTPay unayofanya kazi nayo. Kubali masharti haya. BTPay Server Vault sasa itatafuta kifaa cha maunzi. Kifaa kikishapatikana, Seva ya BTPay itatambua kuwa Vault inafanya kazi na imeleta kifaa chako.
+Baada ya kusakinisha BTCPay Server Vault, anza programu kwa kubofya ikoni kwenye Eneo-kazi lako. Wakati Kuba ya Seva ya BTCPay imesakinishwa vizuri na kuanza kwa mara ya kwanza, itaomba ruhusa ya kutumiwa na Programu za Wavuti. Itaomba kukupa ufikiaji kwa Seva mahususi ya BTCPay unayofanya kazi nayo. Kubali masharti haya. BTCPay Server Vault sasa itatafuta kifaa cha maunzi. Kifaa kikishapatikana, Seva ya BTCPay itatambua kuwa Kuba inafanya kazi na imeleta kifaa chako.
 
 **!Kumbuka!**
 
@@ -713,30 +713,30 @@ Usimpe funguo zako za SSH au akaunti ya msimamizi wa seva kwa mtu mwingine yeyot
 Katika sehemu hii, umejifunza yafuatayo:
 
 
-- Mtazamo wa muamala wa Bitcoin Wallet na kategoria zake mbalimbali.
-- Chaguzi mbalimbali zinapatikana wakati wa kutuma kutoka kwa Bitcoin Wallet, kutoka kwa vifaa hadi kwenye pochi za Hot.
+- Mtazamo wa muamala wa Pochi za Bitcoin na kategoria zake mbalimbali.
+- Chaguzi mbalimbali zinapatikana wakati wa kutuma kutoka kwa Pochi za Bitcoin, kutoka kwa vifaa hadi kwenye pochi moto.
 - Tatizo la kikomo cha pengo linakabiliwa wakati wa kutumia pochi nyingi, na jinsi ya kurekebisha hili.
-- Jinsi ya generate mpya ya Bitcoin Wallet ndani ya Seva ya BTCPay, ikiwa ni pamoja na kuhifadhi funguo katika Hardware Wallet na kuweka nakala ya maneno ya kurejesha akaunti.
+- Jinsi ya uzalisho mpya wa pochi la Bitcoin ndani ya Seva ya BTCPay, ikiwa ni pamoja na kuhifadhi funguo katika Hardware Wallet na kuweka nakala ya maneno ya kurejesha akaunti.
 
-Katika lengo hili, umejifunza jinsi ya generate Bitcoin Wallet mpya ndani ya Seva ya BTCPay. Bado hatujaingia katika jinsi ya kupata au kutumia funguo hizo. Kwa muhtasari wa haraka wa lengo hili, umejifunza jinsi ya kuanzisha duka la kwanza. Umejifunza jinsi ya generate Bitcoin Recovery seed maneno.
+Katika lengo hili, umejifunza jinsi ya kuzalisha Pochi ya Bitcoin mpya ndani ya Seva ya BTCPay. Bado hatujaingia katika jinsi ya kupata au kutumia funguo hizo. Kwa muhtasari wa haraka wa lengo hili, umejifunza jinsi ya kuanzisha duka la kwanza. Umejifunza jinsi ya kuzalisha Bitcoin ahueni wa mbegu ya maneno.
 
 ### Tathmini ya Maarifa ya Vitendo
 
 Eleza mbinu ya kutengeneza funguo na mpango wa kuzilinda, pamoja na maelewano/hatari za mpango wa usalama.
 
-## Umeme wa Seva ya BTCPay Wallet
+## Umeme wa Seva ya Pochi la BTCPay
 
 <chapterId>1bbece7e-0197-57e6-a93a-561cf384d946</chapterId>
 
-Wakati msimamizi wa seva anaweka mfano mpya wa Seva ya BTPay, anaweza kuweka utekelezaji wa Lightning Network, LND, Core Lightning, au Eclair; tazama Sehemu ya Kusanidi Seva ya BTPay kwa maagizo ya kina zaidi ya usakinishaji.
+Wakati msimamizi wa seva anaweka mfano mpya wa Seva ya BTCPay, anaweza kuweka utekelezaji wa Lightning Network, LND, Core Lightning, au Eclair; tazama Sehemu ya Kusanidi Seva ya BTCPay kwa maagizo ya kina zaidi ya usakinishaji.
 
-Ikifuatwa na darasa, kuunganisha nodi ya Umeme kwenye Seva yako ya BTCPay hufanya kazi kupitia nodi Maalum. Mtumiaji ambaye si msimamizi wa seva kwenye Seva ya BTPay hataweza kutumia nodi ya ndani ya Umeme kwa chaguomsingi. Hii ni kumlinda mwenye seva asipoteze pesa zake. Wasimamizi wa seva wanaweza kusakinisha Programu-jalizi ili kutoa ufikiaji wa nodi yao ya Umeme kupitia LNBank; hii ni nje ya upeo wa kitabu hiki; soma zaidi kwenye LNBank kwenye ukurasa rasmi wa programu-jalizi.
+Ikifuatwa na darasa, kuunganisha nodi ya Umeme kwenye Seva yako ya BTCPay hufanya kazi kupitia nodi Maalum. Mtumiaji ambaye si msimamizi wa seva kwenye Seva ya BTCPay hataweza kutumia nodi ya ndani ya Umeme kwa chaguomsingi. Hii ni kumlinda mwenye seva asipoteze pesa zake. Wasimamizi wa seva wanaweza kusakinisha Programu-jalizi ili kutoa ufikiaji wa nodi yao ya Umeme kupitia LNBank; hii ni nje ya upeo wa kitabu hiki; soma zaidi kwenye LNBank kwenye ukurasa rasmi wa programu-jalizi.
 
 ### Unganisha nodi ya ndani (msimamizi wa seva)
 
-Msimamizi wa Seva anaweza kutumia Njia ya Umeme ya ndani ya Seva ya BTPay. Bila kujali utekelezaji wa Umeme, kuunganisha kwa nodi ya ndani ya Umeme ni sawa.
+Msimamizi wa Seva anaweza kutumia Njia ya Umeme ya ndani ya Seva ya BTCPay. Bila kujali utekelezaji wa Umeme, kuunganisha kwa nodi ya ndani ya Umeme ni sawa.
 
-Nenda kwenye duka la usanidi uliopita, na ubofye "Umeme" Wallet kwenye menyu ya kushoto. Seva ya BTCPay inatoa uwezekano mbili wa kusanidi, Kwa kutumia nodi ya Ndani (Msimamizi wa Seva pekee kwa chaguomsingi) au nodi maalum (muunganisho wa nje). Wasimamizi wa seva wanaweza kubofya chaguo la "Tumia nodi ya ndani". Hakuna usanidi zaidi unaohitajika. Bofya kitufe cha "hifadhi" na utambue arifa inayosema, "Njia ya Umeme ya BTC imesasishwa". Duka sasa limefanikiwa kupata uwezo wa Lightning Network.
+Nenda kwenye duka la usanidi uliopita, na ubofye "Umeme" Pochi kwenye menyu ya kushoto. Seva ya BTCPay inatoa uwezekano mbili wa kusanidi, Kwa kutumia nodi ya Ndani (Msimamizi wa Seva pekee kwa chaguomsingi) au nodi maalum (muunganisho wa nje). Wasimamizi wa seva wanaweza kubofya chaguo la "Tumia nodi ya ndani". Hakuna usanidi zaidi unaohitajika. Bofya kitufe cha "hifadhi" na utambue arifa inayosema, "Njia ya Umeme ya BTC imesasishwa". Duka sasa limefanikiwa kupata uwezo wa Lightning Network.
 
 ### Unganisha nodi ya nje (mtumiaji wa seva/mmiliki wa duka)
 
@@ -744,7 +744,7 @@ Kwa vile wamiliki wa duka kwa chaguomsingi hawaruhusiwi kutumia Nodi ya Umeme ya
 
 Nenda kwenye duka la awali la usanidi, na ubofye "Umeme" chini ya pochi kwenye menyu ya kushoto. Kwa vile wamiliki wa duka hawaruhusiwi kutumia nodi ya ndani kwa chaguo-msingi, chaguo hili limetiwa mvi. Kutumia nodi maalum ndilo chaguo pekee kwa chaguo-msingi linalopatikana kwa wamiliki wa duka.
 
-Seva ya BTPay inahitaji maelezo ya muunganisho; iliyotengenezwa hapo awali (au suluhisho la mlezi) itatoa habari hii maalum kwa utekelezaji wa Umeme. Ndani ya Seva ya BTCPay, wamiliki wa Duka wanaweza kutumia miunganisho ifuatayo;
+Seva ya BTCPay inahitaji maelezo ya muunganisho; iliyotengenezwa hapo awali (au suluhisho la mlezi) itatoa habari hii maalum kwa utekelezaji wa Umeme. Ndani ya Seva ya BTCPay, wamiliki wa Duka wanaweza kutumia miunganisho ifuatayo;
 
 
 - Umeme wa C kupitia muunganisho wa TCPorUnixdomainsocket.
@@ -755,7 +755,7 @@ Seva ya BTPay inahitaji maelezo ya muunganisho; iliyotengenezwa hapo awali (au s
 
 ![image](assets/en/31.webp)
 
-Bofya "jaribu muunganisho" ili kuhakikisha kuwa umeingiza kwa usahihi maelezo ya muunganisho. Baada ya muunganisho kuthibitisha kuwa mzuri, bofya hifadhi, na Seva ya BTPay inaonyesha duka limesasishwa na Njia ya Umeme.
+Bofya "jaribu muunganisho" ili kuhakikisha kuwa umeingiza kwa usahihi maelezo ya muunganisho. Baada ya muunganisho kuthibitishwa kuwa mzuri, bofya hifadhi, na Seva ya BTCPay inaonyesha duka limesasishwa na Njia ya Umeme.
 
 ### Kusimamia nodi ya Umeme ya ndani LND (Msimamizi wa Seva)
 
@@ -787,9 +787,9 @@ Kuunganisha Njia ya Umeme ya ndani itashindwa - Ikiwa unganisho la ndani litashi
 
 Iwapo huwezi kuunganisha kwenye nodi yako ya Umeme, jaribu kuwasha upya seva yako, au usome kwa maelezo zaidi kuhusu nyaraka rasmi za Seva ya BTCPay; https://docs.btcpayserver.org/Troubleshooting/ . Huwezi kukubali malipo ya umeme katika duka lako hadi nodi yako ya Umeme ionekane "Mtandaoni". Jaribu kujaribu muunganisho wako wa Umeme kwa kubofya kiungo cha "Maelezo ya Njia ya Umma".
 
-### Umeme Wallet
+### Pochi la Umeme
 
-Ndani ya chaguo la Umeme Wallet katika upau wa menyu wa kushoto, wasimamizi wa seva watapata ufikiaji rahisi kwa RTL, Maelezo yao ya nodi za Umma, na mipangilio ya Umeme maalum kwa duka lao la Seva ya BTCPay.
+Ndani ya chaguo la pochi la Umeme katika upau wa menyu wa kushoto, wasimamizi wa seva watapata ufikiaji rahisi kwa RTL, Maelezo yao ya nodi za Umma, na mipangilio ya Umeme maalum kwa duka lao la Seva ya BTCPay.
 
 #### Maelezo ya nodi ya ndani
 
@@ -809,30 +809,30 @@ Karibu na duka la habari la Nodi ya Umma, wamiliki wanaweza kupata chaguo hili. 
 
 Ikiwa msimamizi wa seva ataamua kusakinisha huduma nyingi kwa utekelezaji wa Umeme, zitaorodheshwa hapa. Kwa utekelezaji wa kawaida wa LND, wasimamizi watakuwa na Ride The Lightning (RTL) kama zana ya kawaida ya usimamizi wa nodi.
 
-#### Mipangilio ya BTC Lightning Wallet
+#### Mipangilio ya Pochi la BTC Lightning
 
-Baada ya kuongeza nodi ya Umeme kwenye duka katika hatua ya awali, ndani ya mipangilio ya Umeme Wallet, wamiliki wa duka bado wanaweza kuchagua kuzima kwa duka lao kwa kutumia Geuza juu ya mipangilio ya Umeme.
+Baada ya kuongeza nodi ya Umeme kwenye duka katika hatua ya awali, ndani ya mipangilio ya Pochi la Umeme, wamiliki wa duka bado wanaweza kuchagua kuzima kwa duka lao kwa kutumia Geuza juu ya mipangilio ya Umeme.
 
 ![image](assets/en/34.webp)
 
 #### Chaguzi za malipo ya umeme
 
-Wamiliki wa maduka wanaweza kuweka vigezo vya vifuatavyo ili kuboresha hali ya Umeme kwa wateja wao.
+Wamiliki wa maduka wanaweza kuweka vigezo vifuatavyo ili kuboresha hali ya Umeme kwa wateja wao.
 
 
-- Onyesha kiasi cha malipo ya umeme katika Satoshis.
-- Ongeza vidokezo vya kurukaruka kwa chaneli za kibinafsi kwenye Lightning Invoice.
+- Onyesha kiasi cha malipo ya umeme katika Satoshi.
+- Ongeza vidokezo vya kurukaruka kwa chaneli za kibinafsi kwenye anwani za ununuzi za Lightning .
 - Unganisha On-Chain na misimbo ya malipo ya Lightning URL/QR unapolipa.
 - Weka kiolezo cha maelezo ya ankara za umeme.
 
 #### LNURL
 
-Wamiliki wa duka wanaweza kuchagua kutumia au kutotumia LNURL. URL ya Lightning Network, au LNURL, ni kiwango kinachopendekezwa cha mwingiliano kati ya Alipaji umeme na anayelipwa. Kwa kifupi, LNURL ni url ya bech32 iliyosimbwa iliyoamrishwa na lnurl. Lightning Wallet inatarajiwa kusimbua URL, kuwasiliana na URL, na kungoja kitu cha JSON chenye maagizo zaidi, haswa tagi inayofafanua tabia ya knurl.
+Wamiliki wa duka wanaweza kuchagua kutumia au kutotumia LNURL. URL ya Lightning Network, au LNURL, ni kiwango kinachopendekezwa cha mwingiliano kati ya Mlipaji umeme na anayelipwa. Kwa kifupi, LNURL ni url ya bech32 iliyosimbwa iliyoamrishwa na lnurl. Lightning Wallet inatarajiwa kusimbua URL, kuwasiliana na URL, na kungoja kitu cha JSON chenye maagizo zaidi, haswa tagi inayofafanua tabia ya knurl.
 
 
 - Washa LNURL
 - LNURL Hali ya Kawaida
-  - Kwa uoanifu wa Wallet, Bech32 iliyosimbwa (ya kawaida) dhidi ya URL ya maandishi wazi (ijayo)
+  - Kwa uoanifu wa Pochi, Bech32 iliyosimbwa (ya kawaida) dhidi ya URL ya maandishi wazi (ijayo)
 - Ruhusu anayelipwa atoe maoni.
 
 ### Mfano 1
@@ -841,11 +841,11 @@ Wamiliki wa duka wanaweza kuchagua kutumia au kutotumia LNURL. URL ya Lightning 
 
 Chaguo hili linapatikana tu ikiwa wewe ndiye Msimamizi wa tukio hili au ikiwa Msimamizi amebadilisha mipangilio chaguo-msingi ambapo watumiaji wanaweza kutumia nodi ya ndani ya umeme.
 
-Kama msimamizi, bofya kwenye Umeme Wallet kwenye upau wa menyu wa kushoto. Seva ya BTCPay itaomba kutumia mojawapo ya chaguo mbili za kuunganisha Njia ya Umeme, nodi ya Ndani, au nodi maalum ya nje. Bonyeza Tumia nodi ya ndani na ubonyeze kuokoa.
+Kama msimamizi, bofya kwenye Umeme pochi kwenye upau wa menyu wa kushoto. Seva ya BTCPay itaomba kutumia mojawapo ya chaguo mbili za kuunganisha Njia ya Umeme, nodi ya Ndani, au nodi maalum ya nje. Bonyeza Tumia nodi ya ndani na ubonyeze kuokoa.
 
 #### Kusimamia nodi yako ya Umeme (RTL)
 
-Baada ya kuunganisha kwenye nodi ya ndani ya umeme, Seva ya BTPay itasasisha na kuonyesha arifa "Njia ya Umeme ya BTC imesasishwa", ikithibitisha kuwa sasa umeunganisha Umeme kwenye duka lako.
+Baada ya kuunganisha kwenye nodi ya ndani ya umeme, Seva ya BTCPay itasasisha na kuonyesha arifa "Njia ya Umeme ya BTC imesasishwa", ikithibitisha kuwa sasa umeunganisha Umeme kwenye duka lako.
 
 Kusimamia nodi ya umeme ni kazi kwa Msimamizi wa seva. Hii inahusisha.
 
@@ -860,7 +860,7 @@ Kusimamia nodi ya umeme ni kazi kwa Msimamizi wa seva. Hii inahusisha.
   - Hali ya kituo
 - Kufanya nakala za mara kwa mara za majimbo ya kituo.
 - Inakagua ripoti za uelekezaji
-- Vinginevyo, tumia huduma kama vile Loop.
+- Vinginevyo, tumia huduma kama vile kitanzi.
 
 Udhibiti wote wa nodi za umeme ni kama kiwango kinachofanywa na RTL (ikizingatiwa kuwa unatumia utekelezaji wa LND). Wasimamizi wanaweza kubofya Lightning Wallet yao katika Seva ya BTCPay na kutafuta kitufe cha kufungua RTL. Dashibodi kuu ya Seva ya BTCPay sasa imesasishwa na Vigae vya Lightning Network, ikijumuisha ufikiaji wa haraka wa RTL.
 
@@ -872,13 +872,13 @@ Unapounganishwa na mtunzaji kama Alby, wamiliki wa duka wanapaswa kwanza kufungu
 
 ![image](assets/en/35.webp)
 
-Baada ya kuunda akaunti ya Alby, nenda kwenye duka lako la Seva ya BTPay.
+Baada ya kuunda akaunti ya Alby, nenda kwenye duka lako la Seva ya BTCPay.
 
 Hatua ya 1: Bofya 'Sanidi nodi ya Umeme' kwenye Dashibodi au 'Umeme' chini ya pochi.
 
 ![image](assets/en/36.webp)
 
-Hatua ya 2: Weka vitambulisho vyako vya muunganisho wa Wallet vilivyotolewa na Alby. Kwenye Dashibodi ya, Alby, bofya kwenye Wallet. Hapa utapata "Sifa za Uunganisho wa Wallet". Nakili vitambulisho hivi. Bandika kitambulisho kutoka kwa Alby kwenye sehemu ya usanidi wa Muunganisho katika Seva ya BTCPay.
+Hatua ya 2: Weka vitambulisho vyako vya muunganisho wa Pochi vilivyotolewa na Alby. Kwenye Dashibodi ya, Alby, bofya kwenye Pochi. Hapa utapata "Sifa za Uunganisho wa Pochi". Nakili vitambulisho hivi. Bandika kitambulisho kutoka kwa Alby kwenye sehemu ya usanidi wa Muunganisho katika Seva ya BTCPay.
 
 ![image](assets/en/37.webp)
 
