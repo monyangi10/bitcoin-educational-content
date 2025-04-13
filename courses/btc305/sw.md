@@ -550,7 +550,7 @@ Ikiwa uliunda Pochi mpya wakati wa kusanidi duka lako na kuiwasha kama Hot Walle
 
 ### RBF (Replace-by-fee)
 
-Replace-by-fee (RBF) ni kipengele cha itifaki cha Bitcoin kinachokuruhusu kubadilisha shughuli ya utangazaji ya awali (ukiwa bado haujathibitishwa). Hii inaruhusu kubadilisha bila mpangilio alama ya kidole ya muamala ya Wallet au kuibadilisha kwa ada ya juu zaidi ili kusogeza muamala juu zaidi katika kipaumbele cha foleni ya uthibitishaji (Mining). Hili litachukua nafasi ya muamala wa awali kwani kiwango cha juu cha ada kitapewa kipaumbele, na mara tu itakapothibitishwa, kubatilisha ya awali (hakuna matumizi mara mbili).
+Replace-by-fee (RBF) ni kipengele cha itifaki cha Bitcoin kinachokuruhusu kubadilisha shughuli ya utangazaji ya awali (ukiwa bado haujathibitishwa). Hii inaruhusu kubadilisha bila mpangilio alama ya kidole ya muamala ya Pochi au kuibadilisha kwa ada ya juu zaidi ili kusogeza muamala juu zaidi katika kipaumbele cha foleni ya uthibitishaji (Uchimbaji). Hili litachukua nafasi ya muamala wa awali kwani kiwango cha juu cha ada kitapewa kipaumbele, na mara tu itakapothibitishwa, kubatilisha kwa awali (hakuna matumizi mara mbili).
 
 Bonyeza kitufe cha "Mipangilio ya Juu ili kutazama chaguzi za RBF;
 
@@ -565,7 +565,7 @@ Bonyeza kitufe cha "Mipangilio ya Juu ili kutazama chaguzi za RBF;
 
 Uteuzi wa sarafu ni kipengele cha hali ya juu cha kuimarisha faragha ambacho ukuruhusu kuchagua sarafu unazotaka kutumia unapofanya muamala. Kwa mfano, kulipa kwa sarafu ambazo ni safi kutoka kwa mchanganyiko uliounganishwa.
 
-Uteuzi wa sarafu hufanya kazi asili na kipengele cha lebo za Pochi. Hii hukuruhusu kuweka alama pesa zinazoingia kwa usimamizi na matumizi bora ya UTXO.
+Uteuzi wa sarafu hufanya kazi asili na kipengele cha alama za Pochi. Hii hukuruhusu kuweka alama ya pesa zinazoingia kwa usimamizi na matumizi bora ya UTXO.
 
 Seva ya BTCpay pia inasaidia BIP-329 kwa usimamizi wa alama. BIP-329 inaruhusu alama kwenye; ukihamisha kutoka kwa Pochi inayotumia BIP hii mahususi na kuweka alama, Seva ya BTCPay itazitambua na kuziagiza. Wakati wa kuhamisha seva, maelezo haya yanaweza pia kusafirishwa na kuingizwa katika mazingira mapya.
 
@@ -573,7 +573,7 @@ Seva ya BTCpay pia inasaidia BIP-329 kwa usimamizi wa alama. BIP-329 inaruhusu a
 
 Unapobofya kitufe cha kupokea katika Seva ya BTCPay, hutengeneza Anwani ambayo haijatumika ambayo inaweza kutumika kupokea malipo. Wasimamizi wanaweza pia kuzalisha anwani mpya kwa kutengeneza "Anwani ya ununuzi" mpya.
 
-Seva ya BTCPay itauliza uzalishaji wa anwani ifuatayo kila wakati ili kuepuka kutumia tena Anwani. Baada ya kubofya "zalisho ijayo inapatikana kwa anwani ya BTC," Seva ya BTCPay ilizalisha Anwani na QR mpya. Pia hukuruhusu kuweka alama moja kwa moja kwa Anwani kwa usimamizi bora wa anwani zako.
+Seva ya BTCPay itauliza uzalishaji wa anwani ifuatayo kila wakati ili kuepuka kutumia tena Anwani. Baada ya kubofya "zalisho ijayo inapatikana kwa anwani ya BTC," Seva ya BTCPay ilizalisha Anwani na QR mpya. Pia hukuruhusu kuweka alama moja kwa moja kwa Anwani ya usimamizi bora wa anwani zako.
 
 ![image](assets/en/17.webp)
 
@@ -604,7 +604,7 @@ Mipangilio ya Pochi ndani ya Seva ya BTCPay inatoa muhtasari wazi na wa haraka w
 
 ![image](assets/en/19.webp)
 
-Mipangilio ya Pochi ndani ya Seva ya BTCPay inatoa muhtasari wazi na wa haraka wa mipangilio ya jumla ya pochi yako. Mipangilio hii yote hujazwa mapema ikiwa Pochi iliundwa kwa Seva ya BTCPay. Mipangilio ya Pochi ya Seva ya BTCPay huanza na hali ya Pochi. Je, ni Watch-pekee au Hot Wallet? Kulingana na aina ya Pochi, vitendo vinaweza kutofautiana kutoka kwa kuchanganua tena Pochi kwa miamala iliyokosekana, Kupogoa miamala ya zamani kutoka kwa historia, kusajili Pochi kwa viungo vya malipo, au kubadilisha na kufuta Pochi ya sasa iliyoambatishwa kwenye duka. Katika mpangilio wa pochi ya Seva ya BTCPay, wasimamizi wanaweza kuweka alama ya Pochi kwa usimamizi bora wa Pochi. Hapa Msimamizi pia ataweza kuona Mpango wa Utoaji, ufunguo wa akaunti (xpub), Alama ya Kidole, na Njia kuu. Malipo katika mipangilio ya Pochi yana mipangilio mikuu 2 pekee. Malipo ni batili ikiwa muamala utashindwa kuthibitisha katika (dakika zilizowekwa) baada ya kuisha kwa muda wa Anwani ya ununuzi. Zingatia Anwani ya ununuzi iliyothibitishwa wakati shughuli ya malipo ina kiasi cha X cha uthibitishaji. Wasimamizi wanaweza pia kuweka kigeuza ili kuonyesha ada zinazopendekezwa kwenye malipo au kuweka lengo la uthibitishaji wa kibinafsi katika idadi ya vitalu.
+Mipangilio ya Pochi ndani ya Seva ya BTCPay inatoa muhtasari wazi na wa haraka wa mipangilio ya jumla ya pochi yako. Mipangilio hii yote hujazwa mapema ikiwa Pochi iliundwa kwa Seva ya BTCPay. Mipangilio ya Pochi ya Seva ya BTCPay huanza na hali ya Pochi. Je, ni Watch-pekee au Hot Wallet? Kulingana na aina ya Pochi, vitendo vinaweza kutofautiana kutoka kwa kuchanganua tena Pochi kwa miamala iliyokosekana, Kupogoa miamala ya zamani kutoka kwa historia, kusajili Pochi kwa viungo vya malipo, au kubadilisha na kufuta Pochi ya sasa iliyoambatishwa kwenye duka. Katika mpangilio wa pochi ya Seva ya BTCPay, wasimamizi wanaweza kuweka alama ya Pochi kwa usimamizi bora wa Pochi. Hapa Msimamizi pia ataweza kuona Mpango wa Utoaji, ufunguo wa akaunti (xpub), Alama ya Kidole, na Njia kuu. Malipo katika mipangilio ya Pochi yana mipangilio mikuu 2 pekee. Malipo ni batili ikiwa muamala utashindwa kuthibitisha katika (dakika zilizowekwa) baada ya kuisha kwa muda wa Anwani ya ununuzi. Zingatia Anwani ya ununuzi iliyothibitishwa wakati shughuli ya malipo ina kiasi cha X cha uthibitishaji. Wasimamizi wanaweza pia kuweka ugeuzi ili kuonyesha ada zinazopendekezwa kwenye malipo au kuweka lengo la uthibitishaji wa kibinafsi katika idadi ya vitalu.
 
 ![image](assets/en/20.webp)
 
@@ -622,7 +622,7 @@ Chaguo la Hot Wallet katika Seva ya BTCPay inaruhusu vipengele kama vile 'PayJoi
 
 Ili kupunguza hatari kama hiyo katika Seva ya BTCPay, Msimamizi anaweza kuweka katika Mipangilio ya Seva > Sera > "Ruhusu watu wasio wasimamizi kuunda pochi za Hot kwa ajili ya maduka yao" hadi hapana, kwa kuwa ni kwa chaguomsingi. Ili kuimarisha usalama wa pochi hizo za Hot, msimamizi wa seva anapaswa kuwezesha uthibitishaji wa 2FA kwenye akaunti zinazoruhusiwa kuwa na pochi za Hot. Kuhifadhi funguo za faragha kwenye seva ya umma ni hatari na huja na hatari. Baadhi ni sawa na hatari za Lightning Network (tazama sura inayofuata kwa hatari za Lightning Network).
 
-Chaguo la pili la Seva ya BTPay inatoa katika kuzalisha Wallet mpya ni kwa kuunda Watch-only wallet. Seva ya BTPay ita generate funguo zako za faragha mara moja. Baada ya mtumiaji kuthibitisha kuwa ameandika Maneno yake ya seed, Seva ya BTPay itafuta funguo za faragha kutoka kwa seva. Kwa hivyo, duka lako sasa lina Watch- pekee Wallet iliyounganishwa nayo. Ili kutumia pesa ulizopokea kwenye Watch-only wallet yako, angalia sura ya Jinsi ya Kutuma, ama kwa kutumia BTPay Server Vault, PSBT (Partially Signed Bitcoin Transaction), au, inayopendekezwa sana, kutoa mwenyewe maneno yako ya seed.
+Chaguo la pili la Seva ya BTCPay inatoka katika kuzalisha Pochi mpya na kwa kuunda Watch-only wallet. Seva ya BTCPay ita zalisha funguo zako za faragha mara moja. Baada ya mtumiaji kuthibitisha kuwa ameandika Maneno yake ya siri, Seva ya BTPay itafuta funguo za faragha kutoka kwa seva. Kwa hivyo, duka lako sasa lina Watch- pekee Wallet iliyounganishwa nayo. Ili kutumia pesa ulizopokea kwenye Watch-only wallet yako, angalia sura ya Jinsi ya Kutuma, ama kwa kutumia BTPay Server Vault, PSBT (Partially Signed Bitcoin Transaction), au, inayopendekezwa sana, kutoa mwenyewe maneno yako ya seed.
 
 Uliunda 'Duka' jipya katika sehemu iliyopita. Mchawi wa usakinishaji utaendelea kwa kuuliza "Weka Wallet" au "Weka nodi ya Umeme". Katika mfano huu, utafuata mchakato wa mchawi wa "Sanidi Wallet" (1).
 
