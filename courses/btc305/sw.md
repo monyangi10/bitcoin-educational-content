@@ -5,7 +5,7 @@ objectives:
 
   - Kuelewa btcpayserver ni nini.
   - Mwenyeji mwenyewe anasanidi Seva ya Malipo ya BTC.
-  - Tumia btcpayserver katika biashara yako ya kila siku.
+  - Tumia btcpayseva katika biashara yako ya kila siku.
 
 ---
 # Bitcoin na Seva ya BTCPay
