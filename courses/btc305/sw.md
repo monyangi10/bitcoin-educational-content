@@ -1,11 +1,11 @@
----
+---silvia
 name: Bitcoin na Seva ya Malipo ya BTC
 goal: Sakinisha Seva ya Malipo ya BTC kwa biashara yako
 objectives: 
 
-  - Kuelewa btcpayserver ni nini.
+  - Kuelewa BTCpayseva ni nini.
   - Mwenyeji mwenyewe anasanidi Seva ya Malipo ya BTC.
-  - Tumia btcpayserver katika biashara yako ya kila siku.
+  - Tumia BTCpayseva katika biashara yako ya kila siku.
 
 ---
 # Bitcoin na Seva ya BTCPay
@@ -37,7 +37,7 @@ Baada ya maneno yaliyosemwa na Nicolas, ilikuwa wakati wa kuanza kujenga. Kazi n
 
 Chanzo wazi kinamaanisha nini, na ni nini kinachoingia kwenye mradi kama huo?
 
-FOSS inawakilisha Programu ya Bure pia Open-Chanzo. Ya kwanza inarejelea masharti ambayo huruhusu mtu yeyote kunakili, kurekebisha, na hata kusambaza matoleo (hata kwa faida) ya programu. Mwisho unarejelea kushiriki kwa uwazi msimbo wa chanzo, kuhimiza umma kuchangia na kuuboresha.
+FOSS inawakilisha Programu ya Bure pia fungua-Chanzo. Ya kwanza inarejelea masharti ambayo huruhusu mtu yeyote kunakili, kurekebisha, na hata kusambaza matoleo (hata kwa faida) ya programu. Mwisho unarejelea kushiriki kwa uwazi msimbo wa chanzo, kuhimiza umma kuchangia na kuuboresha.
 
 Hii huleta watumiaji wazoefu shauku ya kuchangia programu ambayo tayari wanatumia na kupata thamani kutoka kwayo, na hivyo kuthibitisha baada ya muda kushinda katika kupitishwa kwa programu inayomilikiwa. Inalingana na kanuni za Bitcoin kwamba "habari hutamani kuwa huru." Huleta pamoja watu wenye shauku wanaounda jumuiya na ni ya kufurahisha zaidi. Kama Bitcoin, FOSS haiwezi kuepukika.
 
