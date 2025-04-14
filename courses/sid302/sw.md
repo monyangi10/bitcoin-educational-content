@@ -1,6 +1,6 @@
 ---
 name: Muhimu wa Liquid Bootcamp
-goal: Pata ufahamu wa kina wa Liquid Network na mradi wa Elements, na ujifunze jinsi ya kutekeleza masuluhisho ya hali ya juu katika Confidential Transactions, uwekaji alama, na usanifu wa mtandao uliogatuliwa.
+goal: Pata ufahamu wa kina wa Liquid Network na mradi wa vipengele, na ujifunze jinsi ya kutekeleza masuluhisho ya hali ya juu katika  shughuli za siri, uwekaji alama, na usanifu wa mtandao uliogatuliwa.
 objectives: 
 
   - Fahamu misingi ya usanifu wa Liquid na uhusiano wake na Bitcoin.
@@ -9,11 +9,11 @@ objectives:
   - Fahamu vipengele vya biashara na kiufundi vya Liquid kwa matumizi katika masoko ya mitaji.
 
 ---
-# Kuanzisha kwa Liquid Network
+# Kuanzisha kwa Mtandao wa kioevu
 
-Anza safari ya kielimu iliyoundwa ili kutoa uelewa wa kina wa Liquid Network na mradi wa Elements. Kambi hii ya buti inachanganya nadharia na mazoezi ili kukufundisha misingi ya kiufundi, usanifu, na biashara muhimu ili kutekeleza na kuongeza uwezo wa Liquid. Kuanzia Confidential Transactions hadi muundo wa mfumo ikolojia, kozi hii ni bora kwa wale wanaotaka kupanua ujuzi wao wa zana za kina ndani ya mfumo ikolojia wa Bitcoin.
+Anza safari ya kielimu iliyoundwa ili kutoa uelewa wa kina wa mtandao wa kioevu na mradi wa kipengele. Kambi hii ya buti inachanganya nadharia na mazoezi ili kukufundisha misingi ya kiufundi, usanifu, na biashara muhimu ili kutekeleza na kuongeza uwezo wa Liquid. Kuanzia shughuli ya siri hadi muundo wa mfumo ikolojia, kozi hii ni bora kwa wale wanaotaka kupanua ujuzi wao wa zana za kina ndani ya mfumo ikolojia wa Bitcoin.
 
-Kwa mawasilisho ya wataalamu wa sekta hiyo, kozi hii inashughulikia mada kama vile usanifu wa Liquid, matumizi ya tokeni, dhana za kiufundi za Elements, na hali bunifu za matumizi kama vile Breeze SDK. Iliyoundwa ili kufikiwa kwa wanaoanza na watumiaji wa kati, kozi hii pia inatoa thamani kwa wasanidi programu wenye uzoefu wanaotafuta ujuzi wa Liquid kama jukwaa la kuboresha miradi yao.
+Kwa mawasilisho ya wataalamu wa sekta hiyo, kozi hii inashughulikia mada kama vile usanifu wa uoevu, matumizi ya tokeni, dhana za kiufundi za vipengele, na hali bunifu za matumizi kama vile Breeze SDK. Iliyoundwa ili kufikiwa kwa wanaoanza na watumiaji wa kati, kozi hii pia inatoa thamani kwa wasanidi programu wenye uzoefu wanaotafuta ujuzi wa uoevu kama jukwaa la kuboresha miradi yao.
 
 +++
 # Utangulizi
@@ -24,9 +24,9 @@ Kwa mawasilisho ya wataalamu wa sekta hiyo, kozi hii inashughulikia mada kama vi
 
 <chapterId>3192ee7d-255b-4c4f-ba18-e08c5ab98577</chapterId>
 
-Karibu kwenye Liquid Bootcamp, mafunzo ya kina yaliyoundwa ili kukupa maarifa na ujuzi ili kutumia vyema mradi wa Liquid Network na Elements. Kozi hii hutoa ufahamu wa kina katika vipengele vya kipekee vya Liquid, kama vile Confidential Transactions, utoaji wa mali, na muundo wake wa mtandao ulioshirikishwa, huku pia ikishughulikia dhana za msingi za Elements, programu inayotumia Liquid.
+Karibu kwenye kampi ya boot ya kioevu, mafunzo ya kina yaliyoundwa ili kukupa maarifa na ujuzi ili kutumia vyema mradi wa Mtandao wa kioevu na vipengele. Kozi hii hutoa ufahamu wa kina katika vipengele vya kipekee vya Uoevu, kama vile shughuli za mtandao, utoaji wa mali, na muundo wake wa mtandao ulioshirikishwa, huku pia ikishughulikia dhana za msingi za vipengele, programu inayotumia kipengele.
 
-Katika kambi nzima ya boot, utachunguza matumizi ya vitendo ya Liquid Network, kutoka kwa kuweka na kuendesha nodi hadi kuelewa matumizi yake katika masoko ya mitaji ya Bitcoin na uwekaji tokeni. Kwa mawasilisho kutoka kwa wataalamu wa sekta, utapata maarifa pia kuhusu mada za kina kama vile HTLC, Breeze SDK, na mradi wa Blockstream AMP.
+Katika kambi nzima ya boot, utachunguza matumizi ya vitendo vya mtandao wa uoevu, kutoka kwa kuweka na kuendesha nodi hadi kuelewa matumizi yake katika masoko ya mitaji ya Bitcoin na uwekaji tokeni. Kwa mawasilisho kutoka kwa wataalamu wa sekta, utapata maarifa pia kuhusu mada za kina kama vile HTLC, Breeze SDK, na mradi wa kuzuia mkondo AMP.
 
 Kambi hii ya mafunzo iliendeshwa kama tukio la ana kwa ana, kufuatia ratiba iliyopangwa (kama inavyoonyeshwa kwenye picha) iliyoundwa kwa vipindi vya moja kwa moja. Hata hivyo, kwa urekebishaji huu wa kozi, maudhui yamepangwa upya ili kuendana vyema na umbizo la mtandaoni na kuwezesha ufahamu kwa wanafunzi. Agizo jipya linahakikisha maendeleo ya kimantiki kutoka kwa dhana za msingi hadi mada za kiufundi na za juu zaidi, na kuongeza uzoefu wa kujifunza.
 
@@ -42,15 +42,15 @@ Safari hii imeundwa ili kuwashughulikia washiriki walio na viwango tofauti vya u
 
 ![Video](https://youtu.be/QCyWXVWkcAM)
 
-Pablo anatanguliza usanifu wa Liquid Network, akisisitiza jukumu lake kama Sidechain iliyoshirikishwa hadi Bitcoin. Vipengele muhimu kama vile Confidential Transactions, muundo wa shirikisho, na kazi yake kama sanduku la mchanga kwa uvumbuzi hufunikwa. Washiriki watapata maarifa kuhusu jinsi Liquid inavyokamilisha Bitcoin kwa kutoa miamala ya haraka na ya faragha zaidi.
+Pablo anatanguliza usanifu wa Mtandao wa uoevu, akisisitiza jukumu lake kama mnyororo wa upande iliyoshirikishwa hadi Bitcoin. Vipengele muhimu kama vile shughuli za siri, muundo wa shirikisho, na kazi yake kama sanduku la mchanga kwa uvumbuzi hufunikwa. Washiriki watapata maarifa kuhusu jinsi uoevu inavyokamilisha Bitcoin kwa kutoa miamala ya haraka na ya faragha zaidi.
 
-## Misingi ya Elements
+## Misingi ya vipengele
 
 <chapterId>1e9cfbed-108e-4067-afb9-4cf950cb43d3</chapterId>
 
 ![Video](https://youtu.be/9Yu0dPAJSek)
 
-James anatanguliza programu ya Elements na ushirikiano wake na Liquid Network. Kipindi hiki kinajumuisha mwongozo wa vitendo wa kuendesha nodi ya Liquid, kusanidi Elements ndani ya nchi, na kudhibiti miamala kwa kutumia amri za CLI na RPC.
+James anatanguliza programu ya vipengele na ushirikiano wake na Liquid Network. Kipindi hiki kinajumuisha mwongozo wa vitendo wa kuendesha nodi ya uoevu, kusanidi vipengele ndani ya nchi, na kudhibiti miamala kwa kutumia amri za CLI na RPC.
 
 ## Kuunganisha Tabaka za Bitcoin
 
@@ -58,7 +58,7 @@ James anatanguliza programu ya Elements na ushirikiano wake na Liquid Network. K
 
 ![Video](https://youtu.be/zFvv0bn4ZWY)
 
-Michael anajadili jinsi teknolojia za Layer nyingi, ikiwa ni pamoja na Liquid, Umeme, na Bitcoin, kuboresha ufanisi wa muamala na kutegemewa. Mada kuu ni pamoja na HTLC kwa miamala salama ya Layer na vipengele vya hali ya juu vya uandishi vinavyoboresha mfumo ikolojia wa Bitcoin.
+Michael anajadili jinsi teknolojia za safu nyingi, ikiwa ni pamoja na uoevu, Umeme, na Bitcoin, kuboresha ufanisi wa muamala na kutegemewa. Mada kuu ni pamoja na HTLC kwa miamala salama ya safu na vipengele vya hali ya juu vya uandishi vinavyoboresha mfumo ikolojia wa Bitcoin.
 
 ## Muhtasari wa Liquid Network
 
@@ -66,7 +66,7 @@ Michael anajadili jinsi teknolojia za Layer nyingi, ikiwa ni pamoja na Liquid, U
 
 ![Video](https://youtu.be/6wNeHQBlhA4)
 
-Bozza inashughulikia muundo wa shirikisho wa Liquid Network na vipengele vyake vya kiufundi. Mada ni pamoja na ubunifu uliojaribiwa kwenye Liquid, kama vile saini za Schnorr na uandishi wa Urahisi, na usuluhishi unaohusishwa katika kutumia Layer suluhu Mbili.
+Bozza inashughulikia muundo wa shirikisho wa Mtandao wa uoevu na vipengele vyake vya kiufundi. Mada ni pamoja na ubunifu uliojaribiwa kwenye Uoevu, kama vile sahihi za Schnorr na uandishi wa Urahisi, na usuluhishi unaohusishwa katika kutumia Safu suluhu Mbili.
 
 ## Mfumo wa Ikolojia na Masoko ya Mitaji
 
@@ -74,7 +74,7 @@ Bozza inashughulikia muundo wa shirikisho wa Liquid Network na vipengele vyake v
 
 ![Video](https://youtu.be/IAdOxZyx7-Y)
 
-Chase inaangazia mfumo ikolojia wa Liquid na matumizi yake katika masoko ya mitaji. Anajadili uwekaji tokeni, rasilimali za jumuiya, na zana kama vile Sid Swap na Stokr kwa usimamizi wa mali, pamoja na kuongezeka kwa matumizi ya Liquid katika mazingira ya biashara.
+Chase inaangazia mfumo ikolojia wa Uoevu na matumizi yake katika masoko ya mitaji. Anajadili uwekaji tokeni, rasilimali za jumuiya, na zana kama vile Sid Swap na Stokr kwa usimamizi wa mali, pamoja na kuongezeka kwa matumizi ya Uoevu katika mazingira ya biashara.
 
 ## Blockstream AMP
 
@@ -82,7 +82,7 @@ Chase inaangazia mfumo ikolojia wa Liquid na matumizi yake katika masoko ya mita
 
 ![Video](https://youtu.be/AnMiD9amSUg)
 
-Nardo hutoa muhtasari wa Blockstream AMP, jukwaa la kudhibiti mali ya kidijitali kwenye Liquid. Anachunguza usanifu wa AMP, uwezo wake wa kudhibiti uhamishaji wa mali, na matumizi yake ya vitendo kwa wasanidi programu. Changamoto na maboresho ya baadaye ya AMP pia yameangaziwa.
+Nardo hutoa muhtasari wa kuzuia mkondo AMP, jukwaa la kudhibiti mali ya kidijitali kwenye uoevu. Anachunguza usanifu wa AMP, uwezo wake wa kudhibiti uhamishaji wa mali, na matumizi yake ya vitendo kwa wasanidi programu. Changamoto na maboresho ya baadaye ya AMP pia yameangaziwa.
 
 # Kiufundi
 
@@ -96,7 +96,7 @@ Nardo hutoa muhtasari wa Blockstream AMP, jukwaa la kudhibiti mali ya kidijitali
 
 ![Video](https://youtu.be/ucc3a-udbgo)
 
-Antonio anawasilisha Breeze, SDK ya chanzo huria iliyoundwa kwa ajili ya shughuli zilizogatuliwa kwenye Liquid Network. Anashughulikia vipengele vyake, ikiwa ni pamoja na usaidizi wa vifungo vya lugha nyingi na michakato salama ya shughuli, huku akisisitiza lengo lake la kurahisisha teknolojia ya kifedha kwa watengenezaji.
+Antonio anawasilisha Breeze, SDK ya chanzo huria iliyoundwa kwa ajili ya shughuli zilizogatuliwa kwenye uoevu wa mtandao. Anashughulikia vipengele vyake, ikiwa ni pamoja na usaidizi wa vifungo vya lugha nyingi na michakato salama ya shughuli, huku akisisitiza lengo lake la kurahisisha teknolojia ya kifedha kwa watengenezaji.
 
 # Hitimisho
 
