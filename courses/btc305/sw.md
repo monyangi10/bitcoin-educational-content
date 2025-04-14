@@ -16,7 +16,7 @@ HADITHI ISIYOKAMALISHWA
 
 "Huu Ni Uongo, Imani Yangu Kwako Imevunjika, Nitakufanya Uwe kizamani".
 
-Imetolewa na BTCPay Msingi Wa Server
+Imetolewa na BTCPay Msingi Wa Seva
 
 +++
 # Utangulizi
@@ -27,7 +27,7 @@ Imetolewa na BTCPay Msingi Wa Server
 
 <chapterId>e1fe6294-3c82-5203-9537-779f9087c35a</chapterId>
 
-Wacha tuanze na Seva ya BTPay ni nini na ilitoka wapi. Tunathamini uwazi na viwango fulani ili kuunda uaminifu katika nafasi ya Bitcoin.
+Wacha tuanze na Seva ya BTCPay ni nini na ilitoka wapi. Tunathamini uwazi na viwango fulani ili kuunda uaminifu katika nafasi ya Bitcoin.
 
 Mradi katika nafasi ulivunja maadili haya. Msanidi programu mkuu wa BTCPay Server, Nicolas Dorier, alichukulia hili kibinafsi na kutoa ahadi ya kuzifuta. Hapa tuko miaka mingi baadaye na tunafanya kazi kuelekea siku zijazo, chanzo wazi kabisa, kila siku.
 
@@ -2579,7 +2579,7 @@ Baada ya nodi ya Umeme kuanzishwa, rudi kwenye Hifadhi ya Programu ya Umbrel na 
 
 ![image](assets/en/126.webp)
 
-Baada ya kusakinisha, bofya Fungua sehemu ya juu kulia ya maelezo ya Programu au ufungue Seva ya BTPay kupitia dashibodi yako ya Umbrels.
+Baada ya kusakinisha, bofya Fungua sehemu ya juu kulia ya maelezo ya Programu au ufungue Seva ya BTCPay kupitia dashibodi yako ya Umbrels.
 
 ![image](assets/en/127.webp)
 
