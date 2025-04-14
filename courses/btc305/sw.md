@@ -1737,7 +1737,7 @@ Kando na [kuangalia kumbukumbu](https://docs.btcpayserver.org/Troubleshooting/#2
 
 [(hufungua dirisha jipya)](https://developer.Bitcoin.org/reference/RPC/index.html) ili kupata maelezo kutoka kwa nodi yako ya Bitcoin. BTCPay inajumuisha hati ya kukuruhusu kuwasiliana na nodi yako ya Bitcoin kwa urahisi.
 
-Ndani ya folda ya btcpayserver-docker, pata habari ya Blockchain ukitumia nodi yako:
+Ndani ya folda ya btcpayserver-dokta, pata habari ya Blockchain ukitumia nodi yako:
 
 ```bash
 bitcoin-cli.sh getblockchaininfo
@@ -2168,7 +2168,7 @@ Ikiwa mmiliki wa duka anataka kufuta kabisa Hoja ya Uuzaji kwenye Seva yake ya B
 
 ### Seva ya BTCPay - Mkusanyiko wa Fedha
 
-Karibu na programu-jalizi ya Sehemu ya Uuzaji, Seva ya BTPay ina chaguo la kuunda hazina ya watu. Kama vile jukwaa lingine lolote la Crowdfund, wamiliki wa duka wanaweza kuweka lengo, kuunda manufaa kwa michango, na kubinafsisha kulingana na mahitaji yao.
+Karibu na programu-jalizi ya Sehemu ya Uuzaji, Seva ya BTCPay ina chaguo la kuunda hazina ya watu. Kama vile jukwaa lingine lolote la Crowdfund, wamiliki wa duka wanaweza kuweka lengo, kuunda manufaa kwa michango, na kubinafsisha kulingana na mahitaji yao.
 
 #### Jinsi ya kuanzisha mkusanyiko mpya wa watu
 
@@ -2182,7 +2182,7 @@ Mara tu Programu inapopewa jina, skrini yake inayofuata itakuwa kusasisha Progra
 
 #### Jina la Programu
 
-Jina lililopewa Crowdfund yako litaonekana kwenye menyu kuu ya Seva ya BTPay.
+Jina lililopewa Crowdfund yako litaonekana kwenye menyu kuu ya Seva ya BTCPay.
 
 #### Kichwa cha Maonyesho
 
@@ -2196,7 +2196,7 @@ Ipe crowdfund mjengo mmoja ili kutambua uchangishaji unahusu nini.
 
 #### URL ya Picha Iliyoangaziwa
 
-Kila crowdfund ina picha yake kuu, bango moja ambayo wewe kutambua moja kwa moja. Picha hii inaweza kuhifadhiwa kwenye seva yako ikiwa una haki za Msimamizi, Wasimamizi wanaweza kupakia chini ya mipangilio ya Seva ya Seva ya BTPay - Faili. Unapokuwa mmiliki wa Duka, ni lazima picha hiyo ipakwe kwenye wavuti kupitia mpangishi mwingine (kwa mfano imgur)
+Kila crowdfund ina picha yake kuu, bango moja ambalo wewe kutambua moja kwa moja. Picha hii inaweza kuhifadhiwa kwenye seva yako ikiwa una haki za Msimamizi, Wasimamizi wanaweza kupakia chini ya mipangilio ya Seva ya Seva ya BTCPay - Faili. Unapokuwa mmiliki wa Duka, ni lazima picha hiyo ipakwe kwenye wavuti kupitia mpangishi mwingine (kwa mfano imgur)
 
 #### Fanya Crowdfund Hadharani
 
@@ -2226,7 +2226,7 @@ Kuunda marupurupu mapya kunajumuisha sehemu zifuatazo;
 - URL ya picha
 - Maelezo
 - Malipo
-- ID
+- Kitambulisho
 - Nunua Maandishi ya Kitufe.
 - Washa/Zima
 
@@ -2246,11 +2246,11 @@ Kiwango cha Crowdfund huhesabu tu ankara zilizoundwa na Crowdfund kuelekea lengo
 
 #### Chaguzi za Ziada za kubinafsisha
 
-Seva ya BTCpay inatoa ubinafsishaji kadhaa wa ziada. Ongeza sauti, uhuishaji, au hata mazungumzo ya mazungumzo kwenye Crowdfund. Wamiliki wa maduka wanaweza pia kubadilisha mwonekano na mwonekano wa Crowdfund kwa kuweka CSS yao maalum.
+Seva ya BTCpay inatoa ubinafsishaji kadhaa wa ziada. Ongeza sauti, uhuishaji, au hata mazungumzo ya Crowdfund. Wamiliki wa maduka wanaweza pia kubadilisha mwonekano wa Crowdfund kwa kuweka CSS yao maalum.
 
 #### Futa programu hii
 
-Iwapo mmiliki wa duka anataka kufuta kikamilifu Mgawanyiko kutoka kwa Seva yake ya BTCPay, katika sehemu ya mwisho ya kusasisha wamiliki wa duka la Crowdfund wanaweza Bofya kitufe cha "Futa programu hii" ili kuharibu kabisa programu yao ya Crowdfund. Unapobofya "Futa programu hii", Seva ya BTCPay itaomba uthibitisho kwa kuandika `DELETE` na kuthibitisha kwa kubofya kitufe cha Futa. Baada ya kufuta mmiliki wa duka anarudi kwenye dashibodi ya Seva ya BTPay.
+Iwapo mmiliki wa duka anataka kufuta kikamilifu Mgawanyiko kutoka kwa Seva yake ya BTCPay, katika sehemu ya mwisho ya kusasisha wamiliki wa duka la Crowdfund wanaweza Bofya kitufe cha "Futa programu hii" ili kuharibu kabisa programu yao ya Crowdfund. Unapobofya "Futa programu hii", Seva ya BTCPay itaomba uthibitisho kwa kuandika `DELETE` na kuthibitisha kwa kubofya kitufe cha Futa. Baada ya kufuta mmiliki wa duka anarudi kwenye dashibodi ya Seva ya BTCPay.
 
 ### Seva ya BTCPay - Kitufe cha Kulipa
 
@@ -2287,11 +2287,11 @@ Kutumia kitufe cha malipo kwa miunganisho ya biashara ya mtandaoni haipendekezi 
 
 #### Badilisha Maandishi ya kitufe cha Kulipa
 
-Kwa chaguomsingi, kitufe cha malipo cha Seva ya BTCPay kinasema "Lipa Ukitumia BTCPay". Wamiliki wa maduka wanaweza kuweka maandishi haya kulingana na matakwa yao na kubadilisha nembo ya Seva ya BTPay iwe yao wenyewe. Weka maandishi kwa kutumia "Nakala ya Kitufe cha Kulipa" na ubandike URL ya picha chini ya "URL ya Picha ya Kitufe cha Kulipa".
+Kwa chaguomsingi, kitufe cha malipo cha Seva ya BTCPay kinasema "Lipa Ukitumia BTCPay". Wamiliki wa maduka wanaweza kuweka maandishi haya kulingana na matakwa yao na kubadilisha nembo ya Seva ya BTCPay iwe yao wenyewe. Weka maandishi kwa kutumia "Nakala ya Kitufe cha Kulipa" na ubandike URL ya picha chini ya "URL ya Picha ya Kitufe cha Kulipa".
 
 ##### Ukubwa wa picha
 
-Saizi ya picha kwenye kitufe inaweza tu kuwekwa kwa chaguo-msingi tatu.
+Ukubwa ya picha kwenye kitufe inaweza tu kuwekwa kwa chaguo-msingi tatu.
 
 
 - 146x40px
@@ -2300,13 +2300,13 @@ Saizi ya picha kwenye kitufe inaweza tu kuwekwa kwa chaguo-msingi tatu.
 
 #### Aina ya Kitufe
 
-Seva ya BTPay inajua majimbo matatu ya Kitufe cha Kulipa.
+Seva ya BTCPay inajua majimbo matatu ya Kitufe cha Kulipa.
 
 
 - Kiasi kisichobadilika
   - Bei iliyowekwa hapo awali iko katika mipangilio ya jumla ya kitufe.
 - Kiasi Maalum
-  - Kitufe cha Kulipa cha Seva ya BTPay kina + na - hugeuza ili kuweka bei maalum.
+  - Kitufe cha Kulipa cha Seva ya BTCPay kina + na - hugeuza ili kuweka bei maalum.
   - Unapotumia kiasi maalum, Seva ya BTCPay itaomba Dakika, Max, na jinsi inavyopaswa kuongezeka hatua kwa hatua.
   - Vifungo vinaweza kuwekwa kuwa “Tumia Mtindo Rahisi wa ingizo “.Hii huondoa Vigeuzi vya +/-.
   - Kitufe cha Fit ndani ya mstari ambapo kitufe na vigeuza huonekana ndani ya mstari.
@@ -2324,7 +2324,7 @@ IPN ya Seva (Arifa ya Malipo ya Papo Hapo) inakusudiwa viboreshaji vya wavuti na
 
 #### Arifa za Barua pepe
 
-Wakati wowote malipo yanapofanyika, Seva ya BTPay inaweza kumjulisha mwenye duka.
+Wakati wowote malipo yanapofanyika, Seva ya BTCPay inaweza kumjulisha mwenye duka.
 
 #### Ielekeze upya kivinjari
 
@@ -2332,7 +2332,7 @@ Mteja atakapokamilisha ununuzi, ataelekezwa kwenye kiungo hiki ikiwa kimewekwa n
 
 #### Chaguo za Kitufe cha Malipo ya Juu
 
-Bainisha vigezo vya ziada vya mfuatano wa hoja ambavyo vinapaswa kuongezwa kwenye ukurasa wa kulipa mara tu Invoice inapoundwa. Kwa mfano, `lang=da-DK` ingepakia ukurasa wa kulipa katika Kidenmaki kwa chaguo-msingi.
+Bainisha vigezo vya ziada vya mfuatano wa hoja ambavyo vinapaswa kuongezwa kwenye ukurasa wa kulipa mara tu Anwani ya ununuzi inapoundwa. Kwa mfano, `lang=da-DK` ingepakia ukurasa wa kulipa katika Kidenmaki kwa chaguo-msingi.
 
 #### Tumia Programu kama Mwisho
 
@@ -2344,7 +2344,7 @@ Wamiliki wa duka wanaweza kubofya menyu kunjuzi na kuchagua Programu wanayotaka;
 
 Kwa vile kitufe cha Malipo cha Seva ya BTCPay ni HTML inayoweza kupachikwa kwa Urahisi, Seva ya BTCPay inaonyesha msimbo uliotolewa ili kunakili kwenye tovuti iliyo chini baada ya kusanidi kitufe cha Malipo.
 
-Wamiliki wa maduka wanaweza kunakili msimbo uliozalishwa kwenye tovuti yao, na kitufe cha Malipo kutoka kwa Seva ya BTPay kinatumika moja kwa moja kwenye tovuti yao.
+Wamiliki wa maduka wanaweza kunakili msimbo uliozalishwa kwenye tovuti yao, na kitufe cha Malipo kutoka kwa Seva ya BTCPay kinatumika moja kwa moja kwenye tovuti yao.
 
 #### Arifa za Malipo
 
@@ -2360,7 +2360,7 @@ Mteja atakapokamilisha ununuzi, ataelekezwa kwenye kiungo hiki ikiwa kimewekwa n
 
 #### Chaguo za Kitufe cha Malipo ya Juu
 
-Bainisha vigezo vya ziada vya mfuatano wa hoja ambavyo vinapaswa kuongezwa kwenye ukurasa wa kulipa mara tu Invoice inapoundwa. Kwa mfano, `lang=da-DK` ingepakia ukurasa wa kulipa katika Kidenmaki kwa chaguo-msingi.
+Bainisha vigezo vya ziada vya mfuatano wa hoja ambavyo vinapaswa kuongezwa kwenye ukurasa wa kulipa mara tu Anwani ya ununuzi inapoundwa. Kwa mfano, `lang=da-DK` ingepakia ukurasa wa kulipa katika Kidenmaki kwa chaguo-msingi.
 
 #### Tumia Programu kama Mwisho
 
@@ -2368,70 +2368,70 @@ Unganisha moja kwa moja kitufe cha malipo kwenye bidhaa katika mojawapo ya progr
 
 #### Msimbo Uliotolewa
 
-Kwa vile kitufe cha Malipo cha Seva ya BTCPay ni HTML inayoweza kupachikwa kwa Urahisi, Seva ya BTCPay inaonyesha msimbo uliotolewa ili kunakili kwenye tovuti iliyo chini baada ya kusanidi kitufe cha Malipo. Wamiliki wa maduka wanaweza kunakili msimbo uliozalishwa kwenye tovuti yao na kitufe cha Malipo kutoka kwa Seva ya BTPay kinatumika moja kwa moja kwenye tovuti yao.
+Kwa vile kitufe cha Malipo cha Seva ya BTCPay ni HTML inayoweza kupachikwa kwa Urahisi, Seva ya BTCPay inaonyesha msimbo uliotolewa ili kunakili kwenye tovuti iliyo chini baada ya kusanidi kitufe cha Malipo. Wamiliki wa maduka wanaweza kunakili msimbo uliozalishwa kwenye tovuti yao na kitufe cha Malipo kutoka kwa Seva ya BTCPay kinatumika moja kwa moja kwenye tovuti yao.
 
 ### Muhtasari wa Ujuzi
 
 Katika sehemu hii umejifunza:
 
 
-- Jinsi ya kutumia programu-jalizi iliyojumuishwa ya BTPay Server ili kuunda duka maalum kwa urahisi
-- Jinsi ya kutumia programu-jalizi iliyojumuishwa ya BTCPay Server ili kuunda programu maalum ya kukusanya pesa kwa urahisi
+- Jinsi ya kutumia programu-jalizi iliyojumuishwa ya BTPay Seva ili kuunda duka maalum kwa urahisi
+- Jinsi ya kutumia programu-jalizi iliyojumuishwa ya BTCPay Seva ili kuunda programu maalum ya kukusanya pesa kwa urahisi
 - Inazalisha msimbo wa kitufe maalum cha kulipa kwa kutumia programu-jalizi ya Kitufe cha Kulipa
 
 ### Tathmini ya maarifa
 
 #### Ukaguzi wa KA
 
-Je, ni programu jalizi tatu zilizojengewa ndani ambazo huja kawaida na Seva ya BTPay? Kwa maneno machache, eleza jinsi kila moja inaweza kutumika.
+Je, ni programu jalizi tatu zilizojengewa ndani ambazo huja kawaida na Seva ya BTCPay? Kwa maneno machache, eleza jinsi kila moja inaweza kutumika.
 
-# Inasanidi Seva ya BTPay
+# Inasanidi Seva ya BTCPay
 
 <partId>ff38596c-7de3-5e5c-ba50-9b9edbbbb5eb</partId>
 
-## Uelewa wa kimsingi wa kusakinisha Seva ya BTPay kwenye mazingira ya LunaNode
+## Uelewa wa kimsingi wa kusakinisha Seva ya BTCPay kwenye mazingira ya LunaNodi
 
 <chapterId>d0a28514-ffcf-529b-9156-29141f0b060a</chapterId>
 
-### Inasakinisha Seva ya BTPay kwenye Env Iliyopangishwa. (LunaNode)
+### Inasakinisha Seva ya BTCPay kwenye Env Iliyopangishwa. (LunaNodi)
 
-Hatua hizi zitatoa taarifa zote muhimu ili kuanza kutumia Seva ya BTPay kwenye LunaNode. Kuna chaguzi nyingi za jinsi ya kusambaza programu.
+Hatua hizi zitatoa taarifa zote muhimu ili kuanza kutumia Seva ya BTCPay kwenye LunaNodi. Kuna chaguzi nyingi za jinsi ya kusambaza programu.
 
 Unaweza kupata maelezo yote ya Seva ya BTCPay katika https://docs.btcpayserver.org.
 
 #### Tunaanzia wapi?
 
-Katika sehemu hii, utajifahamisha na LunaNode kama mtoa huduma mwenyeji, ujifunze kuhusu hatua za kwanza za kutumia Seva yako ya BTCPay, na ujifunze jinsi ya kutumia Lightning Network. Baada ya kupitia hatua zote, unaweza kuendesha webshop au jukwaa la watu wengi kupokea Bitcoin!
+Katika sehemu hii, utajifahamisha na LunaNodi kama mtoa huduma mwenyeji, ujifunze kuhusu hatua za kwanza za kutumia Seva yako ya BTCPay, na ujifunze jinsi ya kutumia Lightning Network. Baada ya kupitia hatua zote, unaweza kuendesha webshop au jukwaa la watu wengi kupokea Bitcoin!
 
 Hii ni mojawapo ya njia nyingi za kupeleka Seva ya BTCPay. Soma nyaraka zetu kwa maelezo zaidi,
 
 https://docs.btcpayserver.org.
 
-### Seva ya BTCPay - Usambazaji wa LunaNode
+### Seva ya BTCPay - Usambazaji wa LunaNodi
 
-#### Usambazaji wa LunaNode
+#### Usambazaji wa LunaNodi
 
 Kwanza, nenda kwenye tovuti ya LunaNode.com, ambapo tutaunda akaunti mpya. Bofya kwenye Jisajili juu kulia au tumia kichawi cha Anza kwenye ukurasa wao wa nyumbani.
 
 ![image](assets/en/111.webp)
 
-Baada ya kuunda akaunti yako mpya, LunaNode hutuma barua pepe ya uthibitishaji. Mara tu unapothibitisha akaunti, ikilinganishwa na Voltage, utawasilishwa mara moja ili kuongeza salio la akaunti yako. Salio hili linahitajika ili kulipia nafasi ya seva na gharama za upangishaji.
+Baada ya kuunda akaunti yako mpya, LunaNodi hutuma barua pepe ya uthibitishaji. Mara tu unapothibitisha akaunti, ikilinganishwa na Voltage, utawasilishwa mara moja ili kuongeza salio la akaunti yako. Salio hili linahitajika ili kulipia nafasi ya seva na gharama za upangishaji.
 
 ![image](assets/en/112.webp)
 
-#### Ongeza mkopo kwa akaunti yako ya LunaNode
+#### Ongeza mkopo kwa akaunti yako ya LunaNodi
 
-Mara tu unapobofya "Salio la amana", unaweza kuweka kiasi unachotaka kuongeza akaunti yako na jinsi unavyotaka kulipia. LunaNode na Seva ya BTCPay itagharimu kati ya 10$USD na 20$USD p/m.
+Mara tu unapobofya "Salio la amana", unaweza kuweka kiasi unachotaka kuongeza akaunti yako na jinsi unavyotaka kulipia. LunaNodi na Seva ya BTCPay itagharimu kati ya 10$USD na 20$USD p/m.
 
-Ikilinganishwa na Voltage.cloud, unapata ufikiaji kamili kwa Seva yako ya Kibinafsi ya Mtandao (VPS kuanzia hapa kuendelea) na kwa hivyo una udhibiti zaidi juu ya seva yako. Baada ya kuunda akaunti yako mpya, LunaNode hutuma barua pepe ya uthibitishaji.
+Ikilinganishwa na Voltage.cloud, unapata ufikiaji kamili kwa Seva yako ya Kibinafsi ya Mtandao (VPS kuanzia hapa kuendelea) na kwa hivyo una udhibiti zaidi juu ya seva yako. Baada ya kuunda akaunti yako mpya, LunaNodi hutuma barua pepe ya uthibitishaji.
 
 Mara tu unapothibitisha akaunti, ikilinganishwa na Voltage, sasa utawasilishwa mara moja ili kuongeza salio la akaunti yako. Salio hili linahitajika ili kulipia nafasi ya seva na gharama ya upangishaji.
 
 #### Jinsi ya kupeleka seva mpya?
 
-Katika mwongozo huu, tutapitia usanidi kwa kuunda seti ya funguo za API na kutumia kizindua cha Seva ya BTPay kilichoundwa na LunaNode.
+Katika mwongozo huu, tutapitia usanidi kwa kuunda seti ya funguo za API na kutumia kizindua cha Seva ya BTCPay kilichoundwa na LunaNodi.
 
-Katika dashibodi yako ya LunaNode, bofya API katika sehemu ya juu kulia. Hii inafungua ukurasa mpya. Tunapaswa tu kuweka Jina la ufunguo wa API. Zingine zitatunzwa na LunaNode na hazitashughulikiwa katika mwongozo huu. Bofya kitufe cha Unda Kitambulisho cha API.
+Katika dashibodi yako ya LunaNodi, bofya API katika sehemu ya juu kulia. Hii inafungua ukurasa mpya. Tunapaswa tu kuweka Jina la ufunguo wa API. Zingine zitatunzwa na LunaNodi na hazitashughulikiwa katika mwongozo huu. Bofya kitufe cha Unda Kitambulisho cha API.
 
 Baada ya kuunda sifa za API, unapata safu ndefu ya herufi na wahusika. Huu ndio ufunguo wako wa API.
 
@@ -2447,27 +2447,27 @@ Rudi kwenye ukurasa na Kizinduzi, jaza sehemu kwa ufunguo wako wa API na Kitambu
 
 ![image](assets/en/114.webp)
 
-Katika hatua inayofuata, unaweza kutoa jina la kikoa. Ikiwa tayari unamiliki kikoa na ungependa kutumia hii kwa Seva ya BTPay, hakikisha pia umeongeza rekodi ya DNS (Inayoitwa rekodi ya `A`) kwenye kikoa chako. Ikiwa humiliki kikoa, tumia kikoa kilichotolewa na LunaNode badala yake (unaweza kubadilisha hii baadaye katika mipangilio ya Seva ya BTCPay) na ubofye Endelea.
+Katika hatua inayofuata, unaweza kutoa jina la kikoa. Ikiwa tayari unamiliki kikoa na ungependa kutumia hii kwa Seva ya BTCPay, hakikisha pia umeongeza rekodi ya DNS (Inayoitwa rekodi ya `A`) kwenye kikoa chako. Ikiwa humiliki kikoa, tumia kikoa kilichotolewa na LunaNodi badala yake (unaweza kubadilisha hii baadaye katika mipangilio ya Seva ya BTCPay) na ubofye Endelea.
 
-Soma zaidi kuhusu kuweka au kubadilisha rekodi ya DNS kwa Seva ya BTPay; https://docs.btcpayserver.org/FAQ/Deployment/#how-to-change-your-btcpay-server-domain-name
+Soma zaidi kuhusu kuweka au kubadilisha rekodi ya DNS kwa Seva ya BTCPay; https://docs.btcpayserver.org/FAQ/Deployment/#how-to-change-your-btcpay-server-domain-name
 
-#### Zindua Seva ya BTPay kwenye LunaNode
+#### Zindua Seva ya BTCPay kwenye LunaNodi
 
 Baada ya kuchukua hatua zilizotangulia, tunaweza kuweka chaguzi zote za seva yetu mpya. Hapa tutachagua Bitcoin (BTC) kama sarafu yetu Inayotumika; tunaweza kuweka barua pepe ili kupata arifa kuhusu vyeti vya usimbaji fiche kwa madhumuni ya kusasisha; hii sio lazima.
 
-Mwongozo huu unalenga kuweka mazingira ya Mainnet (ulimwengu halisi Bitcoin); hata hivyo, LunaNode pia hukuruhusu kuweka hii kwa Testnet au Regtest kwa madhumuni ya maendeleo. Tutaiacha kwenye chaguo la Mainnet kwa mwongozo huu.
+Mwongozo huu unalenga kuweka mazingira ya Mainnet (ulimwengu halisi Bitcoin); hata hivyo, LunaNodi pia hukuruhusu kuweka hii kwa Testnet au Regtest kwa madhumuni ya maendeleo. Tutaiacha kwenye chaguo la Mainnet kwa mwongozo huu.
 
-Chagua utekelezaji wako wa Umeme. LunaNode inatoa utekelezaji mbili tofauti, LND na Core Lightning. Kwa mwongozo huu, tutachukua LND. Kuna tofauti kidogo lakini za kweli katika utekelezaji wote; kwa zaidi juu ya hili, tunapendekeza kusoma nyaraka za kina; https://docs.btcpayserver.org/LightningNetwork#getting-started-with-btcpay-server-and-core-lightning-cln
+Chagua utekelezaji wako wa Umeme. LunaNodi inatoa utekelezaji mbili tofauti, LND na Core Lightning. Kwa mwongozo huu, tutachukua LND. Kuna tofauti kidogo lakini za kweli katika utekelezaji wote; kwa zaidi juu ya hili, tunapendekeza kusoma nyaraka za kina; https://docs.btcpayserver.org/LightningNetwork#getting-started-with-btcpay-server-and-core-lightning-cln
 
 ![image](assets/en/115.webp)
 
-LunaNode inatoa mipango mingi ya Mashine ya kweli (VM). Hizi ni tofauti katika safu za bei na vipimo vya seva. Kwa mwongozo huu, mpango wa m2 utatosha; hata hivyo, ikiwa umeweka tiki zaidi ya Bitcoin kama sarafu, zingatia kutumia angalau m4.
+LunaNodi inatoa mipango mingi ya Mashine ya kweli (VM). Hizi ni tofauti katika safu za bei na vipimo vya seva. Kwa mwongozo huu, mpango wa m2 utatosha; hata hivyo, ikiwa umeweka tiki zaidi ya Bitcoin kama sarafu, zingatia kutumia angalau m4.
 
 Kuharakisha maingiliano ya awali ya Blockchain; hii ni hiari na inategemea mahitaji yako. Kuna chaguzi za hali ya juu kama kuweka Lakabu ya Umeme, inayoelekeza kwenye toleo maalum la GitHub, au kuweka funguo za SSH; hakuna kati ya hizi kitakachoguswa katika mwongozo huu.
 
-Baada ya kujaza fomu, lazima ubofye Zindua VM, na Lunanode itaanza kuunda VM yako mpya, ikijumuisha Seva ya BTPay iliyosakinishwa juu yake. Utaratibu huu unachukua dakika kadhaa; seva yako ikiwa tayari, LunaNode hukupa kiunga cha Seva yako mpya ya BTPay.
+Baada ya kujaza fomu, lazima ubofye Zindua VM, na Lunanodi itaanza kuunda VM yako mpya, ikijumuisha Seva ya BTCPay iliyosakinishwa juu yake. Utaratibu huu unachukua dakika kadhaa; seva yako ikiwa tayari, LunaNodi hukupa kiunga cha Seva yako mpya ya BTCPay.
 
-Baada ya mchakato wa uundaji, bofya kiungo kwa Seva yako ya BTPay; hapa, utaulizwa kuunda akaunti ya Msimamizi.
+Baada ya mchakato wa uundaji, bofya kiungo kwa Seva yako ya BTCPay; hapa, utaulizwa kuunda akaunti ya Msimamizi.
 
 ![image](assets/en/116.webp)
 
@@ -2476,7 +2476,7 @@ Baada ya mchakato wa uundaji, bofya kiungo kwa Seva yako ya BTPay; hapa, utauliz
 Katika sehemu hii umejifunza:
 
 
-- Kuunda na kufadhili akaunti kwenye LunaNode
+- Kuunda na kufadhili akaunti kwenye LunaNodi
 - Kwa kutumia Kizinduzi cha Seva ya BTCPay kuunda seva yako mwenyewe
 
 ### Tathmini ya maarifa
@@ -2485,7 +2485,7 @@ Katika sehemu hii umejifunza:
 
 Eleza baadhi ya tofauti kati ya kuendesha mfano wa Seva ya BTCPay kwenye VPS dhidi ya kuunda akaunti kwenye tukio lililopangishwa.
 
-## Kufunga Seva ya BTPay kwenye mazingira ya Voltage
+## Kufunga Seva ya BTCPay kwenye mazingira ya Voltage
 
 <chapterId>11c7d284-b4d2-5542-872c-df9bd9c1491b</chapterId>
 
@@ -2505,21 +2505,21 @@ Baada ya kutengeneza akaunti, bofya kitufe cha `NODES` kwenye dashibodi yako. Ma
 
 ![image](assets/en/118.webp)
 
-Hapa itabidi uchague ni aina gani ya nodi ya Umeme unayotaka. Voltage ina chaguzi mbalimbali za usanidi wako wa taa. Hii ni tofauti wakati wa kupeleka na, kwa mfano, LunaNode. Kwa nia ya mwongozo huu, Nodi ya Lite itatosha. Soma zaidi juu ya tofauti katika Voltage.cloud.
+Hapa itabidi uchague ni aina gani ya nodi ya Umeme unayotaka. Voltage ina chaguzi mbalimbali za usanidi wako wa taa. Hii ni tofauti wakati wa kupeleka na, kwa mfano, LunaNodi. Kwa nia ya mwongozo huu, Nodi ya Lite itatosha. Soma zaidi juu ya tofauti katika Voltage.cloud.
 
 ![image](assets/en/119.webp)
 
 Ipe nodi yako Jina, weka nenosiri, na ulinde nenosiri hili. Nenosiri hili likipotea, utapoteza ufikiaji wa nakala zako, na Voltage haiwezi kuirejesha. Unda nodi, na Voltage inakuonyesha maendeleo. Voltage imeunda Njia yako ya Umeme. Sasa tunaweza kuunda mfano wa Seva ya BTCPay na kufikia moja kwa moja Lightning Network.
 
-Bofya kwenye Nodi kwenye sehemu ya juu kushoto ya dashibodi yako. Hapa unaweza kusanidi sehemu inayofuata ya mfano wako wa Seva ya BTPay. Bofya "unda mpya" mara tu unapokuwa kwenye muhtasari wa nodi. Unapata skrini sawa na hapo awali. Sasa badala ya Njia ya Umeme, tunachagua Seva ya BTCPay.
+Bofya kwenye Nodi kwenye sehemu ya juu kushoto ya dashibodi yako. Hapa unaweza kusanidi sehemu inayofuata ya mfano wako wa Seva ya BTCPay. Bofya "unda mpya" mara tu unapokuwa kwenye muhtasari wa nodi. Unapata skrini sawa na hapo awali. Sasa badala ya Njia ya Umeme, tunachagua Seva ya BTCPay.
 
-Voltage hukuonyesha eneo la Seva yako ya BTCPay, vipangishi vya volteji katika eneo la Marekani Magharibi. Hapa utaona pia gharama ya kukaribisha seva. Bofya Unda na upe Seva yako ya BTCPay jina. Washa Umeme na Voltage hukuonyesha nodi ya Umeme iliyoundwa katika hatua ya awali. Bofya Unda, na Voltage itaunda mfano wa Seva ya BTPay.
+Voltage hukuonyesha eneo la Seva yako ya BTCPay, vipangishi vya volteji katika eneo la Marekani Magharibi. Hapa utaona pia gharama ya kukaribisha seva. Bofya Unda na upe Seva yako ya BTCPay jina. Washa Umeme na Voltage hukuonyesha nodi ya Umeme iliyoundwa katika hatua ya awali. Bofya Unda, na Voltage itaunda mfano wa Seva ya BTCPay.
 
 ![image](assets/en/120.webp)
 
 Baada ya kugonga kuunda, Voltage hukuletea jina la mtumiaji na nenosiri chaguo-msingi. Hizi ni sawa na nenosiri lako la awali lililowekwa kwenye Voltage. Bofya kitufe cha Ingia kwenye Akaunti ili kukuelekeza kwenye Seva yako ya BTCPay.
 
-Karibu kwa mfano wako mpya wa Seva ya BTPay. Kama vile tayari tumeweka Umeme katika mchakato wa uundaji, inakuonyesha Umeme umewezeshwa tayari!
+Karibu kwa mfano wako mpya wa Seva ya BTCPay. Kama vile tayari tumeweka Umeme katika mchakato wa uundaji, inakuonyesha Umeme umewezeshwa tayari!
 
 ### Muhtasari wa Ujuzi
 
@@ -2533,13 +2533,13 @@ Katika sura hii umejifunza:
 
 #### Uhakiki wa Dhana ya KA
 
-Ni tofauti gani kuu kati ya usanidi wa Voltage na LunaNode?
+Ni tofauti gani kuu kati ya usanidi wa Voltage na LunaNodi?
 
-## Kufunga Seva ya BTPay kwenye nodi ya Umbrel
+## Kufunga Seva ya BTCPay kwenye nodi ya Umbrel
 
 <chapterId>3298e292-6476-5fe0-836c-7fa021348799</chapterId>
 
-Kufikia mwisho wa hatua hizi, unaweza kukubali malipo ya umeme kwenye duka lako la BTPay kwenye mtandao wa ndani. Utaratibu huu pia utatumika ikiwa utaendesha nodi ya mwavuli katika mkahawa wa s au biashara. Ikiwa ungependa kuunganisha duka hili kwenye tovuti ya umma, fuata zoezi la Kina ili kufichua nodi yako ya mwavuli kwa umma.
+Kufikia mwisho wa hatua hizi, unaweza kukubali malipo ya umeme kwenye duka lako la BTCPay kwenye mtandao wa ndani. Utaratibu huu pia utatumika ikiwa utaendesha nodi ya mwavuli katika mkahawa wa s au biashara. Ikiwa ungependa kuunganisha duka hili kwenye tovuti ya umma, fuata zoezi la Kina ili kufichua nodi yako ya mwavuli kwa umma.
 
 https://umbrel.com/
 
@@ -2547,11 +2547,11 @@ https://umbrel.com/
 
 ### Seva ya BTCPay - Usambazaji wa mwavuli
 
-Baada ya nodi yako ya Umbrel kusawazisha kikamilifu na Bitcoin Blockchain, nenda kwenye Umbrel App Store, na utafute Seva ya BTPay chini ya Programu.
+Baada ya nodi yako ya Umbrel kusawazisha kikamilifu na Bitcoin Blockchain, nenda kwenye Umbrel App Store, na utafute Seva ya BTCPay chini ya Programu.
 
 ![image](assets/en/122.webp)
 
-Bofya kwenye Seva ya BTCPay ili kuona maelezo ya Programu. Wakati maelezo yamefunguliwa kwa Seva ya BTPay, sehemu ya chini kulia inaonyesha mahitaji ya Programu kufanya kazi vizuri. Inaonyesha inahitaji Bitcoin na nodi ya Umeme. Ikiwa haujasakinisha Njia ya Umeme kwenye Mwavuli wako, bofya Sakinisha. Utaratibu huu unaweza kuchukua dakika kadhaa.
+Bofya kwenye Seva ya BTCPay ili kuona maelezo ya Programu. Wakati maelezo yamefunguliwa kwa Seva ya BTCPay, sehemu ya chini kulia inaonyesha mahitaji ya Programu kufanya kazi vizuri. Inaonyesha inahitaji Bitcoin na nodi ya Umeme. Ikiwa haujasakinisha Njia ya Umeme kwenye Mwavuli wako, bofya Sakinisha. Utaratibu huu unaweza kuchukua dakika kadhaa.
 
 ![image](assets/en/123.webp)
 
@@ -2559,13 +2559,13 @@ Baada ya kusanidi Nodi yako ya umeme:
 
 1. Bofya fungua katika maelezo ya programu au kwenye Programu kwenye dashibodi ya Umbrels.
 
-2. Bonyeza kuanzisha node mpya; utaonyeshwa maneno 24 ya kurejesha nodi yako ya umeme.
+2. Bonyeza kuanzisha nodi mpya; utaonyeshwa maneno 24 ya kurejesha nodi yako ya umeme.
 
 3. Andika haya.
 
 ![image](assets/en/124.webp)
 
-Mwavuli utaomba uthibitisho wa maneno yaliyoandikwa hivi punde. Baada ya nodi ya Umeme kuanzishwa, rudi kwenye Hifadhi ya Programu ya Umbrel na upate Seva ya BTPay. Bofya kwenye kitufe cha kusakinisha, na Umbrel itaonyesha ikiwa vipengele vinavyohitajika vimesakinishwa na kwamba Seva ya BTPay inahitaji kufikia vipengele hivi. Baada ya kusakinisha, bofya Fungua sehemu ya juu kulia ya maelezo ya Programu au ufungue Seva ya BTPay kupitia dashibodi yako ya Umbrels.
+Mwavuli utaomba uthibitisho wa maneno yaliyoandikwa hivi punde. Baada ya nodi ya Umeme kuanzishwa, rudi kwenye Hifadhi ya Programu ya Umbrel na upate Seva ya BTCPay. Bofya kwenye kitufe cha kusakinisha, na Umbrel itaonyesha ikiwa vipengele vinavyohitajika vimesakinishwa na kwamba Seva ya BTCPay inahitaji kufikia vipengele hivi. Baada ya kusakinisha, bofya Fungua sehemu ya juu kulia ya maelezo ya Programu au ufungue Seva ya BTCPay kupitia dashibodi yako ya Umbrels.
 
 Mwavuli utaomba uthibitisho wa maneno yaliyoandikwa hivi punde.
 
@@ -2575,7 +2575,7 @@ Mwavuli utaomba uthibitisho wa maneno yaliyoandikwa hivi punde.
 
 Hakikisha umezihifadhi katika eneo linalofaa kama vile ulivyojifunza hapo awali kwa kutumia funguo za kuhifadhi.
 
-Baada ya nodi ya Umeme kuanzishwa, rudi kwenye Hifadhi ya Programu ya Umbrel na upate Seva ya BTPay. Bofya kwenye kitufe cha kusakinisha, na Umbrel itaonyesha ikiwa vipengele vinavyohitajika vimesakinishwa na kwamba Seva ya BTPay inahitaji kufikia vipengele hivi.
+Baada ya nodi ya Umeme kuanzishwa, rudi kwenye Hifadhi ya Programu ya Umbrel na upate Seva ya BTCPay. Bofya kwenye kitufe cha kusakinisha, na Umbrel itaonyesha ikiwa vipengele vinavyohitajika vimesakinishwa na kwamba Seva ya BTCPay inahitaji kufikia vipengele hivi.
 
 ![image](assets/en/126.webp)
 
