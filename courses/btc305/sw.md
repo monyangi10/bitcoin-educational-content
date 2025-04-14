@@ -1233,15 +1233,15 @@ Kwa kutumia chaguo la kujaza haraka, Seva ya BTCPay itajaza mapema sehemu za sev
 Kwa sheria za Barua pepe, mmiliki wa duka anaweza kuweka matukio maalum ili kuanzisha barua pepe kwa anwani mahususi za barua pepe.
 
 
-- Invoice Imeundwa
-- Invoice Imepokea Malipo
-- Uchakataji wa Invoice
-- Muda wa Invoice Umekwisha
-- Invoice Imewekwa
-- Invoice ni Batili
-- Malipo ya Invoice Yamekamilika
+- Anwani ya ununuzi Imeundwa
+- Anwani ya ununuzi Imepokea Malipo
+- Uchakataji wa Anwani ya ununuzi
+- Muda wa Anwani ya ununuzi Umekwisha
+- Anwani ya ununuzi Imewekwa
+- Anwani ya ununuzi ni Batili
+- Malipo ya Anwani ya ununuzi Yamekamilika
 
-Ikiwa mteja ametoa Barua pepe ya Address, vichochezi hivi vinaweza pia kutuma maelezo kwa mteja. Wamiliki wa duka wanaweza kujaza mapema laini ya Mada ili kuweka wazi kwa nini Barua pepe hii ilitokea na ni kisababishi gani kiliisababisha.
+Ikiwa mteja ametoa Barua pepe ya Anwani, vichochezi hivi vinaweza pia kutuma maelezo kwa mteja. Wamiliki wa duka wanaweza kujaza mapema laini ya Mada ili kuweka wazi kwa nini Barua pepe hii ilitokea na ni kisababishi gani kiliisababisha.
 
 ![image](assets/en/67.webp)
 
@@ -1253,11 +1253,11 @@ Wakati wa kuunda fomu mpya, Seva ya BTCPay itafungua dirisha jipya kuomba maelez
 
 ![image](assets/en/68.webp)
 
-Baada ya mmiliki wa duka kuipa fomu jina, unaweza pia kugeuza swichi ya "Ruhusu fomu itumike kwa umma" hadi KUWASHA, na itakuwa Green. Hii ni ili fomu itumike katika kila sehemu inayowakabili wateja. Kwa mfano, ikiwa mmiliki wa duka ataunda Invoice 1 tofauti si kupitia Sehemu yake ya Uuzaji, bado anaweza kutaka kukusanya maelezo kutoka kwa mteja; kugeuza huku kuwa ON huruhusu habari hiyo kukusanywa.
+Baada ya mmiliki wa duka kuipa fomu jina, unaweza pia kugeuza swichi ya "Ruhusu fomu itumike kwa umma" hadi KUWASHA, na itakuwa Kijani. Ili fomu itumike katika kila sehemu inayowakabili wateja. Kwa mfano, ikiwa mmiliki wa duka ataunda Anwani ya ununuzi 1 tofauti si kupitia Sehemu yake ya Uuzaji, bado anaweza kutaka kukusanya maelezo kutoka kwa mteja; kugeuza huku kuwa ON huruhusu habari hiyo kukusanywa.
 
 ![image](assets/en/69.webp)
 
-Kila fomu huanza na angalau sehemu 1 ya fomu Mpya. Mmiliki wa duka anaweza kuchagua aina ya uwanja inapaswa kuwa;
+Kila fomu huanza na angalau sehemu 1 ya fomu Mpya. Mmiliki wa duka anaweza kuchagua aina ya uwanja unaopaswa kuwa;
 
 
 - Maandishi
@@ -1278,52 +1278,52 @@ Kila aina inakuja na vigezo vyake vya kujaza. Mmiliki wa duka anaweza kuiweka kw
 
 #### Fomu maalum za hali ya juu
 
-Seva ya BTPay pia hukuruhusu kuunda Fomu kwa nambari. JSON, haswa. Badala ya kuangalia kihariri, wamiliki wa duka wanaweza kubofya kitufe cha CODE karibu kabisa na kihariri na kuingia katika msimbo wa Fomu zao. Katika ufafanuzi wa uga, ni sehemu zifuatazo pekee ndizo zinazoweza kuwekwa; thamani za sehemu zimehifadhiwa katika metadata ya Invoice:
+Seva ya BTCPay pia hukuruhusu kuunda Fomu kwa nambari. JSON, haswa. Badala ya kuangalia kihariri, wamiliki wa duka wanaweza kubofya kitufe cha CODE karibu kabisa na kihariri na kuingia katika msimbo wa Fomu zao. Katika ufafanuzi wa uga, ni sehemu zifuatazo pekee ndizo zinazoweza kuwekwa; thamani za sehemu zimehifadhiwa katika metadata ya Anwani ya ununuzi:
 
 | Uwanja | Maelezo |
 
 | --------------------- | ---------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------- |
 
-| .shamba.mara kwa mara | Ikiwa ndivyo, .thamani lazima iwekwe katika ufafanuzi wa fomu, na mtumiaji hataweza kubadilisha thamani ya sehemu hiyo. ( mfano: toleo la ufafanuzi wa fomu) |
+| .uwanja.mara kwa mara | Ukiwa ndivyo, .thamani lazima uwekwe katika ufafanuzi wa fomu, na mtumiaji hataweza kubadilisha thamani ya sehemu hiyo. ( mfano: toleo la ufafanuzi wa fomu) |
 
-| .fields.aina | Maandishi ya aina ya ingizo ya HTML, redio, kisanduku cha kuteua, nenosiri, siri, kitufe, rangi, tarehe, tarehe-ndani, mwezi, wiki, saa, barua pepe, nambari, masafa, tafuta, url, chagua, simu |
+| .Viwanja.aina | Maandishi ya aina ya ingizo ya HTML, redio, kisanduku cha kuteua, nenosiri, siri, kitufe, rangi, tarehe, tarehe-ndani, mwezi, wiki, saa, barua pepe, nambari, masafa, tafuta, url, chagua, simu |
 
-| .fields.chaguzi | Ikiwa .fields.type imechaguliwa, orodha ya thamani zinazoweza kuchaguliwa |
+| .Viwanja.chaguzi | Ikiwa .Viwanja.aina vimechaguliwa, orodha ya thamani zinazoweza kuchaguliwa |
 
-| .fields.options.text | Maandishi yanayoonyeshwa kwa chaguo hili |
+| .Viwanja.chaguo.meseji | Maandishi yanayoonyeshwa kwa chaguo hili |
 
-| .fields.options.value | Thamani ya uga ikiwa chaguo hili limechaguliwa |
+| .viwanja.Chaguo.thamani | Thamani ya uga ikiwa chaguo hili limechaguliwa |
 
-| .fields.type=fieldset | Unda mpangilio wa uga wa HTML karibu na watoto .fields.fields (tazama hapa chini) |
+| .viwanja.aina= uwanja uliowekwa | Unda mpangilio wa uga wa HTML karibu na watoto .viwanja.viwanja (tazama hapa chini) |
 
-| .fields.jina | Jina la sifa ya JSON la sehemu kama litakavyoonekana kwenye metadata ya Invoice |
+| .viwanja.jina | Jina la sifa ya JSON la sehemu kama litakavyoonekana kwenye metadata ya Anwani ya ununuzi |
 
-| .fields.value | Thamani chaguomsingi ya sehemu |
+| .viwanja.thamani | Thamani chaguomsingi ya sehemu |
 
-| .shamba.zinahitajika | ikiwa ni kweli, sehemu itahitajika |
+| .shamba.linahitajika | ikiwa ni kweli, sehemu itahitajika |
 
-| .fields.lebo | Lebo ya uwanja |
+| .viwanja.alama | alama ya uwanja |
 
-| .fields.helpText | Maandishi ya ziada ili kutoa maelezo ya uga.                                                                                                                                                                                                                                                                                                                                                                                                           |
+| .viwanja.msaada wa meseji | Maandishi ya ziada ili kutoa maelezo ya uga.                                                                                                                                                                                                                                                                                                                                                                                                           |
 
-| .viwanja.viwanja | Unaweza kupanga uga zako katika daraja, ukiruhusu sehemu za watoto kuwekwa ndani ya metadata ya Invoice. Muundo huu unaweza kukusaidia kupanga na kudhibiti vyema taarifa iliyokusanywa, na kuifanya iwe rahisi kufikia na kutafsiri. Kwa mfano, ikiwa una fomu inayokusanya taarifa za mteja, unaweza kupanga sehemu chini ya sehemu kuu inayoitwa mteja. Katika sehemu hii ya mzazi, unaweza kuwa na sehemu za watoto kama vile jina, Barua pepe, na Address. |
+| .viwanja.viwanja | Unaweza kupanga uga zako katika daraja, ukiruhusu sehemu za watoto kuwekwa ndani ya metadata ya Anwani ya ununuzi. Muundo huu unaweza kukusaidia kupanga na kudhibiti vyema taarifa iliyokusanywa, na kuifanya iwe rahisi kufikia na kutafsiri. Kwa mfano, ikiwa una fomu inayokusanya taarifa za mteja, unaweza kupanga sehemu chini ya sehemu kuu inayoitwa mteja. Katika sehemu hii ya mzazi, unaweza kuwa na sehemu za watoto kama vile jina, Barua pepe, na Anwani. |
 
-Jina la sehemu hiyo linawakilisha jina la sifa ya JSON ambalo huhifadhi thamani iliyotolewa na mtumiaji katika metadata ya Invoice. Majina mengine yanayojulikana yanaweza kufasiriwa na kurekebisha mipangilio ya Invoice.
+Jina la sehemu hiyo linawakilisha jina la sifa ya JSON ambalo huhifadhi thamani iliyotolewa na mtumiaji katika metadata ya Anwani ya ununuzi. Majina mengine yanayojulikana yanaweza kufasiriwa na kurekebisha mipangilio ya Anwani ya ununuzi.
 
 | Jina la uwanja | Maelezo |
 
 | ---------------- | ---------------------- |
 
-| ankara_kiasi | Kiasi cha Invoice |
+| ankara_kiasi | Kiasi cha Anwani ya ununuzi |
 
-| ankara_fedha | Sarafu ya Invoice |
+| ankara_fedha | Sarafu ya Anwani ya ununuzi |
 
-Unaweza kujaza mapema sehemu za Invoice kiotomatiki kwa kuongeza mifuatano ya hoja kwenye URL ya fomu, kama vile "?your_field=value".
+Unaweza kujaza mapema sehemu za Anwani ya ununuzi kiotomatiki kwa kuongeza mifuatano ya hoja kwenye URL ya fomu, kama vile "?wako_uwanja=thamani".
 
 Hapa kuna baadhi ya matukio ya matumizi ya kipengele hiki:
 
 
-- Kusaidia ingizo la mtumiaji: Jaza mapema sehemu na taarifa za mteja zinazojulikana ili iwe rahisi kwao kujaza fomu. Kwa mfano, ikiwa tayari unajua barua pepe ya mteja Address, unaweza kujaza sehemu ya barua pepe mapema ili kuokoa muda.
+- Kusaidia ingizo la mtumiaji: Jaza mapema sehemu na taarifa za mteja zinazojulikana ili iwe rahisi kwao kujaza fomu. Kwa mfano, ikiwa tayari unajua barua pepe ya mteja na anwani, unaweza kujaza sehemu ya barua pepe mapema ili kuokoa muda.
 - Kubinafsisha: Weka mapendeleo ya fomu kulingana na mapendeleo ya mteja au sehemu. Kwa mfano, ikiwa una viwango tofauti vya wateja, unaweza kujaza fomu mapema na data husika, kama vile kiwango chao cha uanachama au matoleo mahususi.
 - Ufuatiliaji: Fuatilia chanzo cha kutembelewa na wateja kwa kutumia sehemu zilizofichwa na thamani zilizojazwa awali. Kwa mfano, unaweza kuunda viungo vilivyo na thamani za utm_media zilizojazwa awali kwa kila kituo cha uuzaji (k.m., Twitter, Facebook, Barua pepe). Hii hukusaidia kuchanganua ufanisi wa juhudi zako za uuzaji.
 - Jaribio la A/B: Jaza mapema sehemu zenye thamani tofauti ili kujaribu matoleo tofauti ya fomu, kukuwezesha kuboresha hali ya utumiaji na viwango vya ubadilishaji.
@@ -1334,7 +1334,7 @@ Katika sehemu hii, umejifunza yafuatayo:
 
 
 - Mpangilio na utendakazi wa vichupo katika Mipangilio ya Duka
-- Chaguzi nyingi za kurekebisha ushughulikiaji wa viwango vya msingi vya Exchange, malipo kiasi, malipo kidogo ya chini, na zaidi.
+- Chaguzi nyingi za kurekebisha ushughulikiaji wa viwango vya msingi vya Ubadilishanaji, malipo kiasi, malipo kidogo ya chini, na zaidi.
 - Geuza kukufaa mwonekano wa malipo, ikiwa ni pamoja na msururu mkuu unaotegemea bei dhidi ya kuwasha umeme kwenye ankara.
 - Dhibiti viwango vya ufikiaji wa duka na ruhusa katika majukumu yote.
 - Sanidi barua pepe otomatiki na vichochezi vyake
@@ -1348,13 +1348,13 @@ Kuna tofauti gani kati ya Mipangilio ya Duka na Mipangilio ya Seva?
 
 #### KA Dhahania
 
-Eleza baadhi ya chaguo unazoweza kuchagua katika Muonekano wa Malipo > Mipangilio ya Invoice, na kwa nini.
+Eleza baadhi ya chaguo unazoweza kuchagua katika Muonekano wa Malipo > Mipangilio ya Anwani za ununuzi, na kwa nini.
 
-## Seva ya BTPay - Mipangilio ya seva
+## Seva ya BTCPay - Mipangilio ya seva
 
 <chapterId>1dd858a2-49ea-586b-9bc1-75a65f508df6</chapterId>
 
-Seva ya BTPay ina mionekano miwili tofauti ya mipangilio. Moja imejitolea kwa mipangilio ya Hifadhi na nyingine kwa mipangilio ya Seva. Mwisho unapatikana tu ikiwa wewe ni Msimamizi wa Seva na si kwa wamiliki wa maduka. Wasimamizi wa seva wanaweza kuongeza watumiaji, kuunda majukumu maalum, kusanidi seva ya barua pepe, kuweka sera, kuendesha kazi za ukarabati, kuangalia huduma zote zilizoambatishwa kwenye Seva ya BTCPay, kupakia faili kwenye seva, au kuangalia Kumbukumbu.
+Seva ya BTCPay ina mionekano miwili tofauti ya mipangilio. Moja imejitolea kwa mipangilio ya Hifadhi na nyingine kwa mipangilio ya Seva. Mwisho unapatikana tu ikiwa wewe ni Msimamizi wa Seva na si kwa wamiliki wa maduka. Wasimamizi wa seva wanaweza kuongeza watumiaji, kuunda majukumu maalum, kusanidi seva ya barua pepe, kuweka sera, kuendesha kazi za ukarabati, kuangalia huduma zote zilizoambatishwa kwenye Seva ya BTCPay, kupakia faili kwenye seva, au kuangalia Kumbukumbu.
 
 ### Watumiaji
 
@@ -1362,7 +1362,7 @@ Kama ilivyotajwa sehemu iliyopita, Wasimamizi wa Seva wanaweza kuwaalika watumia
 
 ### Majukumu maalum ya seva
 
-Seva ya BTCPay inajua aina mbili za majukumu maalum, majukumu maalum ya duka na majukumu maalum ya seva nzima katika mipangilio ya Seva ya BTCPay. Wote wanashikilia seti sawa ya ruhusa; hata hivyo, ikiwekwa kupitia kichupo cha Mipangilio ya Seva ya BTCpay - Majukumu, jukumu linalotumika litakuwa pana la seva na litatumika kwa maduka mengi. Angalia lebo ya "Pana Seva" kwa majukumu maalum katika mipangilio ya Seva.
+Seva ya BTCPay inajua aina mbili za majukumu maalum, majukumu maalum ya duka na majukumu maalum ya seva nzima katika mipangilio ya Seva ya BTCPay. Wote wanashikilia seti sawa ya ruhusa; hata hivyo, ikiwekwa kupitia kichupo cha Mipangilio ya Seva ya BTCpay - Majukumu, jukumu linalotumika litakuwa pana la seva na litatumika kwa maduka mengi. Angalia alama ya "Pana Seva" kwa majukumu maalum katika mipangilio ya Seva.
 
 ![image](assets/en/71.webp)
 
@@ -1372,14 +1372,14 @@ Seti ya ruhusa ya majukumu maalum ya seva nzima;
 
 
 - Rekebisha maduka yako.
-- Dhibiti akaunti za Exchange zilizounganishwa na maduka yako.
-  - Tazama akaunti za Exchange zilizounganishwa kwenye maduka yako.
+- Dhibiti akaunti za Ubadilishanaji zilizounganishwa na maduka yako.
+  - Tazama akaunti za Ubadilishanaji zilizounganishwa kwenye maduka yako.
 - Dhibiti malipo yako ya kuvuta.
 - Unda malipo ya kuvuta.
   - Unda malipo ya kuvuta yasiyoidhinishwa.
 - Rekebisha ankara.
   - Tazama ankara.
-  - Unda Invoice.
+  - Unda Anwani ya ununuzi.
   - Unda ankara kutoka kwa nodi za umeme zinazohusiana na maduka yako.
 - Tazama maduka yako.
   - Tazama ankara.
@@ -1390,9 +1390,9 @@ Seti ya ruhusa ya majukumu maalum ya seva nzima;
 - Tumia nodi za umeme zinazohusiana na maduka yako.
   - Tazama ankara za umeme zinazohusishwa na maduka yako.
   - Unda ankara kutoka kwa nodi za umeme zinazohusiana na maduka yako.
-- Weka pesa kwenye akaunti za Exchange zilizounganishwa na maduka yako.
-- Toa pesa kutoka kwa akaunti za Exchange hadi kwenye duka lako.
-- Pesa za biashara kwenye akaunti za duka lako za Exchange.
+- Weka pesa kwenye akaunti za Ubadilishanaji zilizounganishwa na maduka yako.
+- Toa pesa kutoka kwa akaunti za Ubadilishanaji hadi kwenye duka lako.
+- Pesa za biashara kwenye akaunti za duka lako za Ubadilishanaji.
 
 **!?Kumbuka!?**
 
@@ -1400,13 +1400,13 @@ Jukumu linapoundwa, jina hurekebishwa na haliwezi kubadilishwa baada yake katika
 
 ### Barua pepe
 
-Mipangilio ya Barua pepe ya Seva nzima inaonekana sawa na ile iliyo katika mipangilio ya barua pepe mahususi ya Duka. Hata hivyo, usanidi huu haushughulikii tu vichochezi vya hifadhi au kumbukumbu za msimamizi. Usanidi huu wa Barua pepe pia hurahisisha urejeshaji nenosiri kwenye Seva ya BTPay katika Ingia. Inafanya kazi sawa na mipangilio mahususi ya Duka; wasimamizi wanaweza kujaza kwa haraka vigezo vyao vya Barua pepe na kuweka kitambulisho chao cha barua pepe, na seva sasa inaweza kutuma barua pepe.
+Mipangilio ya Barua pepe ya Seva nzima inaonekana sawa na ile iliyo katika mipangilio ya barua pepe mahususi ya Duka. Hata hivyo, usanidi huu haushughulikii tu vichochezi vya hifadhi au kumbukumbu za msimamizi. Usanidi huu wa Barua pepe pia hurahisisha urejeshaji nenosiri kwenye Seva ya BTCPay katika Ingia. Inafanya kazi sawa na mipangilio mahususi ya Duka; wasimamizi wanaweza kujaza kwa haraka vigezo vyao vya Barua pepe na kuweka kitambulisho chao cha barua pepe, na seva sasa inaweza kutuma barua pepe.
 
 ![image](assets/en/72.webp)
 
 ### Sera
 
-Wasimamizi wa sera za Seva ya BTPay wanaweza kuweka mipangilio fulani kwenye mada kama vile Mipangilio Iliyopo ya Mtumiaji, Mipangilio ya Watumiaji Wapya, Mipangilio ya Arifa na Mipangilio ya Matengenezo. Hizi zimekusudiwa kusajili watumiaji wapya kama msimamizi au watumiaji wa kawaida au hata kuficha Seva ya BTPay kutoka kwa injini za utafutaji kwa kuongeza kwenye kichwa cha seva yako.
+Wasimamizi wa sera za Seva ya BTCPay wanaweza kuweka mipangilio fulani kwenye mada kama vile Mipangilio Iliyopo ya Mtumiaji, Mipangilio ya Watumiaji Wapya, Mipangilio ya Arifa na Mipangilio ya Matengenezo. Hizi zimekusudiwa kusajili watumiaji wapya kama msimamizi au watumiaji wa kawaida au hata kuficha Seva ya BTCPay kutoka kwa injini za utafutaji kwa kuongeza kwenye kichwa cha seva yako.
 
 ![image](assets/en/73.webp)
 
@@ -1416,11 +1416,11 @@ Chaguo zinazopatikana hapa ni tofauti na majukumu maalum. Ruhusa hizi za ziada z
 
 
 - Ruhusu wasio wasimamizi kutumia nodi ya ndani ya Umeme katika maduka yao.
-  - Hii ingeruhusu wamiliki wa duka kutumia nodi ya Umeme ya Msimamizi wa seva na, kwa hivyo, pesa zake! Jihadharini, hii sio suluhisho la kutoa ufikiaji wa Umeme.
+  - Hii ingeruhusu wamiliki wa duka kutumia nodi ya Umeme ya Msimamizi wa seva na, kwa hivyo, pesa zake! Jihadharini, hili sio suluhisho la kutoa ufikiaji wa Umeme.
 - Ruhusu wasio wasimamizi kuunda pochi za Hot kwa ajili ya maduka yao.
-  - Hili litamruhusu mtu yeyote aliye na akaunti kwenye mfano wako wa Seva ya BTPay kuunda pochi za Hot na kuhifadhi urejeshaji wake wa seed kwenye seva ya Msimamizi. Hili linaweza kumfanya Msimamizi awajibike kwa kumiliki fedha za wahusika wengine!
+  - Hili litamruhusu mtu yeyote aliye na akaunti kwa mfano wako wa Seva ya BTCPay kuunda pochi za Hot na kuhifadhi urejeshaji wake wa mbegu kwenye seva ya Msimamizi. Hili linaweza kumfanya Msimamizi awajibike kwa kumiliki fedha za wahusika wengine!
 - Ruhusu wasio wasimamizi kuagiza pochi za Hot kwa maduka yao.
-  - Sawa na mada ya awali ya kuunda pochi za Hot, sera hii inaruhusu kuagiza Hot Wallet, yenye hatari sawa zilizotajwa katika sehemu ya kuunda pochi za Hot.
+  - Sawa na mada ya awali ya kuunda pochi za Hot, sera hii inaruhusu kuagiza Pochi za Hot, zenye hatari sawa zilizotajwa katika sehemu ya kuunda pochi za Hot.
 
 ![image](assets/en/74.webp)
 
@@ -1434,7 +1434,7 @@ Tunaweza kuweka mipangilio muhimu ili kudhibiti watumiaji wapya wanaokuja kwenye
 - Zima usajili wa mtumiaji mpya kwenye seva
 - Zima ufikiaji wa wasio wasimamizi kwa sehemu ya mwisho ya API ya kuunda mtumiaji.
 
-Kwa chaguo-msingi, Seva ya BTPay imewasha Zima usajili wa mtumiaji mpya na kuzima ufikiaji wa wasio wasimamizi kwenye sehemu ya mwisho ya API ya kuunda mtumiaji. Hii ni nje ya kipengele cha usalama ambapo hakuna mtu wa nasibu ambaye amepata Njia ya Kuingia ya BTCPay ya seva yako anayeweza kuanza kuunda akaunti.
+Kwa chaguo-msingi, Seva ya BTCPay imewasha Zima usajili wa mtumiaji mpya na kuzima ufikiaji wa wasio wasimamizi kwenye sehemu ya mwisho ya API ya kuunda mtumiaji. Hii ni nje ya kipengele cha usalama ambapo hakuna mtu wa nasibu ambaye amepata Njia ya Kuingia ya BTCPay ya seva yako anayeweza kuanza kuunda akaunti.
 
 ![image](assets/en/75.webp)
 
@@ -1444,10 +1444,10 @@ Kwa chaguo-msingi, Seva ya BTPay imewasha Zima usajili wa mtumiaji mpya na kuzim
 
 #### Mipangilio ya Matengenezo
 
-Seva ya BTPay ni mradi wa Open Source unaoishi kwenye GitHub. Wakati wowote Seva ya BTCPay inapotoa toleo jipya la programu, Wasimamizi wanaweza kuarifiwa kuwa toleo jipya linapatikana. Wasimamizi pia wanaweza kutaka kukatisha tamaa injini za utafutaji (google, yahoo, duckduckgo) zisionyeshe kikoa cha Seva ya BTCPay katika faharasa. Kwa vile Seva ya BTCPay ni FOSS, wasanidi programu duniani kote wanaweza kutaka kuunda vipengele vipya; Seva ya BTCPay ina kipengele cha majaribio inapowashwa, na msimamizi anaweza kutumia vipengele ambavyo bado havikusudiwa kwa uzalishaji, kwa madhumuni ya majaribio.
+Seva ya BTCPay ni mradi wa chanzo wazi unaoishi kwenye GitHub. Wakati wowote Seva ya BTCPay inapotoa toleo jipya la programu, Wasimamizi wanaweza kuarifiwa kuwa toleo jipya linapatikana. Wasimamizi pia wanaweza kutaka kukatisha tamaa injini za utafutaji (google, yahoo, duckduckgo) zisionyeshe kikoa cha Seva ya BTCPay katika faharasa. Kwa vile Seva ya BTCPay ni FOSS, wasanidi programu duniani kote wanaweza kutaka kuunda vipengele vipya; Seva ya BTCPay ina kipengele cha majaribio inapowashwa, na msimamizi anaweza kutumia vipengele ambavyo bado havikusudiwa kwa uzalishaji, kwa madhumuni ya majaribio.
 
 
-- Angalia matoleo kwenye GitHub na uarifu wakati toleo jipya la Seva ya BTPay linapatikana.
+- Angalia matoleo kwenye GitHub na uarifu wakati toleo jipya la Seva ya BTCPay linapatikana.
 - Kataza injini za utafutaji kuorodhesha tovuti hii
 - Washa vipengele vya majaribio.
 
@@ -1455,7 +1455,7 @@ Seva ya BTPay ni mradi wa Open Source unaoishi kwenye GitHub. Wakati wowote Seva
 
 #### Programu-jalizi
 
-Seva ya BTPay inaweza kuongeza programu-jalizi na kupanua seti yake ya vipengele. Programu-jalizi, kwa chaguomsingi, hupakiwa kutoka kwenye hazina ya kijenzi cha programu-jalizi ya Seva ya BTPay. Msimamizi, hata hivyo, anaweza kuchagua kuona programu-jalizi katika hali ya kutolewa Mapema, na ikiwa msanidi programu-jalizi ataruhusu, msimamizi wa seva sasa anaweza kusakinisha matoleo ya beta ya programu-jalizi.
+Seva ya BTCPay inaweza kuongeza programu-jalizi na kupanua seti yake ya vipengele. Programu-jalizi, kwa chaguomsingi, hupakiwa kutoka kwenye hazina ya kijenzi cha programu-jalizi ya Seva ya BTCPay. Msimamizi, hata hivyo, anaweza kuchagua kuona programu-jalizi katika hali ya kutolewa Mapema, na ikiwa msanidi programu-jalizi ataruhusu, msimamizi wa seva sasa anaweza kusakinisha matoleo ya beta ya programu-jalizi.
 
 ![image](assets/en/78.webp)
 
@@ -1477,21 +1477,21 @@ Utekelezaji wa kawaida wa Seva ya BTCPay utaweza kufikiwa kupitia kikoa kilichow
 
 #### Zuia wagunduzi
 
-Seva ya BTCPay, kama kawaida, inakuja na Mempool.space kama Block explorer yake kwa miamala. Wakati Seva ya BTCPay inapotengeneza Invoice mpya, na kuna muamala unaohusishwa nayo, mmiliki wa duka anaweza kubofya ili kufungua muamala; Seva ya BTPay itaelekeza kiwango kuelekea Mempool.space kama Block explorer; Msimamizi wa seva anaweza kubadilisha hii kwa upendeleo wake.
+Seva ya BTCPay, kama kawaida, inakuja na Mempool.space kama Block explorer yake kwa miamala. Wakati Seva ya BTCPay inapotengeneza Anwani ya ununuzi mpya, na kuna muamala unaohusishwa nao, mmiliki wa duka anaweza kubofya ili kufungua muamala; Seva ya BTCPay itaelekeza kiwango kuelekea Mempool.space kama Block explorer; Msimamizi wa seva anaweza kubadilisha hii kwa upendeleo wake.
 
 ![image](assets/en/81.webp)
 
 ### Huduma
 
-Mipangilio ya Seva ya BTPay: Kichupo cha Huduma ni muhtasari wa vipengele ambavyo Seva yako ya BTCPay hutumia. Huduma ambazo Seva yako ya BTCPay inafichua zinaweza kutofautiana kulingana na njia ya kupeleka.
+Mipangilio ya Seva ya BTCPay: Kichupo cha Huduma ni muhtasari wa vipengele ambavyo Seva yako ya BTCPay hutumia. Huduma ambazo Seva yako ya BTCPay inafichua zinaweza kutofautiana kulingana na njia ya kupeleka.
 
-Msimamizi wa Seva ya BTPay anaweza kubofya "Angalia habari" nyuma ya kila huduma ili kuifungua na kuweka mipangilio maalum.
+Msimamizi wa Seva ya BTCPay anaweza kubofya "Angalia habari" nyuma ya kila huduma ili kuifungua na kuweka mipangilio maalum.
 
 ![image](assets/en/82.webp)
 
 #### LND (gRPC)
 
-BTCPay inafichua huduma ya LND ya GRPC kwa matumizi ya nje; utapata habari ya uunganisho katika orodha hii maalum ya mipangilio; pochi zinazolingana zimeorodheshwa hapa. Seva ya BTPay pia inatoa msimbo wa QR kwa muunganisho ili kuchanganua na kutumia kwenye simu ya mkononi ya Wallet.
+BTCPay inafichua huduma ya LND ya GRPC kwa matumizi ya nje; utapata habari ya uunganisho katika orodha hii maalum ya mipangilio; pochi zinazolingana zimeorodheshwa hapa. Seva ya BTCPay pia inatoa msimbo wa QR kwa muunganisho ili kuchanganua na kutumia kwenye simu ya mkononi ya Pochi.
 
 Wasimamizi wa seva wanaweza kufungua maelezo zaidi ili kuona;
 
@@ -1500,48 +1500,48 @@ Wasimamizi wa seva wanaweza kufungua maelezo zaidi ili kuona;
 - Matumizi ya SSL
 - Macaroon
 - AdminMacaroon
-- InvoiceMacaroon
+- AnwaniyaununuziMacaroon
 - SomaMacaroon tu
 - GRPC SSL Cipher suite (GRPC_SSL_CIPHER_SUITES)
 
 #### LND (MAPUMZIKO)
 
-BTCPay inafichua huduma ya LND ya REST kwa matumizi ya nje; utapata habari za uunganisho hapa; pochi zinazolingana zimeorodheshwa hapa. Miongoni mwa pochi zinazoendana ni Joule, Alby, na ZeusLN. Seva ya BTPay inatoa msimbo wa QR ili uunganishwe, uchanganue na uitumie katika Wallet inayooana.
+BTCPay inafichua huduma ya LND ya REST kwa matumizi ya nje; utapata habari za uunganisho hapa; pochi zinazolingana zimeorodheshwa hapa. Miongoni mwa pochi zinazoendana ni Joule, Alby, na ZeusLN. Seva ya BTCPay inatoa msimbo wa QR ili uunganishwe, uchanganue na uitumie katika Pochi linalooana.
 
 
 - REST Uri
 - Macaroon
 - AdminMacaroon
-- InvoiceMacaroon
+- AnwaniyaununuziMacaroon
 - SomaMacaroon tu
 
-#### LND seed Backup
+#### LND Mbegu chelezo
 
-Hifadhi rudufu ya LND seed ni muhimu kurejesha pesa kutoka kwa LND Wallet yako iwapo Seva yako itaharibika. Kwa vile nodi ya Umeme ni Hot-Wallet, unaweza kupata maelezo ya siri ya seed kwenye ukurasa huu.
+Hifadhi rudufu ya LND mbegu ni muhimu kurejesha pesa kutoka kwa pochi ya LND yako iwapo Seva yako itaharibika. Kwa vile nodi ya Umeme ni Hot-Wallet, unaweza kupata maelezo ya siri ya mbegu kwenye ukurasa huu.
 
 LND inaandika mchakato wa kurejesha. Tazama https://github.com/lightningnetwork/LND/blob/master/docs/recovery.md kwa uhifadhi.
 
 #### Panda Umeme
 
-Ride the Lightning ni zana ya usimamizi ya nodi ya Umeme iliyojengwa kama programu ya Open Source. Seva ya BTCPay hutumia RTL kama sehemu ya udhibiti wa nodi ya Umeme kwenye rafu yake. Wasimamizi wa Seva ya BTCPay wanaweza kufikia RTL kupitia kichupo cha mipangilio ya Seva - Huduma au kwa kubofya Umeme Wallet.
+Endesha umeme ni zana ya usimamizi ya nodi ya Umeme iliyojengwa kama programu ya chanzo wazi. Seva ya BTCPay hutumia RTL kama sehemu ya udhibiti wa nodi ya Umeme kwenye rafu yake. Wasimamizi wa Seva ya BTCPay wanaweza kufikia RTL kupitia kichupo cha mipangilio ya Seva - Huduma au kwa kubofya pochi ya Umeme.
 
-#### Full node P2P
+#### Nodi kamili P2P
 
-Wasimamizi wa seva wanaweza kutaka kuunganisha nodi yao ya Bitcoin kwenye simu ya mkononi ya Wallet. Ukurasa huu unaonyesha maelezo ya kuunganisha kwa mbali kwa Full node yako kupitia itifaki ya P2P. Tunapoandika kitabu hiki, Seva ya BTCPay imeorodhesha Blockstream Green na Wasabi Wallet kuwa pochi zinazotumika. Seva ya BTPay inatoa msimbo wa QR ili uunganishwe, uchanganue na uitumie katika Wallet inayooana.
+Wasimamizi wa seva wanaweza kutaka kuunganisha nodi yao ya Bitcoin kwenye simu ya mkononi ya Pochi. Ukurasa huu unaonyesha maelezo ya kuunganisha kwa mbali kwa Nodi Kamili yako kupitia itifaki ya P2P. Tunapoandika kitabu hiki, Seva ya BTCPay imeorodhesha kuzuia mkondo kijani na pochi ya Wasabi kuwa pochi zinazotumika. Seva ya BTCPay inatoa msimbo wa QR ili uunganishwe, uchanganue na uitumie katika Pochi inayooana.
 
-#### Full node RPC
+#### Nodi kamili RPC
 
-Ukurasa huu unaonyesha maelezo ya kuunganisha kwa mbali kwa Full node yako kupitia itifaki ya RPC.
+Ukurasa huu unaonyesha maelezo ya kuunganisha kwa mbali kwa Nodi kamili yako kupitia itifaki ya RPC.
 
 #### SSH
 
-SSH inatumika kwa madhumuni ya matengenezo. Seva ya BTPay inaonyesha amri ya awali ya muunganisho ili kufikia Seva yako na funguo za umma za SSH zilizoidhinishwa kuunganisha kwenye Seva yako. Wasimamizi wa Seva wanaweza kutaka kuzima mabadiliko ya SSH kupitia UI ya Seva ya BTCPay.
+SSH inatumika kwa madhumuni ya matengenezo. Seva ya BTCPay inaonyesha amri ya awali ya muunganisho ili kufikia Seva yako na funguo za umma za SSH zilizoidhinishwa kuunganisha kwenye Seva yako. Wasimamizi wa Seva wanaweza kutaka kuzima mabadiliko ya SSH kupitia UI ya Seva ya BTCPay.
 
 #### DNS Inayobadilika
 
-DNS Inayobadilika hukuruhusu kuwa na jina thabiti la DNS linaloelekeza kwenye Seva yako, hata kama IP yako Address inabadilika mara kwa mara. Hii inapendekezwa ikiwa unapangisha Seva ya BTPay nyumbani na ungependa kuwa na kikoa cha clearnet ili kufikia Seva yako.
+DNS Inayobadilika hukuruhusu kuwa na jina thabiti la DNS linaloelekeza kwenye Seva yako, hata kama Anwani ya IP yako inabadilika mara kwa mara. Hii inapendekezwa ikiwa unapangisha Seva ya BTCPay nyumbani na ungependa kuwa na kikoa cha wavu wazi  ili kufikia Seva yako.
 
-Kumbuka kwamba unahitaji kusanidi vyema usakinishaji wako wa NAT na Seva ya BTPay ili kupata cheti cha HTTPS.
+Kumbuka kwamba unahitaji kusanidi vyema usakinishaji wako wa NAT na Seva ya BTCPay ili kupata cheti cha HTTPS.
 
 ### Mandhari
 
@@ -1561,7 +1561,7 @@ Wasimamizi wa seva wanaweza kubadilisha chapa ya Seva ya BTCPay kwa kuweka chapa
 
 Kama msimamizi wa seva, watumiaji wako wanatarajia utunze Seva vizuri. Ndani ya kichupo cha Matengenezo cha Seva ya BTCPay, msimamizi anaweza kufanya matengenezo muhimu. Weka jina la kikoa kwa mfano wa Seva ya BTCPay, Anzisha upya au safisha Seva. Labda muhimu zaidi, endesha sasisho.
 
-Seva ya BTPay ni mradi wa Open Source na husasishwa mara kwa mara. Kila toleo jipya linatangazwa na Arifa za Seva yako ya BTPay au kwenye Vituo rasmi vya Seva ya BTPay inayowasiliana nayo.
+Seva ya BTCPay ni mradi wa Chanzo wazi na husasishwa mara kwa mara. Kila toleo jipya linatangazwa na Arifa za Seva yako ya BTCPay au kwenye Vituo rasmi vya Seva ya BTCPay inayowasiliana nayo.
 
 ![image](assets/en/85.webp)
 
@@ -1573,19 +1573,19 @@ Baada ya Seva ya BTCPay kusanidiwa, msimamizi anaweza kutaka kubadilisha kutoka 
 
 #### Anzisha upya
 
-Anzisha tena Seva ya BTPay na huduma zinazohusiana.
+Anzisha tena Seva ya BTCPay na huduma zinazohusiana.
 
 ![image](assets/en/87.webp)
 
 #### Safi
 
-Seva ya BTCPay inaendesha na vifaa vya Docker; pamoja na masasisho, kunaweza kuwa na mabaki ya picha za Docker, faili za temp, n.k. Wasimamizi wa Seva wanaweza kusafisha hii na kurejesha nafasi kwenye mazingira yao kwa kuendesha Hati Safi.
+Seva ya BTCPay inaendesha na vifaa vya Dokta; pamoja na masasisho, kunaweza kuwa na mabaki ya picha za Dokta, faili za temp, n.k. Wasimamizi wa Seva wanaweza kusafisha hii na kurejesha nafasi kwenye mazingira yao kwa kuendesha Hati Safi.
 
 ![image](assets/en/88.webp)
 
 #### Sasisha
 
-Huenda chaguo muhimu zaidi katika kichupo cha Matengenezo. Seva ya BTCPay imeundwa na jumuiya, na kwa hiyo, mizunguko yake ya sasisho ni ya mara kwa mara kuliko bidhaa nyingi za programu. Wakati Seva ya BTPay ina toleo jipya, wasimamizi wataarifiwa katika vituo vyao vya arifa. Kwa kubofya kitufe cha kusasisha, Seva ya BTPay itaangalia GitHub kwa toleo jipya zaidi, kusasisha Seva na kuzima upya. Kabla ya kusasisha, wasimamizi wa seva wanashauriwa kusoma madokezo ya toleo yanayosambazwa kupitia chaneli rasmi za Seva ya BTCPay.
+Huenda chaguo muhimu zaidi katika kichupo cha Matengenezo. Seva ya BTCPay imeundwa na jumuiya, na kwa hiyo, mizunguko yake ya sasisho ni ya mara kwa mara kuliko bidhaa nyingi za programu. Wakati Seva ya BTCPay ina toleo jipya, wasimamizi wataarifiwa katika vituo vyao vya arifa. Kwa kubofya kitufe cha kusasisha, Seva ya BTCPay itaangalia GitHub kwa toleo jipya zaidi, kusasisha Seva na kuzima upya. Kabla ya kusasisha, wasimamizi wa seva wanashauriwa kusoma vidokezo vya toleo vinavyosambazwa kupitia chaneli rasmi za Seva ya BTCPay.
 
 ![image](assets/en/89.webp)
 
@@ -1605,11 +1605,11 @@ Angalia toleo lako la Seva ya BTCPay ikiwa ni ya zamani zaidi kuliko [toleo la h
 
 ##### Inaanzisha upya seva
 
-Kuanzisha upya Seva yako ni njia rahisi ya kutatua masuala mengi ya kawaida ya Seva ya BTPay. Huenda ukahitaji SSH kwenye Seva yako ili kuianzisha upya.
+Kuanzisha upya Seva yako ni njia rahisi ya kutatua masuala mengi ya kawaida ya Seva ya BTCPay. Huenda ukahitaji SSH kwenye Seva yako ili kuianzisha upya.
 
 ##### Kuanzisha upya huduma
 
-Huenda ukahitaji tu kuanzisha upya huduma fulani katika uwekaji wa Seva yako ya BTPay kwa masuala fulani. Kama vile kuanzisha upya chombo cha lets encrypt ili kufanya upya cheti cha SSL.
+Huenda ukahitaji tu kuanzisha upya huduma fulani katika uwekaji wa Seva yako ya BTCPay kwa masuala fulani. Kama vile kuanzisha upya chombo cha basi simba kwa njia fiche ili kufanya upya cheti cha SSL.
 
 ```bash
 sudo su -
@@ -1617,17 +1617,17 @@ cd btcpayserver-docker
 docker restart letsencrypt-nginx-proxy-companion
 ```
 
-Tumia docker ps kupata jina la huduma tofauti ambayo ungependa kuanzisha upya.
+Tumia dokta ps kupata jina la huduma tofauti ambayo ungependa kuanzisha upya.
 
 #### Kuangalia kupitia magogo
 
 Kumbukumbu inaweza kutoa kipande muhimu cha habari. Katika aya zifuatazo, tutaelezea jinsi ya kupata maelezo ya kumbukumbu kwa sehemu mbalimbali za BTCPay.
 
-##### Kumbukumbu za BTPay
+##### Kumbukumbu za BTCPay
 
-Tangu v1.0.3.8, unaweza kufikia kumbukumbu za Seva ya BTPay kwa urahisi kutoka mwisho wa mbele. Ikiwa wewe ni msimamizi wa seva, nenda kwa Mipangilio ya Seva > Kumbukumbu na ufungue faili ya kumbukumbu. Ikiwa hujui nini hitilafu fulani katika kumbukumbu inamaanisha, itaje wakati wa kutatua matatizo.
+Tangu v1.0.3.8, unaweza kufikia kumbukumbu za Seva ya BTCPay kwa urahisi kutoka mwisho wa mbele. Ikiwa wewe ni msimamizi wa seva, nenda kwa Mipangilio ya Seva > Kumbukumbu na ufungue faili ya kumbukumbu. Ikiwa hujui nini hitilafu fulani katika kumbukumbu inamaanisha, itaje wakati wa kutatua matatizo.
 
-Ikiwa unataka kumbukumbu za kina zaidi na unatumia upelekaji wa Docker, unaweza kutazama kumbukumbu za vyombo maalum vya Docker kwa kutumia safu ya amri. Tazama [maagizo ya ssh](https://docs.btcpayserver.org/FAQ/ServerSettings/#how-to-ssh-into-my-btcpay-running-on-vp%C2%80) katika mfano wa BTCPay inayoendeshwa kwenye VPS.
+Ikiwa unataka kumbukumbu za kina zaidi na unatumia upelekaji wa Dokta, unaweza kutazama kumbukumbu za vyombo maalum vya Dokta kwa kutumia safu ya amri. Tazama [maagizo ya ssh](https://docs.btcpayserver.org/FAQ/ServerSettings/#how-to-ssh-into-my-btcpay-running-on-vp%C2%80) katika mfano wa BTCPay inayoendeshwa kwenye VPS.
 
 Katika ukurasa unaofuata, orodha ya jumla ya majina ya vyombo vinavyotumika kwa Seva ya BTCPay.
 
@@ -1674,7 +1674,7 @@ docker logs --tail 100 generated_btcpayserver_1
 
 ###### Lightning Network LND - Docker
 
-Kuna njia chache za kufikia kumbukumbu zako za LND unapotumia Docker. Kwanza ingia kama mzizi:
+Kuna njia chache za kufikia kumbukumbu zako za LND unapotumia Dokta. Kwanza ingia kama mzizi:
 
 ```bash
 sudo su -
@@ -1735,7 +1735,7 @@ bitcoin-lightning-cli.sh getlog
 
 Kando na [kuangalia kumbukumbu](https://docs.btcpayserver.org/Troubleshooting/#2-looking-through-the-logs) ya chombo chako cha bitcoind, unaweza pia kutumia [amri za bitcoin-cli](https://developer.Bitcoin.org/reference/RPC)/index.html
 
-[(hufungua dirisha jipya)](https://developer.Bitcoin.org/reference/RPC/index.html) ili kupata maelezo kutoka kwa nodi yako ya Bitcoin. BTPay inajumuisha hati ya kukuruhusu kuwasiliana na nodi yako ya Bitcoin kwa urahisi.
+[(hufungua dirisha jipya)](https://developer.Bitcoin.org/reference/RPC/index.html) ili kupata maelezo kutoka kwa nodi yako ya Bitcoin. BTCPay inajumuisha hati ya kukuruhusu kuwasiliana na nodi yako ya Bitcoin kwa urahisi.
 
 Ndani ya folda ya btcpayserver-docker, pata habari ya Blockchain ukitumia nodi yako:
 
@@ -1783,41 +1783,41 @@ Eleza baadhi ya vitendo ambavyo msimamizi anaweza kufanya mara kwa mara katika k
 
 <chapterId>e2b71ff9-3f4f-5e71-9771-8e03fbbef00f</chapterId>
 
-Invoice ni hati ambayo muuzaji hutoa kwa mnunuzi ili kukusanya malipo.
+Anwani ya ununuzi ni hati ambayo muuzaji hutoa kwa mnunuzi ili kukusanya malipo.
 
-Katika Seva ya BTCPay, Invoice inawakilisha hati ambayo lazima ilipwe ndani ya muda uliobainishwa kwa kiwango kisichobadilika cha Exchange. Muda wa kutumia ankara umeisha kwa sababu hufunga kiwango cha Exchange ndani ya muda uliowekwa ili kumlinda mpokeaji kutokana na kushuka kwa bei.
+Katika Seva ya BTCPay, Anwani ya ununuzi inawakilisha hati ambayo lazima ilipwe ndani ya muda uliobainishwa kwa kiwango kisichobadilika cha Ubadilishanaji. Muda wa kutumia ankara umeisha kwa sababu hufunga kiwango cha Ubadilishanaji ndani ya muda uliowekwa ili kumlinda mpokeaji kutokana na kushuka kwa bei.
 
-Msingi wa Seva ya BTCPay ni uwezo wa kufanya kazi kama mfumo wa usimamizi wa Bitcoin Invoice. Invoice ni zana muhimu ya kufuatilia na kudhibiti malipo yaliyopokelewa.
+Msingi wa Seva ya BTCPay ni uwezo wa kufanya kazi kama mfumo wa usimamizi wa Anwani ya ununuzi ya Bitcoin. Anwani ya ununuzi ni zana muhimu ya kufuatilia na kudhibiti malipo yaliyopokelewa.
 
-Isipokuwa utumie [Wallet] iliyojengewa ndani (https://docs.btcpayserver.org/Wallet/) kupokea malipo wewe mwenyewe, malipo yote ndani ya duka yataonyeshwa kwenye ukurasa wa Ankara. Ukurasa huu kwa ujumla hupanga malipo kwa tarehe na ni sehemu kuu ya usimamizi wa Invoice na utatuzi wa malipo.
+Isipokuwa utumie [Wallet] iliyojengewa ndani (https://docs.btcpayserver.org/Wallet/) kupokea malipo wewe mwenyewe, malipo yote ndani ya duka yataonyeshwa kwenye ukurasa wa Ankara. Ukurasa huu kwa ujumla hupanga malipo kwa tarehe na ni sehemu kuu ya usimamizi wa Anwani ya ununuzi na utatuzi wa malipo.
 
 ![image](assets/en/92.webp)
 
 ### Mkuu
 
-#### Hali za Invoice
+#### Hali za Anwani za ununuzi
 
-Jedwali lililo hapa chini linaorodhesha na kufafanua hali za kawaida za Invoice katika BTCPay na kupendekeza vitendo vya kawaida. Vitendo ni mapendekezo tu. Ni juu ya watumiaji kufafanua njia bora zaidi ya matumizi ya kesi na biashara zao.
+Jedwali lililo hapa chini linaorodhesha na kufafanua hali za kawaida za Anwani za ununuzi katika BTCPay na kupendekeza vitendo vya kawaida. Vitendo ni mapendekezo tu. Ni juu ya watumiaji kufafanua njia bora zaidi ya matumizi ya kesi na biashara zao.
 
-| Hali ya Invoice | Maelezo | Kitendo |
+| Hali ya Anwani ya ununuzi | Maelezo | Kitendo |
 
 | -------------------------- | -------------------------------------------------------------- --------------------------------------------------------------- | -------------------------------------------------------- --------------------------------------------------------- |
 
-| Mpya | Haijalipwa, kipima saa cha Invoice bado hakijaisha muda wake | Hakuna |
+| Mpya | Haijalipwa, kipima saa cha Anwani ya ununuzi bado hakijaisha muda wake | Hakuna |
 
-| Mpya (iliyolipwaSehemu) | Imelipwa, haijakamilika, kipima saa cha Invoice bado hakijaisha muda wake | Hakuna |
+| Mpya (iliyolipwaSehemu) | Imelipwa, haijakamilika, kipima saa cha Anwani ya ununuzi bado hakijaisha muda wake | Hakuna |
 
-| Imeisha | Haijalipwa, kipima saa cha Invoice kimekwisha muda | Hakuna |
+| Imeisha | Haijalipwa, kipima saa cha Anwani ya ununuzi kimekwisha muda | Hakuna |
 
-| Muda wake umeisha (paidSehemu) \*\* | Imelipwa, si kwa kiasi kamili, na muda wake umeisha | Wasiliana na mnunuzi ili kupanga kurejeshewa pesa au umwombe alipe ada yake. Weka alama kwa hiari Invoice kama imetulia au batili |
+| Muda wake umeisha (paidSehemu) \*\* | Imelipwa, si kwa kiasi kamili, na muda wake umeisha | Wasiliana na mnunuzi ili kupanga kurejeshewa pesa au umwombe alipe ada yake. Weka alama kwa hiari Anwani ya ununuzi kama imetulia au batili |
 
-| Muda wake umeisha (ilipweLate) | Imelipwa, kwa kiasi kamili, baada ya kipima muda cha Invoice kuisha | Wasiliana na mnunuzi ili kupanga urejeshaji pesa au agizo la kuchakata ikiwa uthibitisho wa marehemu unakubalika.                                    |
+| Muda wake umeisha (ilipweLate) | Imelipwa, kwa kiasi kamili, baada ya kipima muda cha Anwani ya ununuzi kuisha | Wasiliana na mnunuzi ili kupanga urejeshaji pesa au agizo la kuchakata ikiwa uthibitisho wa marehemu unakubalika.                                    |
 
-| Imetulia (paidOver) | Imelipwa zaidi ya kiasi cha Invoice, kilicholipwa, kilipokea kiasi cha kutosha cha uthibitisho | Wasiliana na mnunuzi ili kupanga kurejesha pesa kwa kiasi cha ziada, au kwa hiari subiri mnunuzi awasiliane nawe |
+| Imetulia (paidOver) | Imelipwa zaidi ya kiasi cha Anwani ya ununuzi, kilicholipwa, kilipokea kiasi cha kutosha cha uthibitisho | Wasiliana na mnunuzi ili kupanga kurejesha pesa kwa kiasi cha ziada, au kwa hiari subiri mnunuzi awasiliane nawe |
 
 | Inachakata | Imelipwa kikamilifu, lakini haijapokea kiasi cha kutosha cha uthibitishaji uliobainishwa katika mipangilio ya duka | Wasiliana na mnunuzi ili kupanga kurejesha pesa kwa kiasi cha ziada, au kwa hiari subiri mnunuzi awasiliane nawe |
 
-| Inachakata (paidOver) | Imelipwa zaidi ya kiasi cha Invoice, haijapokea kiasi cha kutosha cha uthibitisho | Subiri ili kusuluhishwa kisha uwasiliane na mnunuzi ili kupanga kurejeshewa pesa kwa kiasi cha ziada, au kwa hiari subiri mnunuzi awasiliane nawe |
+| Inachakata (paidOver) | Imelipwa zaidi ya kiasi cha Anwani ya ununuzi, haijapokea kiasi cha kutosha cha uthibitisho | Subiri ili kusuluhishwa kisha uwasiliane na mnunuzi ili kupanga kurejeshewa pesa kwa kiasi cha ziada, au kwa hiari subiri mnunuzi awasiliane nawe |
 
 | Imetulia | Imelipwa, kwa ukamilifu, ilipokea kiasi cha kutosha cha uthibitisho kwenye duka | Timiza agizo |
 
@@ -1827,67 +1827,67 @@ Jedwali lililo hapa chini linaorodhesha na kufafanua hali za kawaida za Invoice 
 
 | Batili (iliyotiwa alama) | Hali ilibadilishwa mwenyewe hadi batili kutoka hali ya kutatuliwa au iliyoisha muda wake | Msimamizi wa duka ameashiria malipo kuwa batili |
 
-| Batili (paidOver) | Imelipwa zaidi ya kiasi cha Invoice, lakini haikuweza kupokea kiasi cha kutosha cha uthibitishaji ndani ya muda uliobainishwa katika mipangilio ya duka | Angalia muamala kwenye kivumbuzi cha Blockchain, kama kilipata uthibitisho wa kutosha, weka alama kuwa imesuluhishwa |
+| Batili (paidOver) | Imelipwa zaidi ya kiasi cha Anwani ya ununuzi, lakini haikuweza kupokea kiasi cha kutosha cha uthibitishaji ndani ya muda uliobainishwa katika mipangilio ya duka | Angalia muamala kwenye kivumbuzi cha Blockchain, kama kilipata uthibitisho wa kutosha, weka alama kuwa imesuluhishwa |
 
-#### Maelezo ya Invoice
+#### Maelezo ya Anwani ya ununuzi
 
-Ukurasa wa maelezo wa Invoice una taarifa zote zinazohusiana na Invoice.
+Ukurasa wa maelezo wa Anwani ya ununuzi una taarifa zote zinazohusiana na Anwani za ununuzi.
 
-Maelezo ya Invoice huundwa kiotomatiki kulingana na hadhi ya Invoice, kiwango cha Exchange, n.k. Maelezo ya bidhaa huundwa kiotomatiki ikiwa Invoice iliundwa ikiwa na maelezo ya bidhaa, kama vile katika programu ya Sehemu ya Uuzaji.
+Maelezo ya Anwani ya ununuzi huundwa kiotomatiki kulingana na hadhi ya Anwani ya ununuzi, kiwango cha Ubadilishanaji, n.k. Maelezo ya bidhaa huundwa kiotomatiki ikiwa Anwani ya ununuzi iliundwa ikiwa na maelezo ya bidhaa, kama vile katika programu ya Sehemu ya Uuzaji.
 
-#### Invoice kuchuja
+#### Anwani ya ununuzi kuchuja
 
 Ankara zinaweza kuchujwa kupitia vichujio vya haraka vilivyo karibu na kitufe cha kutafuta au vichujio vya kina, ambavyo vinaweza kubadilishwa kwa kubofya kiungo cha (Msaada) kilicho juu. Watumiaji wanaweza kuchuja ankara kulingana na duka, kitambulisho cha agizo, kitambulisho cha bidhaa, hali au tarehe.
 
-#### Usafirishaji wa Invoice
+#### Usafirishaji wa Anwani ya ununuzi
 
-Ankara za Seva ya BTCPay zinaweza kusafirishwa katika umbizo la CSV au JSON. Kwa habari zaidi kuhusu usafirishaji wa Invoice na uhasibu.
+Ankara za Seva ya BTCPay zinaweza kusafirishwa katika umbizo la CSV au JSON. Kwa habari zaidi kuhusu usafirishaji wa Anwani ya ununuzi na uhasibu.
 
-#### Kurejesha fedha kwa Invoice
+#### Kurejesha fedha kwa Anwani ya ununuzi
 
-Ikiwa, kwa sababu yoyote, ungependa kurejesha pesa, unaweza kuunda kwa urahisi kurejesha kutoka kwa mtazamo wa Invoice.
+Ikiwa, kwa sababu yoyote, ungependa kurejesha pesa, unaweza kuunda kwa urahisi kurejesha kutoka kwa mtazamo wa Anwani ya ununuzi.
 
 #### Kuhifadhi ankara
 
-Kutokana na kipengele cha kutotumia tena Address cha Seva ya BTCPay, ni kawaida kuona ankara nyingi ambazo muda wake wa matumizi umekwisha kwenye ukurasa wa duka lako wa Invoice. Ili kuzificha kutoka kwa mwonekano wako, zichague kwenye orodha na uziweke alama kuwa zimehifadhiwa kwenye kumbukumbu. Ankara ambazo zimetiwa alama kuwa zimehifadhiwa hazifutwa. Malipo kwa Invoice iliyohifadhiwa bado yatatambuliwa na Seva yako ya BTCPay (hali ya kulipwaLate). Unaweza kutazama ankara zilizohifadhiwa kwenye kumbukumbu wakati wowote kwa kuchagua ankara zilizowekwa kwenye kumbukumbu kutoka kwenye menyu kunjuzi ya kichujio cha utafutaji.
+Kutokana na kipengele cha kutotumia tena Anwani cha Seva ya BTCPay, ni kawaida kuona ankara nyingi ambazo muda wake wa matumizi umekwisha kwenye ukurasa wa duka lako la Anwani ya ununuzi. Ili kuzificha kutoka kwa mwonekano wako, zichague kwenye orodha na uziweke alama kuwa zimehifadhiwa kwenye kumbukumbu. Ankara ambazo zimetiwa alama kuwa zimehifadhiwa hazifutwa. Malipo kwa Anwani ya ununuzi iliyohifadhiwa bado yatatambuliwa na Seva yako ya BTCPay (hali ya kulipwaLate). Unaweza kutazama ankara zilizohifadhiwa kwenye kumbukumbu wakati wowote kwa kuchagua ankara zilizowekwa kwenye kumbukumbu kutoka kwenye menyu kunjuzi ya kichujio cha utafutaji.
 
 #### Sarafu Chaguomsingi
 
 Sarafu chaguo-msingi ya hifadhi, hii iliwekwa kwenye mchawi wa uundaji duka
 
-#### Ruhusu mtu yeyote kuunda Invoice
+#### Ruhusu mtu yeyote kuunda Anwani ya ununuzi
 
-Unapaswa kuwezesha chaguo hili ikiwa unataka kuruhusu ulimwengu wa nje kuunda ankara katika duka lako. Chaguo hili ni muhimu tu ikiwa unatumia kitufe cha malipo au ikiwa unatoa ankara kupitia API au tovuti ya HTML ya watu wengine. Programu ya PoS imeidhinishwa mapema na haihitaji kuwezeshwa kwa mgeni nasibu kufungua duka lako la POS na kuunda Invoice.
+Unapaswa kuwezesha chaguo hili ikiwa unataka kuruhusu ulimwengu wa nje kuunda ankara katika duka lako. Chaguo hili ni muhimu tu ikiwa unatumia kitufe cha malipo au ikiwa unatoa ankara kupitia API au tovuti ya HTML ya watu wengine. Programu ya PoS imeidhinishwa mapema na haihitaji kuwezeshwa kwa mgeni nasibu kufungua duka lako la POS na kuunda Anwani ya ununuzi.
 
-#### Ongeza ada ya Ziada (ada ya mtandao) kwa Invoice
+#### Ongeza ada ya Ziada (ada ya mtandao) kwa Anwani ya ununuzi
 
 
-- Ikiwa tu mteja atafanya malipo zaidi ya moja kwa Invoice
+- Ikiwa tu mteja atafanya malipo zaidi ya moja kwa Anwani ya ununuzi
 - Kwa kila malipo
 - Usiwahi kuongeza ada ya mtandao
 
-#### Muda wa Invoice utaisha ikiwa kiasi kamili hakijalipwa baada ya .. Dakika.
+#### Muda wa Anwani ya ununuzi utaisha ikiwa kiasi kamili hakijalipwa baada ya .. Dakika.
 
-Kipima muda cha Invoice kimewekwa kuwa dakika 15 kwa chaguo-msingi. Kipima muda ni utaratibu wa ulinzi dhidi ya tete kwa kuwa hufunga kiasi cha fedha za siri kulingana na cryptocurrency hadi viwango vya fiat. Ikiwa mteja halipi Invoice ndani ya muda uliobainishwa, Invoice inachukuliwa kuwa imeisha muda wake. Invoice inachukuliwa kuwa "imelipiwa" punde tu shughuli hiyo inapoonekana kwenye Blockchain (o-uthibitisho) lakini inachukuliwa kuwa "kamili" inapofikia idadi ya uthibitisho aliofafanua mfanyabiashara (kawaida, 1-6). Kipima muda kinaweza kubinafsishwa.
+Kipima muda cha Anwani ya ununuzi kimewekwa kuwa dakika 15 kwa chaguo-msingi. Kipima muda ni utaratibu wa ulinzi dhidi ya tete kwa kuwa hufunga kiasi cha fedha za siri kulingana na cryptocurrency hadi viwango vya pesa za serikali. Ikiwa mteja halipi anwani ya ununuzi ndani ya muda uliobainishwa, Anwani ya ununuzi inachukuliwa kuwa imeisha muda wake. Anwani ya ununuzi inachukuliwa kuwa "imelipiwa" punde tu shughuli hiyo inapoonekana kwenye Blockchain (o-uthibitisho) lakini inachukuliwa kuwa "kamili" inapofikia idadi ya uthibitisho aliofafanua mfanyabiashara (kawaida, 1-6). Kipima muda kinaweza kubinafsishwa.
 
-#### Zingatia Invoice iliyolipwa hata kama kiasi kilicholipwa ni ..% chini ya ilivyotarajiwa.
+#### Zingatia Anwani ya ununuzi iliyolipwa hata kama kiasi kilicholipwa ni ..% chini ya ilivyotarajiwa.
 
-Katika hali ambapo mteja anatumia Exchange Wallet kulipa moja kwa moja kwa Invoice, Exchange inachukua kiasi kidogo cha ada. Hii inamaanisha kuwa Invoice kama hiyo haizingatiwi kukamilika kikamilifu. Invoice inapata hali ya "kulipwa kiasi." Ikiwa mfanyabiashara anataka kukubali ankara ambazo hazilipiwi kidogo, unaweza kuweka kiwango cha asilimia hapa
+Katika hali ambapo mteja anatumia Pochi la ubadilishanaji kulipa moja kwa moja kwa Anwani ya ununuzi, Ubadilishanaji unachukua kiasi kidogo cha ada. Hii inamaanisha kuwa anwani ya ununuzi kama hiyo haizingatiwi kukamilika kikamilifu. anwani ya ununuzi inapata hali ya "kulipwa kiasi." Ikiwa mfanyabiashara anataka kukubali ankara ambazo hazilipiwi kidogo, unaweza kuweka kiwango cha asilimia hapa
 
 ### Maombi
 
-Maombi ya Malipo ni kipengele kinachoruhusu wamiliki wa maduka ya BTPay kuunda ankara za muda mrefu. Fedha hulipwa kwa ombi la malipo kwa kutumia kiwango cha Exchange wakati wa malipo. Hii inaruhusu watumiaji kufanya malipo kwa urahisi wao bila kujadiliana au kuthibitisha viwango vya Exchange na mwenye duka wakati wa malipo.
+Maombi ya Malipo ni kipengele kinachoruhusu wamiliki wa maduka ya BTCPay kuunda ankara za muda mrefu. Fedha hulipwa kwa ombi la malipo kwa kutumia kiwango cha Ubadilishanaji wakati wa malipo. Hii inaruhusu watumiaji kufanya malipo kwa urahisi wao bila kujadiliana au kuthibitisha viwango vya Ubadilishanaji na mwenye duka wakati wa malipo.
 
-Watumiaji wanaweza kulipa maombi kwa sehemu ya malipo. Ombi la malipo litaendelea kuwa halali hadi lilipwe yote au ikiwa mmiliki wa duka atahitaji muda wa mwisho wa matumizi. Anwani hazitumiwi tena. Address mpya inazalishwa kila wakati mtumiaji anapobofya lipa ili kuunda Invoice kwa ombi la malipo.
+Watumiaji wanaweza kulipa maombi kwa sehemu ya malipo. Ombi la malipo litaendelea kuwa halali hadi lilipwe yote au ikiwa mmiliki wa duka atahitaji muda wa mwisho wa matumizi. Anwani hazitumiwi tena. Anwani mpya inazalishwa kila wakati mtumiaji anapobofya lipa ili kuunda Anwani ya ununuzi kwa ombi la malipo.
 
-Wamiliki wa maduka wanaweza kuchapisha maombi ya malipo (au kuhamisha data ya Invoice) kwa ajili ya kuhifadhi rekodi na uhasibu. BTPay huweka lebo kiotomatiki ankara kama Maombi ya Malipo katika orodha ya duka lako ya Invoice.
+Wamiliki wa maduka wanaweza kuchapisha maombi ya malipo (au kuhamisha data ya anwani ya ununuzi) kwa ajili ya kuhifadhi rekodi na uhasibu. BTCPay huweka alama kiotomatiki ankara kama Maombi ya Malipo katika orodha ya duka lako anwani ya ununuzi.
 
 #### Binafsisha Maombi Yako ya Malipo
 
 
-- Kiasi cha Invoice - Weka Kiasi Kilichoombwa cha Malipo
-- Dhehebu - Onyesha Kiasi Ulichoomba katika Fiat au Cryptocurrency
-- Kiasi cha Malipo - Ruhusu malipo moja tu au malipo ya sehemu
+- Kiasi cha anwani ya ununuzi - Weka Kiasi Kilichoombwa cha Malipo
+- Dhehebu - Onyesha Kiasi Ulichoomba katika pesa za serikali au Cryptocurrency
+- Kiasi cha Malipo - Ruhusu malipo mara moja tu au malipo ya sehemu
 - Muda wa Kuisha - Ruhusu malipo hadi tarehe au bila kuisha
 - Maelezo - Kihariri cha Maandishi, Majedwali ya Data, Pachika Picha na Video
 - Mwonekano - Rangi na Mtindo na Mandhari ya CSS
@@ -1906,13 +1906,13 @@ Teua chaguo Ruhusu mpokeaji atengeneze ankara katika madhehebu yake ikiwa ungepe
 
 Bofya Hifadhi & Tazama ili ukague ombi lako la malipo.
 
-BTPay huunda URL ya ombi la malipo. Shiriki URL hii ili kuona ombi lako la malipo. Je, unahitaji nyingi ya ombi sawa? Unaweza kurudia maombi ya malipo kwa kutumia chaguo la Clone kwenye menyu kuu.
+BTCPay huunda URL ya ombi la malipo. Shiriki URL hii ili kuona ombi lako la malipo. Je, unahitaji nyingi ya ombi sawa? Unaweza kurudia maombi ya malipo kwa kutumia chaguo la Clone kwenye menyu kuu.
 
 ![image](assets/en/95.webp)
 
 **ONYO**
 
-Maombi ya malipo yanategemea duka, kumaanisha kila ombi la malipo linahusishwa na duka wakati wa kuunda. Hakikisha kuwa umeunganisha Wallet kwenye duka lako ambalo ombi la malipo ni lake.
+Maombi ya malipo yanategemea duka, kumaanisha kila ombi la malipo linahusishwa na duka wakati wa kuunda. Hakikisha kuwa umeunganisha pochi kwenye duka lako ambalo ombi la malipo ni lake.
 
 #### Ombi Lililolipwa
 
@@ -1947,7 +1947,7 @@ color: white;
 
 ### Vuta malipo
 
-Kijadi, mpokeaji hushiriki Bitcoin Address yake kufanya malipo ya Bitcoin, na mtumaji baadaye hutuma pesa kwa Address hii. Mfumo kama huo unaitwa Push payment, kwani mtumaji huanzisha malipo huku mpokeaji asipatikane, hivyo basi kusukuma malipo kwa mpokeaji.
+Kijadi, mpokeaji hushiriki Anwani ya Bitcoin yake kufanya malipo ya Bitcoin, na mtumaji baadaye hutuma pesa kwa Anwani hii. Mfumo kama huo unaitwa malipo ya kusukumiwa, kwani mtumaji huanzisha malipo huku mpokeaji asipatikane, hivyo basi kusukuma malipo kwa mpokeaji.
 
 Hata hivyo, vipi kuhusu kubadili jukumu hilo?
 
@@ -1955,10 +1955,10 @@ Je, ikiwa, badala ya mtumaji kushinikiza malipo, mtumaji anamruhusu mpokeaji kuc
 
 
 - Huduma ya usajili (ambapo mteja huruhusu huduma kuvuta pesa kila x ya muda)
-- Marejesho (ambapo mfanyabiashara anamruhusu mteja kurejesha pesa kwenye Wallet yake anapoona inafaa)
-- Malipo ya muda kwa wafanyakazi huru (ambapo mtu anayeajiri huruhusu mfanyakazi huru kuvuta pesa kwenye Wallet yake kadri muda unavyoripotiwa)
+- Marejesho (ambapo mfanyabiashara anamruhusu mteja kurejesha pesa kwenye Pochi yake anapoona inafaa)
+- Malipo ya muda kwa wafanyakazi huru (ambapo mtu anayeajiri huruhusu mfanyakazi huru kuvuta pesa kwenye Pochi lake kadri muda unavyoripotiwa)
 - Ufadhili (ambapo mlinzi huruhusu mpokeaji kukusanya pesa kila mwezi ili kuendelea kusaidia kazi zao)
-- Uuzaji otomatiki (ambapo mteja wa Exchange angeruhusu Exchange kuvuta pesa kutoka kwa Wallet yao ili kuuza kila mwezi kiotomatiki)
+- Uuzaji otomatiki (ambapo mteja wa Ubadilishanaji angeruhusu ubadilishanaji kuvuta pesa kutoka kwa Pochi lao ili kuuza kila mwezi kiotomatiki)
 - Mfumo wa kutoa salio (ambapo huduma ya kiwango cha juu huruhusu watumiaji kuomba uondoaji kutoka kwa salio lao, huduma inaweza kujumuisha malipo yote kwa watumiaji wengi kwa vipindi vilivyowekwa)
 
 ### Malipo
@@ -1967,7 +1967,7 @@ Utendaji wa malipo unahusishwa na [Vuta Malipo](https://docs.btcpayserver.org/Pu
 
 #### Mfano 1: Rudisha pesa
 
-Wacha tuanze na mfano wa kurejesha pesa. Mteja amenunua bidhaa kwenye duka lako lakini inasikitisha kwamba lazima akurudishe. Wanataka kurejeshewa pesa. Ndani ya BTCPay, unaweza kuunda [Refund](https://docs.btcpayserver.org/Refund/) na kumpa mteja kiungo cha kudai pesa zake. Wakati wowote mteja atakapotoa Address yake na kudai pesa, itaonyeshwa kwenye Malipo.
+Wacha tuanze na mfano wa kurejesha pesa. Mteja amenunua bidhaa kwenye duka lako lakini inasikitisha kwamba lazima akurudishe. Wanataka kurejeshewa pesa. Ndani ya BTCPay, unaweza kuunda [Refund](https://docs.btcpayserver.org/Refund/) na kumpa mteja kiungo cha kudai pesa zake. Wakati wowote mteja atakapotoa Anwani yake na kudai pesa, itaonyeshwa kwenye Malipo.
 
 Hadhi ya kwanza iliyonayo ni Inangoja Idhini. Makarani wa duka wanaweza kuangalia ikiwa wengi wanasubiri, na baada ya kufanya uteuzi, unatumia kitufe cha Vitendo.
 
@@ -1978,7 +1978,7 @@ Chaguzi kwenye kitufe cha kitendo
 - Idhinisha na utume malipo uliyochagua
 - Ghairi malipo uliyochagua
 
-Hatua inayofuata ni Kuidhinisha na kutuma malipo uliyochagua kwani tunataka kumrejeshea mteja pesa. Angalia Address ya Mteja, inaonyesha kiasi na ikiwa tunataka ada zipunguzwe kutoka kwa kurejesha pesa au la. Ukishafanya ukaguzi, kusaini tu muamala ndio kunasalia.
+Hatua inayofuata ni Kuidhinisha na kutuma malipo uliyochagua kwani tunataka kumrejeshea mteja pesa. Angalia Anwani ya Mteja, inaonyesha kiasi na ikiwa tunataka ada zipunguzwe kutoka kwa kurejesha pesa au la. Ukishafanya ukaguzi, kusaini tu muamala ndio kunasalia.
 
 Mteja sasa anasasishwa kwenye ukurasa wa Madai. Anaweza kufuata muamala kwa vile amepewa kiungo cha Block explorer na muamala wake. Mara tu muamala umethibitishwa, na hali itabadilika kuwa Imekamilika.
 
@@ -1988,9 +1988,9 @@ Sasa hebu tuingie kwenye malipo ya Mshahara, kwani hii inaendeshwa kutoka ndani 
 
 Nenda kwenye kichupo cha Vuta Malipo kwenye seva yako ya BTCPay. Katika sehemu ya juu kulia, bofya Kitufe cha Unda Vuta Malipo.
 
-Sasa tuko katika uundaji wa Malipo, ipe jina na kiasi unachotaka kwa sarafu inayotaka, jaza Maelezo, ili mfanyakazi ajue inahusu nini. Sehemu inayofuata ni sawa na kurejesha pesa. Mfanyakazi anajaza Lengwa la Address na kiasi anachotaka kudai kutoka kwa Malipo haya. Anaweza kuamua kufanya madai 2 tofauti, kwa anwani tofauti, au hata kudai kwa sehemu juu ya umeme.
+Sasa tuko katika uundaji wa Malipo, ipe jina na kiasi unachotaka kwa sarafu inayotaka, jaza Maelezo, ili mfanyakazi ajue inahusu nini. Sehemu inayofuata ni sawa na kurejesha pesa. Mfanyakazi anajaza Lengwa la Anwani na kiasi anachotaka kudai kutoka kwa Malipo haya. Anaweza kuamua kufanya madai 2 tofauti, kwa anwani tofauti, au hata kudai kwa sehemu juu ya umeme.
 
-Iwapo kuna Malipo mengi yanayosubiri, unaweza kuyaunganisha ili yatiwe saini na kutuma. Baada ya kusainiwa, malipo huhamishiwa kwenye kichupo Inaendelea na uonyeshe Muamala. Inapokubaliwa na mtandao, malipo huhamishiwa kwenye kichupo Kimekamilika. Kichupo kilichokamilika ni kwa madhumuni ya kihistoria tu. Inashikilia Malipo yaliyochakatwa na muamala ambayo ni yake
+Iwapo kuna Malipo mengi yanayosubiri, unaweza kuyaunganisha ili yatiwe saini na kutuma. Baada ya kutiwa sahihi, malipo huhamishiwa kwenye kichupo Inaendelea na uonyeshe Muamala. Inapokubaliwa na mtandao, malipo huhamishiwa kwenye kichupo Kimekamilika. Kichupo kilichokamilika ni kwa madhumuni ya kihistoria tu. Inashikilia Malipo yaliyochakatwa na muamala ambayo ni yake
 
 ### Vuta malipo
 
@@ -2030,8 +2030,8 @@ Kwa kuwa API yetu inafichua uwezo kamili wa malipo ya kawaida, mtumaji anaweza k
 Katika sehemu hii, umejifunza yafuatayo:
 
 
-- Uelewa wa kina wa hali ya Invoice ya Seva ya BTCPay pamoja na hatua zinazoweza kufanywa kwao.
-- Geuza kukufaa na udhibiti mifumo ya muda mrefu ya Invoice inayojulikana kama Maombi.
+- Uelewa wa kina wa hali ya Anwani ya ununuzi ya Seva ya BTCPay pamoja na hatua zinazoweza kufanywa kwao.
+- Geuza kukufaa na udhibiti mifumo ya muda mrefu ya Anwani ya ununuzi inayojulikana kama Maombi.
 - Uwezekano wa ziada wa malipo unaonyumbulika ulifunguliwa kwa kipengele cha kipekee cha Kuvuta Malipo cha Seva ya BTCPay, hasa jinsi ya kushughulikia marejesho ya pesa na malipo ya mishahara.
 
 ### Tathmini ya maarifa
@@ -2050,15 +2050,15 @@ Je, malipo ya kuvuta yanapanukaje juu ya kile ambacho kinaweza kufanywa kwa On-C
 
 ### Programu-jalizi na Programu Chaguomsingi
 
-Seva ya BTCPay inakuja na seti ya kawaida ya Programu-jalizi (Programu) zinazoweza kufanya Seva ya BTCPay kuwa lango la malipo ya e-commerce. Pamoja na nyongeza za Point of sale, jukwaa la Crowdfund, na kitufe rahisi cha Kulipa, Seva ya BTCPay inakuwa suluhisho rahisi kusambaza.
+Seva ya BTCPay inakuja na seti ya kawaida ya Programu-jalizi (Programu) zinazoweza kufanya Seva ya BTCPay kuwa lango la malipo ya e-commerce. Pamoja na nyongeza za hoja ya uuzaji, jukwaa la Crowdfund, na kitufe rahisi cha Kulipa, Seva ya BTCPay inakuwa suluhisho rahisi kusambaza.
 
 ### Sehemu ya Uuzaji
 
-Mojawapo ya programu-jalizi za kawaida za Seva ya BTCPay ni Sehemu ya Uuzaji (PoS). Kwa kutumia programu-jalizi ya PoS, mmiliki wa duka anaweza kuunda Webshop moja kwa moja kutoka kwa Seva ya BTCPay, mmiliki wa duka hahitaji masuluhisho ya biashara ya kielektroniki ya watu wengine ili kuendesha Webshop. Programu ya mtandao ya PoS inaruhusu watumiaji walio na maduka ya matofali na chokaa kukubali kwa urahisi Bitcoin, bila ada au mtu mwingine, moja kwa moja kwa Wallet yao. PoS inaweza kuonyeshwa kwa urahisi kwenye kompyuta ndogo au vifaa vingine vinavyotumia kuvinjari kwa wavuti. Watumiaji wanaweza kuunda kwa urahisi njia ya mkato ya skrini ya nyumbani ili kufikia programu ya wavuti haraka.
+Mojawapo ya programu-jalizi za kawaida za Seva ya BTCPay ni Sehemu ya Uuzaji (PoS). Kwa kutumia programu-jalizi ya PoS, mmiliki wa duka anaweza kuunda Webshop moja kwa moja kutoka kwa Seva ya BTCPay, mmiliki wa duka hahitaji suluhisho ya biashara ya kielektroniki ya watu wengine ili kuendesha Webshop. Programu ya mtandao ya PoS inaruhusu watumiaji walio na maduka ya matofali na chokaa kukubali kwa urahisi Bitcoin, bila ada au mtu mwingine, moja kwa moja kwa Pochi yao. PoS inaweza kuonyeshwa kwa urahisi kwenye kompyuta ndogo au vifaa vingine vinavyotumia kuvinjari kwa wavuti. Watumiaji wanaweza kuunda kwa urahisi njia ya mkato ya skrini ya nyumbani ili kufikia programu ya wavuti haraka.
 
-#### Jinsi ya kuunda Pointi mpya ya Uuzaji
+#### Jinsi ya kuunda hoja mpya ya Uuzaji
 
-Seva ya BTPay inaruhusu wamiliki wa Duka kuunda Sehemu ya Uuzaji katika miundo mingi haraka. Seva ya BTCPay inatambua kuwa si kila duka ni biashara ya mtandaoni, na si kila duka ni baa au mkahawa, na huja na mipangilio mingi ya kawaida ya PoS yako.
+Seva ya BTCPay inaruhusu wamiliki wa Duka kuunda Sehemu ya Uuzaji katika miundo mingi haraka. Seva ya BTCPay inatambua kuwa si kila duka ni biashara ya mtandaoni, na si kila duka ni baa au mkahawa, na huja na mipangilio mingi ya kawaida ya PoS yako.
 
 Mmiliki wa Duka anapobofya "Njia ya Uuzaji" katika upau wa menyu yake ya kushoto, Seva ya BTCPay sasa itauliza jina; jina hili litaonekana kwenye upau wa menyu wa kushoto. Bofya Unda ili kuunda PoS.
 
@@ -2090,7 +2090,7 @@ Seva ya BTCPay ina uwezo wa kuonyesha Sehemu yake ya Uuzaji kwa njia nyingi.
 - Kitufe pekee
   - Hakuna orodha ya bidhaa, kibodi tu cha ankara ya moja kwa moja.
 - Onyesho la kuchapisha (Orodha ya bidhaa zinazoweza kuchapishwa na QR)
-  - Ikiwa huwezi kuonyesha orodha yako ya bidhaa kidijitali kila wakati, unahitaji suluhisho la "nje ya mtandao" kwa bidhaa; Seva ya BTPay ina onyesho la kuchapisha ili kufanya kazi kama duka la Nje ya Mtandao.
+  - Ikiwa huwezi kuonyesha orodha yako ya bidhaa kidijitali kila wakati, unahitaji suluhisho la "nje ya mtandao" kwa bidhaa; Seva ya BTCPay ina onyesho la kuchapisha ili kufanya kazi kama duka la Nje ya Mtandao.
 
 ![image](assets/en/99.webp)
 
@@ -2112,7 +2112,7 @@ Seva ya BTCPay ina uwezo wa kuonyesha Sehemu yake ya Uuzaji kwa njia nyingi.
 
 #### Sarafu
 
-Mmiliki wa Duka anaweza kuweka sarafu tofauti kwa Pointi yake ya Uuzaji kuliko sarafu yake chaguomsingi iliyowekwa. Sarafu chaguo-msingi ya duka itajaza sehemu hii kiotomatiki.
+Mmiliki wa Duka anaweza kuweka sarafu tofauti kwa hoja yake ya Uuzaji kuliko sarafu yake chaguomsingi iliyowekwa. Sarafu chaguo-msingi ya duka itajaza sehemu hii kiotomatiki.
 
 #### Maelezo
 
@@ -2122,7 +2122,7 @@ Uambie ulimwengu kuhusu duka lako; unauza nini, na kwa kiasi gani? Kila kitu kin
 
 #### Bidhaa
 
-Sehemu ya Uuzaji inapoundwa, Seva ya kawaida ya BTPay huongeza bidhaa kadhaa dukani kwa marejeleo. Bofya kitufe cha Hariri kwenye vipengee vyovyote vya kawaida ili kuelewa kila chaguo linalowezekana la kipengee bora zaidi.
+Sehemu ya Uuzaji inapoundwa, Seva ya kawaida ya BTCPay huongeza bidhaa kadhaa dukani kwa marejeleo. Bofya kitufe cha Hariri kwenye vipengee vyovyote vya kawaida ili kuelewa kila chaguo linalowezekana la kipengee bora zaidi.
 
 Kuunda bidhaa mpya katika duka lako kunajumuisha sehemu zifuatazo;
 
@@ -2132,7 +2132,7 @@ Kuunda bidhaa mpya katika duka lako kunajumuisha sehemu zifuatazo;
 - URL ya picha
 - Maelezo
 - Malipo
-- ID
+- Kitambulisho
 - Nunua Maandishi ya Kitufe.
 - Washa/Zima
 
@@ -2144,11 +2144,11 @@ Wamiliki wa maduka wanaweza pia kutumia "Raw Editor" kusanidi bidhaa zao. Kihari
 
 #### Lipa
 
-Seva ya BTPay inaruhusu ugeuzaji mapendeleo mdogo wa malipo ya PoS maalum. Mmiliki wa Duka anaweza kuweka maandishi ya "Nunua kwa x" au aombe data mahususi ya mteja kwa kuongeza fomu.
+Seva ya BTCPay inaruhusu ugeuzaji upendeleo mdogo wa malipo ya PoS maalum. Mmiliki wa Duka anaweza kuweka maandishi ya "Nunua kwa x" au aombe data mahususi ya mteja kwa kuongeza fomu.
 
 #### Vidokezo
 
-Ni baadhi tu ya maduka yanayohitaji chaguo la Vidokezo kuhusu mauzo yao. Wamiliki wa duka wanaweza kuwasha au kuzima hii wanavyoona inafaa kwa duka lao. Ikiwa duka linatumia vidokezo vilivyowashwa, mmiliki wa duka anaweza kuweka maandishi kwenye uwanja kwa vidokezo anavyopenda. Vidokezo vya Seva ya BTPay hufanya kazi kulingana na kiasi cha asilimia. Wamiliki wa duka wanaweza kuongeza asilimia nyingi kwa kutenganisha kwa koma.
+Ni baadhi tu ya maduka yanayohitaji chaguo la Vidokezo kuhusu mauzo yao. Wamiliki wa duka wanaweza kuwasha au kuzima hii wanavyoona inafaa kwa duka lao. Ikiwa duka linatumia vidokezo vilivyowashwa, mmiliki wa duka anaweza kuweka maandishi kwenye uwanja kwa vidokezo anavyopenda. Vidokezo vya Seva ya BTCPay hufanya kazi kulingana na kiasi cha asilimia. Wamiliki wa duka wanaweza kuongeza asilimia nyingi kwa kutenganisha kwa koma.
 
 #### Punguzo
 
@@ -2156,7 +2156,7 @@ Kama mmiliki wa duka, unaweza kutaka kumpa mteja punguzo maalum wakati wa kulipa
 
 #### Malipo Maalum
 
-Chaguo la Malipo Maalum linapowashwa, mteja ataweka bei yake aliyoweka sawa na au zaidi ya Invoice asilia inayozalishwa na duka.
+Chaguo la Malipo Maalum linapowashwa, mteja ataweka bei yake aliyoweka sawa na au zaidi ya Anwani ya ununuzi asilia inayozalishwa na duka.
 
 #### Chaguzi za Ziada
 
@@ -2164,7 +2164,7 @@ Baada ya kuweka kila kitu kwa Sehemu yako ya Uuzaji, chaguo zingine za ziada zim
 
 #### Futa programu hii
 
-Ikiwa mmiliki wa duka anataka kufuta kabisa Pointi ya Uuzaji kwenye Seva yake ya BTCPay, katika sehemu ya chini ya kusasisha PoS, wamiliki wa duka wanaweza Bofya kitufe cha Futa programu hii ili kuharibu kabisa programu yao ya PoS. Unapobofya "Futa programu hii", Seva ya BTCPay itaomba uthibitisho kwa kuandika `DELETE` na kuthibitisha kwa kubofya kitufe cha Futa. Baada ya kufuta mmiliki wa duka anarudi kwenye dashibodi ya Seva ya BTPay.
+Ikiwa mmiliki wa duka anataka kufuta kabisa Hoja ya Uuzaji kwenye Seva yake ya BTCPay, katika sehemu ya chini ya kusasisha PoS, wamiliki wa duka wanaweza Bofya kitufe cha Futa programu hii ili kuharibu kabisa programu yao ya PoS. Unapobofya "Futa programu hii", Seva ya BTCPay itaomba uthibitisho kwa kuandika `DELETE` na kuthibitisha kwa kubofya kitufe cha Futa. Baada ya kufuta mmiliki wa duka anarudi kwenye dashibodi ya Seva ya BTCPay.
 
 ### Seva ya BTCPay - Mkusanyiko wa Fedha
 
