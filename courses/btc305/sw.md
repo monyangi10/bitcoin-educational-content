@@ -3,14 +3,14 @@ name: Bitcoin na Seva ya Malipo ya BTC
 goal: Sakinisha Seva ya Malipo ya BTC kwa biashara yako
 objectives: 
 
-  - Kuelewa btcpayserver ni nini.
+  - Kuelewa btcpayseva ni nini.
   - Mwenyeji mwenyewe anasanidi Seva ya Malipo ya BTC.
-  - Tumia btcpayserver katika biashara yako ya kila siku.
+  - Tumia btcpayseva katika biashara yako ya kila siku.
 
 ---
 # Bitcoin na Seva ya BTCPay
 
-Hii ni kozi ya utangulizi kuhusu BTCPay Server Operator iliyoandikwa na Alekos na Bas, ambayo ilichukuliwa katika Mpango wa ₿ Muundo wa Kozi na melontwist na asi0.
+Hii ni kozi ya utangulizi kuhusu BTCPay Seva Operator iliyoandikwa na Alekos na Bas, ambayo ilichukuliwa katika Mpango wa ₿ Muundo wa Kozi na melontwist na asi0.
 
 HADITHI ISIYOKAMALISHWA
 
