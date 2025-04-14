@@ -3,7 +3,7 @@ name: Bitcoin na Seva ya Malipo ya BTC
 goal: Sakinisha Seva ya Malipo ya BTC kwa biashara yako
 objectives: 
 
-  - Kuelewa btcpayserver ni nini.
+  - Kuelewa btcpayseva ni nini.
   - Mwenyeji mwenyewe anasanidi Seva ya Malipo ya BTC.
   - Tumia btcpayserver katika biashara yako ya kila siku.
 
