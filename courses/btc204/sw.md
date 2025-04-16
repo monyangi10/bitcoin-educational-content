@@ -612,7 +612,7 @@ Utafiti wa urithi wa nje unamaanisha kuchanganua mfanano, ruwaza na sifa za Vipe
 
 ### kutumia tena Anwani
 
-Hii ni moja ya utabiri wa bitcoiners' inayojulikana zaidi. Utumiaji upya wa Anwani huwezesha kuanzisha kiunganishi kati ya shughuli tofauti za malipo na UTXO tofauti. Inatokea wakati Bitcoin inayopokea Anwani inatumiwa mara kadhaa.
+Hii ni moja ya utabiri wa bitcoiners' unaojulikana zaidi. Utumiaji upya wa Anwani huwezesha kuanzisha kiunganishi kati ya shughuli tofauti za malipo na UTXO tofauti. Inatokea wakati Bitcoin inayopokea Anwani inatumiwa mara kadhaa.
 
 Kwa hivyo, inawezekana kutumia tena matumizi ya Anwani ndani ya shughuli sawa na urithi wa ndani ili kutambua Ubadilishanaji (kama tulivyoona katika sura iliyotangulia). Lakini utumiaji upya wa Anwani pia unaweza kutumika kama mbinu ya nje kutambua upekee wa huluki nyuma ya miamala kadhaa.
 
@@ -638,11 +638,11 @@ bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0
 
 Chanzo : [Mempool.space](https://Mempool.space/Address/bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0)
 
-### Kufanana kwa hati na alama za Wallet
+### Kufanana kwa hati na alama za Pochi
 
-Mbali na kutumia tena Address, kuna heuristics nyingine nyingi zinazokuwezesha kuunganisha vitendo kwenye kwingineko sawa au nguzo ya Address.
+Mbali na kutumia tena Anwani, kuna urithi mwingine mwingi unaokuwezesha kuunganisha vitendo kwingineko sawa au nguzo ya Anwani.
 
-Kwanza, mchambuzi anaweza kutafuta kufanana katika matumizi ya hati. Kwa mfano, hati fulani za wachache kama vile Multisig zinaweza kuwa rahisi kuona kuliko hati za SegWit V0. Kadiri kikundi tunachojificha kikiwa kikubwa, ndivyo inavyokuwa vigumu kututambua. Hii ni moja ya sababu kwa nini, kwenye itifaki nzuri za CoinJoin, washiriki wote hutumia aina sawa ya hati.
+Kwanza, mchambuzi anaweza kutafuta kufanana katika matumizi ya hati. Kwa mfano, hati fulani za wachache kama vile Sahihi nyingi zinaweza kuwa rahisi kuona kuliko hati za SegWit V0. Kadiri kikundi tunachojificha kikiwa kikubwa, ndivyo inavyokuwa vigumu kututambua. Hii ni moja ya sababu kwa nini, kwenye itifaki nzuri za Sarafu ya kujiunga, washiriki wote hutumia aina sawa ya hati.
 
 Kwa ujumla zaidi, mchambuzi pia anaweza kuzingatia alama za vidole za kwingineko. Hizi ni michakato mahususi ya utumiaji ambayo inaweza kutambuliwa kwa nia ya kuzitumia kama ufuatiliaji wa uvumbuzi. Kwa maneno mengine, ikiwa tutaona mkusanyiko wa sifa zile zile za ndani kwenye miamala inayohusishwa na huluki iliyofuatiliwa, tunaweza kujaribu kutambua sifa hizi kwenye miamala mingine.
 
@@ -652,11 +652,11 @@ Kwa mfano, tutaweza kutambua kwamba mtumiaji aliyefuatiliwa anatuma mabadiliko y
 
 Kama [@LaurentMT](https://twitter.com/LaurentMT) anavyoonyesha katika [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-ea podcast ya Kifaransa-muhimu) alama za vidole katika uchanganuzi wa minyororo inaongezeka kwa kiasi kikubwa baada ya muda. Kwa hakika, idadi inayoongezeka ya aina za hati na utumaji unaoendelea wa vipengele hivi vipya na programu ya kwingineko unasisitiza tofauti. Katika baadhi ya matukio, inawezekana hata kutambua programu halisi inayotumiwa na chombo kinachofuatiliwa. Kwa hivyo ni muhimu kuelewa kwamba utafiti wa nyayo za kwingineko unafaa haswa kwa shughuli za hivi majuzi, badala ya zile zilizoanzishwa mapema miaka ya 2010.
 
-Kwa muhtasari, alama ya miguu inaweza kuwa mazoezi yoyote mahususi, yanayofanywa kiotomatiki na Wallet au kwa mikono na mtumiaji, ambayo tunaweza kupata kwenye miamala mingine ili kutusaidia katika uchanganuzi wetu.
+Kwa muhtasari, alama ya miguu inaweza kuwa mazoezi yoyote mahususi, yanayofanywa kiotomatiki na Pochi au kwa mikono na mtumiaji, ambayo tunaweza kupata kwenye miamala mingine ili kutusaidia katika uchanganuzi wetu.
 
-### Uingizaji wa Kawaida wa Ownership Heuristic (CIOH)
+### Uingizaji wa Kawaida wa umiliki wa urithi(CIOH)
 
-Common Input Ownership Heuristic (CIOH) ni mbinu ya kutabirika ambayo inasema kwamba wakati shughuli ina pembejeo nyingi, zote zinaweza kutoka kwa huluki moja. Kwa hivyo, Ownership yao ni ya kawaida.
+Umiliki wa Urithi wa Kawaida wa Pembejeo (CIOH) ni mbinu ya kutabirika ambayo inasema kwamba wakati shughuli ina pembejeo nyingi, zote zinaweza kutoka kwa huluki moja. Kwa hivyo,umiliki wao ni wa kawaida.
 
 ![BTC204](assets/fr/058.webp)
 
@@ -670,11 +670,11 @@ Kwa upande mwingine, ikiwa muamala haulingani na muundo wowote wa muamala shirik
 
 CIOH iligunduliwa na Satoshi Nakamoto. Anazungumza juu yake katika sehemu ya 10 ya Karatasi Nyeupe:
 
-"_[...] kuunganisha hakuwezi kuepukika na shughuli za kuingiza nyingi, ambazo zinaonyesha lazima kwamba maingizo yao yalishikiliwa na mmiliki yuleyule. Hatari ni kwamba ikiwa mmiliki wa ufunguo atafichuliwa, viungo vinaweza kufichua miamala mingine ambayo ilikuwa ya mmiliki mmoja._."
+"_[...] kuunganisha hakuwezi kuepukika na shughuli za kuingiza nyingi, ambazo zinaonyesha kwamba lazima maingizo yao yalishikiliwa na mmiliki yuleyule. Hatari ni kwamba ikiwa mmiliki wa ufunguo atafichuliwa, viungo vinaweza kufichua miamala mingine ambayo ilikuwa ya mmiliki mmoja._."
 
 ![BTC204](assets/fr/061.webp)
 
-Inafurahisha sana kutambua kwamba Satoshi Nakamoto, hata kabla ya kuzinduliwa rasmi kwa Bitcoin, tayari ilikuwa imetambua udhaifu mkuu wa faragha kwa watumiaji, ambao ni CIOH na Address kutumia tena. Mtazamo kama huo ni wa kushangaza sana, kwani heuristics hizi mbili zinabaki, hata leo, muhimu zaidi katika uchambuzi wa Blockchain.
+Inafurahisha sana kutambua kwamba Satoshi Nakamoto, hata kabla ya kuzinduliwa rasmi kwa Bitcoin, tayari ilikuwa imetambua udhaifu mkuu wa faragha kwa watumiaji, ambao ni CIOH na Anwani kutumia tena. Mtazamo kama huo ni wa kushangaza sana, kwani urithi huu mbili unabaki, hata leo, muhimu zaidi katika uchambuzi wa kuzuia mnyororo.
 
 Ili kukupa mfano, hapa kuna shughuli ambayo tunaweza kutumia CIOH:
 
@@ -690,31 +690,31 @@ Chanzo : [Mempool.space](https://Mempool.space/tx/20618e63b6eed056263fa52a2282c8
 
 Kwa kweli, uchanganuzi wa minyororo hauzuiliwi kwa data ya onchain pekee. Data yoyote kutoka kwa uchanganuzi wa awali au inayopatikana kwenye Mtandao pia inaweza kutumika kuboresha uchanganuzi.
 
-Kwa mfano, tukiona kwamba miamala iliyofuatiliwa inatangazwa kwa utaratibu kutoka kwa nodi ile ile ya Bitcoin, na tukaweza kutambua IP yake Address, tunaweza kutambua miamala mingine kutoka kwa huluki hiyo hiyo, na pia kubainisha sehemu ya utambulisho wa mtoaji. Ingawa zoezi hili haliwezekani kwa urahisi, kwani linahitaji utendakazi wa nodi nyingi, linaweza kuajiriwa na baadhi ya makampuni yaliyobobea katika uchanganuzi wa Blockchain.
+Kwa mfano, tukiona kwamba miamala iliyofuatiliwa inatangazwa kwa utaratibu kutoka kwa nodi ile ile ya Bitcoin, na tukaweza kutambua Anwani ya IP yake, tunaweza kutambua miamala mingine kutoka kwa huluki hiyo hiyo, na pia kubainisha sehemu ya utambulisho wa mtoaji. Ingawa zoezi hili haliwezekani kwa urahisi, kwani linahitaji utendakazi wa nodi nyingi, linaweza kuajiriwa na baadhi ya makampuni yaliyobobea katika uchanganuzi wa kuzuia mnyororo.
 
-Mchambuzi pia ana chaguo la kutegemea uchambuzi uliofanywa hapo awali-wazi, au kwa uchambuzi wake wa awali. Labda tutaweza kupata matokeo ambayo yanaelekeza kwenye kundi la anwani ambazo tayari tumetambua. Wakati mwingine, inawezekana pia kutegemea matokeo yanayoelekeza kwenye jukwaa la Exchange, kama vile anwani za kampuni hizi zinavyojulikana kwa ujumla.
+Mchambuzi pia ana chaguo la kutegemea uchambuzi uliofanywa hapo awali-wazi, au kwa uchambuzi wake wa awali. Labda tutaweza kupata matokeo ambayo yanaelekeza kwenye kundi la anwani ambazo tayari tumetambua. Wakati mwingine, inawezekana pia kutegemea matokeo yanayoelekezwa kwenye jukwaa la Ubadilishanaji, kama vile anwani za kampuni hizi zinavyojulikana kwa ujumla.
 
-Kwa njia hiyo hiyo, unaweza kufanya uchambuzi kwa kuondoa. Kwa mfano, ikiwa wakati wa kuchanganua muamala ulio na matokeo mawili, moja wapo inahusiana na nguzo ya Address ambayo tayari inajulikana, lakini tofauti na huluki tunayofuatilia, basi tunaweza kutafsiri kwamba matokeo mengine huenda yanawakilisha Exchange.
+Kwa njia hiyo hiyo, unaweza kufanya uchambuzi kwa kuondoa. Kwa mfano, ikiwa wakati wa kuchanganua muamala ulio na matokeo mawili, moja wapo inahusiana na nguzo ya Anwani ambayo tayari inajulikana, lakini tofauti na huluki tunayofuatilia, basi tunaweza kutafsiri kwamba matokeo mengine huenda yanawakilisha Ubadilishanaji.
 
-Uchanganuzi wa idhaa pia unajumuisha sehemu ya jumla zaidi ya OSINT (*Open Source Intelligence*), inayohusisha utafutaji wa intaneti. Ni kwa sababu hii kwamba tunashauri dhidi ya kuchapisha anwani moja kwa moja kwenye mitandao ya kijamii au kwenye tovuti, iwe ni jina bandia au la.
+Uchanganuzi wa idhaa pia unajumuisha sehemu ya jumla zaidi ya OSINT (*Open Source Intelligence*), inayohusisha utafutaji wa mtandao. Ni kwa sababu hii kwamba tunashauri dhidi ya kuchapisha anwani moja kwa moja kwenye mitandao ya kijamii au kwenye tovuti, iwe ni jina bandia au la.
 
 ![BTC204](assets/fr/063.webp)
 
 ### Mifano ya muda
 
-Tunalifikiria kidogo, lakini tabia fulani za wanadamu zinatambulika kwenye mnyororo. Labda muhimu zaidi katika uchanganuzi ni muundo wako wa kulala! Ndiyo, unapolala, hutangazi shughuli za Bitcoin. Lakini kwa ujumla hulala kwa takriban wakati huo huo. Hii ndiyo sababu ni kawaida kutumia uchanganuzi wa muda katika uchanganuzi wa Blockchain. Kwa urahisi kabisa, hii ni sensa ya nyakati ambapo shughuli za huluki fulani zinatangazwa kwenye mtandao wa Bitcoin. Kwa kuchambua mifumo hii ya muda, tunaweza kupata habari nyingi.
+Tunalifikiria kidogo, lakini tabia fulani za wanadamu zinatambulika kwenye mnyororo. Labda muhimu zaidi katika uchanganuzi ni muundo wako wa kulala! Ndiyo, unapolala, hutangazi shughuli za Bitcoin. Lakini kwa ujumla hulala kwa takriban wakati huo huo. Hii ndiyo sababu ni kawaida kutumia uchanganuzi wa muda katika uchanganuzi wa kuzuia mnyororo. Kwa urahisi kabisa, hii ni sensa ya nyakati ambapo shughuli za huluki fulani zinatangazwa kwenye mtandao wa Bitcoin. Kwa kuchambua mifumo hii ya muda, tunaweza kupata habari nyingi.
 
 Kwanza kabisa, uchanganuzi wa muda unaweza wakati mwingine kutambua asili ya huluki iliyofuatiliwa. Tukiona kwamba miamala hiyo inatangazwa mfululizo kwa saa 24, basi hii itasaliti kiwango cha juu cha shughuli za kiuchumi. Huluki nyuma ya miamala hii huenda ikawa kampuni, inayoweza kuwa ya kimataifa na pengine yenye taratibu za kiotomatiki za ndani.
 
-Kwa mfano, [nilitambua muundo huu miezi michache iliyopita](https://twitter.com/Loic_Pandul/status/1701127409712452072) nilipochanganua [muamala ambao ulitenga kimakosa bitcoins 19 katika ada](https://Mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd). Uchanganuzi rahisi wa muda uliniruhusu kudhania kuwa tunashughulikia huduma ya kiotomatiki, na kwa hivyo labda na huluki kubwa kama vile jukwaa la Exchange.
+Kwa mfano, [nilitambua muundo huu miezi michache iliyopita](https://twitter.com/Loic_Pandul/status/1701127409712452072) nilipochanganua [muamala ambao ulitenga kimakosa bitcoins 19 katika ada](https://Mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd). Uchanganuzi rahisi wa muda uliniruhusu kudhania kuwa tunashughulikia huduma ya kiotomatiki, na kwa hivyo labda na huluki kubwa kama vile jukwaa la Ubadilishanaji.
 
-Hakika, siku chache baadaye, iligunduliwa kuwa fedha hizo zilikuwa za PayPal, kupitia jukwaa la Paxos Exchange.
+Hakika, siku chache baadaye, iligunduliwa kuwa fedha hizo zilikuwa za PayPal, kupitia jukwaa Ubadilishalishanaji la Paxos .
 
 Kinyume chake, ikiwa tunaweza kuona kwamba muundo wa muda umeenea zaidi ya saa 16 mahususi, basi tunaweza kukadiria kwamba tunashughulika na mtumiaji binafsi, au labda kampuni ya ndani kulingana na kiasi kilichobadilishwa.
 
 Zaidi ya asili ya huluki inayozingatiwa, muundo wa muda unaweza pia kutuambia takriban mahali mtumiaji yuko, shukrani kwa maeneo ya saa. Kwa njia hii, tunaweza kulinganisha miamala mingine, na kutumia mihuri yao ya muda kama utabiri wa ziada ambao unaweza kuongezwa kwenye uchanganuzi wetu.
 
-Kwa mfano, kwenye Address iliyotumiwa nyingi niliyotaja hapo awali, tunaweza kuona kwamba shughuli, zinazoingia na zinazotoka, zinazingatia muda wa saa 13.
+Kwa mfano, kwenye Anwani iliyotumiwa nyingi niliyotaja hapo awali, tunaweza kuona kwamba shughuli, zinazoingia na zinazotoka, zinazingatia muda wa saa 13.
 
 ```plaintext
 bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0
@@ -728,15 +728,15 @@ Aina hii labda inalingana na Ulaya, Afrika au Mashariki ya Kati. Kwa hivyo tunaw
 
 Kwa njia tofauti, uchanganuzi wa wakati wa aina hii pia ulisababisha dhana kwamba Satoshi Nakamoto haikuwa ikifanya kazi kutoka Japani, bali kutoka Marekani: [*The Time Zones of Satoshi Nakamoto*](https://medium.com/@insearchofsatoshi/the-time-zones-of-Satoshi-nakaf08f0-3a)3a
 
-## Kuiweka katika vitendo na Block explorer
+## Kuiweka katika vitendo na Kuzuia mpelelezi
 
 <chapterId>6493cf2f-225c-405f-9375-c4304f1087ed</chapterId>
 
 Katika sura hii ya mwisho, tutaweka dhana ambazo tumejifunza hadi sasa katika vitendo. Nitakuonyesha mifano ya miamala halisi ya Bitcoin, na itabidi utoe maelezo ninayokuuliza.
 
-Kwa hakika, kufanya mazoezi haya, matumizi ya chombo cha kitaaluma cha uchambuzi wa mnyororo itakuwa vyema. Hata hivyo, tangu kukamatwa kwa waundaji wa Samourai Wallet, zana pekee ya uchanganuzi isiyolipishwa ya OXT.me haipatikani tena. Kwa hivyo tutachagua Block explorer ya kawaida kwa mazoezi haya. Ninapendekeza utumie [Mempool.space](https://Mempool.space/) kwa vipengele vyake vingi na anuwai ya zana za uchanganuzi wa mfululizo, lakini pia unaweza kuchagua mgunduzi mwingine kama vile [Bitcoin Explorer](https://bitcoinexplorer.org/).
+Kwa hakika, kufanya mazoezi haya, matumizi ya chombo cha kitaaluma cha uchambuzi wa mnyororo utakuwa vyema. Hata hivyo, tangu kukamatwa kwa waundaji wa Pochi la Samourai, zana pekee ya uchanganuzi isiyolipishwa ya OXT.me haipatikani tena. Kwa hivyo tutachagua Kuzuia Mpelelezi wa kawaida kwa mazoezi haya. Ninapendekeza utumie [Mempool.space](https://Mempool.space/) kwa vipengele vyake vingi na anuwai ya zana za uchanganuzi wa mfululizo, lakini pia unaweza kuchagua mgunduzi mwingine kama vile [Bitcoin Explorer](https://bitcoinexplorer.org/).
 
-Kuanza, nitakujulisha kwa mazoezi. Tumia Block explorer yako kuyakamilisha, na uandike majibu yako kwenye karatasi. Kisha, mwishoni mwa sura hii, nitakupa majibu ili uweze kuangalia na kusahihisha matokeo yako.
+Kuanza, nitakujulisha kwa mazoezi. Tumia kuzuia mpelelezi wako kuyakamilisha, na uandike majibu yako kwenye karatasi. Kisha, mwishoni mwa sura hii, nitakupa majibu ili uweze kuangalia na kusahihisha matokeo yako.
 
 *Shughuli zilizochaguliwa kwa ajili ya mazoezi haya zimechaguliwa kwa ajili ya sifa zake kwa mtindo wa nasibu. Sura hii imekusudiwa kwa madhumuni ya kuelimisha na kuelimisha pekee. Ningependa kueleza wazi kwamba siungi mkono wala sihimii matumizi ya zana hizi kwa madhumuni mabaya. Lengo ni kukufundisha jinsi ya kujilinda dhidi ya uchanganuzi wa kamba, si kufanya uchanganuzi ili kufichua taarifa za faragha za watu wengine.*
 
@@ -770,7 +770,7 @@ Kitambulisho cha muamala utakaochanganuliwa :
 
 Ni mfano gani wa muamala huu?
 
-Baada ya kutambua muundo wake, kwa kutumia utabiri wa ndani wa shughuli, Exchange inaweza kuwakilisha matokeo gani?
+Baada ya kutambua muundo wake, kwa kutumia utabiri wa ndani wa shughuli, Ubadilishanaji unaweza kuwakilisha matokeo gani?
 
 ### Zoezi 4
 
@@ -782,7 +782,7 @@ Kitambulisho cha muamala utakaochanganuliwa :
 
 Ni mfano gani wa muamala huu?
 
-Baada ya kutambua muundo wake, kwa kutumia utabiri wa ndani wa shughuli, Exchange inaweza kuwakilisha matokeo gani?
+Baada ya kutambua muundo wake, kwa kutumia utabiri wa ndani wa shughuli, Ubadilishanaji unaweza kuwakilisha matokeo gani?
 
 ### Zoezi 5
 
@@ -794,23 +794,23 @@ Hebu fikiria kwamba Loïc amechapisha mojawapo ya anwani zake za kupokea Bitcoin
 bc1qja0hycrv7g9ww00jcqanhfpqmzx7luqalum3vu
 ```
 
-Kulingana na maelezo haya na kwa kutumia **Address pekee ikitumia tena heuristic**, ni miamala gani ya Bitcoin inaweza kuunganishwa na utambulisho wa Loïc?
+Kulingana na maelezo haya na kwa kutumia **Anwani pekee ikitumia tena urithi**, ni miamala gani ya Bitcoin inaweza kuunganishwa na utambulisho wa Loïc?
 
-*Ni wazi, mimi si mmiliki halisi wa mapokezi haya ya Address na sikuyachapisha kwenye mitandao ya kijamii. Ni Address niliyochukua bila mpangilio kutoka kwa Blockchain*
+*Ni wazi, mimi si mmiliki halisi wa mapokezi haya ya Anwani na sikuyachapisha kwenye mitandao ya kijamii. Ni Anwani niliyochukua bila mpangilio kutoka kwa kuzuia mnyororo*
 
 ### Zoezi 6
 
-Kufuatia zoezi la 5, kutokana na utumiaji tena wa Address, uliweza kutambua miamala kadhaa ya Bitcoin ambayo Loïc inaonekana kuhusika. Kwa kawaida, kati ya shughuli zilizotambuliwa, unapaswa kuwa umeona hii:
+Kufuatia zoezi la 5, kutokana na utumiaji tena wa Anwani, uliweza kutambua miamala kadhaa ya Bitcoin ambayo Loïc inaonekana kuhusika. Kwa kawaida, kati ya shughuli zilizotambuliwa, unapaswa kuwa umeona hii:
 
 ```plaintext
 2d9575553c99578268ffba49a1b2adc3b85a29926728bd0280703a04d051eace
 ```
 
-Muamala huu ni wa kwanza kabisa kutuma pesa kwa Address ya Loïc. Je, unafikiri bitcoins zilizopokelewa na Loïc kupitia muamala huu zilitoka wapi?
+Muamala huu ni wa kwanza kabisa kutuma pesa kwa Anwani ya Loïc. Je, unafikiri bitcoins zilizopokelewa na Loïc kupitia muamala huu zilitoka wapi?
 
 ### Zoezi 7
 
-Kufuatia zoezi la 5, kutokana na utumiaji upya wa Address, umeweza kutambua miamala kadhaa ya Bitcoin ambayo Loïc inaonekana kuhusika. Sasa unataka kujua Loïc alitoka wapi. Kulingana na miamala iliyopatikana, fanya uchanganuzi wa wakati ili kupata saa za eneo ambazo huenda zikatumiwa na Loïc. Kuanzia saa za eneo hili, bainisha eneo ambalo Loïc anaonekana kuishi (nchi, jimbo/eneo, jiji...).
+Kufuatia zoezi la 5, kutokana na utumiaji upya wa Anwani, umeweza kutambua miamala kadhaa ya Bitcoin ambayo Loïc inaonekana kuhusika. Sasa unataka kujua Loïc alitoka wapi. Kulingana na miamala iliyopatikana, fanya uchanganuzi wa wakati ili kupata saa za eneo ambazo huenda zikatumiwa na Loïc. Kuanzia saa za eneo hili, bainisha eneo ambalo Loïc anaonekana kuishi (nchi, jimbo/eneo, jiji...).
 
 ![BTC204](assets/fr/066.webp)
 
