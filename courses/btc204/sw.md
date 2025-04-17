@@ -1132,30 +1132,30 @@ Katika uchanganuzi wa kamba, kuna aina 2 za utumiaji wa Anwani:
 - Utumiaji tena wa nje;
 - Utumiaji tena wa ndani ndani ya muamala.
 
-Ya kwanza ni wakati Address inatumiwa tena katika shughuli mbalimbali za Bitcoin. Hili ndilo tulilozungumzia hapo awali: utabiri huu unabainisha kuwa UTXO zote zilizopitishwa kupitia Address hii ni za chombo kimoja.
+Ya kwanza ni wakati Anwani inatumiwa tena katika shughuli mbalimbali za Bitcoin. Hili ndilo tulilozungumzia hapo awali: utabiri huu unabainisha kuwa UTXO zote zilizopitishwa kupitia Anwani hizi ni za chombo kimoja.
 
-Utumiaji tena wa ndani wa Address haufanyiki wakati utumiaji tena unatokea katika shughuli nyingi za malipo, lakini inapotokea ndani ya muamala mmoja. Kwa hakika, ikiwa Address ile ile iliyotumiwa kufunga ingizo inatumika kama matokeo ya muamala, basi tunaweza kukisia kwamba pato hili bado ni la mtumiaji yule yule (Exchange), na kwamba pato la pili linawakilisha malipo halisi. Hii nyingine ya heuristic inafanya uwezekano wa kuendeleza ufuatiliaji wa fedha juu ya shughuli kadhaa.
+Utumiaji tena wa ndani wa Anwani haufanyiki wakati utumiaji tena unatokea katika shughuli nyingi za malipo, lakini inapotokea ndani ya muamala mmoja. Kwa hakika, ikiwa Anwani ile ile iliyotumiwa kufunga ingizo inatumika kama matokeo ya muamala, basi tunaweza kukisia kwamba pato hili bado ni la mtumiaji yule yule (ubadilishanaji), na kwamba pato la pili linawakilisha malipo halisi. Hii nyingine ya urithi inafanya uwezekano wa kuendeleza ufuatiliaji wa fedha juu ya shughuli kadhaa.
 
 ![BTC204](assets/fr/045.webp)
 
-Kutumia tena Address ni janga la kweli kwenye Bitcoin. Kulingana na tovuti ya OXT.me (haipatikani kwa sasa), kiwango cha jumla cha matumizi ya Address kwenye Bitcoin kilikuwa karibu 52% mwaka wa 2022:
+Kutumia tena Anwani ni janga la kweli kwenye Bitcoin. Kulingana na tovuti ya OXT.me (haipatikani kwa sasa), kiwango cha jumla cha matumizi ya Anwani kwenye Bitcoin kilikuwa karibu 52% mwaka wa 2022:
 
 ![BTC204](assets/fr/069.webp)
 
-Kiwango hiki ni kikubwa, lakini kinakuja kwa wingi kutoka kwa majukwaa ya Exchange badala ya watumiaji binafsi.
+Kiwango hiki ni kikubwa, lakini kinakuja kwa wingi kutoka kwa majukwaa ya Ubadilishanaji badala ya watumiaji binafsi.
 
-### Jinsi ya kuepuka kutumia tena Address?
+### Jinsi ya kuepuka kutumia tena Anwani?
 
-Kuepuka kutumia tena Address ni rahisi sana: **tumia tu Address mpya, tupu kwa malipo yote mapya kwa Wallet** yako.
+Kuepuka kutumia tena Anwani ni rahisi sana: **tumia tu Anwani mpya, tupu kwa malipo yote mapya kwa Pochi** yako.
 
-Shukrani kwa BIP32, portfolios za kisasa sasa ni za kuamua na za daraja. Hii ina maana kwamba mtumiaji anaweza generate idadi kubwa ya anwani kutoka sehemu moja ya awali ya habari: seed. Kwa kuokoa kipande hiki cha habari, inawezekana kurejesha funguo zote za kibinafsi kwenye kwingineko, kuwezesha upatikanaji wa fedha zilizohifadhiwa na anwani zinazofanana.
+Shukrani kwa BIP32, kwineko za kisasa sasa ni za kuamua na za daraja. Hii ina maana kwamba mtumiaji anaweza kuzalisha idadi kubwa ya anwani kutoka sehemu moja ya awali ya habari: mbegu. Kwa kuokoa kipande hiki cha habari, inawezekana kurejesha funguo zote za kibinafsi kwenye kwingineko, kuwezesha upatikanaji wa fedha zilizohifadhiwa na anwani zinazofanana.
 
 ![BTC204](assets/fr/070.webp)
 
-Hii ndiyo sababu, unapobonyeza kitufe cha "*pokea*" katika programu yako ya Wallet, upokeaji wa Address ambao haujatumiwa unapendekezwa kila wakati. Baada ya kupokea bitcoins kwenye Address hii, programu inapendekeza moja kwa moja mpya.
+Hii ndiyo sababu, unapobonyeza kitufe cha "*pokea*" katika programu yako ya Pochi, upokeaji wa Anwani ambao haujatumiwa unapendekezwa kila wakati. Baada ya kupokea bitcoins kwenye Anwani hii, programu inapendekeza moja kwa moja mpya.
 
-> *PS: Hivi majuzi, baadhi ya programu za Wallet zimetangaza nia yao ya kuacha kutoa anwani tupu, kwa kuhofia kuwa hii itachukuliwa kuwa njia ya ufujaji wa pesa na mamlaka. Ikiwa programu yako ni mojawapo ya hizi, nakushauri sana uibadilishe mara moja, kwa kuwa hii haikubaliki kwa mtumiaji.*
-Iwapo unahitaji kitambulisho tuli ili kupokea malipo, kama vile michango, si vyema kutumia Bitcoin Address ya kawaida kwa sababu ya hatari ya kutumiwa tena. Badala yake, tumia Lightning Address, au uchague kitambulisho tuli cha malipo ya mtandaoni, kama vile BIP47 au Malipo ya Kimya. Itifaki hizi zimefafanuliwa kwa kina katika Sehemu ya 6 ya kozi hii ya mafunzo.
+> *PS: Hivi majuzi, baadhi ya programu za Pochi zimetangaza nia yao ya kuacha kutoa anwani tupu, kwa kuhofia kuwa hii itachukuliwa kuwa njia ya ufujaji wa pesa na mamlaka. Ikiwa programu yako ni mojawapo ya hizi, nakushauri sana uibadilishe mara moja, kwa kuwa hii haikubaliki kwa mtumiaji.*
+Iwapo unahitaji kitambulisho tuli ili kupokea malipo, kama vile michango, si vyema kutumia Anwani ya Bitcoin ya kawaida kwa sababu ya hatari ya kutumiwa tena. Badala yake, tumia Anwani ya Umeme, au uchague kitambulisho tuli cha malipo ya mtandaoni, kama vile BIP47 au Malipo ya Kimya. Itifaki hizi zimefafanuliwa kwa kina katika Sehemu ya 6 ya kozi hii ya mafunzo.
 
 ## Kuweka alama na kuangalia sehemu
 
@@ -1163,35 +1163,35 @@ Iwapo unahitaji kitambulisho tuli ili kupokea malipo, kama vile michango, si vye
 
 Kama tulivyogundua katika sehemu ya uchanganuzi wa mifuatano, kuna idadi kubwa ya mawazo na mifumo ambayo inaweza kutumika kupata maelezo kuhusu shughuli. Kama mtumiaji, ni muhimu kufahamu mbinu hizi ili kujilinda vyema dhidi yao.
 
-Hii inahusisha usimamizi mkali wa Wallet yako katika kujilinda, ambayo ina maana ya kujua asili ya UTXO zako, pamoja na kuchagua kwa makini ni UTXO gani utumie unapofanya malipo. Usimamizi huu wa ufanisi wa Wallet unategemea vipengele viwili muhimu vya pochi nzuri za Bitcoin: kuweka alama na udhibiti wa sarafu.
+Hii inahusisha usimamizi mkali wa Pochi yako katika kujilinda, ambayo ina maana ya kujua asili ya UTXO zako, pamoja na kuchagua kwa makini ni UTXO gani utumie unapofanya malipo. Usimamizi huu wa ufanisi wa Pochi unategemea vipengele viwili muhimu vya pochi nzuri za Bitcoin: kuweka alama na udhibiti wa sarafu.
 
 Katika sura hii, tutaangalia vipengele hivi na kuona jinsi unavyoweza kuvitumia kwa akili, bila kuongeza mzigo mkubwa wa kazi, ili kuboresha faragha yako kwenye Bitcoin.
 
-### Kuweka lebo ni nini?
+### Kuweka alama ni nini?
 
-Kuweka lebo ni zoezi la kugawa kidokezo au lebo kwa UTXO mahususi katika Bitcoin Wallet. Vidokezo hivi huhifadhiwa ndani na programu ya Wallet na kamwe hazisambazwi kupitia mtandao wa Bitcoin. Kwa hivyo kuweka lebo ni zana ya usimamizi wa kibinafsi.
+Kuweka alama ni zoezi la kugawa kidokezo au alama kwa UTXO mahususi katika Pochi la Bitcoin. Vidokezo hivi huhifadhiwa ndani na programu ya Pochi na kamwe hazisambazwi kupitia mtandao wa Bitcoin. Kwa hivyo kuweka alama ni zana ya usimamizi wa kibinafsi.
 
-Kwa mfano, ikiwa nina UTXO kutoka kwa ununuzi wa P2P kwenye Bisq na Charles, naweza kuipatia lebo "`Non-KYC Bisq Charles`".
+Kwa mfano, ikiwa nina UTXO kutoka kwa ununuzi wa P2P kwenye Bisq na Charles, naweza kuipatia alama "`Non-KYC Bisq Charles`".
 
-Kuweka lebo ni mbinu nzuri ambayo husaidia kukumbuka asili au kulengwa lengwa la UTXO, ambayo kwa hivyo hurahisisha usimamizi wa fedha na uboreshaji wa faragha. Hakika, Bitcoin Wallet yako hakika inalinda UTXO kadhaa. Ikiwa vyanzo vya UTXO hizi ni tofauti, huenda usitake kuunganisha UTXO hizi katika siku zijazo, vinginevyo unaweza kufichua Ownership yao ya kawaida. Kwa kuweka lebo kwa sehemu zako zote, unaweza kuwa na uhakika kwamba utakumbuka zilipotoka unapohitaji kuzitumia, hata ikiwa hiyo ni miaka mingi kuanzia sasa.
+Kuweka alama ni mbinu nzuri ambayo husaidia kukumbuka asili au kulengwa lengwa la UTXO, ambayo kwa hivyo hurahisisha usimamizi wa fedha na uboreshaji wa faragha. Hakika,Pochi la Bitcoin yako hakika linalinda UTXO kadhaa. Ikiwa vyanzo vya UTXO hizi ni tofauti, huenda usitake kuunganisha UTXO hizi katika siku zijazo, vinginevyo unaweza kufichua umiliki wao wa kawaida. Kwa kuweka alama kwa sehemu zako zote, unaweza kuwa na uhakika kwamba utakumbuka zilipotoka unapohitaji kuzitumia, hata ikiwa hiyo ni miaka mingi kuanzia sasa.
 
 ### Udhibiti wa kona ni nini?
 
-Matumizi amilifu ya uwekaji lebo huwa ya kuvutia zaidi yakiunganishwa na chaguo la kudhibiti sarafu kwenye programu yako ya kwingineko.
+Matumizi amilifu ya uwekaji alama huwa wa kuvutia zaidi ukiunganishwa na chaguo la kudhibiti sarafu kwenye programu yako ya kwingineko.
 
-Udhibiti wa sarafu ni kipengele kinachopatikana katika programu nzuri ya Bitcoin Wallet, inayokupa uwezo wa kuchagua mwenyewe UTXO maalum za kutumia kama pembejeo ili kukamilisha muamala. Kwa kweli, ili kukidhi malipo ya pato, unahitaji kutumia pembejeo UTXO kama malipo. Kwa sababu kadhaa, ambazo tutaziangalia baadaye, unaweza kutaka kuchagua kwa usahihi sehemu zipi za kutumia kama pembejeo ili kukidhi malipo fulani. Hivi ndivyo udhibiti wa sarafu unakuwezesha kufanya. Ili kukupa mlinganisho, kipengele hiki ni sawa na kuchagua sarafu mahususi kutoka kwa Wallet yako unapolipia baguette yako.
+Udhibiti wa sarafu ni kipengele kinachopatikana katika programu nzuri ya Pochi la Bitcoin, inayokupa uwezo wa kuchagua mwenyewe UTXO maalum za kutumia kama pembejeo ili kukamilisha muamala. Kwa kweli, ili kukidhi malipo ya pato, unahitaji kutumia pembejeo UTXO kama malipo. Kwa sababu kadhaa, ambazo tutaziangalia baadaye, unaweza kutaka kuchagua kwa usahihi sehemu zipi za kutumia kama pembejeo ili kukidhi malipo fulani. Hivi ndivyo udhibiti wa sarafu unakuwezesha kufanya. Ili kukupa mlinganisho, kipengele hiki ni sawa na kuchagua sarafu mahususi kutoka kwa Pochi lako unapolipia baguette yako.
 
 ![BTC204](assets/fr/071.webp)
 
-Matumizi ya programu ya kwingineko yenye udhibiti wa sarafu, pamoja na kuweka lebo kwa UTXO, huwawezesha watumiaji kutofautisha na kuchagua kwa usahihi UTXO kwa miamala yao.
+Matumizi ya programu ya kwingineko yenye udhibiti wa sarafu, pamoja na kuweka alama kwa UTXO, huwawezesha watumiaji kutofautisha na kuchagua kwa usahihi UTXO kwa miamala yao.
 
-### Je, unawekaje lebo kwenye UTXO zako?
+### Je, unawekaje alama kwenye UTXO zako?
 
-Hakuna njia ya ukubwa mmoja ya kuweka lebo kwenye UTXO. Ni juu yako kufafanua mfumo wa kuweka lebo ambao ni rahisi kuelewa kwa kwingineko yako. Kwa hali yoyote, kumbuka kuwa uwekaji lebo mzuri ni kuweka lebo unaweza kuelewa unapohitaji. Ikiwa Bitcoin Wallet yako inakusudiwa kimsingi kuokoa, lebo zinaweza zisiwe na manufaa kwako kwa miongo kadhaa ijayo. Kwa hivyo hakikisha ziko wazi, sahihi na za kina.
+Hakuna njia ya ukubwa mmoja ya kuweka alama kwenye UTXO. Ni juu yako kufafanua mfumo wa kuweka alama ambao ni rahisi kuelewa. Kwa hali yoyote, kumbuka kuwa uwekaji alama mzuri ni kuweka alama unaweza kuelewa unapohitaji. Ikiwa Pochi la Bitcoin yako inakusudiwa kimsingi kuokoa, alama zinaweza zisiwe na manufaa kwako kwa miongo kadhaa ijayo. Kwa hivyo hakikisha ziko wazi, sahihi na za kina.
 
-Ni muhimu kwamba wapendwa wako watambue kwa urahisi asili ya pesa ikiwa, siku moja, wanahitaji ufikiaji wa kwingineko yako. Hii itawasaidia kwa sababu za usiri na kwa madhumuni ya kisheria, ikiwa watahitaji kuhalalisha asili ya pesa kwa mamlaka.
+Ni muhimu kwamba wapendwa wako watambue kwa urahisi asili ya pesa ikiwa, siku moja, wanahitaji ufikiaji wa kwingineko. Hii itawasaidia kwa sababu za usiri na kwa madhumuni ya kisheria, ikiwa watahitaji kuhalalisha asili ya pesa kwa mamlaka.
 
-Jambo muhimu zaidi kuzingatia kwenye lebo ni chanzo cha UTXO. Unapaswa kuonyesha tu jinsi sarafu ilikuja kuwa kwenye Wallet yako. Je, ni matokeo ya ununuzi kwenye jukwaa la Exchange? Malipo ya Invoice kutoka kwa mteja? Exchange ya rika-kwa-rika? Au inawakilisha Exchange ya gharama? Kwa mfano, unaweza kutaja:
+Jambo muhimu zaidi kuzingatia kwenye alama ni chanzo cha UTXO. Unapaswa kuonyesha tu jinsi sarafu ilikuja kuwa kwenye Pochi lako. Je, ni matokeo ya ununuzi kwenye jukwaa la Ubadilishanaji? Malipo ya Anwani ya ununuzi kutoka kwa mteja? Ubadilishanaji wa rika-kwa-rika? Au inawakilisha Ubadiliahanaji wa gharama? Kwa mfano, unaweza kutaja:
 
 
 - ondoa Exchange.com` ;
@@ -1201,7 +1201,7 @@ Jambo muhimu zaidi kuzingatia kwenye lebo ni chanzo cha UTXO. Unapaswa kuonyesha
 
 ![BTC204](assets/fr/072.webp)
 
-Ili kurekebisha usimamizi wako wa UTXO na kuheshimu mikakati yako ya kutenganisha hazina ndani ya jalada lako, unaweza kuboresha lebo zako kwa kiashirio cha ziada kinachoakisi mitengano hii. Ikiwa kwingineko yako ina aina mbili za UTXO ambazo hutaki kuzichanganya, unaweza kujumuisha alama kwenye lebo zako ili kutofautisha vikundi hivi kwa uwazi. Alama hizi za utengano zitategemea vigezo vyako mwenyewe, kama vile kutofautisha kati ya UTXO zinazotokana na mchakato wa upataji unaohusisha KYC, au kati ya fedha za kitaaluma na za kibinafsi. Kwa kuchukua mifano ya lebo iliyotajwa hapo juu, hii inaweza kutafsiri kuwa:
+Ili kurekebisha usimamizi wako wa UTXO na kuheshimu mikakati yako ya kutenganisha hazina ndani ya jalada lako, unaweza kuboresha alama zako kwa kiashirio cha ziada kinachoakisi mitengano hii. Ikiwa yako ina aina mbili za UTXO ambazo hutaki kuzichanganya, unaweza kujumuisha alama kwenye alama zako ili kutofautisha vikundi hivi kwa uwazi. Alama hizi za utengano zitategemea vigezo vyako mwenyewe, kama vile kutofautisha kati ya UTXO zinazotokana na mchakato wa upataji unaohusisha KYC, au kati ya fedha za kitaaluma na za kibinafsi. Kwa kuchukua mifano ya alama iliyotajwa hapo juu, hii inaweza kutafsiri kuwa:
 
 
 - `KYC - Withdrawal Exchange.com` ;
@@ -1211,9 +1211,9 @@ Ili kurekebisha usimamizi wako wa UTXO na kuheshimu mikakati yako ya kutenganish
 
 ![BTC204](assets/fr/073.webp)
 
-Inashauriwa pia kuendeleza uwekaji lebo wa sehemu wakati wa shughuli. Kwa mfano, unapounganisha UTXO no-KYC, hakikisha umeweka alama UTXO inayotokana si tu kama `ujumuishaji`, lakini haswa kama `konsolidation no-KYC` ili kuweka rekodi wazi ya wapi sarafu zilitoka.
+Inashauriwa pia kuendeleza uwekaji alama wa sehemu wakati wa shughuli. Kwa mfano, unapounganisha UTXO no-KYC, hakikisha umeweka alama UTXO inayotokana si tu kama `ujumuishaji`, lakini haswa kama `konsolidation no-KYC` ili kuweka rekodi wazi ya wapi sarafu zilitoka.
 
-Hatimaye, sio lazima kuweka tarehe kwenye lebo. Programu nyingi za Wallet tayari zinaonyesha tarehe ya muamala, na inawezekana kila mara kupata taarifa hii kwenye shukrani ya Block explorer kwa txid yake.
+Hatimaye, sio lazima kuweka tarehe kwenye alama. Programu nyingi za Pochi tayari zinaonyesha tarehe ya muamala, na inawezekana kila mara kupata taarifa hii kwenye shukrani ya kuzuia mpelelezi kwa txid yake.
 
 ### Jinsi ya kuchagua sehemu sahihi?
 
@@ -1223,15 +1223,15 @@ Unapofanya muamala, udhibiti wa sarafu hukuruhusu kuchagua mahususi ni UTXO gani
 - Uwezekano wa mpokeaji wa malipo kuunganisha sehemu ya utambulisho wako kwa UTXO zinazotumiwa katika pembejeo;
 - Uwezo wa mwangalizi wa nje kuanzisha viungo kati ya UTXO zote zinazotumiwa kama pembejeo.
 
-Ili kufafanua jambo la kwanza, hebu tuchukue mfano halisi. Tuseme unanunua baguette katika bitcoins kutoka kwa waokaji wako. Unatumia UTXO moja au zaidi ulizoshikilia kama pembejeo ili kukidhi angalau bei ya baguette katika matokeo, pamoja na ada za ununuzi. Mwokaji wako anaweza basi kuhusisha uso wako, au sehemu nyingine yoyote ya utambulisho wako anayojua, na sarafu zinazotumiwa kama pembejeo. Kwa kujua kuwepo kwa kiungo hiki, unaweza kupendelea kuchagua UTXO mahususi badala ya nyingine unapolipa.
+Ili kufafanua jambo la kwanza, hebu tuchukue mfano halisi. Tuseme unanunua baguette katika bitcoins kutoka kwa waokaji wako. Unatumia UTXO moja au zaidi ulizoshikilia kama pembejeo ili kukidhi angalau bei ya baguette katika matokeo, pamoja na ada za ununuzi. Mwokaji wako anaweza basi kuhusisha uso wako, au sehemu nyingine yoyote ya utambulisho wako anaojua, na sarafu zinazotumiwa kama pembejeo. Kwa kujua kuwepo kwa kiungo hiki, unaweza kupendelea kuchagua UTXO mahususi badala ya nyingine unapolipa.
 
 ![BTC204](assets/fr/074.webp)
 
-Kwa mfano, ikiwa moja ya UTXOs zako inatoka kwa jukwaa la Exchange na ungependa mwokaji asijue kuhusu akaunti yako kwenye jukwaa hilo, utaepuka kutumia UTXO hiyo kwa malipo. Ikiwa una UTXO ya thamani ya juu ambayo inaonyesha kiasi kikubwa cha bitcoins, unaweza pia kuchagua kutoitumia ili kuepuka mwokaji kufahamu bahati yako ya BTC.
+Kwa mfano, ikiwa moja ya UTXOs zako inatoka kwa jukwaa la Ubadilishanaji na ungependa mwokaji asijue kuhusu akaunti yako kwenye jukwaa hilo, utaepuka kutumia UTXO hiyo kwa malipo. Ikiwa una UTXO ya thamani ya juu ambayo inaonyesha kiasi kikubwa cha bitcoins, unaweza pia kuchagua kutoitumia ili kuepuka mwokaji kufahamu bahati yako ya BTC.
 
-Kuchagua ni UTXO zipi za kutumia kwa hoja hii ya kwanza kwa hiyo ni uamuzi wa kibinafsi, unaoathiriwa na kile ambacho uko tayari kufichua au la. Lebo unazozikabidhi kwa UTXO zako unapozipokea zitakusaidia kuchagua zile ambazo, pindi zinapotumika, hufichua tu maelezo ambayo ungependa kufichua kwa mpokeaji.
+Kuchagua ni UTXO zipi za kutumia kwa hoja hii ya kwanza kwa hiyo ni uamuzi wa kibinafsi, unaoathiriwa na kile ambacho uko tayari kufichua au la. Alama unazozikabidhi kwa UTXO zako unapozipokea zitakusaidia kuchagua zile ambazo, pindi zinapotumika, hufichua tu maelezo ambayo ungependa kufichua kwa mpokeaji.
 
-Zaidi ya maelezo yanayoweza kufichuliwa kwa mpokeaji, chaguo la ingizo pia huathiri kile unachofichua kwa waangalizi wote wa Blockchain. Hakika, kwa kutumia UTXO kadhaa kama nyenzo za muamala wako, unafichua kuwa zinamilikiwa na huluki moja, kulingana na CIOH heuristic (_Common Input Ownership Heuristic_).
+Zaidi ya maelezo yanayoweza kufichuliwa kwa mpokeaji, chaguo la ingizo pia huathiri kile unachofichua kwa waangalizi wote wa kuzuia mnyororo. Hakika, kwa kutumia UTXO kadhaa kama nyenzo za muamala wako, unafichua kuwa zinamilikiwa na huluki moja, kulingana na urithi wa CIOH (_Common Input Ownership Heuristic_).
 
 ![BTC204](assets/fr/075.webp)
 
@@ -1239,7 +1239,7 @@ Kwa hivyo, unapochagua sehemu zako, unahitaji kufahamu kwamba shughuli unayotaka
 
 ![BTC204](assets/fr/076.webp)
 
-Hebu tuchukue mfano wa no-KYC UTXO yangu kutoka Bisq; Ninataka kuepuka kuichanganya na UTXO kutoka, tuseme, jukwaa lililodhibitiwa la Exchange ambalo linajua utambulisho wangu. Hakika, ikiwa nitawahi kutumia UTXO hizi 2 kama pembejeo kwa shughuli sawa, jukwaa linalodhibitiwa litaweza kuunganisha utambulisho wangu na UTXO niliyonunua kwenye Bisq, ambayo haikuunganishwa hapo awali na utambulisho wangu.
+Hebu tuchukue mfano wa no-KYC UTXO yangu kutoka Bisq; Ninataka kuepuka kuichanganya na UTXO kutoka, tuseme, jukwaa lililodhibitiwa la Ubadilishanaji ambalo linajua utambulisho wangu. Hakika, ikiwa nitawahi kutumia UTXO hizi 2 kama pembejeo kwa shughuli sawa, jukwaa linalodhibitiwa litaweza kuunganisha utambulisho wangu na UTXO niliyonunua kwenye Bisq, ambayo haikuunganishwa hapo awali na utambulisho wangu.
 
 ![BTC204](assets/fr/077.webp)
 
