@@ -2536,7 +2536,7 @@ Kikundi cha Satoshi's Fellowship kinawasilisha programu ya michezo ya kubahatish
 
 Kikundi cha Lightning Walker kinawasilisha suluhisho lao la Huduma ya Pesa kwa kutumia MySQL, JavaScript na API ya ZDB.
 
-# Hitimisho
+# Sehemu ya mwisho
 
 <partId>a633fb0c-839c-4405-8b77-2377cce79dd7</partId>
 
