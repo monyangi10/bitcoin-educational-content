@@ -1348,7 +1348,7 @@ Wakati mwingine, baadhi ya bitcoiners huwa na mwelekeo wa kupanua neno "KYC" kwa
 
 KYC inarejelea mahususi utaratibu wa udhibiti unaotekelezwa na kampuni fulani ili kuthibitisha na kusajili utambulisho wa wateja wao. Ni jambo la binary: wakati wa kupata bitcoins zako, ama ufanye KYC, au hufanyi. Hata hivyo, kitambulisho kikuu, ambacho kinahusu kiungo kati ya kipengele cha utambulisho wa mtumiaji na shughuli ya onchain, si kama mfumo wa jozi, lakini inawakilisha mwendelezo. Hakika, katika muktadha wa upatikanaji au uhamisho wa Bitcoin, kitambulisho hicho kinawezekana kila mara kwa viwango tofauti.
 
-Kwa mfano, ukinunua bitcoins kwenye jukwaa lililodhibitiwa nchini Uswizi, KYC haihitajiki. Hata hivyo, funguo zako zinaweza kutambuliwa, kwani ununuzi ulifanywa kupitia akaunti yako ya benki. Hapa ndipo hatari mbili za kwanza zinazohusiana na KYC - kuwezesha ufuatiliaji wa onchain na kukabiliwa na ufuatiliaji wa serikali - pia zinaweza kujidhihirisha katika Exchange bila KYC. Ikiwa huluki ya Uswizi itaripoti miamala ya kutiliwa shaka kwa mamlaka katika nchi yako, wanaweza kuangalia tu akaunti ya benki iliyotumiwa kufanya ununuzi ili kugundua utambulisho wako. Kwa hivyo, kununua bila KYC kwenye majukwaa yaliyodhibitiwa ni juu sana kwa kiwango cha hatari kwa utambulisho muhimu.
+Kwa mfano, ukinunua bitcoins kwenye jukwaa lililodhibitiwa nchini Uswizi, KYC haihitajiki. Hata hivyo, funguo zako zinaweza kutambuliwa, kwani ununuzi ulifanywa kupitia akaunti yako ya benki. Hapa ndipo hatari mbili za kwanza zinazohusiana na KYC - kuwezesha ufuatiliaji wa onchain na kukabiliwa na ufuatiliaji wa serikali - pia zinaweza kujidhihirisha katika ubadilishanaji bila KYC. Ikiwa huluki ya Uswizi itaripoti miamala ya kutiliwa shaka kwa mamlaka katika nchi yako, wanaweza kuangalia tu akaunti ya benki iliyotumiwa kufanya ununuzi ili kugundua utambulisho wako. Kwa hivyo, kununua bila KYC kwenye majukwaa yaliyodhibitiwa ni juu sana kwa kiwango cha hatari kwa utambulisho muhimu.
 
 ![BTC204](assets/fr/081.webp)
 
@@ -1356,11 +1356,11 @@ Hata hivyo, kuepuka majukwaa yaliyodhibitiwa na kuchagua mbinu za kupata P2P hak
 
 ![BTC204](assets/fr/082.webp)
 
-Hatimaye, hata kama utapata bitcoins zako kupitia Exchange halisi kwa pesa taslimu, hutambuliwi kabisa. Mtu uliyebadilishana naye ameona uso wako, ambao ni sehemu ya utambulisho wako. Ingawa ni ndogo katika mfano huu, bado kuna uwezekano wa kitambulisho muhimu.
+Hatimaye, hata kama utapata bitcoins zako kupitia Ubadilishanaji halisi kwa pesa taslimu, hutambuliwi kabisa. Mtu uliyebadilishana naye ameona uso wako, ambao ni sehemu ya utambulisho wako. Ingawa ni ndogo katika mfano huu, bado kuna uwezekano wa kitambulisho muhimu.
 
 ![BTC204](assets/fr/083.webp)
 
-Kwa kumalizia, wakati bitcoins zinabadilishwa kwa mali nyingine, iwe ununuzi kwa sarafu ya serikali au uuzaji dhidi ya nzuri halisi, daima kuna aina fulani ya kitambulisho muhimu. Kulingana na njia ya Exchange iliyochaguliwa, kitambulisho hiki kinaweza kutofautiana kwa ukubwa. Ni muhimu kutochanganya kitambulisho hiki na KYC, ambayo ni mchakato wa udhibiti uliofafanuliwa vyema. Hata hivyo, kuna kiungo kati ya KYC na wigo wa utambulisho, kwa kuwa KYC iko kwenye mwisho wa juu zaidi wa wigo, kwani hurahisisha utambuzi wa funguo za watumiaji na mamlaka.
+Kwa kumalizia, wakati bitcoins zinabadilishwa kwa mali nyingine, iwe ununuzi kwa sarafu ya serikali au uuzaji dhidi ya nzuri halisi, daima kuna aina fulani ya kitambulisho muhimu. Kulingana na njia ya Ubadilishanaji uliochaguliwa, kitambulisho hiki kinaweza kutofautiana kwa ukubwa. Ni muhimu kutochanganya kitambulisho hiki na KYC, ambayo ni mchakato wa udhibiti uliofafanuliwa vyema. Hata hivyo, kuna kiungo kati ya KYC na wigo wa utambulisho, kwa kuwa KYC iko kwenye mwisho wa juu zaidi wa wigo, kwani hurahisisha utambuzi wa funguo za watumiaji na mamlaka.
 
 ## Njia za uuzaji na ununuzi
 
@@ -1370,11 +1370,11 @@ Baada ya kusoma sura iliyotangulia, unaweza kuwa unashangaa jinsi unavyoweza kun
 
 ### P2P kubadilishana fedha
 
-Kama tulivyoona, njia bora zaidi katika suala la usiri inasalia kuwa P2P (mtu-kwa-mtu) Exchange na malipo ya pesa taslimu. Njia hii hukuruhusu kupunguza athari zilizoachwa nyuma, na hupunguza kwa kiasi kikubwa uwezekano wa utambulisho muhimu, iwe unanunua au unauza.
+Kama tulivyoona, njia bora zaidi katika suala la usiri inasalia kuwa P2P (mtu-kwa-mtu) Ubadilishanaji na malipo ya pesa taslimu. Njia hii hukuruhusu kupunguza athari zilizoachwa nyuma, na hupunguza kwa kiasi kikubwa uwezekano wa utambulisho muhimu, iwe unanunua au unauza.
 
 ![BTC204](assets/fr/084.webp)
 
-Walakini, kuna hatari kwa usalama wa kibinafsi. Hatari kuu iko katika ukweli kwamba, wakati wa Exchange, mwenzake atajua kwamba unashikilia kiasi kikubwa cha fedha, ama kwa fedha au kwa bitcoins. Habari hii inaweza kuvutia umakini wa watu hasidi. Hakika, kwa ujumla inashauriwa kuwa mwangalifu kuhusu umiliki wako wa Bitcoin. Ushauri huu pia unaweza kutumika kwa pesa taslimu. Hata hivyo, wakati wa kubadilishana ana kwa ana, ni lazima kufichua kwamba unamiliki bitcoins, na hii inaweza kuvutia tahadhari zisizokubalika.
+Walakini, kuna hatari kwa usalama ya kibinafsi. Hatari kuu iko katika ukweli kwamba, wakati wa Ubadilishanaji, mwenzake atajua kwamba unashikilia kiasi kikubwa cha fedha, ama kwa fedha au kwa bitcoins. Habari hii inaweza kuvutia umakini wa watu hasidi. Hakika, kwa ujumla unashauriwa kuwa mwangalifu kuhusu umiliki wako wa Bitcoin. Ushauri huu pia unaweza kutumika kwa pesa taslimu. Hata hivyo, wakati wa kubadilishana ana kwa ana, ni lazima kufichua kwamba unamiliki bitcoins, na hili linaweza kuvutia tahadhari zisizokubalika.
 
 ![BTC204](assets/fr/085.webp)
 
@@ -1384,7 +1384,7 @@ Zaidi ya hayo, kulingana na mahali unapoishi, kusafirisha na kuhifadhi pesa nyin
 
 Kubadilishana pesa kunaweza pia kuleta hatari za kisheria katika tukio la polisi au hundi zingine. Ingawa katika nchi nyingi hakuna vikwazo kuhusu kiasi cha pesa unachoweza kubeba, kiasi kikubwa cha pesa kinaweza kuzua shaka. Kwa hivyo kuwa mwangalifu, haswa ikiwa utalazimika kusafiri umbali mrefu, na epuka kufanya miamala mingi kwa wakati mmoja, ili usilazimike kuhalalisha umiliki wa pesa nyingi.
 
-Hatimaye, hasara nyingine ya ununuzi wa P2P ni kwamba bei mara nyingi ni ya juu kuliko kwenye majukwaa yaliyodhibitiwa. Wauzaji mara nyingi hutoza alama ya juu kuanzia 1% hadi wakati mwingine zaidi ya 10%. Kuna sababu kadhaa za tofauti hii ya bei. Kwanza, hii ni mazoezi ya kawaida kati ya wauzaji wa P2P ambayo imeanzishwa kwa muda. Pili, wauzaji wana ada zinazohusiana na shughuli ya kutuma pesa kwa mnunuzi. Pia kuna ongezeko la hatari ya wizi katika mauzo ya P2P ikilinganishwa na miamala ya jukwaa, ambayo inahalalisha fidia kwa hatari iliyochukuliwa. Hatimaye, gharama ya ziada inaweza kuhusishwa na mahitaji na ubora wa Exchange katika suala la usiri. Kama mnunuzi, faida ya usiri ina bei ambayo inaonekana katika alama iliyowekwa na muuzaji. Baadhi ya bitcoiners pia wanaamini kuwa bei ya alama ya BTC iliyonunuliwa kwenye P2P inaonyesha bei yake ya kweli, na wanasema kuwa bei za chini kwenye majukwaa yaliyodhibitiwa ni matokeo ya maelewano juu ya usiri wa data yako ya kibinafsi.
+Hatimaye, hasara nyingine ya ununuzi wa P2P ni kwamba bei mara nyingi ni ya juu kuliko kwenye majukwaa yaliyodhibitiwa. Wauzaji mara nyingi hutoza alama ya juu kuanzia 1% hadi wakati mwingine zaidi ya 10%. Kuna sababu kadhaa za tofauti hii ya bei. Kwanza, hii ni mazoezi ya kawaida kati ya wauzaji wa P2P ambayo imeanzishwa kwa muda. Pili, wauzaji wana ada zinazohusiana na shughuli ya kutuma pesa kwa mnunuzi. Pia kuna ongezeko la hatari ya wizi katika mauzo ya P2P ikilinganishwa na miamala ya jukwaa, ambayo inahalalisha fidia kwa hatari iliyochukuliwa. Hatimaye, gharama ya ziada inaweza kuhusishwa na mahitaji na ubora wa Ubadilishanaji katika suala la usiri. Kama mnunuzi, faida ya usiri ina bei ambayo inaonekana katika alama iliyowekwa na muuzaji. Baadhi ya bitcoiners pia wanaamini kuwa bei ya alama ya BTC iliyonunuliwa kwenye P2P inaonyesha bei yake ya kweli, na wanasema kuwa bei za chini kwenye majukwaa yaliyodhibitiwa ni matokeo ya maelewano juu ya usiri wa data yako ya kibinafsi.
 
 ![BTC204](assets/fr/086.webp)
 
@@ -1394,25 +1394,25 @@ Njia mbadala isiyo na hatari sana katika masuala ya usalama wa kibinafsi ni kufa
 
 ![BTC204](assets/fr/087.webp)
 
-Mbinu hii huepuka hatari nyingi zinazohusiana na miamala ya pesa taslimu. Hata hivyo, hatari ya mshirika kukataa kutumia Exchange mtandaoni ni kubwa zaidi. Hakika, katika Exchange ya kimwili, ikiwa unatoa pesa kwa muuzaji ambaye hakutumii bitcoins kwa kurudi, unaweza kumwita mara moja kwa akaunti, kwa kuwa amesimama mbele yako. Mtandaoni, kwa upande mwingine, mara nyingi haiwezekani kufuatilia mtu ambaye ameiba kutoka kwako.
+Mbinu hii huepuka hatari nyingi zinazohusiana na miamala ya pesa taslimu. Hata hivyo, hatari ya mshirika kukataa kutumia Ubadilishanaji mtandaoni ni kubwa zaidi. Hakika, katika Ubadilishanaji wa kimwili, ikiwa unatoa pesa kwa muuzaji ambaye hakutumii bitcoins kwa kurudi, unaweza kumwita mara moja kwa akaunti, kwa kuwa amesimama mbele yako. Mtandaoni, kwa upande mwingine, mara nyingi haiwezekani kufuatilia mtu ambaye ameiba kutoka kwako.
 
 ![BTC204](assets/fr/088.webp)
 
-Ili kupunguza hatari hii, inawezekana kutumia majukwaa maalumu kwa kubadilishana P2P. Mifumo hii hutumia mbinu za kutatua mizozo ili kuwalinda watumiaji waliodhulumiwa. Kwa kawaida, hutoa mfumo wa escrow, ambapo bitcoins hufanyika mpaka malipo kwa fedha za fiat imethibitishwa na muuzaji.
+Ili kupunguza hatari hii, inawezekana kutumia majukwaa maalumu kwa kubadilishana P2P. Mifumo hii hutumia mbinu za kutatua mizozo ili kuwalinda watumiaji waliodhulumiwa. Kwa kawaida, hutoa mfumo wa escrow, ambapo bitcoins hufanyika mpaka malipo kwa fedha za serikali yamethibitishwa na muuzaji.
 
 ![BTC204](assets/fr/089.webp)
 
-Kwa upande wa usalama wa kibinafsi, njia hii ya ununuzi ni salama zaidi kuliko pesa taslimu Exchange. Walakini, kama ilivyotajwa hapo juu, ubadilishanaji wa mtandaoni wa P2P huacha athari zaidi kuliko Exchange halisi, ambayo inaweza kudhuru kwa faragha kwenye Bitcoin. Kwa kutumia njia ya malipo ya mtandaoni kama vile benki, unafichua maelezo zaidi ambayo yanaweza kuwezesha utambulisho muhimu.
+Kwa upande wa usalama wa kibinafsi, njia hii ya ununuzi ni salama zaidi kuliko pesa za Ubadilishanaji taslim. Walakini, kama ilivyotajwa hapo juu, ubadilishanaji wa mtandaoni wa P2P huacha athari zaidi kuliko ubadilishanaji halisi, ambao unaweza kudhuru kwa faragha kwenye Bitcoin. Kwa kutumia njia ya malipo ya mtandaoni kama vile benki, unafichua maelezo zaidi ambayo yanaweza kuwezesha utambulisho muhimu.
 
 ![BTC204](assets/fr/090.webp)
 
 Kwa mara nyingine tena, nisingependekeza kufanya biashara nyingi kubwa katika muamala mmoja kwenye majukwaa haya. Kwa kugawanya miamala yako, unaeneza hatari ya wizi wa wenzako.
 
-Kwa mara nyingine tena, hasara nyingine ya ununuzi wa P2P ni kwamba bei mara nyingi ni ya juu kuliko ile inayoonekana kwenye majukwaa yaliyodhibitiwa. Wauzaji mara nyingi hutoza alama ya juu kuanzia 1% hadi wakati mwingine zaidi ya 10%. Kuna sababu kadhaa za tofauti hii ya bei. Kwanza, hii ni mazoezi ya kawaida kati ya wauzaji wa P2P ambayo imeanzishwa kwa muda. Pili, wauzaji wana ada zinazohusiana na shughuli ya kutuma pesa kwa mnunuzi. Pia kuna ongezeko la hatari ya wizi katika mauzo ya P2P ikilinganishwa na miamala ya jukwaa, ambayo inahalalisha fidia kwa hatari iliyochukuliwa. Hatimaye, gharama ya ziada inaweza kuhusishwa na mahitaji na ubora wa Exchange katika suala la usiri. Kama mnunuzi, faida ya usiri ina bei ambayo inaonekana katika alama iliyowekwa na muuzaji. Baadhi ya bitcoiners pia wanaamini kuwa bei ya alama ya BTC iliyonunuliwa kwenye P2P inaonyesha bei yake ya kweli, na wanasema kuwa bei za chini kwenye majukwaa yaliyodhibitiwa ni matokeo ya maelewano juu ya usiri wa data yako ya kibinafsi.
+Kwa mara nyingine tena, hasara nyingine ya ununuzi wa P2P ni kwamba bei mara nyingi ni ya juu kuliko ile inayoonekana kwenye majukwaa yaliyodhibitiwa. Wauzaji mara nyingi hutoza alama ya juu kuanzia 1% hadi wakati mwingine zaidi ya 10%. Kuna sababu kadhaa za tofauti hii ya bei. Kwanza, hii ni mazoezi ya kawaida kati ya wauzaji wa P2P ambayo imeanzishwa kwa muda. Pili, wauzaji wana ada zinazohusiana na shughuli za kutuma pesa kwa mnunuzi. Pia kuna ongezeko la hatari ya wizi katika mauzo ya P2P ikilinganishwa na miamala ya jukwaa, ambayo inahalalisha fidia kwa hatari iliyochukuliwa. Hatimaye, gharama ya ziada inaweza kuhusishwa na mahitaji na ubora wa Ubadilishanaji katika suala la usiri. Kama mnunuzi, faida ya usiri ina bei ambayo inaonekana katika alama iliyowekwa na muuzaji. Baadhi ya bitcoiners pia wanaamini kuwa bei ya alama ya BTC iliyonunuliwa kwenye P2P inaonyesha bei yake ya kweli, na wanasema kuwa bei za chini kwenye majukwaa yaliyodhibitiwa ni matokeo ya maelewano juu ya usiri wa data yako ya kibinafsi.
 
 ![BTC204](assets/fr/086.webp)
 
-Kwa kadiri masuluhisho yanavyohusika, mimi binafsi nimekuwa nikitumia [Bisq](https://bisq.network/) na nimefurahishwa nayo sana. Mfumo wao unajaribiwa na unaonekana kuwa wa kuaminika. Hata hivyo, Bisq inapatikana kwenye Kompyuta pekee na Interface yake inaweza kuwa ngumu sana kwa wanaoanza. Kikwazo kingine ni kwamba Bisq hufanya kazi tu na miamala ya onchain, ambayo inaweza kuwa ghali wakati wa ada za juu za Bitcoin.
+Kwa kadiri suluhisho inavyohusika, mimi binafsi nimekuwa nikitumia [Bisq](https://bisq.network/) na nimefurahishwa nayo sana. Mfumo wao unajaribiwa na unaonekana kuwa wa kuaminika. Hata hivyo, Bisq inapatikana kwenye Kompyuta pekee na kiolesura yake inaweza kuwa ngumu sana kwa wanaoanza. Kikwazo kingine ni kwamba Bisq hufanya kazi tu na miamala ya onchain, ambayo inaweza kuwa ghali wakati wa ada za juu za Bitcoin.
 
 -> Tazama mafunzo yetu ya Bisq.
 
@@ -1427,7 +1427,7 @@ Chaguo jingine la mtandaoni ni [HodlHodl](https://hodlhodl.com/), jukwaa lililoi
 -> Tazama mafunzo yetu ya HodlHodl.
 
 https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
-Kwa suluhu zenye msingi wa Lightning Network, jaribu [RoboSats](https://learn.robosats.com/) na [LNP2PBot](https://lnp2pbot.com/). RoboSats inapatikana kupitia tovuti na ni rahisi kutumia. LNP2PBot si ya kawaida zaidi, kwani inafanya kazi kupitia mfumo wa Exchange kwenye programu ya utumaji ujumbe wa Telegraph.
+Kwa suluhu zenye msingi wa Lightning Network, jaribu [RoboSats](https://learn.robosats.com/) na [LNP2PBot](https://lnp2pbot.com/). RoboSats inapatikana kupitia tovuti na ni rahisi kutumia. LNP2PBot si ya kawaida zaidi, kwani inafanya kazi kupitia mfumo wa Ubadilishanaji kwenye programu ya utumaji ujumbe wa Telegraph.
 
 -> Tazama mafunzo yetu ya RoboSats.
 
@@ -1454,26 +1454,26 @@ Chaguo jingine la kununua au kuuza bitcoins bila KYC ni ATM za cryptocurrency. B
 
 ![BTC204](assets/fr/092.webp)
 
-Tatizo la ATM ni kwamba zimepigwa marufuku katika baadhi ya nchi, au zimedhibitiwa sana katika nyingine. Ikiwa ATM inahitaji utaratibu wa uthibitishaji wa utambulisho, basi itakabiliwa na hatari sawa na zile zinazopatikana katika mifumo inayodhibitiwa na KYC. Kwa upande mwingine, ikiwa ATM inaruhusu shughuli bila uthibitishaji wa utambulisho kwa kiasi kidogo, basi matumizi yake yanaweza kutoa kiwango cha usiri kulinganishwa na ile ya P2P ya fedha Exchange, huku ikiepuka hatari nyingi zinazohusiana na aina hii ya Exchange.
+Tatizo la ATM ni kwamba zimepigwa marufuku katika baadhi ya nchi, au zimedhibitiwa sana katika nyingine. Ikiwa ATM inahitaji utaratibu wa uthibitishaji wa utambulisho, basi itakabiliwa na hatari sawa na zile zinazopatikana katika mifumo inayodhibitiwa na KYC. Kwa upande mwingine, ikiwa ATM inaruhusu shughuli bila uthibitishaji wa utambulisho kwa kiasi kidogo, basi matumizi yake yanaweza kutoa kiwango cha usiri kulinganishwa na ile ya P2P ya fedha za Ubadilishanaji, huku ikiepuka hatari nyingi zinazohusiana na aina hii ya Ubadilishanaji.
 
-Hasara kuu ya ATM ni ada zao za juu za Exchange, kuanzia asilimia chache hadi wakati mwingine 15% ya kiasi kilichobadilishwa.
+Hasara kuu ya ATM ni ada zao za juu za Kubadilishana, kuanzia asilimia chache hadi wakati mwingine 15% ya kiasi kilichobadilishwa.
 
 ### Kadi za zawadi
 
-Hatimaye, nilitaka pia kukujulisha kwa suluhisho ambalo linafanya kazi vizuri kwa wale wanaotaka kutumia bitcoins zao kila siku kufanya manunuzi badala ya kuziuza dhidi ya sarafu za fiat.
+Hatimaye, nilitaka pia kukujulisha kwa suluhisho ambalo linafanya kazi vizuri kwa wale wanaotaka kutumia bitcoins zao kila siku kufanya manunuzi badala ya kuziuza dhidi ya sarafu za serikali.
 
-Njia bora ya kutumia BTC ni, bila shaka, kutumia Bitcoin au Lightning Network moja kwa moja kununua bidhaa au huduma. Hata hivyo, katika nchi nyingi, idadi ya wafanyabiashara wanaokubali Bitcoin bado ni mdogo. Njia mbadala ni kutumia kadi za zawadi.
+Njia bora ya kutumia BTC ni, bila shaka, kutumia Bitcoin au Lightning Network moja kwa moja kununua bidhaa au huduma. Hata hivyo, katika nchi nyingi, idadi ya wafanyabiashara wanaokubali Bitcoin bado ni wachache. Njia mbadala ni kutumia kadi za zawadi.
 
-Majukwaa kadhaa ambayo hayahitaji taratibu za KYC hutoa uwezekano wa kubadilishana bitcoins kwa kadi za zawadi ambazo zinaweza kutumika kwa wauzaji wakuu. Hizi ni pamoja na [CoinsBee](https://www.coinsbee.com/), [The Bitcoin Company](https://thebitcoincompany.com/) na [Bitrefill](https://www.bitrefill.com/). Majukwaa haya hurahisisha zaidi kutumia bitcoins zako kila siku, hukupa ufikiaji wa anuwai ya bidhaa na huduma bila kuzibadilisha kuwa sarafu ya fiat.
+Majukwaa kadhaa ambayo hayahitaji taratibu za KYC hutoa uwezekano wa kubadilishana bitcoins kwa kadi za zawadi ambazo zinaweza kutumika kwa wauzaji wakuu. Hizi ni pamoja na [CoinsBee](https://www.coinsbee.com/), [The Bitcoin Company](https://thebitcoincompany.com/) na [Bitrefill](https://www.bitrefill.com/). Majukwaa haya hurahisisha zaidi kutumia bitcoins zako kila siku, hukupa ufikiaji wa anuwai ya bidhaa na huduma bila kuzibadilisha kuwa sarafu ya serikali.
 
 https://planb.network/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465b-9bca-e647a647fbc1
 ![BTC204](assets/fr/093.webp)
 
 ### Njia zingine za kupata
 
-Njia zingine za kupata bitcoins wakati wa kulinda faragha yako ni pamoja na, bila shaka, Mining. Ili kuanzisha Mining Sats, huhitaji kufichua utambulisho wako; pata tu Proof of Work halali na uwasilishe kwa mtandao. Ukichagua bwawa la Mining, mabwawa mengine yanahitaji aina fulani ya kitambulisho, kama vile KYC, huku mengine hayahitaji.
+Njia zingine za kupata bitcoins wakati wa kulinda faragha yako ni pamoja na, Uchimbaji . Ili kuanzisha uchimbaji wa Sats, huhitaji kufichua utambulisho wako; pata tu Proof of Work halali na uwasilishe kwa mtandao. Ukichagua bwawa la Kuchimba, mabwawa mengine yanahitaji aina fulani ya kitambulisho, kama vile KYC, huku mengine hayahitaji.
 
-Njia nyingine ni kufanya kazi katika Exchange kwa bitcoins. Njia hii ya kupata inaweza kuvutia, lakini kiwango cha kitambulisho kinachohitajika hutofautiana sana kulingana na hali.
+Njia nyingine ni kufanya kazi katika Ubadilishanaji wa bitcoins. Njia hii ya kupata inaweza kuvutia, lakini kiwango cha kitambulisho kinachohitajika hutofautiana sana kulingana na hali.
 
 *Ili kuandika sura hii, nilitumia kozi ya mafunzo ya BTC205 iliyotolewa na [@pivi___](https://x.com/pivi___) kwenye Plan ₿ Network (inapatikana katika Kifaransa pekee kwa sasa)
 
@@ -1481,13 +1481,13 @@ Njia nyingine ni kufanya kazi katika Exchange kwa bitcoins. Njia hii ya kupata i
 
 <chapterId>d0486c8f-332d-402b-ae2e-949416752b9c</chapterId>
 
-Mojawapo ya vipengele ngumu zaidi vya kuendesha jalada la ulinzi wa kibinafsi ni ujumuishaji. Je, unapaswa kuunganisha? Kuna maana gani? Je, ni ukubwa gani wa UTXO unapaswa kuheshimiwa? Je, ni maelewano gani katika suala la usiri? Hiyo ndiyo tutakayoangalia katika sehemu hii.
+Mojawapo ya vipengele vigumu zaidi vya kuendesha jalada la ulinzi wa kibinafsi ni ujumuishaji. Je, unapaswa kuunganisha? Kuna maana gani? Je, ni ukubwa gani wa UTXO unapaswa kuheshimiwa? Je, ni maelewano gani katika suala la usiri? Hiyo ndiyo tutakayoangalia katika sehemu hii.
 
 ### Uimarishaji ni nini?
 
-Bitcoin hufanya kazi kama soko la mnada, huku wachimbaji wakitoa upendeleo kwa miamala inayotoa ada za chini zaidi. Hata hivyo, kila block ina uzito wa juu, ambayo hupunguza idadi ya shughuli ambazo zinaweza kuingizwa. Kwa kuwa block inatolewa kwa wastani kila baada ya dakika 10, nafasi inayopatikana katika kila block ni rasilimali adimu.
+Bitcoin hufanya kazi kama soko la mnada, huku wachimbaji wakitoa upendeleo kwa miamala inayotoa ada za chini zaidi. Hata hivyo, kila kizuizi kina uzito wa juu, ambao hupunguza idadi ya shughuli ambazo zinaweza kuingizwa. Kwa kuwa kizuizi kinatolewa kwa wastani kila baada ya dakika 10, nafasi inayopatikana katika kila block ni rasilimali adimu.
 
-Wachimbaji, ambao shughuli zao za generate gharama kubwa katika suala la umeme, mali zisizohamishika na matengenezo, kwa kawaida hutafuta kuongeza faida yao. Kwa hivyo wanaelekea kupendelea miamala ambayo generate ndio ada ya juu zaidi inayohusiana na uzito wao.
+Wachimbaji, ambao shughuli zao za kuzalisha gharama kubwa katika suala la umeme, mali zisizohamishika na matengenezo, kwa kawaida hutafuta kuongeza faida yao. Kwa hivyo wanaelekea kupendelea miamala ambayo kuzalisha ndio ada ya juu zaidi inayohusiana na uzito wao.
 
 Sio shughuli zote za Bitcoin zina uzito sawa. Wale walio na pembejeo na matokeo zaidi watakuwa na uzito zaidi. Kwa mfano, hebu tufikirie shughuli 2:
 
@@ -1542,7 +1542,7 @@ Katika mfano huu, kwa hiyo itakuwa busara kuweka thamani ya chini ya 940,000 Sat
 
 ### Ujumuishaji na CIOH
 
-Mojawapo ya mbinu zinazotumika sana katika uchanganuzi wa Blockchain ni CIOH (*Ingizo la Kawaida Ownership Heuristic*), ambayo inadhania kuwa pembejeo zote za muamala wa Bitcoin ni za huluki moja. Kanuni yenyewe ya ujumuishaji ni kutumia UTXO kadhaa kama pembejeo na kuunda UTXO moja kama pato. Kwa hivyo ujumuishaji huwezesha ICOH kutumika.
+Mojawapo ya mbinu zinazotumika sana katika uchanganuzi wa Kuzuia mnyororo ni CIOH (*Ingizo la Kawaida la umiliki Urithi*), ambayo inadhania kuwa pembejeo zote za muamala wa Bitcoin ni za huluki moja. Kanuni yenyewe ya ujumuishaji ni kutumia UTXO kadhaa kama pembejeo na kuunda UTXO moja kama pato. Kwa hivyo ujumuishaji huwezesha ICOH kutumika.
 
 ![BTC204](assets/fr/097.webp)
 
