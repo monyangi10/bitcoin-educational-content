@@ -2503,15 +2503,15 @@ Hebu tuchukue mfano ili kuelewa vizuri mchakato huu. Alice ananunua baguette kwa
 
 Katika mfano huu, Bob mwokaji huingia 15,000 Sats katika pembejeo na kuondoka na 19,000 Sats, tofauti ni hasa 4,000 Sats, yaani bei ya baguette. Kwa upande wa Alice, anaingia 10,000 Sats na kuishia na 6,000 Sats katika pato, ambayo inawakilisha usawa wa -4,000 Sats, yaani bei ya baguette. Ili kurahisisha mfano, nimeacha kwa makusudi gharama za Mining katika muamala huu.
 
-### PayJoin ni ya nini?
+### Ulipaji wa kujiunga ni wa nini?
 
-Muamala wa PayJoin unatimiza malengo mawili, kuwezesha watumiaji kuimarisha usiri wa malipo yao.
+Muamala wa kulipa kujiunga unatimiza malengo mawili, kuwezesha watumiaji kuimarisha usiri wa malipo yao.
 
-Kwanza, PayJoin inalenga kupotosha mwangalizi wa nje kwa kuunda chambo katika uchanganuzi wa mnyororo. Hili linawezekana na CIOH heuristic (*Ingizo la Kawaida Ownership Heuristic*). Kama tulivyoona katika sehemu ya 3, kwa kawaida, wakati shughuli kwenye Blockchain ina pembejeo kadhaa, inachukuliwa kuwa pembejeo hizi zote ni za huluki moja au mtumiaji.
+Kwanza, kulipa kujiunga kunalenga kupotosha mwangalizi wa nje kwa kuunda chambo katika uchanganuzi wa mnyororo. Hili linawezekana na Urithi wa CIOH  (*Ingizo la Kawaida Ownership Heuristic*). Kama tulivyoona katika sehemu ya 3, kwa kawaida, wakati shughuli kwenye Blockchain ina pembejeo kadhaa, inachukuliwa kuwa pembejeo hizi zote ni za huluki moja au mtumiaji.
 
-Kwa hiyo, wakati mchambuzi anachunguza shughuli ya PayJoin, anaongozwa kuamini kwamba pembejeo zote zinatoka kwa mtu mmoja. Hata hivyo, mtazamo huu si sahihi, kwa sababu mlipaji pia huchangia pembejeo pamoja na mlipaji halisi. Uchanganuzi wa mnyororo kwa hivyo unaelekezwa kwa tafsiri ambayo inageuka kuwa sio sawa.
+Kwa hiyo, wakati mchambuzi anachunguza shughuli ya kulipa kujiunga, anaongozwa kuamini kwamba pembejeo zote zinatoka kwa mtu mmoja. Hata hivyo, mtazamo huu si sahihi, kwa sababu mlipaji pia huchangia pembejeo pamoja na mlipaji halisi. Uchanganuzi wa mnyororo kwa hivyo unaelekezwa kwa tafsiri ambayo inageuka kuwa sio sawa.
 
-Hebu tuchukue mfano wetu wa shughuli ya PayJoin ya malipo ya baguette:
+Hebu tuchukue mfano wetu wa shughuli ya kulipa kujiunga ya malipo ya baguette:
 
 ![BTC204](assets/fr/166.webp)
 
@@ -2527,7 +2527,7 @@ Kwa njia hii, uchanganuzi wa mwangalizi wa nje unaelekezwa kwenye hitimisho poto
 
 ### Shughuli ya steganographic
 
-Madhumuni ya pili ya PayJoin ni kupotosha mwangalizi wa nje kuhusu kiasi halisi cha malipo ambayo yamefanywa. Kwa kuchunguza muundo wa muamala, mchambuzi anaweza kuamini kuwa malipo ni sawa na kiasi cha moja ya matokeo.
+Madhumuni ya pili ya Kulipa kujiunga ni kupotosha mwangalizi wa nje kuhusu kiasi halisi cha malipo ambayo yamefanywa. Kwa kuchunguza muundo wa muamala, mchambuzi anaweza kuamini kuwa malipo ni sawa na kiasi cha moja ya matokeo.
 
 Ikiwa tunarudi kwenye mfano wetu wa ununuzi wa baguette, mchambuzi atafikiri kwamba kiasi cha malipo kinalingana na UTXO ya 6,000 Sats, au kwa UTXO ya 19,000 Sats. Katika kesi hii, mchambuzi afadhali kufikiria kuwa kiasi cha malipo ni 19,000 Sats, kwa sababu kuna UTXO 2 katika matokeo, angalau moja ambayo ni kubwa kuliko 6,000 Sats (hakuna sababu ya kimantiki ya kutumia UTXOs 2 kulipa 6,000 Sats ya kutosha kwa Sats ya kutosha kwa malipo haya ya kutosha6).
 
@@ -2537,27 +2537,27 @@ Lakini kwa ukweli, uchambuzi huu una kasoro. Kiasi cha malipo hakilingani na mat
 
 ![BTC204](assets/fr/170.webp)
 
-Katika suala hili, shughuli ya PayJoin inaangukia katika uwanja wa steganografia. Huruhusu kiasi halisi cha muamala kufichwa ndani ya muamala ghushi unaofanya kazi kama udanganyifu.
+Katika suala hili, shughuli ya Kulipa kujiunga inaangukia katika uwanja wa steganografia. Huruhusu kiasi halisi cha muamala kufichwa ndani ya muamala ghushi unaofanya kazi kama udanganyifu.
 
 Steganografia ni mbinu ya kuficha habari ndani ya data au vitu vingine, ili uwepo wa habari iliyofichwa usionekane. Kwa mfano, ujumbe wa siri unaweza kufichwa ndani ya kitone katika maandishi yasiyohusiana, na kuifanya isionekane kwa macho (hii ndiyo mbinu ya [microdot](https://fr.wikipedia.org/wiki/Micropoint).
 
-Tofauti na usimbaji fiche, ambao hufanya maelezo kutoeleweka bila ufunguo wa kusimbua, steganography haibadilishi habari. Inabaki kuonyeshwa kwa maandishi wazi. Badala yake, lengo lake ni kuficha uwepo wa ujumbe huo wa siri, ilhali usimbaji fiche unaonyesha wazi uwepo wa habari iliyofichwa, ingawa haiwezi kufikiwa bila ufunguo. Ndio maana jina la asili la PayJoin lilikuwa "shughuli za steganografia".
+Tofauti na usimbaji fiche, ambao hufanya maelezo kutoeleweka bila ufunguo wa kusimbua, steganography haibadilishi habari. Inabaki kuonyeshwa kwa maandishi wazi. Badala yake, lengo lake ni kuficha uwepo wa ujumbe huo wa siri, ilhali usimbaji fiche unaonyesha wazi uwepo wa habari iliyofichwa, ingawa haiwezi kufikiwa bila ufunguo. Ndio maana jina la asili ya kulipa kujiunga ilikuwa "shughuli za steganografia".
 
-Mfano unaweza kuchorwa kati ya kriptografia na CoinJoin, na kati ya steganografia na PayJoin. CoinJoin ina sifa sawa na usimbaji fiche: njia hiyo inatambulika, lakini maelezo hayawezi kuelezeka. Kinyume chake, PayJoin ni sawa na steganografia: habari inapatikana kwa kinadharia, lakini kwa kuwa njia ya kuficha haijatambui, inakuwa haipatikani.
+Mfano unaweza kuchorwa kati ya kriptografia na Sarafu ya kujiunga, na kati ya steganografia na Kulipa kujiunga. kuunga sarafu ina sifa sawa na usimbaji fiche: njia hiyo inatambulika, lakini maelezo hayawezi kuelezeka. Kinyume chake, Kulipa kujiunga ni sawa na steganografia: habari inapatikana kwa kinadharia, lakini kwa kuwa njia ya kuficha haijatambui, inakuwa haipatikani.
 
-### Je, ninatumiaje PayJoin?
+### Je, ninatumiaje Ulipaji wa kujiunga?
 
-Programu zinazojulikana zinazotumia PayJoin ni pamoja na Sparrow Wallet, Wasabi Wallet, Mutiny, BitMask, BlueWallet na JoinMarket, pamoja na kichakataji malipo cha BTCPay.
+Programu zinazojulikana zinazotumia PayJoin ni pamoja na Pochi la Sparrow, Pochi la Wasabi, Mutiny, BitMask, BlueWallet na JoinMarket, pamoja na kichakataji malipo cha ulipaji wa BTC.
 
 ![BTC204](assets/fr/171.webp)
 
-Utekelezaji wa hali ya juu zaidi wa PayJoin ulikuwa Stowaway pekee kwenye Samourai Wallet. Hata hivyo, tangu kukamatwa kwa waanzilishi wa programu, chombo hiki sasa kinafanya kazi kwa sehemu tu. Faida ya Stowaway ni kwamba ni itifaki ya kina, na rahisi kutumia, ambayo inasaidia kupokea na kutuma viungo vya malipo. Miamala iliyotiwa saini kiasi inaweza kubadilishwa wewe mwenyewe kwa kuchanganua misimbo kadhaa ya QR, au kiotomatiki na Tor kupitia Soroban. Chaguo la mwisho la mawasiliano halitumiki kwa sasa.
+Utekelezaji wa hali ya juu zaidi wa kulipa kujiunga ulikuwa Stowaway pekee kwenye Pochi la Samourai. Hata hivyo, tangu kukamatwa kwa waanzilishi wa programu, chombo hiki sasa kinafanya kazi kwa sehemu tu. Faida ya Stowaway ni kwamba ni itifaki ya kina, na rahisi kutumia, ambayo inasaidia kupokea na kutuma viungo vya malipo. Miamala iliyotiwa sahihi kiasi inaweza kubadilishwa wewe mwenyewe kwa kuchanganua misimbo kadhaa ya QR, au kiotomatiki na Tor kupitia Soroban. Chaguo la mwisho la mawasiliano halitumiki kwa sasa.
 
 ![BTC204](assets/fr/172.webp)
 
-Ugumu wa kutumia PayJoin unatokana na utegemezi wake juu ya ushiriki wa mfanyabiashara. Kama mteja, huwezi kutumia PayJoin ikiwa mfanyabiashara haauni. Hii inaongeza ugumu zaidi kwa mchakato wa ununuzi: sio tu ni vigumu kupata wafanyabiashara wanaokubali Bitcoin, lakini ikiwa pia unatafuta wale wanaounga mkono malipo, inakuwa ngumu zaidi.
+Ugumu wa kutumia kulipa kujiunga unatokana na utegemezi wake juu ya ushiriki wa mfanyabiashara. Kama mteja, huwezi kutumia Kulipa kujiunga ikiwa mfanyabiashara haauni. Hii inaongeza ugumu zaidi kwa mchakato wa ununuzi: sio tu ni vigumu kupata wafanyabiashara wanaokubali Bitcoin, lakini ikiwa pia unatafuta wale wanaounga mkono malipo, inakuwa ngumu zaidi.
 
-Suluhisho mojawapo litakuwa kutumia miundo ya muamala inayoleta utata katika uchanganuzi wa msururu bila kuhitaji ushirikiano wa mpokeaji. Hili litatuwezesha kuboresha usiri wa malipo yetu bila kutegemea ushiriki hai wa wafanyabiashara. Hili ndilo hasa tutakalokuwa tukiangalia katika sura inayofuata.
+Suluhisho mojawapo litakuwa kutumia miundo ya muamala inayoleta utata katika uchanganuzi wa msururu bila kuhitaji ushirikiano wa mpokeaji. Hili litatuwezesha kuboresha usiri wa malipo yetu bila kutegemea ushiriki hai wa wafanyabiashara. Hili ndilo hasa tutakalokuwa tukiliangalia katika sura inayofuata.
 
 https://planb.network/tutorials/privacy/on-chain/payjoin-sparrow-wallet-087a0e49-61cd-41f5-8440-ac7b157bdd62
 https://planb.network/tutorials/privacy/on-chain/payjoin-samourai-wallet-48a5c711-ee3d-44db-b812-c55913080eab
@@ -2565,13 +2565,13 @@ https://planb.network/tutorials/privacy/on-chain/payjoin-samourai-wallet-48a5c71
 
 <chapterId>300777ee-30ae-43d7-ab00-479dac3522c1</chapterId>
 
-Unapotaka kutekeleza shughuli ya malipo huku ukidumisha usiri wa kiwango fulani, PayJoin ni chaguo nzuri. Lakini kama tulivyoona, PayJoin inahitaji ushiriki wa mpokeaji. Kwa hivyo unafanya nini ikiwa mpokeaji anakataa kushiriki katika PayJoin, au ikiwa unapendelea tu kutowahusisha? Njia moja mbadala ni kutumia muamala wa Stonewall au Stonewall x2. Hebu tuangalie kwa karibu aina hizi mbili za shughuli.
+Unapotaka kutekeleza shughuli ya malipo huku ukidumisha usiri wa kiwango fulani, Kulipa kujiunga ni chaguo nzuri. Lakini kama tulivyoona, Kulipa kujiunga kunahitaji ushiriki wa mpokeaji. Kwa hivyo unafanya nini ikiwa mpokeaji anakataa kushiriki katika Kulipa kujiunga, au ikiwa unapendelea tu kutowahusisha? Njia moja mbadala ni kutumia muamala wa Stonewall au Stonewall x2. Hebu tuangalie kwa karibu aina hizi mbili za shughuli.
 
 ### Shughuli ya Stonewall
 
 Stonewall ni aina mahususi ya shughuli ya Bitcoin iliyoundwa ili kuongeza usiri wa mtumiaji wakati wa kutumia kwa kuiga pseudo-CoinJoin kati ya watu wawili, bila kuwa mmoja. Kwa kweli, muamala huu haushirikiani. Mtumiaji anaweza kuijenga peke yake, akitumia tu UTXO anazomiliki kama pembejeo. Kwa hivyo unaweza kuunda muamala wa Stonewall kwa tukio lolote, bila kuhitaji kusawazisha na mtumiaji mwingine au mpokeaji.
 
-Muamala wa Stonewall hufanya kazi kama ifuatavyo: kama ingizo la muamala, mtoaji hutumia UTXO 2 ambazo ni zake. Kwa pato, shughuli hiyo inazalisha UTXO 4, 2 ambazo ni kiasi sawa. UTXO zingine 2 zitaunda Exchange ya kigeni. Kati ya matokeo 2 ya kiasi sawa, moja tu ndiyo yataenda kwa anayelipwa.
+Muamala wa Stonewall hufanya kazi kama ifuatavyo: kama ingizo la muamala, mtoaji hutumia UTXO 2 ambazo ni zake. Kwa pato, shughuli hiyo inazalisha UTXO 4, 2 ambazo ni kiasi sawa. UTXO zingine 2 zitaunda Ubadilishanaji wa kigeni. Kati ya matokeo 2 ya kiasi sawa, moja tu ndiyo yataenda kwa anayelipwa.
 
 Kwa hivyo kuna majukumu 2 tu katika shughuli ya Stonewall:
 
@@ -2585,7 +2585,7 @@ Hebu tuchukue mfano ili kuelewa muundo huu wa shughuli. Alice anamwendea Bob mwo
 
 Kwa kuchanganua shughuli hii, tunaweza kuona kwamba Bob mwokaji alipokea 4,000 Sats kama malipo ya baguette. Alice alitumia UTXO 2 kama pembejeo: moja kwa 10,000 Sats na moja kwa 15,000 Sats. Katika matokeo, amepata UTXO 3: moja kwa 4,000 Sats, moja kwa 6,000 Sats na moja kwa 11,000 Sats. Kwa hiyo Alice ana salio la jumla la -4,000 Sats kwenye shughuli hii, ambayo inalingana na bei ya baguette.
 
-Katika mfano huu, nimepuuza kwa makusudi ada za Mining ili kurahisisha kueleweka. Kwa kweli, gharama za manunuzi hubebwa kabisa na mtoaji.
+Katika mfano huu, nimepuuza kwa kusudi ada za Uchimbaji ili kurahisisha kueleweka. Kwa kweli, gharama za ununuzi hubebwa kabisa na mtoaji.
 
 ### Je, malengo ya muamala wa Stonewall ni yapi?
 
@@ -2595,11 +2595,11 @@ Hebu tuchukue mfano wa Alice kwa Bob mwokaji. Shughuli kwenye Blockchain ingeone
 
 ![BTC204](assets/fr/174.webp)
 
-Mtazamaji wa nje anayetegemea heuristics ya uchanganuzi wa mnyororo wa kawaida anaweza kuhitimisha kimakosa kwamba "*watu wawili wametengeneza CoinJoin ndogo, na UTXO moja kila moja katika pembejeo na UTXO mbili kila moja katika pato*". Kuchanganua muamala huu kutoka nje hakuleti matumizi ya CIOH, kwani kuwepo kwa matokeo mawili ya kiasi sawa kunapendekeza muundo wa CoinJoin. Kwa mtazamo wa nje, CIOH haitumiki katika kesi hii maalum.
+Mtazamaji wa nje anayetegemea urithi wa uchanganuzi wa mnyororo wa kawaida anaweza kuhitimisha kimakosa kwamba "*watu wawili wametengeneza kuunga sarafu ndogo, na UTXO moja kila moja katika pembejeo na UTXO mbili kila moja katika pato*". Kuchanganua muamala huu kutoka nje hakuleti matumizi ya CIOH, kwani kuwepo kwa matokeo mawili ya kiasi sawa kunapendekeza muundo wa kuunga sarafu. Kwa mtazamo wa nje, CIOH haitumiki katika kesi hii maalum.
 
 ![BTC204](assets/fr/175.webp)
 
-Ufafanuzi huu sio sahihi, kwa sababu, kama unavyojua, UTXO moja ilitumwa kwa Bob mwokaji, pembejeo 2 za UTXO zilitoka kwa Alice, na akapata matokeo 3 ya Exchange.
+Ufafanuzi huu sio sahihi, kwa sababu, kama unavyojua, UTXO moja ilitumwa kwa Bob mwokaji, pembejeo 2 za UTXO zilitoka kwa Alice, na akapata matokeo 3 ya Ubadilishanaji.
 
 ![BTC204](assets/fr/176.webp)
 
@@ -2607,16 +2607,16 @@ Na kinachovutia hasa kuhusu muundo wa shughuli ya Stonewall ni kwamba, kwa mtaza
 
 ### Muamala wa Stonewall x2
 
-Stonewall x2 ni aina nyingine mahususi ya muamala wa Bitcoin ambayo pia inalenga kuongeza usiri wa mtumiaji wakati wa kufanya matumizi, lakini wakati huu kwa kushirikiana na mtu wa tatu asiyehusika katika matumizi hayo. Njia hii inafanya kazi kama CoinJoin bandia kati ya washiriki wawili, wakati huo huo ikitoa malipo kwa mtu wa tatu.
+Stonewall x2 ni aina nyingine mahususi ya muamala wa Bitcoin ambayo pia inalenga kuongeza usiri wa mtumiaji wakati wa kufanya matumizi, lakini wakati huu kwa kushirikiana na mtu wa tatu asiyehusika katika matumizi hayo. Njia hii inafanya kazi kama kuunga sarafu bandia kati ya washiriki wawili, wakati huo huo ikitoa malipo kwa mtu wa tatu.
 
-Uendeshaji wa shughuli ya Stonewall x2 ni rahisi kiasi: tunatumia UTXO tuliyo nayo kufanya malipo, na kuomba usaidizi wa mtu mwingine ambaye pia anachangia kwa UTXO inayomilikiwa naye. Muamala unaishia na matokeo manne: mawili kati ya hayo kwa kiasi sawa, moja kwa ajili ya mpokeaji Address, nyingine kwa Address inayomilikiwa na mshirika. UTXO ya tatu inarejeshwa kwa Address nyingine ya mshirika, na kumwezesha kurejesha kiasi cha awali (hatua ya upande wowote kwake, modulo ya Mining gharama), na UTXO ya mwisho inarudi kwa Address mali yetu, ambayo inajumuisha malipo ya Exchange.
+Uendeshaji wa shughuli ya Stonewall x2 ni rahisi kiasi: tunatumia UTXO tuliyo nayo kufanya malipo, na kuomba usaidizi wa mtu mwingine ambaye pia anachangia kwa UTXO inayomilikiwa naye. Muamala unaishia na matokeo manne: mawili kati ya hayo kwa kiasi sawa, moja kwa ajili ya mpokeaji Anwani, nyingine kwa Anwani inayomilikiwa na mshirika. UTXO ya tatu inarejeshwa kwa Anwani nyingine ya mshirika, na kumwezesha kurejesha kiasi cha awali (hatua ya upande wowote kwake, modulo ya Uchimbaji gharama), na UTXO ya mwisho inarudi kwa Anwani mali yetu, ambayo inajumuisha malipo ya Ubadilishanaji.
 
 Kwa hivyo majukumu matatu tofauti yanafafanuliwa katika shughuli za Stonewall x2:
 
 
 - Mtoaji, ambaye hufanya malipo halisi;
 - Mpokeaji, ambaye huenda hajui aina mahususi ya muamala na anatarajia tu malipo kutoka kwa mtumaji;
-- Mshirika, ambaye hufanya bitcoins kupatikana ili kutoa shaka juu ya uchambuzi wa shughuli, wakati kurejesha fedha zake kwa ukamilifu mwishoni (hatua ya neutral kwa ajili yake, modulo ya gharama za Mining).
+- Mshirika, ambaye hufanya bitcoins kupatikana ili kutoa shaka juu ya uchambuzi wa shughuli, wakati kurejesha fedha zake kwa ukamilifu mwishoni (hatua ya neutral kwa ajili yake, modulo ya gharama za Uchimbaji).
 
 Hebu turejee kwenye mfano wetu na Alice, ambaye yuko Bob the baker's kununua baguette yake, ambayo inagharimu 4,000 Sats. Anataka kulipa kwa bitcoins, huku akidumisha kiwango fulani cha usiri kuhusu malipo yake. Kwa hivyo anamwita rafiki yake Charles, ambaye atamsaidia katika mchakato huu.
 
@@ -2624,21 +2624,21 @@ Hebu turejee kwenye mfano wetu na Alice, ambaye yuko Bob the baker's kununua bag
 
 Kuchanganua muamala huu, tunaweza kuona kwamba Bob mwokaji alipokea 4,000 Sats kama malipo ya baguette. Alice alitumia 10,000 Sats katika pembejeo na kurejesha 6,000 Sats katika pato, yaani salio halisi la -4,000 Sats, ambalo linalingana na bei ya baguette. Kuhusu Charles, alitoa 15,000 Sats katika pembejeo na akapokea matokeo mawili: moja ya 4,000 Sats na nyingine ya 11,000 Sats, ikitoa salio la 0.
 
-Katika mfano huu, nimeacha ada kimakusudi ili kurahisisha kuelewa. Kwa kweli, ada za Mining kwa ujumla hushirikiwa kwa usawa kati ya mtoaji wa malipo na mchangiaji.
+Katika mfano huu, nimeacha ada kimakusudi ili kurahisisha kuelewa. Kwa kweli, ada za Uchimbaji kwa ujumla hushirikiwa kwa usawa kati ya mtoaji wa malipo na mchangiaji.
 
 ### Je, malengo ya muamala wa Stonewall x2 ni yapi?
 
-Kama muundo wa Stonewall, muundo wa Stonewall x2 huongeza entropy nyingi kwenye shughuli na kuchanganya uchanganuzi wa mnyororo. Ikionekana kutoka nje, shughuli kama hiyo inaweza kufasiriwa kama CoinJoin kidogo kati ya watu wawili. Lakini kwa kweli, ni malipo. Kwa hiyo njia hii inajenga kutokuwa na uhakika katika uchanganuzi wa minyororo, au hata kusababisha miongozo ya uwongo.
+Kama muundo wa Stonewall, muundo wa Stonewall x2 huongeza entropy nyingi kwenye shughuli na kuchanganya uchanganuzi wa mnyororo. Ikionekana kutoka nje, shughuli kama hiyo inaweza kufasiriwa kama Kuunga sarafu kidogo kati ya watu wawili. Lakini kwa kweli, ni malipo. Kwa hiyo njia hii inajenga kutokuwa na uhakika katika uchanganuzi wa minyororo, au hata kusababisha miongozo ya uwongo.
 
 Hebu tuchukue mfano wa Alice, Bob the Baker na Charles. Shughuli kwenye Blockchain ingeonekana kama hii:
 
 ![BTC204](assets/fr/178.webp)
 
-Mtazamaji wa nje anayetegemea heuristics ya uchanganuzi wa kawaida anaweza kuhitimisha kimakosa kwamba "*Alice na Charles wamefanya CoinJoin ndogo, na UTXO moja kila moja katika ingizo na UTXO mbili kila moja katika matokeo*". Tena, kuchambua shughuli hii kutoka nje haiongoi matumizi ya ICOH, kwani kuwepo kwa matokeo mawili ya kiasi sawa kunaonyesha muundo wa CoinJoin. Kwa mtazamo wa nje, CIOH haitumiki katika kesi hii maalum.
+Mtazamaji wa nje anayetegemea urithi wa uchanganuzi wa kawaida anaweza kuhitimisha kimakosa kwamba "*Alice na Charles wamefanya kuunga sarafu ndogo, na UTXO moja kila moja katika ingizo na UTXO mbili kila moja katika matokeo*". Tena, kuchambua shughuli hii kutoka nje haiongoi matumizi ya ICOH, kwani kuwepo kwa matokeo mawili ya kiasi sawa kunaonyesha muundo wa kuunga sarafu. Kwa mtazamo wa nje, CIOH haitumiki katika kesi hii maalum.
 
 ![BTC204](assets/fr/179.webp)
 
-Ufafanuzi huu sio sahihi, kwa sababu, kama unavyojua, UTXO moja imetumwa kwa Bob mwokaji, Alice ana pato moja tu la Exchange, na Charles ana mbili.
+Ufafanuzi huu sio sahihi, kwa sababu, kama unavyojua, UTXO moja imetumwa kwa Bob mwokaji, Alice ana pato moja tu la Ubadilishanaji, na Charles ana mbili.
 
 ![BTC204](assets/fr/180.webp)
 
@@ -2646,7 +2646,7 @@ Na kwa mara nyingine tena, kinachovutia hasa kuhusu muundo wa muamala wa Stonewa
 
 ### Kuna tofauti gani kati ya Stonewall na Stonewall x2?
 
-Muamala wa StonewallX2 hufanya kazi sawasawa na muamala wa Stonewall, isipokuwa ule wa kwanza unashirikiana, ilhali ule wa mwisho haufanyi kazi. Kama tulivyoona, muamala wa Stonewall x2 unahusisha ushiriki wa mtu wa tatu (Charles), ambaye yuko nje ya malipo, na ambaye atafanya bitcoins zake zipatikane ili kuimarisha usiri wa shughuli hiyo. Katika shughuli ya kawaida ya Stonewall, jukumu la mshirika linachukuliwa na mtumaji.
+Muamala wa StonewallX2 hufanya kazi sawasawa na muamala wa Stonewall, isipokuwa ule wa kwanza unaoshirikiana, ilhali ule wa mwisho haufanyi kazi. Kama tulivyoona, muamala wa Stonewall x2 unahusisha ushiriki wa mtu wa tatu (Charles), ambaye yuko nje ya malipo, na ambaye atafanya bitcoins zake zipatikane ili kuimarisha usiri wa shughuli hiyo. Katika shughuli ya kawaida ya Stonewall, jukumu la mshirika linachukuliwa na mtumaji.
 
 ![BTC204](assets/fr/181.webp)
 
@@ -2663,19 +2663,19 @@ Hoja hii ya mwisho inatokana na ukweli kwamba miamala ya Stonewall x2 inafuata m
 Mantiki inapaswa kuwa kama ifuatavyo unapotaka kutumia zana ya usiri kwa gharama:
 
 
-- Kama kipaumbele, tunaweza kuchagua kutengeneza PayJoin;
+- Kama kipaumbele, tunaweza kuchagua kutengeneza kulipa kujiunga;
 - Ikiwa mfanyabiashara hataauni viungio vya malipo, muamala shirikishi unaweza kufanywa na mtu mwingine nje ya malipo kwa kutumia muundo wa Stonewall x2;
 - Ikiwa huwezi kupata mtu yeyote wa kufanya muamala wa Stonewall x2, unaweza kufanya muamala wa Stonewall pekee, ambao utaiga tabia ya muamala wa Stonewall x2.
 
 ### Je, ninatumia vipi shughuli za Stonewall na Stonewall x2?
 
-Miamala ya Stonewall na Stonewall x2 inapatikana kwenye programu ya Samourai Wallet na programu ya Sparrow Wallet.
+Miamala ya Stonewall na Stonewall x2 inapatikana kwenye programu ya Pochi la Samourai na programu ya Pochi la Sparrow.
 
 ![BTC204](assets/fr/183.webp)
 
-Hata hivyo, kama ilivyo kwa viungo vya malipo, kufuatia kukamatwa kwa waanzilishi wa Samourai, miamala ya Stonewall x2 sasa inafanya kazi tu kwa kubadilishana PSBTs kati ya pande zinazohusika. Kwa bahati mbaya, Exchange otomatiki kupitia Soroban haipatikani tena.
+Hata hivyo, kama ilivyo kwa viungo vya malipo, kufuatia kukamatwa kwa waanzilishi wa Samourai, miamala ya Stonewall x2 sasa inafanya kazi tu kwa kubadilishana PSBTs kati ya pande zinazohusika. Kwa bahati mbaya, Ubadilishanaji otomatiki kupitia Soroban haupatikani tena.
 
-Inawezekana pia kutekeleza aina hii ya shughuli kwa mikono kutoka kwa programu yoyote ya Bitcoin Wallet.
+Inawezekana pia kutekeleza aina hii ya shughuli kwa mikono kutoka kwa programu yoyote ya Pochi la Bitcoin.
 
 Katika sura inayofuata, tutaangalia mbinu nyingine ya usiri ambayo haijulikani kwa kiasi, lakini ambayo ni muhimu sana kama inayosaidia yale ambayo tayari tumejifunza.
 
@@ -2685,9 +2685,9 @@ https://planb.network/tutorials/privacy/on-chain/stonewall-x2-05120280-f6f9-4e14
 
 <chapterId>db9a20ac-a149-443d-884b-ea6c03f28499</chapterId>
 
-Utumiaji wa miundo ya miamala ya Bitcoin ambayo huongeza utata katika uchanganuzi wa mfululizo, kama vile CoinJoin, ni ya manufaa hasa kwa ulinzi wa faragha. Hata hivyo, kama tulivyojadili katika sura ya viungio vya malipo, miamala ya CoinJoin inaweza kutambulika kwa kawaida kwenye mnyororo. Kumbuka mlinganisho tuliochora kati ya usimbaji fiche na coinjoins: faili inaposimbwa kwa njia fiche, mtu wa tatu ambaye anagundua faili iliyosimbwa hawezi kufikia yaliyomo, lakini anaweza kutambua kwa uwazi kuwa faili imerekebishwa ili kuficha yaliyomo. Vile vile hutumika kwa CoinJoin: wakati mchambuzi anachunguza shughuli ya CoinJoin, ingawa hawezi kuanzisha viungo vya moja kwa moja kati ya pembejeo na matokeo (na kinyume chake), hata hivyo anaweza kutambua kwamba shughuli iliyozingatiwa ni CoinJoin.
+Utumiaji wa miundo ya miamala ya Bitcoin ambayo huongeza utata katika uchanganuzi wa mfululizo, kama vile kuunga sarafu, ni ya manufaa hasa kwa ulinzi wa faragha. Hata hivyo, kama tulivyojadili katika sura ya viungio vya malipo, miamala ya kuunga sarafu inaweza kutambulika kwa kawaida kwenye mnyororo. Kumbuka mlinganisho tuliochora kati ya usimbaji fiche na kuunga sarafu: faili inaposimbwa kwa njia fiche, mtu wa tatu ambaye anagundua faili iliyosimbwa hawezi kufikia yaliyomo, lakini anaweza kutambua kwa uwazi kuwa faili imerekebishwa ili kuficha yaliyomo. Vile vile hutumika kwa kuunga sarafu: wakati mchambuzi anachunguza shughuli ya kuunga sarafu, ingawa hawezi kuanzisha viungo vya moja kwa moja kati ya pembejeo na matokeo (na kinyume chake), hata hivyo anaweza kutambua kwamba shughuli iliyozingatiwa ni Kuunga sarafu.
 
-Kulingana na jinsi unavyokusudia kutumia sehemu yako baada ya mizunguko ya CoinJoin, ukweli kwamba umepitia mchakato huu unaweza kuwa shida. Kwa mfano, ikiwa unapanga kuuza sarafu yako kwenye jukwaa lililodhibitiwa la Exchange, lakini hivi karibuni limepitia CoinJoin, zana ya uchambuzi wa msururu wa jukwaa itagundua ukweli huu. Huenda jukwaa likakataa kukubali UTXO yako iliyounganishwa, au hata kudai maelezo kutoka kwako, kukiwa na hatari ya akaunti yako kusimamishwa au pesa zako kufungiwa. Katika baadhi ya matukio, mfumo unaweza pia kuripoti tabia yako kwa mamlaka za serikali (hii ni, kwa mfano, kile ambacho TRACFIN inahitaji kwa PSAN nchini Ufaransa).
+Kulingana na jinsi unavyokusudia kutumia sehemu yako baada ya mizunguko ya kuunga sarafu, ukweli kwamba umepitia mchakato huu unaweza kuwa shida. Kwa mfano, ikiwa unapanga kuuza sarafu yako kwenye jukwaa lililodhibitiwa la ubadilishanaji, lakini hivi karibuni limepitia kuunga sarafu, zana ya uchambuzi wa msururu wa jukwaa litagundua ukweli huu. Huenda jukwaa likakataa kukubali UTXO yako iliyounganishwa, au hata kudai maelezo kutoka kwako, kukiwa na hatari ya akaunti yako kusimamishwa au pesa zako kufungiwa. Katika baadhi ya matukio, mfumo unaweza pia kuripoti tabia yako kwa mamlaka za serikali (hii ni, kwa mfano, kile ambacho TRACFIN inahitaji kwa PSAN nchini Ufaransa).
 
 ![BTC204](assets/fr/184.webp)
 
@@ -2697,23 +2697,23 @@ Tunachohitaji kuepuka hili ni zana inayoweza kutia ukungu athari za zamani za sa
 
 ### Ricochet ni nini?
 
-Ricochet ni mbinu inayojumuisha kufanya miamala kadhaa ya uwongo kuelekea wewe mwenyewe (kufagia) kuiga uhamishaji wa Bitcoin Ownership. Zana hii inatofautiana na miundo mingine ya muamala ambayo tumeijadili, kwa kuwa haipati jina tarajiwa, bali ni aina ya kutokujulikana rejea. Kwa kweli, Ricochet hutia ukungu ubainifu unaoweza kuhatarisha uwezaji wa sarafu ya Bitcoin kutokana na siku zake za nyuma.
+Ricochet ni mbinu inayojumuisha kufanya miamala kadhaa ya uwongo kuelekea wewe mwenyewe (kufagia) kuiga uhamishaji wa Umiliki wa Bitcoin. Zana hii inatofautiana na miundo mingine ya muamala ambayo tumeijadili, kwa kuwa haipati jina tarajiwa, bali ni aina ya kutokujulikana rejea. Kwa kweli, Ricochet hutia ukungu ubainifu unaoweza kuhatarisha uwezaji wa sarafu ya Bitcoin kutokana na siku zake za nyuma.
 
-Ili kulainisha alama iliyoachwa na tukio la zamani kwenye sarafu, kama vile mizunguko ya CoinJoin, ricochet hutekeleza miamala minne mfululizo ambapo mtumiaji huhamisha pesa kwake kwa anwani tofauti.
+Ili kulainisha alama iliyoachwa na tukio la zamani kwenye sarafu, kama vile mizunguko ya kuunga sarafu, ricochet hutekeleza miamala minne mfululizo ambapo mtumiaji huhamisha pesa kwake kwa anwani tofauti.
 
 ![BTC204](assets/fr/186.webp)
 
-Baada ya mlolongo huu wa shughuli, zana ya ricochet hatimaye inaelekeza bitcoins hadi mahali pa mwisho, kama vile jukwaa la Exchange.
+Baada ya mlolongo huu wa shughuli, zana ya ricochet hatimaye inaelekeza bitcoins hadi mahali pa mwisho, kama vile jukwaa la Ubadilishanaji.
 
 ![BTC204](assets/fr/187.webp)
 
-Lengo ni kuunda umbali unaoathiri uwezekano wa sarafu, kama vile muamala wa CoinJoin, na kitendo cha mwisho cha matumizi, ambacho kinaweza kukataa sarafu hii kwa sababu ya zamani. Kwa hivyo, zana za uchanganuzi wa mnyororo zinaweza kuhitimisha kuwa pengine kulikuwa na mabadiliko ya Ownership baada ya tukio, na kuzingatia sarafu hii kuwa ya kuvu. Katika kesi ya CoinJoin, zana za uchambuzi wa Blockchain zinaweza kisha kudhani kuwa sio mtu yule yule aliyetuma bitcoins na kutekeleza CoinJoin, na kwa hiyo hakuna maana katika kuchukua hatua dhidi ya mtumaji.
+Lengo ni kuunda umbali unaoathiri uwezekano wa sarafu, kama vile muamala wa kujiunga sarafu, na kitendo cha mwisho cha matumizi, ambacho kinaweza kukataa sarafu hii kwa sababu ya zamani. Kwa hivyo, zana za uchanganuzi wa mnyororo zinaweza kuhitimisha kuwa pengine kulikuwa na mabadiliko ya Umiliki baada ya tukio, na kuzingatia sarafu hii kuwa ya kuvu. Katika kesi ya kuunga sarafu, zana za uchambuzi wa Blockchain zinaweza kisha kudhani kuwa sio mtu yule yule aliyetuma bitcoins na kutekeleza kuunga sarafu, na kwa hiyo hakuna maana katika kuchukua hatua dhidi ya mtumaji.
 
 ![BTC204](assets/fr/188.webp)
 
 ### Kwa nini inafanya kazi?
 
-Inakabiliwa na njia hii ya ricochet, mtu anaweza kufikiria kuwa programu ya uchambuzi wa mnyororo ingeongeza uchunguzi wake zaidi ya midundo minne. Walakini, mifumo hii inakabiliwa na shida katika kuboresha kiwango cha ugunduzi. Wanapaswa kuweka kikomo kwa idadi ya humle ambapo baada ya hapo wanakubali kwamba mabadiliko ya mali pengine yamefanyika, na kwamba kiungo kilicho na tukio la awali (kama vile CoinJoin) kinapaswa kupuuzwa.
+Inakabiliwa na njia hii ya ricochet, mtu anaweza kufikiria kuwa programu ya uchambuzi wa mnyororo ingeongeza uchunguzi wake zaidi ya midundo minne. Walakini, mifumo hii inakabiliwa na shida katika kuboresha kiwango cha ugunduzi. Wanapaswa kuweka kikomo kwa idadi ya humle ambapo baada ya hapo wanakubali kwamba mabadiliko ya mali pengine yamefanyika, na kwamba kiungo kilicho na tukio la awali (kama vile kuunga sarafu) kinapaswa kupuuzwa.
 
 ![BTC204](assets/fr/189.webp)
 
@@ -2723,15 +2723,15 @@ Jambo linalozingatiwa hapa linalingana kwa kiasi fulani na nadharia ya digrii si
 
 Nadharia ya digrii sita za utengano inapendekeza kwamba kila mtu Duniani ameunganishwa na mwingine yeyote kwa mlolongo wa uhusiano unaojumuisha wapatanishi sita zaidi. Kwa hiyo ingetosha kupita msururu wa watu sita, kila mmoja akijua anayefuata, ili kumfikia mtu yeyote duniani.
 
-Kwa upande wa shughuli za Bitcoin, tunapata jambo kama hilo. Kwa kufuatilia idadi ya kutosha ya miamala ya Bitcoin, bila shaka tutakutana na CoinJoin. Mbinu ya ricochet inachukua faida ya kanuni hii kwa kutumia idadi kubwa ya humle kuliko mifumo ya Exchange inavyoweza kufuatilia. Ikiwa mifumo itaamua kufuatilia miamala zaidi, basi inawezekana kuongeza hop ya ziada ili kukwepa hatua hii.
+Kwa upande wa shughuli za Bitcoin, tunapata jambo kama hilo. Kwa kufuatilia idadi ya kutosha ya miamala ya Bitcoin, bila shaka tutakutana na Kuunga sarafu. Mbinu ya ricochet inachukua faida ya kanuni hii kwa kutumia idadi kubwa ya humle kuliko mifumo ya Ubadilishanaji inavyoweza kufuatilia. Ikiwa mifumo itaamua kufuatilia miamala zaidi, basi inawezekana kuongeza hop ya ziada ili kukwepa hatua hii.
 
 ### Wakati na jinsi ya kutumia ricochet?
 
-Kesi ya kawaida ya matumizi ya ricochet hutokea wakati ni muhimu kuficha ushiriki wa awali katika CoinJoin kwenye UTXO unayomiliki. Kwa hakika, ni bora kuepuka kuhamisha bitcoins ambazo zimepitia CoinJoin kwa vyombo vinavyodhibitiwa. Walakini, ikiwa utajikuta huna chaguo lingine, haswa katika hitaji la haraka la kufilisi bitcoins kwa sarafu ya serikali, Ricochet hutoa suluhisho bora.
+Kesi ya kawaida ya matumizi ya ricochet hutokea wakati ni muhimu kuficha ushiriki wa awali katika Kuunga sarafu kwenye UTXO unayomiliki. Kwa hakika, ni bora kuepuka kuhamisha bitcoins ambazo zimepitia kuunga sarafu kwa vyombo vinavyodhibitiwa. Walakini, ikiwa utajikuta huna chaguo lingine, haswa katika hitaji la haraka la kufilisi bitcoins kwa sarafu ya serikali, Ricochet hutoa suluhisho bora.
 
-Njia hii ni nzuri sio tu kwa coinjoins, lakini pia kwa alama nyingine yoyote ambayo inaweza kuhatarisha uwezekano wa sehemu.
+Njia hii ni nzuri sio tu kwa kuunga sarafu, lakini pia kwa alama nyingine yoyote ambayo inaweza kuhatarisha uwezekano wa sehemu.
 
-Wazo la mbinu hii ya ricochet awali lilitoka kwa timu za Samourai Wallet, ambazo ziliiunganisha katika maombi yao ya kufanyia mchakato kiotomatiki. Huduma sio bure kwenye Samourai, kwani ricochet inahusisha ada ya huduma ya 100,000 Sats, pamoja na gharama za Mining. Kwa hiyo matumizi yake yanapendekezwa kwa uhamisho wa kiasi kikubwa.
+Wazo la mbinu hii ya ricochet awali lilitoka kwa timu za Pochi la Samourai, ambazo ziliiunganisha katika maombi yao ya kufanyia mchakato kiotomatiki. Huduma sio bure kwenye Samourai, kwani ricochet inahusisha ada ya huduma ya 100,000 Sats, pamoja na gharama za Uchimbaji. Kwa hiyo matumizi yake yanapendekezwa kwa uhamisho wa kiasi kikubwa.
 
 ![BTC204](assets/fr/190.webp)
 
@@ -2747,52 +2747,52 @@ Programu ya Samurai inatoa anuwai mbili za ricochet:
 
 ![BTC204](assets/fr/192.webp)
 
-Ricocheting ina maana ya kutuma bitcoins kwako mwenyewe. Inawezekana kabisa kuweka bitcoins kwa mikono kwenye programu yoyote ya Wallet, bila kutumia zana maalum. Unachohitajika kufanya ni kuhamisha sarafu sawa kwako mwenyewe, kwa kutumia mpya, tupu ya Address kila wakati.
+Ricocheting ina maana ya kutuma bitcoins kwako mwenyewe. Inawezekana kabisa kuweka bitcoins kwa mikono kwenye programu yoyote ya Pochi, bila kutumia zana maalum. Unachohitajika kufanya ni kuhamisha sarafu sawa kwako mwenyewe, kwa kutumia mpya, tupu ya Anwani kila wakati.
 
-Katika sura inayofuata, tunaangalia mbinu tofauti za uhamisho wa siri wa Ownership. Njia hizi hutofautiana kwa kiasi kikubwa na zile ambazo tumechunguza hadi sasa, kwa suala la uendeshaji na matokeo.
+Katika sura inayofuata, tunaangalia mbinu tofauti za uhamisho wa siri wa Umiliki. Njia hizi hutofautiana kwa kiasi kikubwa na zile ambazo tumechunguza hadi sasa, kwa suala la uendeshaji na matokeo.
 
 https://planb.network/tutorials/privacy/on-chain/ricochet-e0bb1afe-becd-44a6-a940-88a463756589
 ## Uhamisho wa siri wa Ownership
 
 <chapterId>a2067036-849c-4d6b-87d2-44235cfae7a1</chapterId>
 
-Mbinu nyingine ya usiri ya Bitcoin ni uhamisho wa siri wa Ownership. Njia hii inalenga kuhamisha Ownership ya Bitcoins kutoka kwa mtu mmoja hadi mwingine, na kinyume chake, bila shughuli hiyo kuonekana wazi kwenye Blockchain. Hebu tuangalie mbinu mbalimbali zilizopo, pamoja na faida na hasara zao.
+Mbinu nyingine ya usiri ya Bitcoin ni uhamisho wa siri wa Umiliki. Njia hii inalenga kuhamisha Umiliki wa Bitcoins kutoka kwa mtu mmoja hadi mwingine, na kinyume chake, bila shughuli hiyo kuonekana wazi kwenye Blockchain. Hebu tuangalie mbinu mbalimbali zilizopo, pamoja na faida na hasara zao.
 
 ### Ubadilishanaji wa sarafu
 
-Coinwap inategemea dhana rahisi: hutumia mikataba mahiri kuwezesha uhamishaji wa Bitcoin Ownership kati ya watumiaji wawili, bila hitaji la uaminifu na bila uhamishaji huu kuonekana wazi kwenye Blockchain.
+Coinwap inategemea dhana rahisi: hutumia mikataba mahiri kuwezesha uhamishaji wa Umiliki wa Bitcoin kati ya watumiaji wawili, bila hitaji la uaminifu na bila uhamishaji huu kuonekana wazi kwenye Blockchain.
 
 ![BTC204](assets/fr/193.webp)
 
-Wacha tufikirie mfano wa ujinga na Alice na Bob. Alice anashikilia BTC 1 iliyolindwa kwa ufunguo wa faragha $A$, na Bob pia anashikilia BTC 1 iliyolindwa kwa ufunguo wa faragha $B$. Kinadharia wangeweza Exchange funguo zao za kibinafsi kupitia njia ya mawasiliano ya nje ili kutekeleza uhamishaji wa siri.
+Wacha tufikirie mfano wa ujinga na Alice na Bob. Alice anashikilia BTC 1 iliyolindwa kwa ufunguo wa faragha $A$, na Bob pia anashikilia BTC 1 iliyolindwa kwa ufunguo wa faragha $B$. Kinadharia wangeweza Kubadilishana funguo zao za kibinafsi kupitia njia ya mawasiliano ya nje ili kutekeleza uhamishaji wa siri.
 
 ![BTC204](assets/fr/194.webp)
 
-Walakini, njia hii ya ujinga inatoa hatari kubwa katika suala la uaminifu. Hakuna cha kumzuia Alice kuweka nakala ya ufunguo wa faragha wa $A$ baada ya Exchange na kuitumia baadaye kuiba bitcoins, mara ufunguo ukiwa mikononi mwa Bob.
+Walakini, njia hii ya ujinga inatoa hatari kubwa katika suala la uaminifu. Hakuna cha kumzuia Alice kuweka nakala ya ufunguo wa faragha wa $A$ baada ya Ubadilishanaji na kuitumia baadaye kuiba bitcoins, mara ufunguo ukiwa mikononi mwa Bob.
 
 ![BTC204](assets/fr/195.webp)
 
-Zaidi ya hayo, hakuna hakikisho kwamba Alice hatapokea ufunguo wa faragha wa Bob $B$ na hatawahi kupitisha ufunguo wake wa faragha $A$ katika Exchange. Kwa hivyo Exchange hii inategemea kuaminiana kupita kiasi kati ya wahusika, na haina ufanisi katika kuhakikisha uhamishaji wa siri wa Ownership.
+Zaidi ya hayo, hakuna hakikisho kwamba Alice hatapokea ufunguo wa faragha wa Bob $B$ na hatawahi kupitisha ufunguo wake wa faragha $A$ katika Ubadilishanaji. Kwa hivyo ubadilishanaji  huu unategemea kuaminiana kupita kiasi kati ya wahusika, na haina ufanisi katika kuhakikisha uhamishaji wa siri wa Umiliki.
 
 ![BTC204](assets/fr/196.webp)
 
-Ili kutatua matatizo haya na kuwezesha ubadilishanaji kati ya wahusika ambao hawaaminiani, tutatumia mifumo ya Smart contract badala yake. Smart contract ni programu ambayo hutekeleza kiotomatiki masharti yaliyoainishwa awali yanapofikiwa. Kwa upande wetu, hii inahakikisha kwamba Exchange ya mali inafanyika moja kwa moja, bila ya haja ya uaminifu wa pande zote.
+Ili kutatua matatizo haya na kuwezesha ubadilishanaji kati ya wahusika ambao hawaaminiani, tutatumia mifumo ya Smart contract badala yake. Smart contract ni programu ambayo hutekeleza kiotomatiki masharti yaliyoainishwa awali yanapofikiwa. Kwa upande wetu, hii inahakikisha kwamba ubadilishanaji wa mali unafanyika moja kwa moja, bila ya haja ya uaminifu wa pande zote.
 
-Hili linaweza kufikiwa kwa kutumia HTLC (*Mikataba Iliyofungwa kwa Muda wa Hash*) au PTLC (*Mikataba Iliyofungwa kwa Muda wa Pointi*). Itifaki hizi mbili hufanya kazi kwa njia sawa, kwa kutumia mfumo wa kufunga muda ambao huhakikisha kwamba Exchange inakamilika kwa mafanikio au kughairiwa kabisa, hivyo basi kulinda uadilifu wa fedha za pande zote mbili. Tofauti kuu kati ya HTLC na PTLC ni kwamba HTLC hutumia heshi na picha za awali ili kulinda muamala, huku PTLC inatumia Sahihi za Adapta.
+Hili linaweza kufikiwa kwa kutumia HTLC (*Mikataba Iliyofungwa kwa Muda wa Hash*) au PTLC (*Mikataba Iliyofungwa kwa Muda wa Pointi*). Itifaki hizi mbili hufanya kazi kwa njia sawa, kwa kutumia mfumo wa kufunga muda ambao huhakikisha kwamba Ubadilishanaji unakamilika kwa mafanikio au kughairiwa kabisa, hivyo basi kulinda uadilifu wa fedha za pande zote mbili. Tofauti kuu kati ya HTLC na PTLC ni kwamba HTLC hutumia heshi na picha za awali ili kulinda muamala, huku PTLC inatumia Sahihi za Adapta.
 
-Katika hali ya kubadilishana sarafu kwa kutumia HTLC au PTLC kati ya Alice na Bob, Exchange inafanyika kwa usalama: ama inafaulu na kila mmoja kupokea BTC ya mwingine, au inashindikana na kila mmoja anaweka BTC yake. Hii inafanya kuwa haiwezekani kwa upande wowote kudanganya au kuiba BTC ya mwingine.
+Katika hali ya kubadilishana sarafu kwa kutumia HTLC au PTLC kati ya Alice na Bob, Ubadilishanaji unafanyika kwa usalama: ama unafaulu na kila mmoja kupokea BTC ya mwingine, au inashindikana na kila mmoja anaweka BTC yake. Hii inafanya kuwa haiwezekani kwa upande wowote kudanganya au kuiba BTC ya mwingine.
 
 > *HTLC pia ni njia inayotumika kuelekeza malipo kwa njia salama kupitia njia mbili za Lightning Network*
-Utumiaji wa Sahihi za Adapta ni ya kufurahisha sana katika muktadha huu, kwani hufanya iwezekane kutengana na hati za kitamaduni (utaratibu ambao wakati mwingine hujulikana kama "_scriptless scripts_"). Kipengele hiki hupunguza gharama zinazohusiana na Exchange. Faida nyingine kuu ya Sahihi za Adapta ni kwamba hazihitaji matumizi ya Hash ya kawaida kwa pande zote mbili za shughuli, na hivyo kuepuka haja ya kufichua kiungo cha moja kwa moja kati yao katika aina fulani za Exchange.
+Utumiaji wa Sahihi za Adapta ni ya kufurahisha sana katika muktadha huu, kwani hufanya iwezekane kutengana na hati za kitamaduni (utaratibu ambao wakati mwingine hujulikana kama "_scriptless scripts_"). Kipengele hiki hupunguza gharama zinazohusiana na Ubadilishanaji. Faida nyingine kuu ya Sahihi za Adapta ni kwamba hazihitaji matumizi ya Hash ya kawaida kwa pande zote mbili za shughuli, na hivyo kuepuka haja ya kufichua kiungo cha moja kwa moja kati yao katika aina fulani za Ubadilishanaji.
 
 ### Sahihi za Adapta
 
-Sahihi za Adapta ni mbinu fiche inayounganisha sahihi sahihi na sahihi ya ziada, inayoitwa "sahihi_ya adapta_", ili kufichua data ya siri. Utaratibu huu umeundwa kwa namna ambayo ujuzi wa 2 kati ya 3 zifuatazo Elements: saini halali, saini ya adapta na siri, inatuwezesha kutafakari kipengele cha tatu kilichokosekana. Sifa ya kuvutia ya njia hii ni kwamba, ikiwa tunajua saini ya adapta ya rika letu na sehemu maalum kwenye curve ya duaradufu inayohusishwa na siri inayotumika kukokotoa saini ya adapta hiyo, tunaweza kupata sahihi ya adapta yetu ambayo itaendana na siri hiyo hiyo, bila kupata ufikiaji wa moja kwa moja kwa siri yenyewe.
+Sahihi za Adapta ni mbinu fiche inayounganisha sahihi sahihi na sahihi ya ziada, inayoitwa "sahihi_ya adapta_", ili kufichua data ya siri. Utaratibu huu umeundwa kwa namna ambayo ujuzi wa 2 kati ya 3 ufuatao vipengele: sahihi halali, sahihi ya adapta na siri, inatuwezesha kutafakari kipengele cha tatu kilichokosekana. Sifa ya kuvutia ya njia hii ni kwamba, ikiwa tunajua saini ya adapta ya rika letu na sehemu maalum kwenye mchirizo wa duaradufu inayohusishwa na siri inayotumika kukokotoa sahihi ya adapta hiyo, tunaweza kupata sahihi ya adapta yetu ambayo itaendana na siri hiyo hiyo, bila kupata ufikiaji wa moja kwa moja kwa siri yenyewe.
 
-Katika ubadilishanaji wa sarafu, matumizi ya Sahihi za Adapta huwezesha ufichuaji kwa wakati mmoja wa vipande viwili vya taarifa nyeti kati ya washiriki, hivyo basi kuepuka hitaji la kuaminiana. Hebu tuchukue mfano ili kuelezea mchakato huu na Alice na Bob, ambao wanataka Exchange kumiliki 1 BTC kila mmoja, lakini hawaaminiani. Wanatumia Sahihi za Adapta ili kuondoa hitaji la kuaminiana katika Exchange hii. Hivi ndivyo wanavyofanya:
+Katika ubadilishanaji wa sarafu, matumizi ya Sahihi za Adapta huwezesha ufichuaji kwa wakati mmoja wa vipande viwili vya taarifa nyeti kati ya washiriki, hivyo basi kuepuka hitaji la kuaminiana. Hebu tuchukue mfano ili kuelezea mchakato huu na Alice na Bob, ambao wanataka Ubadilishanaji kumiliki 1 BTC kila mmoja, lakini hawaaminiani. Wanatumia Sahihi za Adapta ili kuondoa hitaji la kuaminiana katika Ubadilishanaji huu. Hivi ndivyo wanavyofanya:
 
 
-- Alice anaanzisha Exchange kwa kuunda muamala wa $m_A$ ambao hutuma 1 BTC kwa Bob. Anatengeneza sahihi $s_A$, ambayo inaidhinisha muamala huu, kwa kutumia ufunguo wake wa faragha $p_A$ ($P_A = p_A \cdot G$), Nonce $n_A$ ($N_A = n_A \cdot G$) na siri $t$ ($T = t \cdot G$) :
+- Alice anaanzisha Ubadilishanaji kwa kuunda muamala wa $m_A$ ambao hutuma 1 BTC kwa Bob. Anatengeneza sahihi $s_A$, ambayo inaidhinisha muamala huu, kwa kutumia ufunguo wake wa faragha $p_A$ ($P_A = p_A \cdot G$), Nonce $n_A$ ($N_A = n_A \cdot G$) na siri $t$ ($T = t \cdot G$) :
 
 $$s_A = n_A + t + H(N_A + T \sambamba P_A \sambamba m_A) \cdot p_A$$
 
@@ -2802,18 +2802,18 @@ $$s_A = n_A + t + H(N_A + T \sambamba P_A \sambamba m_A) \cdot p_A$$
 $$s_A' = s_A - t$$
 
 
-- Alice anamtumia Bob adapta yake sahihi $s'_A$, muamala wake ambao haujatiwa saini $m_A$, nukta inayolingana na siri ($T$), na uhakika unaolingana na Nonce ($N_A$). Elements hizi zinaunda kile kinachojulikana kama "adapta". Ni muhimu kutambua kwamba, kwa habari hii tu, Bob hawezi kurejesha BTC ya Alice.
-- Hata hivyo, Bob anaweza kuangalia kwamba Alice hajaribu kumwibia. Ili kufanya hivyo, anakagua ikiwa saini ya adapta ya Alice $s_A'$ kweli inalingana na ununuzi uliopendekezwa $m_A$. Ikiwa equation ifuatayo ni sahihi, basi anaweza kuwa na uhakika kwamba adapta ya saini ya Alice ni halali:
+- Alice anamtumia Bob adapta yake sahihi $s'_A$, muamala wake ambao haujatiwa saini $m_A$, nukta inayolingana na siri ($T$), na uhakika unaolingana na Nonce ($N_A$). Vipengele hivi vinaunda kile kinachojulikana kama "adapta". Ni muhimu kutambua kwamba, kwa habari hii tu, Bob hawezi kurejesha BTC ya Alice.
+- Hata hivyo, Bob anaweza kuangalia kwamba Alice hajaribu kumwibia. Ili kufanya hivyo, anakagua ikiwa saini ya adapta ya Alice $s_A'$ kweli inalingana na ununuzi uliopendekezwa $m_A$. Ikiwa equation ifuatayo ni sahihi, basi anaweza kuwa na uhakika kwamba adapta ya sahihi ya Alice ni halali:
 
 $$s_A' \cdot G = N_A + H(N_A + T \sambamba P_A \sambamba m_A) \cdot P_A$$
 
 
-- Uthibitishaji huu unampa Bob dhamana ya kutosha kwamba anaweza kuendelea na Exchange kwa ujasiri kamili. Kisha anaunda muamala wake mwenyewe $m_B$, inayokusudiwa kutuma BTC 1 kwa Alice, na kutengeneza saini ya adapta yake $s_B'$, ambayo pia itaunganishwa kwa siri sawa $t$. Katika hatua hii, ni Alice pekee anayejua thamani ya $t$; Bob anajua tu pointi inayolingana $T$ ambayo Alice amemwandikia:
+- Uthibitishaji huu unampa Bob dhamana ya kutosha kwamba anaweza kuendelea na Ubadilishanaji kwa ujasiri kamili. Kisha anaunda muamala wake mwenyewe $m_B$, inayokusudiwa kutuma BTC 1 kwa Alice, na kutengeneza sahihi ya adapta yake $s_B'$, ambayo pia itaunganishwa kwa siri sawa $t$. Katika hatua hii, ni Alice pekee anayejua thamani ya $t$; Bob anajua tu pointi inayolingana $T$ ambayo Alice amemwandikia:
 
 $$s_B' = n_B + H(N_B + T \sambamba P_B \sambamba m_B) \cdot p_B$$
 
 
-- Bob anamtumia Alice saini ya adapta yake $s_B'$, muamala wake ambao haujatiwa saini $m_B$, pamoja na uhakika unaolingana na siri ($T$) na uhakika unaolingana na Nonce ($N_B$). Alice, ambaye anajua siri ya $t$, sasa anaweza kuchanganya sahihi ya adapta ya Bob $s_B'$ na siri hii kwa generate sahihi sahihi $s_B$ kwa muamala $m_B$ ambayo itahamishia BTC ya Bob kwake:
+- Bob anamtumia Alice sahihi ya adapta yake $s_B'$, muamala wake ambao haujatiwa sahihi $m_B$, pamoja na uhakika unaolingana na siri ($T$) na uhakika unaolingana na Nonce ($N_B$). Alice, ambaye anajua siri ya $t$, sasa anaweza kuchanganya sahihi ya adapta ya Bob $s_B'$ na siri hii kwa kuzalisha sahihi $s_B$ kwa muamala $m_B$ ambao itahamishia BTC ya Bob kwake:
 
 $$s_B = s_B' + t$$
 
@@ -2825,51 +2825,51 @@ $$(s_B' + t) \cdot G = N_B + T + H(N_B + T \sambamba P_B \sambamba m_B) \cdot P_
 $$t = (s_B' + t) - s_B' = s_B - s_B'$$
 
 
-- Na siri hii $t$ ilikuwa kipengele pekee kilichokosekana kwa Bob hadi generate sahihi sahihi $s_A$ kutoka sahihi ya adapta ya Alice $s_A'$. Sahihi hii inathibitisha muamala wa $m_A$, ambao hutuma BTC kutoka Alice hadi Bob. Kisha Bob anakokotoa $s_A$ na kutangaza muamala wa $m_A$ kwenye Blockchain:
+- Na siri hii $t$ ilikuwa kipengele pekee kilichokosekana kwa Bob hadi kuzalisha sahihi $s_A$ kutoka sahihi ya adapta ya Alice $s_A'$. Sahihi hii inathibitisha muamala wa $m_A$, ambao hutuma BTC kutoka Alice hadi Bob. Kisha Bob anakokotoa $s_A$ na kutangaza muamala wa $m_A$ kwenye Blockchain:
 
 $$s_A = s_A' + t$$
 
 $$(s_A' + t) \cdot G = N_A + T + H(N_A + T \sambamba P_A \sambamba m_A) \cdot P_A$$
 
-Wacha tufanye muhtasari wa jinsi Sahihi ya Adapta inavyofanya kazi katika ubadilishaji wa sarafu. Hapo awali, Alice hutuma Bob shughuli isiyosajiliwa ikifuatana na adapta, na kumwezesha Bob kuthibitisha kwamba siri iliyofunuliwa baadaye itampa upatikanaji wa bitcoins. Kwa kujibu, Bob hutuma Alice muamala wake mwenyewe ambao haujasainiwa na adapta. Kisha Alice anaweza kukamilisha shughuli ya Bob na kurejesha bitcoins kwa kutangaza shughuli halali ya shukrani kwa siri. Shughuli hii inapochapishwa kwenye Blockchain, Bob ana uwezo wa kutoa siri na hivyo kufungua shughuli ya Alice. Kwa hivyo, ikiwa Alice ataanzisha uhamisho wa Bitcoin ya Bob, Bob anaweza, kwa upande wake, kufikia Bitcoin ya Alice bila hitaji la kuaminiana.
+Wacha tufanye muhtasari wa jinsi Sahihi ya Adapta inavyofanya kazi katika ubadilishaji wa sarafu. Hapo awali, Alice hutuma Bob shughuli isiyosajiliwa ikifuatana na adapta, na kumwezesha Bob kuthibitisha kwamba siri iliyofunuliwa baadaye itampa upatikanaji wa bitcoins. Kwa kujibu, Bob hutuma Alice muamala wake mwenyewe ambao haujatiwa sahihi na adapta. Kisha Alice anaweza kukamilisha shughuli ya Bob na kurejesha bitcoins kwa kutangaza shughuli halali ya shukrani kwa siri. Shughuli hii inapochapishwa kwenye Blockchain, Bob ana uwezo wa kutoa siri na hivyo kufungua shughuli ya Alice. Kwa hivyo, ikiwa Alice ataanzisha uhamisho wa Bitcoin ya Bob, Bob anaweza, kwa upande wake, kufikia Bitcoin ya Alice bila hitaji la kuaminiana.
 
 Kumbuka kuwa ubadilishaji wa sarafu ulipendekezwa kwanza na [Gregory Maxwell mnamo Oktoba 2013 kwenye BitcoinTalk](https://bitcointalk.org/index.php?topic=321228.0).
 
 ### Kubadilishana kwa atomiki
 
-Kwa njia sawa ya kubadilishana sarafu, na kutumia aina sawa za mikataba ya busara, inawezekana pia kufanya ubadilishaji wa atomiki. Kubadilishana kwa atomiki huwezesha Exchange ya moja kwa moja ya sarafu tofauti za siri, kama vile BTC na XMR, kati ya watumiaji wawili bila hitaji la uaminifu au kuingilia kati kwa mpatanishi. Mabadilishano haya yanaitwa "atomiki" kwa sababu yana matokeo mawili tu yanayowezekana: ama ubadilishanaji umefaulu na pande zote mbili zimeridhika, au itashindikana na kila moja ibaki na sarafu zao za siri, hivyo basi kuondoa hitaji la kumwamini mhusika mwingine.
+Kwa njia sawa ya kubadilishana sarafu, na kutumia aina sawa za mikataba ya busara, inawezekana pia kufanya ubadilishaji wa atomiki. Kubadilishana kwa atomiki huwezesha Ubadilishanaji wa moja kwa moja ya sarafu tofauti za siri, kama vile BTC na XMR, kati ya watumiaji wawili bila hitaji la uaminifu au kuingilia kati kwa mpatanishi. Ubadilishanaji huu unaitwa "atomiki" kwa sababu yana matokeo mawili tu yanayowezekana: ama ubadilishanaji umefaulu na pande zote mbili zimeridhika, au itashindikana na kila moja ibaki na sarafu zao za siri, hivyo basi kuondoa hitaji la kumwamini mhusika mwingine.
 
 ![BTC204](assets/fr/197.webp)
 
-Ubadilishanaji wa atomiki na ubadilishanaji wa sarafu hushiriki mbinu sawa ya uendeshaji na hutoa faida na hasara sawa katika suala la usiri. Hakika, kwa mtazamo wa Bitcoin, ubadilishaji wa atomiki unalinganishwa na ubadilishanaji wa sarafu unaofanywa katika hatua mbili. Kwanza, sisi Exchange BTC yetu kwa cryptocurrency nyingine, basi cryptocurrency hii inaweza kubadilishwa kwa BTC nyingine. Mwishowe, tunapata BTC ya mtumiaji mwingine. Hii ndiyo sababu, katika uchanganuzi wa masuala ya usiri, ninaweka itifaki hizi mbili chini ya kitengo cha ubadilishanaji wa siri za umiliki.
+Ubadilishanaji wa atomiki na ubadilishanaji wa sarafu hushiriki mbinu sawa ya uendeshaji na hutoa faida na hasara sawa katika suala la usiri. Hakika, kwa mtazamo wa Bitcoin, ubadilishaji wa atomiki unalinganishwa na ubadilishanaji wa sarafu unaofanywa katika hatua mbili. Kwanza, sisi kubadilishana BTC yetu kwa cryptocurrency nyingine, basi cryptocurrency hii inaweza kubadilishwa kwa BTC nyingine. Mwishowe, tunapata BTC ya mtumiaji mwingine. Hii ndiyo sababu, katika uchanganuzi wa masuala ya usiri, ninaweka itifaki hizi mbili chini ya kitengo cha ubadilishanaji wa siri za umiliki.
 
 ![BTC204](assets/fr/198.webp)
 
-Jihadharini, hata hivyo, kwamba tofauti na ubadilishanaji wa sarafu, ubadilishaji wa atomiki unaweza kuwa na usawa katika suala la ukwasi unaopatikana, haswa katika ubadilishanaji wa BTC/XMR. Kwa ujumla ni rahisi kubadilisha bitcoins kwa altcoins, kwa kuwa kuna mahitaji makubwa ya bitcoins, ambayo huweka malipo ya chini kwa mwelekeo huu wa ubadilishaji. Hata hivyo, kubadilishana altcoins kwa BTC inaweza kuwa ngumu zaidi kutokana na mahitaji ya chini, mara nyingi husababisha malipo ya juu sana.
+Jihadharini, hata hivyo, kwamba tofauti na ubadilishanaji wa sarafu, ubadilishaji wa atomiki unaweza kuwa na usawa katika suala la ukwasi linalopatikana, haswa katika ubadilishanaji wa BTC/XMR. Kwa ujumla ni rahisi kubadilisha bitcoins kwa altcoins, kwa kuwa kuna mahitaji makubwa ya bitcoins, ambayo huweka malipo ya chini kwa mwelekeo huu wa ubadilishaji. Hata hivyo, kubadilishana altcoins kwa BTC inaweza kuwa ngumu zaidi kutokana na mahitaji ya chini, mara nyingi husababisha malipo ya juu sana.
 
 Hatimaye, wakati ubadilishaji wa atomiki unahusisha bitcoins za onchain na bitcoins kwenye Lightning Network, tunazungumza juu ya "kubadilishana kwa manowari".
 
 ### Je, ni muhimu kweli?
 
-Uhamisho wa siri wa Ownership, kama vile ubadilishaji wa sarafu na ubadilishanaji wa atomiki, una faida ya ujanja wa uchanganuzi wa mnyororo. Mbinu hizi zinaweza kupendekeza kwamba shughuli zihusishe mtumiaji yule yule, ilhali Ownership halisi imebadilisha mikono. Hata hivyo, drawback kuu ya njia hizi ni kwamba wao ni hatari sana bila matumizi ya mbinu ya ziada ya kuvunja historia ya sarafu.
+Uhamisho wa siri wa umiliki, kama vile ubadilishaji wa sarafu na ubadilishanaji wa atomiki, una faida ya ujanja wa uchanganuzi wa mnyororo. Mbinu hizi zinaweza kupendekeza kwamba shughuli zihusishe mtumiaji yule yule, ilhali Umiliki halisi umebadilisha mikono. Hata hivyo, kasoro kuu ya njia hizi ni kwamba wao ni hatari sana bila matumizi ya mbinu ya ziada ya kuvunja historia ya sarafu.
 
-Hakika, wakati Alice anabadilishana sarafu au kubadilishana atomiki na Bob, anabadilishana umiliki wa bitcoins zake na zile za Bob. Katika kesi ya ubadilishaji wa atomiki, Exchange inajumuisha Altcoin, lakini kanuni inabakia sawa. Kwa hivyo, Alice anaishia na sarafu ya $ B $ na Bob na sarafu ya $ A $. Hii inaongeza shaka kwa uchambuzi wa mnyororo, lakini historia ya sarafu inabakia kufuatiliwa. Mchambuzi akichunguza sehemu ya $A$, anaweza kufuatilia shughuli za awali za Alice, na kinyume chake kwa sehemu ya $B$.
+Hakika, wakati Alice anabadilishana sarafu au kubadilishana atomiki na Bob, anabadilishana umiliki wa bitcoins zake na zile za Bob. Katika kesi ya ubadilishaji wa atomiki, Ubadilishanaji unajumuisha Altcoin, lakini kanuni inabakia sawa. Kwa hivyo, Alice anaishia na sarafu ya $ B $ na Bob na sarafu ya $ A $. Hii inaongeza shaka kwa uchambuzi wa mnyororo, lakini historia ya sarafu inabakia kufuatiliwa. Mchambuzi akichunguza sehemu ya $A$, anaweza kufuatilia shughuli za awali za Alice, na kinyume chake kwa sehemu ya $B$.
 
 ![BTC204](assets/fr/199.webp)
 
-Kwa mtazamo wa Alice, hatari ni kwamba historia ya sarafu ya $B$ inaweza kuchukuliwa kuwa ya kutiliwa shaka na vyombo fulani. Kama, kwa mfano, Bob angepata sarafu ya $B$ kupitia kitendo cha uhalifu kama vile udukuzi, sarafu hiyo ingesalia ikihusishwa na shughuli zake zisizo halali. Alice basi angeweza kujikuta akimiliki sarafu ambayo hangeweza kuhamisha kwenye majukwaa yanayodhibitiwa ya Exchange bila kuhatarisha pesa zake kugandishwa, au hata kushutumiwa kwa uhalifu wa Bob, ingawa hakuwa na uhusiano wowote nao.
+Kwa mtazamo wa Alice, hatari ni kwamba historia ya sarafu ya $B$ inaweza kuchukuliwa kuwa ya kutiliwa shaka na vyombo fulani. Kama, kwa mfano, Bob angepata sarafu ya $B$ kupitia kitendo cha uhalifu kama vile udukuzi, sarafu hiyo ingesalia ikihusishwa na shughuli zake zisizo halali. Alice basi angeweza kujikuta akimiliki sarafu ambayo hangeweza kuhamisha kwenye majukwaa yanayodhibitiwa ya Ubadilishanaji bila kuhatarisha pesa zake kugandishwa, au hata kushutumiwa kwa uhalifu wa Bob, ingawa hakuwa na uhusiano wowote nao.
 
 ![BTC204](assets/fr/200.webp)
 
-Bila shaka, mbinu za usiri kama vile kubadilishana sarafu au kubadilishana atomiki hupendelewa na wahalifu ambao fedha zao ziko chini ya uangalizi wa mamlaka. Itifaki hizi huwawezesha kutupa bitcoins zao chini ya uangalizi katika Exchange kwa bitcoins zinazoweza kuvuliwa kikamilifu. Pia huwawezesha kuunda ubadilishaji, kwa kuelekeza mamlaka kwa watumiaji wengine. Kwa hivyo kuna kusudi maradufu kwa watu hawa.
+Bila shaka, mbinu za usiri kama vile kubadilishana sarafu au kubadilishana atomiki hupendelewa na wahalifu ambao fedha zao ziko chini ya uangalizi wa mamlaka. Itifaki hizi huwawezesha kutupa bitcoins zao chini ya uangalizi katika Ubadilishanaji kwa bitcoins zinazoweza kuvuliwa kikamilifu. Pia huwawezesha kuunda ubadilishaji, kwa kuelekeza mamlaka kwa watumiaji wengine. Kwa hivyo kuna kusudi maradufu kwa watu hawa.
 
-Ukiwa na CoinJoin, hata kama sarafu yako imechanganywa na bitcoins zinazofuatiliwa, historia ya sarafu imevunjwa, ikitoa aina fulani ya ukataaji unaokubalika ambao haupo katika itifaki za siri za Ownership kama vile ubadilishaji wa sarafu au ubadilishaji wa atomiki.
+Ukiwa na Kuunga sarafu, hata kama sarafu yako imechanganywa na bitcoins zinazofuatiliwa, historia ya sarafu imevunjwa, ikitoa aina fulani ya ukataaji unaokubalika ambao haupo katika itifaki za siri za Umiliki kama vile ubadilishaji wa sarafu au ubadilishaji wa atomiki.
 
 ![BTC204](assets/fr/201.webp)
 
-Iwapo Alice angependa kuepuka hatari yoyote, lazima lazima atumie mbinu kuvunja historia ya sarafu ya $B$, kama vile kuipitisha kwenye saini. Hii inaleta swali kuhusu manufaa ya kuchanganya uhamisho wa siri wa Ownership na CoinJoin. CoinJoin, kwa kuvunja historia ya sarafu, tayari inatoa kiwango cha kutosha cha usiri kwa Alice. Kwa hivyo, maoni yangu ni kwamba ikiwa Alice anatafuta kulinda faragha yake, itakuwa busara kuendelea moja kwa moja kwenye CoinJoin badala ya kushiriki ubadilishanaji wa sarafu unaofuatwa na CoinJoin.
+Iwapo Alice angependa kuepuka hatari yoyote, lazima lazima atumie mbinu kuvunja historia ya sarafu ya $B$, kama vile kuipitisha kwenye saini. Hii inaleta swali kuhusu manufaa ya kuchanganya uhamisho wa siri wa Umiliki na Kuunga sarafu. Kuunga sarafu, kwa kuvunja historia ya sarafu, tayari inatoa kiwango cha kutosha cha usiri kwa Alice. Kwa hivyo, maoni yangu ni kwamba ikiwa Alice anatafuta kulinda faragha yake, itakuwa busara kuendelea moja kwa moja kwenye Kuunga sarafu badala ya kushiriki ubadilishanaji wa sarafu unaofuatwa na Kuunga sarafu.
 
-Ili mbinu za siri za uhamishaji za Ownership ziwe na ufanisi wa kweli, na kuepuka hatari ya kuunganisha historia ya mtumiaji $A$ kwa mtumiaji $B$, itakuwa muhimu sana kwa matumizi yao kujulikana kote. Ikiwa ubadilishanaji wa sarafu unatumiwa kwa wingi na wenye mamlaka wanafahamu jambo hili la kawaida, basi aina inayokubalika ya kukataa inaweza kuanzishwa. Hata hivyo, mradi utumizi wa uhamisho huu unabaki kuwa mdogo, nadhani njia hizi zitabaki kuwa hatari sana kwa watumiaji.
+Ili mbinu za siri za uhamishaji wa Umiliki ziwe na ufanisi wa kweli, na kuepuka hatari ya kuunganisha historia ya mtumiaji $A$ kwa mtumiaji $B$, itakuwa muhimu sana kwa matumizi yao kujulikana kote. Ikiwa ubadilishanaji wa sarafu unatumiwa kwa wingi na wenye mamlaka wanafahamu jambo hili la kawaida, basi aina inayokubalika ya kukataa inaweza kuanzishwa. Hata hivyo, mradi utumizi wa uhamisho huu unabaki kuwa mdogo, nadhani njia hizi zitabaki kuwa hatari sana kwa watumiaji.
 
 Hadi sasa, tumechunguza mbinu za usiri hasa katika kiwango cha miamala yenyewe. Katika sura inayofuata, tutaangalia masuala katika kiwango cha mtandao na usambazaji wa shughuli.
 
@@ -2883,15 +2883,15 @@ Katika Sehemu ya 4, tulijadili umuhimu wa kutumia nodi kamili ili kulinda usiri 
 
 Njia moja ya kuepuka mashambulizi mbalimbali ya kufuta utambulisho ni kutumia pendekezo la Dandelion. Itifaki hii ya utangazaji ilirasimishwa katika BIP156, lakini haijawahi kutekelezwa kwenye Bitcoin.
 
-Wazo la Dandelion ni kuboresha usiri wa uelekezaji wa shughuli katika mtandao wa Bitcoin ili kukabiliana na aina mbalimbali za mashambulizi. Kusudi lake kuu ni kuficha nodi ya chanzo ambayo hapo awali ilitangaza shughuli kwenye mtandao. Ufichuaji wa nodi hii unaweza kufanya iwezekane kuunganisha muamala wa Bitcoin kwa IP maalum Address (ikiwa nodi inafanya kazi kwenye clearnet), ambayo inaweza kutoa mahali pa kuingilia kwa uchanganuzi wa minyororo.
+Wazo la Dandelion ni kuboresha usiri wa uelekezaji wa shughuli katika mtandao wa Bitcoin ili kukabiliana na aina mbalimbali za mashambulizi. Kusudi lake kuu ni kuficha nodi ya chanzo ambayo hapo awali ilitangaza shughuli kwenye mtandao. Ufichuaji wa nodi hii unaweza kufanya iwezekane kuunganisha muamala wa Bitcoin kwa Anwani ya IP maalum (ikiwa nodi inafanya kazi kwenye clearnet), ambayo inaweza kutoa mahali pa kuingilia kwa uchanganuzi wa minyororo.
 
-Uhusiano huu kati ya shughuli kwenye Bitcoin na IP Address inawakilisha hatari kubwa kwa usiri wa mtumiaji. Hakika, huluki nyingi ziko katika nafasi ya kuunganisha IP Address kwa urahisi na utambulisho wa kibinafsi. Hii inajumuisha serikali na watoa huduma za mtandao. Zaidi ya hayo, maelezo haya yanaweza kupatikana kwa umma, kwa mfano, ikiwa IP yako Address na data ya kibinafsi itavuja wakati hifadhidata ya tovuti imedukuliwa.
+Uhusiano huu kati ya shughuli kwenye Bitcoin na Anwani ya IP inawakilisha hatari kubwa kwa usiri wa mtumiaji. Hakika, huluki nyingi ziko katika nafasi ya kuunganisha Anwani ya IP kwa urahisi na utambulisho wa kibinafsi. Hii inajumuisha serikali na watoa huduma za mtandao. Zaidi ya hayo, maelezo haya yanaweza kupatikana kwa umma, kwa mfano, ikiwa Anwani ya IP yako na data ya kibinafsi itavuja wakati hifadhi data ya tovuti imedukuliwa.
 
-Katika operesheni ya kawaida ya Bitcoin, shughuli zilizojengwa na mtumiaji kwenye programu yake ya Wallet hupitishwa kwenye nodi yake ya kibinafsi. Nodi hii itatangaza mara moja muamala mpya kwa wenzao wote ambao umeunganishwa.
+Katika operesheni ya kawaida ya Bitcoin, shughuli zilizojengwa na mtumiaji kwenye programu yake ya Pochi hupitishwa kwenye nodi yake ya kibinafsi. Nodi hii itatangaza mara moja muamala mpya kwa wenzao wote ambao umeunganishwa.
 
 ![BTC204](assets/fr/202.webp)
 
-Wenzake hawa kisha wakague muamala ili kuhakikisha kuwa inatii makubaliano na sheria za usanifishaji wa ndani. Baada ya kuthibitishwa, kila rika kwa upande wake hupeleka shughuli hiyo kwa wenzake, na kadhalika.
+Wenzake hawa kisha wakague muamala ili kuhakikisha kuwa unatii makubaliano na sheria za usanifishaji wa ndani. Baada ya kuthibitishwa, kila rika kwa upande wake hupeleka shughuli hiyo kwa wenzake, na kadhalika.
 
 ![BTC204](assets/fr/203.webp)
 
@@ -2899,7 +2899,7 @@ Usambazaji huu wa miamala unaosubiri kuunganishwa kwenye kizuizi una usawa na un
 
 ![BTC204](assets/fr/204.webp)
 
-Lengo la BIP156 ni Address tatizo hili. Ili kufanya hivyo, inatanguliza awamu ya ziada katika uenezaji wa shughuli mpya ili kuhifadhi kutokujulikana kabla ya uenezaji mpana wa umma. Dandelion kwanza hutumia awamu ya "shina" ambapo shughuli hutumwa kupitia njia ya nasibu ya nodi.
+Lengo la BIP156 ni Anwani tatizo hili. Ili kufanya hivyo, inatanguliza awamu ya ziada katika uenezaji wa shughuli mpya ili kuhifadhi kutokujulikana kabla ya uenezaji mpana wa umma. Dandelion kwanza hutumia awamu ya "shina" ambapo shughuli hutumwa kupitia njia ya nasibu ya nodi.
 
 ![BTC204](assets/fr/205.webp)
 
@@ -2937,23 +2937,23 @@ Usafiri wa P2P V2 ulijumuishwa kama chaguo (lilemazwa kwa chaguomsingi) katika t
 
 Suluhisho lingine rahisi ili kuzuia hatari ya kupoteza usiri kwa nodi ya mtandao ni kuiendesha kabisa chini ya Tor.
 
-Tor ni mtandao wa seva za upeanaji (nodi) ambazo huficha utambulisho wa asili ya miunganisho ya TCP kwenye Mtandao. Inafanya kazi kwa kuingiza data katika tabaka kadhaa za usimbaji fiche. Kila nodi ya relay huondoa Layer ili kufichua Address ya nodi inayofuata, hadi mahali pa mwisho kufikiwa. Mtandao wa Tor huhakikisha kutokujulikana kwa kuzuia nodi za kati zisijue asili na lengwa la data, hivyo kufanya iwe vigumu sana kwa mtazamaji kufuatilia shughuli ya mtumiaji.
+Tor ni mtandao wa seva za upeanaji (nodi) ambazo huficha utambulisho wa asili ya miunganisho ya TCP kwenye Mtandao. Inafanya kazi kwa kuingiza data katika tabaka kadhaa za usimbaji fiche. Kila nodi ya relay huondoa safu ili kufichua Anwani ya nodi inayofuata, hadi mahali pa mwisho kufikiwa. Mtandao wa Tor huhakikisha kutokujulikana kwa kuzuia nodi za kati zisijue asili na lengwa la data, hivyo kufanya iwe vigumu sana kwa mtazamaji kufuatilia shughuli ya mtumiaji.
 
 ![BTC204](assets/fr/209.webp)
 
-Tor sio tu husimba data, lakini pia huficha asili na marudio ya mawasiliano. Kwa kutumia Tor kwa mawasiliano kutoka kwa nodi yako ya kibinafsi, unaimarisha usiri wa miamala yako: ISP yako haiwezi kusimbua mawasiliano, na nodi nyingine katika mtandao wa Bitcoin haziwezi kutambua IP Address ya nodi chanzo. Zaidi ya hayo, Tor pia huficha matumizi yako ya Bitcoin kutoka kwa ISP yako.
+Tor sio tu husimba data, lakini pia huficha asili na marudio ya mawasiliano. Kwa kutumia Tor kwa mawasiliano kutoka kwa nodi yako ya kibinafsi, unaimarisha usiri wa miamala yako: ISP yako haiwezi kusimbua mawasiliano, na nodi nyingine katika mtandao wa Bitcoin haziwezi kutambua Anwani ya IP ya nodi chanzo. Zaidi ya hayo, Tor pia huficha matumizi yako ya Bitcoin kutoka kwa ISP yako.
 
 Hatari kuu na njia hii ni kwamba Tor ni itifaki inayojitegemea ya Bitcoin. Ikiwa una nodi ya Bitcoin inayoendesha chini ya Tor na Tor itaacha kufanya kazi, basi nodi yako ya Bitcoin haitaweza tena kuwasiliana.
 
-Pia, ni muhimu kutambua kwamba mawasiliano kwenye Tor ni polepole. Hali hii ya kusubiri inakera hasa wakati wa uzinduzi wa awali wa nodi, kwani IBD (*Upakuaji wa Kizuizi cha Awali*) inahitaji mawasiliano mengi. Kwa hivyo, maingiliano yako ya awali na mtandao wa Bitcoin inaweza kuchukua muda mrefu zaidi kwa kutumia Tor. Pia inawezekana kutekeleza IBD kwenye clearnet, kisha uwashe Tor kama hatua ya pili. Ingawa njia hii inafichua kuwepo kwa nodi yako ya Bitcoin kwa Mtoa huduma wako wa Intaneti, inalinda taarifa yako ya muamala wa kibinafsi mara tu unapohamia Tor.
+Pia, ni muhimu kutambua kwamba mawasiliano kwenye Tor ni polepole. Hali hii ya kusubiri inakera hasa wakati wa uzinduzi wa awali wa nodi, kwani IBD (*Upakuaji wa Kizuizi cha Awali*) inahitaji mawasiliano mengi. Kwa hivyo, maingiliano yako ya awali na mtandao wa Bitcoin inaweza kuchukua muda mrefu zaidi kwa kutumia Tor. Pia inawezekana kutekeleza IBD kwenye clearnet, kisha uwashe Tor kama hatua ya pili. Ingawa njia hii inafichua kuwepo kwa nodi yako ya Bitcoin kwa Mtoa huduma wako wa Mtandao, inalinda taarifa yako ya muamala wa kibinafsi mara tu unapohamia Tor.
 
-Baada ya kuchunguza mbinu mbalimbali za usiri katika kiwango cha mtandao, katika sura chache zinazofuata ningependa pia kukujulisha masuluhisho mawili ya kifahari ya kuepuka kutumia tena Address: BIP47 na Malipo ya Kimya.
+Baada ya kuchunguza mbinu mbalimbali za usiri katika kiwango cha mtandao, katika sura chache zinazofuata ningependa pia kukujulisha suluhisho mbili za kifahari za kuepuka kutumia tena Anwani: BIP47 na Malipo ya Kimya.
 
 ## BIP47 na misimbo ya malipo inayoweza kutumika tena
 
 <chapterId>ad88e076-a04b-4aec-b3b2-7b4760175504</chapterId>
 
-Kama tulivyoona katika sehemu ya 3, kutumia tena Address ni kikwazo kikubwa kwa usiri wa mtumiaji kwenye itifaki ya Bitcoin. Ili kupunguza hatari hizi, inashauriwa kwa generate kupokea Address bila malipo kwa kila malipo mapya yanayopokelewa katika Wallet. Ingawa kutengeneza Address mpya sasa kumerahisishwa na matumizi ya programu za kisasa na pochi za kubainisha viwango vya juu, zoezi hili linaweza kuonekana kuwa lisilofaa.
+Kama tulivyoona katika sehemu ya 3, kutumia tena Anwani ni kikwazo kikubwa kwa usiri wa mtumiaji kwenye itifaki ya Bitcoin. Ili kupunguza hatari hizi, inashauriwa kwa kuzalisha kupokea Anwani bila malipo kwa kila malipo mapya yanayopokelewa katika Pochi. Ingawa kutengeneza Anwani mpya sasa kumerahisishwa na matumizi ya programu za kisasa na pochi za kubainisha viwango vya juu, zoezi hili linaweza kuonekana kuwa lisilofaa.
 
 ![BTC204](assets/fr/210.webp)
 
