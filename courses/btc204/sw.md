@@ -1855,72 +1855,72 @@ Moja ya vikwazo kuu vya JoinMarket ni ugumu wake wa matumizi, ambayo inahitaji k
 
 Chanzo : [JAM](https://github.com/joinmarket-webui/jam/blob/devel/docs/assets/screenshot-dark.webp)
 
-Hata hivyo, kikwazo cha kiufundi bado ni kikwazo kikubwa. Katika mfumo ikolojia wa CoinJoin, ambapo usiri huimarishwa na idadi ya washiriki, kizuizi chochote kinachopunguza ufikivu huathiri moja kwa moja ukwasi unaopatikana, ambayo ni sababu muhimu katika ufanisi wa mchanganyiko. Bitcoin, ikiwa tayari ni chachu katika shughuli za kifedha, inaona matumizi yake ya coinjoins kama sehemu ndogo, na JoinMarket inawakilisha sehemu yake maalum zaidi, ambayo kwa hivyo inazuia uwezo wake wa kuongeza anonsets za watumiaji wake.
+Hata hivyo, kikwazo cha kiufundi bado ni kikwazo kikubwa. Katika mfumo ikolojia wa kuunga sarafu, ambapo usiri huimarishwa na idadi ya washiriki, kizuizi chochote kinachopunguza ufikivu huathiri moja kwa moja ukwasi unaopatikana, ambayo ni sababu muhimu katika ufanisi wa mchanganyiko. Bitcoin, ikiwa tayari ni chachu katika shughuli za kifedha, inaona matumizi yake ya kuunga sarafu kama sehemu ndogo, na JoinMarket inawakilisha sehemu yake maalum zaidi, ambayo kwa hivyo inazuia uwezo wake wa kuongeza anonsets za watumiaji wake.
 
 Licha ya muundo wake wa kiubunifu wa kuunganisha wa P2P kwa waunganishaji, JoinMarket ina hasara kubwa, haswa katika suala la muundo wa shughuli. Tofauti na utekelezwaji mwingine kama vile Whirlpool, JoinMarket haihakikishii usawa kamili kati ya matokeo, na inawezekana kufuatilia viungo vya kubainisha kati ya pembejeo na matokeo. Zaidi ya hayo, haina zana za kuzuia sehemu ambazo tayari zimechanganywa pamoja zisichanganywe tena, jambo ambalo linaweza kuhatarisha usiri unaotafutwa na watumiaji.
 
-Hatimaye, wakati dhana ya JoinMarket inavutia, hasa kwa wale wanaopenda soko la ukwasi wa nguvu, udhaifu wake wa kimuundo na utata wa kiufundi hufanya hivyo, kwa maoni yangu, chini ya kuvutia kwa wanovisi na wataalam wanaotafuta utekelezaji wa CoinJoin.
+Hatimaye, wakati dhana ya JoinMarket inavutia, hasa kwa wale wanaopenda soko la ukwasi wa nguvu, udhaifu wake wa kimuundo na utata wa kiufundi hufanya hivyo, kwa maoni yangu, chini ya kuvutia kwa wanovisi na wataalam wanaotafuta utekelezaji wa kuunga sarafu.
 
 ### Wabisabi
 
-Wabisabi ni utekelezaji mwingine wa CoinJoin, na mkabala unaoweka kati uratibu wa shughuli. Muundo huu ulibuniwa Ádám Ficsór (nopara73), Yuval Kogman, Lucas Ontivero, na István András Seres mnamo 2021, na uliunganishwa katika programu ya Wasabi 2.0 mwaka uliofuata. Wabisabi ni mageuzi haswa ya muundo wa programu ya Wasabi CoinJoin uliozinduliwa mnamo 2018.
+Wabisabi ni utekelezaji mwingine wa Kuunga sarafu, na mkabala unaoweka kati uratibu wa shughuli. Muundo huu ulibuniwa Ádám Ficsór (nopara73), Yuval Kogman, Lucas Ontivero, na István András Seres mnamo 2021, na uliunganishwa katika programu ya Wasabi 2.0 mwaka uliofuata. Wabisabi ni mageuzi haswa ya muundo wa programu ya Wasabi ya kuunga sarafu uliozinduliwa mnamo 2018.
 
 ![BTC204](assets/fr/132.webp)
 
-Kuelekea mwisho wa miaka ya 2010, Wasabi ilipitisha muundo tofauti kabisa wa shughuli wa CoinJoin hadi Whirlpool. Wasabi ilitumia miamala mikubwa sana ya CoinJoin iliyohusisha makumi ya washiriki ili kuongeza arifa za washiriki wake. Kinyume chake, Whirlpool ilichagua miamala mingi midogo, kuwezesha anonsets kukua kwa kasi kwa kila mzunguko.
+Kuelekea mwisho wa miaka ya 2010, Wasabi ilipitisha muundo tofauti kabisa wa shughuli ya kuunga sarafu hadi Whirlpool. Wasabi ilitumia miamala mikubwa sana ya kuunga sarafu iliyohusisha makumi ya washiriki ili kuongeza arifa za washiriki wake. Kinyume chake, Whirlpool ilichagua miamala mingi midogo, kuwezesha anonsets kukua kwa kasi kwa kila mzunguko.
 
-Mbinu za usimamizi za Exchange pia zilitofautisha utekelezaji huo mbili. Kwa Whirlpool, Exchange ya kigeni ilitengwa na kutengwa kutoka kwa UTXO kabla ya mizunguko ya CoinJoin shukrani kwa TX0, dhana ambayo nitaelezea zaidi katika sura inayofuata. Pamoja na Wasabi, kwa upande mwingine, Exchange ya kigeni iliunda moja ya matokeo ya shughuli ya CoinJoin, kudumisha viungo vya kuamua kati ya pembejeo na matokeo fulani.
+Mbinu za usimamizi za Ubadilishanaji pia zilitofautisha utekelezaji huo mbili. Kwa Whirlpool, Ubadilishanaji wa kigeni ulitengwa kutoka kwa UTXO kabla ya mizunguko ya kuunga sarafu shukrani kwa TX0, dhana ambayo nitaelezea zaidi katika sura inayofuata. Pamoja na Wasabi, kwa upande mwingine, Ubadilishanaji wa kigeni uliunda moja ya matokeo ya shughuli ya kuunga sarafu, kudumisha viungo vya kuamua kati ya pembejeo na matokeo fulani.
 
 ![BTC204](assets/fr/133.webp)
 
-Kwa kutumia Wabisabi, toleo la 2.0 la Wasabi limerekebisha mbinu yake kwa sanjari ili kuendana na ile ya Whirlpool. Ingawa shughuli za CoinJoin zinasalia kuwa kubwa sana, sasa inawezekana kufunga mizunguko kadhaa mfululizo, kufuata mfano wa Whirlpool. Uangalifu maalum pia umelipwa kwa usimamizi wa viwango vya Exchange: tofauti na Wasabi 1.0, ambapo kiwango cha Exchange kilihusishwa moja kwa moja na pembejeo za watumiaji, Wabisabi inatafuta kugawanya kiwango cha Exchange katika kiasi kidogo kidogo, kilichogawanywa katika madhehebu sawa kwa washiriki wote.
+Kwa kutumia Wabisabi, toleo la 2.0 la Wasabi limerekebisha mbinu yake kwa sanjari ili kuendana na ile ya Whirlpool. Ingawa shughuli za kuunga sarafu zinasalia kuwa kubwa sana, sasa inawezekana kufunga mizunguko kadhaa mfululizo, kufuata mfano wa Whirlpool. Uangalifu maalum pia umelipwa kwa usimamizi wa viwango vya Ubadilishaji: tofauti na Wasabi 1.0, ambapo kiwango cha Ubadilishanaji kilihusishwa moja kwa moja na pembejeo za watumiaji, Wabisabi inatafuta kugawanya kiwango cha Ubadilishanaji katika kiasi kidogo kidogo, kilichogawanywa katika madhehebu sawa kwa washiriki wote.
 
-Hebu tuonyeshe hili kwa mfano uliorahisishwa unaohusisha watumiaji 2 pekee: Alice anataka kuchanganya 115,000 Sats na Bob, 210,000 Sats. Kupuuza ada, na Wasabi 1.0, muamala wa CoinJoin ungetoa matokeo 3 ya 100,000 Sats, pamoja na 1 Exchange ya 15,000 Sats kwa Alice na 1 Exchange ya 10,000 Sats kwa Bob-706. Matokeo ya Exchange bado yangeunganishwa na pembejeo:
+Hebu tuonyeshe hili kwa mfano uliorahisishwa unaohusisha watumiaji 2 pekee: Alice anataka kuchanganya 115,000 Sats na Bob, 210,000 Sats. Kupuuza ada, na Wasabi 1.0, muamala wa kuunga sarafu ungetoa matokeo 3 ya 100,000 Sats, pamoja na 1 Ubadilishanaji wa 15,000 Sats kwa Alice na 1 ubadilishanaji wa 10,000 Sats kwa Bob-706. Matokeo ya Ubadilishanaji bado yangeunganishwa na pembejeo:
 
 ![BTC204](assets/fr/134.webp)
 
-Chini ya Wabisabi, shughuli hiyo hiyo ingetoa matokeo 3 ya 100,000 Sats na matokeo 5 ya 5,000 Sats, na hivyo kutawanya Exchange ili isiweze kuunganishwa moja kwa moja na pembejeo maalum:
+Chini ya Wabisabi, shughuli hiyo hiyo ingetoa matokeo 3 ya 100,000 Sats na matokeo 5 ya 5,000 Sats, na hivyo kutawanya Ubadilishanaji ili usiweze kuunganishwa moja kwa moja na pembejeo maalum:
 
 ![BTC204](assets/fr/135.webp)
 
-Binafsi, ninaona kwamba usimamizi wa kigeni wa Wabisabi wa Exchange unawasilisha hatari kadhaa ambazo zinaweza kuathiri ufanisi wake katika masuala ya usiri:
+Binafsi, ninaona kwamba usimamizi wa kigeni wa Wabisabi wa Ubadilishanaji unawasilisha hatari kadhaa ambazo zinaweza kuathiri ufanisi wake katika masuala ya usiri:
 
 
-- Mtumiaji anapochangia UTXO ambayo ni kubwa zaidi kuliko ya washiriki wengine, bila shaka anaishia na kiasi cha Exchange ambacho kitaunganishwa na mchango wake. Hii inapingana na lengo la awali la itifaki, ambayo ni kuondoa ubadilishanaji wote unaotambulika;
-- Kuzidisha kwa madhehebu kwa lengo la kugawanyika kwa Exchange kunaweza kuwa na madhara kwa kuchanganya ufanisi. Utaratibu huu unaweza kusababisha kupunguzwa kwa anonsets kwa matokeo fulani, kwani hutambulika kwa urahisi zaidi;
-- Njia hii pia huzalisha UTXO za thamani ya chini ambazo huleta tatizo la usimamizi kwa mtumiaji. UTXO hizi ndogo, ikiwa zitakuwa ghali sana kutumia kuhusiana na thamani yao, zinaweza kuwa "Dust". Jambo hili hupelekea mtumiaji kuunganisha UTXO kadhaa katika pembejeo kwa shughuli za siku zijazo, au kuziunganisha. Katika visa vyote viwili, kwa sababu ya CIOH, hii inaweza kupunguza makosa yaliyopatikana, au kufuta kabisa faida za usiri zilizopatikana na CoinJoin ya awali.
+- Mtumiaji anapochangia UTXO ambayo ni kubwa zaidi kuliko ya washiriki wengine, bila shaka anaishia na kiasi cha Ubadilishanaji ambacho kitaunganishwa na mchango wake. Hii inapingana na lengo la awali la itifaki, ambayo ni kuondoa ubadilishanaji wote unaotambulika;
+- Kuzidisha kwa madhehebu kwa lengo la kugawanyika kwa Ubadilishanaji kunaweza kuwa na madhara kwa kuchanganya ufanisi. Utaratibu huu unaweza kusababisha kupunguzwa kwa anonsets kwa matokeo fulani, kwani hutambulika kwa urahisi zaidi;
+- Njia hii pia huzalisha UTXO za thamani ya chini ambazo huleta tatizo la usimamizi kwa mtumiaji. UTXO hizi ndogo, ikiwa zitakuwa ghali sana kutumia kuhusiana na thamani yao, zinaweza kuwa "Dust". Jambo hili hupelekea mtumiaji kuunganisha UTXO kadhaa katika pembejeo kwa shughuli za siku zijazo, au kuziunganisha. Katika visa vyote viwili, kwa sababu ya CIOH, hii inaweza kupunguza makosa yaliyopatikana, au kufuta kabisa faida za usiri zilizopatikana na kuunga sarafu ya awali.
 
-Tofauti na Whirlpool, ambayo hutekeleza itifaki ya ZeroLink inayohakikisha utengano mkali kati ya UTXO za mchanganyiko wa awali na wa baada ya mchanganyiko, Wabisabi haidumii utengano huu mkali. Pia kumekuwa na matatizo ya kutumia tena Address na baadhi ya wateja wa Wasabi, ambayo ni wazi kuwa ni hatari sana kwa mtumiaji.
+Tofauti na Whirlpool, ambayo hutekeleza itifaki ya ZeroLink inayohakikisha utengano mkali kati ya UTXO za mchanganyiko wa awali na wa baada ya mchanganyiko, Wabisabi haidumii utengano huu mkali. Pia kumekuwa na matatizo ya kutumia tena Anwani na baadhi ya wateja wa Wasabi, ambayo ni wazi kuwa ni hatari sana kwa mtumiaji.
 
-Katika toleo la 2.0 la Wasabi, sera mpya ya ada ya CoinJoin imetekelezwa. Kuanzia sasa na kuendelea, ada za mratibu zimewekwa kuwa 0.3% kwa UTXO zaidi ya 0.01 Bitcoin, wakati kwa UTXO ndogo, ada hizi hutolewa kikamilifu. Zaidi ya hayo, michanganyiko ya UTXO hizi ndogo haina malipo, ingawa ada za Mining husalia kulipwa na mtumiaji kwa miamala yote, ikijumuisha michanganyaji.
+Katika toleo la 2.0 la Wasabi, sera mpya ya ada ya Kuunga sarafu imetekelezwa. Kuanzia sasa na kuendelea, ada za mratibu zimewekwa kuwa 0.3% kwa UTXO zaidi ya 0.01 Bitcoin, wakati kwa UTXO ndogo, ada hizi hutolewa kikamilifu. Zaidi ya hayo, michanganyiko ya UTXO hizi ndogo haina malipo, ingawa ada za Mining husalia kulipwa na mtumiaji kwa miamala yote, ikijumuisha michanganyaji.
 
-Hii inatofautiana na sera ya Whirlpool, ambapo ada hubakia bila kubadilika, bila kujali ukubwa wa makosa yaliyopatikana. Kwa Wasabi 2.0, ingawa ada za mratibu zimeondolewa kwa UTXO ndogo, mtumiaji bado anatakiwa kulipa ada za Mining kwa miamala yote, ikijumuisha michanganyiko.
+Hii inatofautiana na sera ya Whirlpool, ambapo ada hubakia bila kubadilika, bila kujali ukubwa wa makosa yaliyopatikana. Kwa Wasabi 2.0, ingawa ada za mratibu zimeondolewa kwa UTXO ndogo, mtumiaji bado anatakiwa kulipa ada za Uchimbaji kwa miamala yote, ikijumuisha michanganyiko.
 
-Ninapoandika mistari hii, matumizi ya Wabisabi yamekuwa magumu zaidi kutokana na matukio ya hivi karibuni. Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet, zkSNACKs, kampuni inayofadhili na kusimamia maendeleo ya Wasabi, ilitangaza kuwa huduma yake ya mratibu wa CoinJoin ingekomeshwa mnamo Juni 1, 2024. Mratibu huyu, ambaye alianzishwa kwa default kwenye Wasabi, alihusika na ukwasi mkubwa.
+Ninapoandika mistari hii, matumizi ya Wabisabi yamekuwa magumu zaidi kutokana na matukio ya hivi karibuni. Kufuatia kukamatwa kwa waanzilishi wa Pochi Samourai, zkSNACKs, kampuni inayofadhili na kusimamia maendeleo ya Wasabi, ilitangaza kuwa huduma yake ya mratibu wa kuunga sarafu ingekomeshwa mnamo Juni 1, 2024. Mratibu huyu, ambaye alianzishwa kwa chaguo msingi kwenye Wasabi, alihusika na ukwasi mkubwa.
 
-Kwa kusitishwa kwa mratibu huyu mkuu, watumiaji lazima sasa waunganishe kwa waratibu wapya, wanaojitegemea. Mabadiliko haya yanaibua idadi ya wasiwasi: kwa upande mmoja, waratibu wapya wanaweza kukosa ukwasi wa kutosha, na hivyo kupunguza ufanisi wa coinjoins katika suala la usiri. Kwa upande mwingine, kuna hatari ya kukimbia katika mratibu mbaya. Hali hii inaongeza hatari mpya kwa wale wanaotaka kutumia Wabisabi.
+Kwa kusitishwa kwa mratibu huyu mkuu, watumiaji lazima sasa waunganishe kwa waratibu wapya, wanaojitegemea. Mabadiliko haya yanaibua idadi ya wasiwasi: kwa upande mmoja, waratibu wapya wanaweza kukosa ukwasi wa kutosha, na hivyo kupunguza ufanisi wa kuunga sarafu katika suala la usiri. Kwa upande mwingine, kuna hatari ya kukimbia katika mratibu mbaya. Hali hii inaongeza hatari mpya kwa wale wanaotaka kutumia Wabisabi.
 
-Zaidi ya masuala ya kiufundi, uamuzi wa zkSNACKs, kampuni iliyo nyuma ya Wasabi, kutumia huduma za kampuni ya uchanganuzi wa kamba kuchuja washiriki wa CoinJoin unaibua maswali mazito ya kimaadili na ya kimkakati. Wazo la awali lilikuwa kuzuia matumizi ya sarafu kwa Wasabi na wahalifu, hatua ambayo inaweza kuonekana kuwa halali. Hata hivyo, inazua kitendawili: kulipa ada kwa mratibu ambaye dhamira yake kuu ni kuimarisha usiri wa mtumiaji, na kumfanya tu kufadhili kampuni ambayo lengo lake ni kuathiri usiri huo huo.
+Zaidi ya masuala ya kiufundi, uamuzi wa zkSNACKs, kampuni iliyo nyuma ya Wasabi, kutumia huduma za kampuni ya uchanganuzi wa kamba kuchuja washiriki wa kuunga sarafu unaibua maswali mazito ya kimaadili na ya kimkakati. Wazo la awali lilikuwa kuzuia matumizi ya sarafu kwa Wasabi na wahalifu, hatua ambayo inaweza kuonekana kuwa halali. Hata hivyo, inazua kitendawili: kulipa ada kwa mratibu ambaye dhamira yake kuu ni kuimarisha usiri wa mtumiaji, na kumfanya tu kufadhili kampuni ambayo lengo lake ni kuathiri usiri huo huo.
 
 Jambo linalotia wasiwasi zaidi ni kanuni ya uchujaji, ambayo inatofautiana kwa kiasi kikubwa na falsafa ya Bitcoin ya kutoa mfumo wa kifedha ulio wazi, usiodhibitiwa. Ingawa inaweza kuonekana kuwa sawa kutaka kutenga shughuli za uhalifu, uchujaji huu unaweza pia kuathiri watu ambao vitendo vyao, ingawa vinaainishwa kuwa haramu katika miktadha fulani, vinaweza kuhalalishwa kimaadili au kunufaisha kijamii. Mfano wa Edward Snowden unaonyesha kikamilifu mkanganyiko huu: anachukuliwa kuwa mhalifu na baadhi ya serikali kwa ufunuo wake, anaonekana na wengine kama mtoa taarifa ambaye alitenda kwa maslahi ya umma. Utata huu unasisitiza hatari inayoweza kutokea ya kuchuja ambayo, ingawa ina nia njema, inaweza hatimaye kudhoofisha haki na usalama wa watumiaji halali. Ningeweza pia kutaja wanaharakati na waandishi wa habari wanaoteswa chini ya tawala fulani za kimabavu.
 
-Kama vile utakuwa umekusanya kufikia sasa, upendeleo wangu ni dhahiri kwa mfano wa Whirlpool kwa coinjoins kwenye Bitcoin. Mfumo huu unasimama nje kwa ukali wake na hutoa dhamana ya juu ya usiri. Pia ndiyo pekee inayotoa mchanganyiko unaozingatiwa kuwa mzuri katika muktadha wa hisabati. Kwa maoni yangu, mtindo huu unawakilisha mustakabali wa coinjoins kwenye Bitcoin. Ninakualika uchunguze mtindo huu kwa kina zaidi katika sura inayofuata.
+Kama vile utakuwa umekusanya kufikia sasa, upendeleo wangu ni dhahiri kwa mfano wa Whirlpool kwa kuunga sarafu kwenye Bitcoin. Mfumo huu unasimama nje kwa ukali wake na hutoa dhamana ya juu ya usiri. Pia ndiyo pekee inayotoa mchanganyiko unaozingatiwa kuwa mzuri katika muktadha wa hisabati. Kwa maoni yangu, mtindo huu unawakilisha mustakabali wa kuunga sarafu kwenye Bitcoin. Ninakualika uchunguze mtindo huu kwa kina zaidi katika sura inayofuata.
 
 ## Jinsi Whirlpool inavyofanya kazi
 
 <chapterId>bdbd7109-e36d-4b4f-a3c6-928df4e9bfda</chapterId>
 
-Kinachotenganisha Whirlpool na mbinu zingine za CoinJoin ni matumizi ya miamala ya "_ZeroLink_", ambayo inahakikisha kwamba hakuna kiunga cha kiufundi kinachowezekana kati ya pembejeo na matokeo yote. Mchanganyiko huu kamili hupatikana kupitia muundo ambao kila mshiriki huchangia kiasi sawa cha ingizo (isipokuwa ada za Mining), na kutoa matokeo ya viwango sawa kabisa.
+Kinachotenganisha Whirlpool na mbinu zingine za kuunga sarafu ni matumizi ya miamala ya "_ZeroLink_", ambayo inahakikisha kwamba hakuna kiunga cha kiufundi kinachowezekana kati ya pembejeo na matokeo yote. Mchanganyiko huu kamili hupatikana kupitia muundo ambao kila mshiriki huchangia kiasi sawa cha ingizo (isipokuwa ada za Uchimbaji), na kutoa matokeo ya viwango sawa kabisa.
 
-Mtazamo huu wa vizuizi kwa ingizo huipa miamala ya Whirlpool ya CoinJoin kipengele cha kipekee: kutokuwepo kabisa kwa viunganishi vya kuamua kati ya ingizo na matokeo. Kwa maneno mengine, kila pato lina uwezekano sawa wa kuhusishwa na mshiriki yeyote, ikilinganishwa na matokeo mengine yote katika muamala.
+Mtazamo huu wa vizuizi kwa ingizo huipa miamala ya Whirlpool ya kuunga sarafu kipengele cha kipekee: kutokuwepo kabisa kwa viunganishi vya kuamua kati ya ingizo na matokeo. Kwa maneno mengine, kila pato lina uwezekano sawa wa kuhusishwa na mshiriki yeyote, ikilinganishwa na matokeo mengine yote katika muamala.
 
 ![BTC204](assets/fr/136.webp)
 
 ### Jinsi Whirlpool inavyofanya kazi
 
-Hapo awali, idadi ya washiriki katika kila Whirlpool CoinJoin ilipunguzwa hadi 5, na washiriki 2 wapya na vichanganyaji 3 (tutaelezea dhana hizi baadaye). Hata hivyo, ongezeko la ada za miamala za On-Chain zilizozingatiwa mwaka wa 2023 zilifanya timu za Samourai kufikiria upya muundo wao ili kuboresha usiri huku wakipunguza gharama. Kwa hivyo, kwa kuzingatia hali ya soko la ada na idadi ya washiriki, mratibu sasa anaweza kupanga sanjari pamoja na washiriki 6, 7 au 8. Vipindi hivi vilivyoboreshwa vinajulikana kama "Mizunguko ya Kuongezeka". Ni muhimu kutambua kwamba, chochote usanidi, daima kuna washiriki wapya 2 tu kwa Whirlpool sanjari.
+Hapo awali, idadi ya washiriki katika kila Whirlpool kuunga sarafu ilipunguzwa hadi 5, na washiriki 2 wapya na vichanganyaji 3 (tutaelezea dhana hizi baadaye). Hata hivyo, ongezeko la ada za miamala za On-Chain zilizozingatiwa mwaka wa 2023 zilifanya timu za Samourai kufikiria upya muundo wao ili kuboresha usiri huku wakipunguza gharama. Kwa hivyo, kwa kuzingatia hali ya soko la ada na idadi ya washiriki, mratibu sasa anaweza kupanga sanjari pamoja na washiriki 6, 7 au 8. Vipindi hivi vilivyoboreshwa vinajulikana kama "Mizunguko ya Kuongezeka". Ni muhimu kutambua kwamba, chochote usanidi, daima kuna washiriki wapya 2 tu kwa Whirlpool sanjari.
 
-Kwa hivyo, shughuli za Whirlpool zina sifa ya idadi sawa ya pembejeo na matokeo, ambayo inaweza kuwa:
+Kwa hivyo, shughuli za Whirlpool zina sifa ya idadi sawa ya pembejeo na matokeo, ambayo yanaweza kuwa:
 
 
 - pembejeo 5 na matokeo 5;
@@ -1942,29 +1942,29 @@ Kwa hivyo, shughuli za Whirlpool zina sifa ya idadi sawa ya pembejeo na matokeo,
 
 ![BTC204](assets/fr/140.webp)
 
-Mfano wa Whirlpool unatokana na shughuli ndogo za CoinJoin. Tofauti na Wabisabi na JoinMarket, ambapo uimara wa anonsets unategemea kiasi cha washiriki katika mzunguko mmoja (au kwenye mizunguko michache), Whirlpool inategemea mlolongo wa mizunguko kadhaa ndogo.
+Mfano wa Whirlpool unatokana na shughuli ndogo za kuunga sarafu. Tofauti na Wabisabi na JoinMarket, ambapo uimara wa anonsets unategemea kiasi cha washiriki katika mzunguko mmoja (au kwenye mizunguko michache), Whirlpool inategemea mlolongo wa mizunguko kadhaa ndogo.
 
-Katika muundo huu, watumiaji hulipa ada tu wanapojiunga kwa mara ya kwanza kwenye kidimbwi, hivyo kuwawezesha kushiriki katika wingi wa mchanganyiko bila gharama ya ziada. Washiriki wapya hulipa ada za Mining kwa viunganishi.
+Katika muundo huu, watumiaji hulipa ada tu wanapojiunga kwa mara ya kwanza kwenye kidimbwi, hivyo kuwawezesha kushiriki katika wingi wa mchanganyiko bila gharama ya ziada. Washiriki wapya hulipa ada za Uchimbaji kwa viunganishi.
 
-Kwa kila CoinJoin ya ziada ambayo kipande kinashiriki, pamoja na wenzao waliokutana nao hapo awali, anonsets itakua kwa kasi. Kusudi ni kuchukua faida ya michanganyiko hii isiyolipishwa, ambayo, kila wakati inapotokea, inachangia kuimarisha msongamano wa anonsets zinazohusiana na kila kipande kilichochanganywa.
+Kwa kila uungaji wa sarafu ya ziada ambayo kipande kinashiriki, pamoja na wenzao waliokutana nao hapo awali, anonsets itakua kwa kasi. Kusudi ni kuchukua faida ya michanganyiko hii isiyolipishwa, ambayo, kila wakati inapotokea, inachangia kuimarisha msongamano wa anonsets inayohusiana na kila kipande kilichochanganywa.
 
 ![BTC204](assets/fr/141.webp)
 
 Whirlpool imeundwa kwa kuzingatia mahitaji mawili muhimu:
 
 
-- Upatikanaji wa utekelezaji kwenye vifaa vya simu, kutokana na kwamba Samourai Wallet ni ya kwanza kabisa maombi ya smartphone;
+- Upatikanaji wa utekelezaji kwenye vifaa vya simu, kutokana na kwamba Pochi la Samourai ni la kwanza kabisa maombi ya smartphone;
 - Mizunguko ya uchanganyaji wa haraka ili kukuza ongezeko kubwa la anonsets.
 
-Masharti haya yaliongoza chaguo zilizofanywa na wasanidi wa Samourai Wallet katika kubuni Whirlpool, na kuwafanya kuwawekea washiriki idadi ndogo kwa kila mzunguko. Ni wachache sana ambao wangeathiri ufanisi wa CoinJoin, na hivyo kupunguza kwa kiasi kikubwa utatuzi unaozalishwa kwa kila mzunguko, ilhali nyingi sana zingesababisha matatizo ya usimamizi kwenye programu za simu na kutatiza mtiririko wa mzunguko.
+Masharti haya yaliongoza chaguo zilizofanywa na wasanidi wa Pochi Samourai katika kubuni Whirlpool, na kuwafanya kuwawekea washiriki idadi ndogo kwa kila mzunguko. Ni wachache sana ambao wangeathiri ufanisi wa kuunga sarafu, na hivyo kupunguza kwa kiasi kikubwa utatuzi unaozalishwa kwa kila mzunguko, ilhali nyingi sana zingesababisha matatizo ya usimamizi kwenye programu za simu na kutatiza mtiririko wa mzunguko.
 
-Hatimaye, hakuna haja ya kuwa na idadi kubwa ya washiriki kwa kila CoinJoin kwenye Whirlpool, kwani anonsets hufanywa kwa mkusanyiko wa mizunguko kadhaa ya CoinJoin. Kanuni muhimu zaidi hapa ni homogeneity ya UTXO ya washiriki wote, kwa kuwa hii inahakikisha kuchanganya kamili, na kwa hiyo kufaidika kamili kutoka kwa mzunguko wa kuchanganya na kuchanganya.
+Hatimaye, hakuna haja ya kuwa na idadi kubwa ya washiriki kwa kila kuunga sarafu kwenye Whirlpool, kwani anonsets hufanywa kwa mkusanyiko wa mizunguko kadhaa ya kuunga sarafu. Kanuni muhimu zaidi hapa ni homogeneity ya UTXO ya washiriki wote, kwa kuwa hii inahakikisha kuchanganya kamili, na kwa hiyo kufaidika kamili kutoka kwa mzunguko wa kuchanganya na kuchanganya.
 
-### Mabwawa ya CoinJoin na ada
+### Mabwawa ya kuunga sarafu na ada
 
 Kwa mizunguko hii mingi ili kuongeza anonsets za sehemu mchanganyiko, mfumo fulani unahitajika ili kuzuia kiasi cha UTXO zinazotumiwa. Whirlpool inafafanua mabwawa tofauti.
 
-Bwawa linawakilisha kundi la watumiaji wanaotaka kuchanganyika pamoja, ambao wanakubali kiasi cha UTXO zitakazotumika kuboresha mchakato wa CoinJoin huku wakidumisha usawa kamili wa sehemu. Kila bwawa hubainisha kiasi kisichobadilika cha UTXO, ambacho mtumiaji lazima azingatie ili kushiriki. Kwa hivyo, kufanya sanjari na Whirlpool, unahitaji kuchagua bwawa. Mabwawa yafuatayo yanapatikana kwa sasa:
+Bwawa linawakilisha kundi la watumiaji wanaotaka kuchanganyika pamoja, ambao wanakubali kiasi cha UTXO zitakazotumika kuboresha mchakato wa kuunga sarafu huku wakidumisha usawa kamili wa sehemu. Kila bwawa hubainisha kiasi kisichobadilika cha UTXO, ambacho mtumiaji lazima azingatie ili kushiriki. Kwa hivyo, kufanya sanjari na Whirlpool, unahitaji kuchagua bwawa. Mabwawa yafuatayo yanapatikana kwa sasa:
 
 
 - bitcoins 0.5;
@@ -1972,7 +1972,7 @@ Bwawa linawakilisha kundi la watumiaji wanaotaka kuchanganyika pamoja, ambao wan
 - 0.01 Bitcoin ;
 - 0.001 Bitcoin (= 100,000 Sats).
 
-Unapoingia kwenye bwawa na bitcoins zako, zitagawanywa hadi generate UTXO ambazo zinafanana kabisa na zile za washiriki wengine kwenye bwawa. Kila bwawa lina kikomo cha juu zaidi, kwa hivyo kwa kiasi kinachozidi kikomo hiki, itabidi uweke maingizo mawili tofauti kwenye bwawa moja, au uhamie kwenye dimbwi lingine lenye kiwango cha juu zaidi:
+Unapoingia kwenye bwawa na bitcoins zako, zitagawanywa hadi kuzalisha UTXO ambazo zinafanana kabisa na zile za washiriki wengine kwenye bwawa. Kila bwawa lina kikomo cha juu zaidi, kwa hivyo kwa kiasi kinachozidi kikomo hiki, itabidi uweke maingizo mawili tofauti kwenye bwawa moja, au uhamie kwenye dimbwi lingine lenye kiwango cha juu zaidi:
 
 | Dimbwi (Bitcoin) | Kiasi cha juu kwa kila ingizo (Bitcoin) |
 
@@ -1986,9 +1986,9 @@ Unapoingia kwenye bwawa na bitcoins zako, zitagawanywa hadi generate UTXO ambazo
 
 | 0,001 | 0,025 |
 
-UTXO inachukuliwa kuwa ya bwawa wakati iko tayari kuunganishwa kwenye CoinJoin. Walakini, hii haimaanishi kuwa mtumiaji atapoteza umiliki wake. Kama tulivyoona katika sura za kwanza za sehemu hii, kupitia mizunguko mbalimbali ya kuchanganya, unahifadhi udhibiti kamili wa funguo zako na, kwa hiyo, wa bitcoins zako. Hii ndiyo inatofautisha mbinu ya CoinJoin kutoka kwa mbinu nyingine za kuchanganya kati.
+UTXO inachukuliwa kuwa ya bwawa wakati iko tayari kuunganishwa kwenye kuunga sarafu. Walakini, hii haimaanishi kuwa mtumiaji atapoteza umiliki wake. Kama tulivyoona katika sura za kwanza za sehemu hii, kupitia mizunguko mbalimbali ya kuchanganya, unahifadhi udhibiti kamili wa funguo zako na, kwa hiyo, wa bitcoins zako. Hii ndiyo inatofautisha mbinu ya kuunga sarafu kutoka kwa mbinu zingine za kuchanganya kati.
 
-Ili kujiunga na bwawa la CoinJoin, unahitaji kulipa ada ya huduma na ada ya Mining. Ada za huduma zimepangwa kwa kila bwawa na zinalenga kulipa timu zinazohusika na ukuzaji na matengenezo ya Whirlpool.
+Ili kujiunga na bwawa la kuunga sarafu, unahitaji kulipa ada ya huduma na ada ya Mining. Ada za huduma zimepangwa kwa kila bwawa na zinalenga kulipa timu zinazohusika na ukuzaji na matengenezo ya Whirlpool.
 
 Ada ya huduma kwa matumizi ya Whirlpool inalipwa mara moja tu unapojiunga na bwawa. Mara tu unapojiunga, unaweza kushiriki katika idadi isiyo na kikomo ya mchanganyiko bila malipo ya ziada. Hapa kuna ada za sasa za kudumu kwa kila bwawa:
 
@@ -2004,7 +2004,7 @@ Ada ya huduma kwa matumizi ya Whirlpool inalipwa mara moja tu unapojiunga na bwa
 
 | 0.001 | 0.00005 (5,000 Sats) |
 
-Ada hizi kimsingi hufanya kazi kama tikiti ya kuingia kwenye bwawa ulilochagua, bila kujali kiasi ulichoweka kwenye CoinJoin. Kwa hivyo, ikiwa utaingia kwenye dimbwi la 0.01 na 0.01 BTC haswa au 0.5 BTC, ada zitabaki sawa kwa masharti kabisa.
+Ada hizi kimsingi hufanya kazi kama tikiti ya kuingia kwenye bwawa ulilochagua, bila kujali kiasi ulichoweka kwenye kuunga sarafu. Kwa hivyo, ikiwa utaingia kwenye dimbwi la 0.01 na 0.01 BTC haswa au 0.5 BTC, ada zitabaki sawa kwa masharti kabisa.
 
 Kabla ya kuendelea na viunganishi vya Whirlpool, mtumiaji anaweza kuchagua kati ya mikakati 2:
 
@@ -2012,25 +2012,25 @@ Kabla ya kuendelea na viunganishi vya Whirlpool, mtumiaji anaweza kuchagua kati 
 - Chagua bwawa ndogo ili kupunguza gharama za huduma, ukijua kwamba atapata UTXO kadhaa ndogo kama malipo;
 - Au uchague bwawa kubwa zaidi, tayari kulipa ada ya juu, ili tu kuishia na idadi ndogo ya UTXO za thamani ya juu.
 
-Kwa ujumla haipendekezi kuunganisha UTXO kadhaa zilizochanganywa baada ya mizunguko ya CoinJoin, kwa kuwa hii inaweza kuhatarisha usiri uliopatikana, hasa kutokana na ingizo la kawaida la Ownership heuristic (CIOH: *Common-Input-Ownership-Heuristic*). Kwa hivyo, inaweza kuwa na maana kuchagua bwawa kubwa zaidi, hata kama hii inamaanisha kulipa zaidi, ili kuepuka kuwa na UTXO nyingi za thamani ndogo katika pato. Mtumiaji lazima atathmini biashara hizi ili kuchagua dimbwi analopendelea.
+Kwa ujumla haipendekezi kuunganisha UTXO kadhaa zilizochanganywa baada ya mizunguko ya kuunga sarafu, kwa kuwa hii inaweza kuhatarisha usiri uliopatikana, hasa kutokana na ingizo la kawaida la Ownership heuristic (CIOH: *Common-Input-Ownership-Heuristic*). Kwa hivyo, inaweza kuwa na maana kuchagua bwawa kubwa zaidi, hata kama hii inamaanisha kulipa zaidi, ili kuepuka kuwa na UTXO nyingi za thamani ndogo katika pato. Mtumiaji lazima atathmini biashara hizi ili kuchagua dimbwi analopendelea.
 
-Kando na ada ya huduma, ada ya Mining mahususi kwa shughuli yoyote ya Bitcoin lazima pia izingatiwe. Kama mtumiaji wa Whirlpool, utahitajika kulipa ada ya Mining kwa shughuli ya utayarishaji (`Tx0`) na pia kwa CoinJoin ya kwanza. Remix zote zinazofuata zitakuwa bila malipo, shukrani kwa muundo wa Whirlpool kulingana na kuwalipa washiriki wapya.
+Kando na ada ya huduma, ada ya Uchimbaji mahususi kwa shughuli yoyote ya Bitcoin lazima pia izingatiwe. Kama mtumiaji wa Whirlpool, utahitajika kulipa ada ya Uchimbaji kwa shughuli ya utayarishaji (`Tx0`) na pia kwa kuunga sarafu ya kwanza. Remix zote zinazofuata zitakuwa bila malipo, shukrani kwa muundo wa Whirlpool kulingana na kuwalipa washiriki wapya.
 
-Kwa kweli, katika kila Whirlpool CoinJoin, watumiaji 2 kati ya pembejeo ni washiriki wapya. Ingizo zingine hutoka kwa viunganishi. Kwa hivyo, gharama za Mining kwa washiriki wote katika muamala hugharamiwa na washiriki hawa 2 wapya, ambao wanaweza pia kufaidika na michanganyiko isiyolipishwa:
+Kwa kweli, katika kila Whirlpool kuunga sarafu, watumiaji 2 kati ya pembejeo ni washiriki wapya. Ingizo zingine hutoka kwa viunganishi. Kwa hivyo, gharama za Mining kwa washiriki wote katika muamala hugharamiwa na washiriki hawa 2 wapya, ambao wanaweza pia kufaidika na michanganyiko isiyolipishwa:
 
 ![BTC204](assets/fr/142.webp)
 
-Shukrani kwa mfumo huu wa ada, Whirlpool inatofautiana sana na utekelezwaji mwingine wa CoinJoin, kwa kuwa utatuzi wa mfumo wa UTXOs hauwi sawia na bei inayolipwa na mtumiaji. Kwa hivyo, inawezekana kufikia viwango vya juu zaidi vya kutokujulikana kwa kulipa tu ada ya kuingia kwenye bwawa na ada ya Mining kwa miamala 2 (`Tx0` na mchanganyiko wa awali).
+Shukrani kwa mfumo huu wa ada, Whirlpool inatofautiana sana na utekelezwaji mwingine wa kuunga sarafu, kwa kuwa utatuzi wa mfumo wa UTXOs hauwi sawia na bei inayolipwa na mtumiaji. Kwa hivyo, inawezekana kufikia viwango vya juu zaidi vya kutokujulikana kwa kulipa tu ada ya kuingia kwenye bwawa na ada ya Uchimbaji kwa miamala 2 (`Tx0` na mchanganyiko wa awali).
 
-Ni muhimu kutambua kwamba mtumiaji pia atalazimika kulipa ada za Mining ili kuondoa UTXO zake kwenye bwawa baada ya kukamilisha miunganisho yake mingi, isipokuwa awe amechagua chaguo la `changanya kwa`, ambalo linatoa Address ya nje ambayo itapokea fedha moja kwa moja kutoka kwa CoinJoin, bila muamala wowote wa ziada.
+Ni muhimu kutambua kwamba mtumiaji pia atalazimika kulipa ada za Uchimbaji ili kuondoa UTXO zake kwenye bwawa baada ya kukamilisha miunganisho yake mingi, isipokuwa awe amechagua chaguo la `changanya kwa`, ambalo linatoa Anwani ya nje ambayo itapokea fedha moja kwa moja kutoka kwa kuunga sarafu, bila muamala wowote wa ziada.
 
 ### Akaunti za kwingineko za HD
 
-Ili kuunda CoinJoin kupitia Whirlpool, Wallet lazima generate akaunti kadhaa tofauti. Hii ndiyo kanuni nyuma ya itifaki ya ZeroLink. Akaunti, katika muktadha wa jalada la HD (*Hierarchical Deterministic*), inajumuisha sehemu iliyotengwa kabisa na nyinginezo, utengano huu unatokea katika kiwango cha kina cha tatu cha daraja la kwingineko, yaani katika kiwango cha `xpub`.
+Ili kuunda kuunga sarafu kupitia Whirlpool, Wallet lazima kuzalisha akaunti kadhaa tofauti. Hii ndiyo kanuni nyuma ya itifaki ya ZeroLink. Akaunti, katika muktadha wa jalada la HD (*Hierarchical Deterministic*), inajumuisha sehemu iliyotengwa kabisa na nyinginezo, utengano huu unatokea katika kiwango cha kina cha tatu cha daraja la kwingineko, yaani katika kiwango cha `xpub`.
 
 ![BTC204](assets/fr/143.webp)
 
-HD Wallet inaweza kinadharia kupata hadi akaunti tofauti za `2^(32/2)`. Akaunti ya awali, inayotumiwa na chaguo-msingi kwenye pochi zote za Bitcoin, inalingana na faharasa ya `0'`.
+Pochi la HD linaweza kinadharia kupata hadi akaunti tofauti za `2^(32/2)`. Akaunti ya awali, inayotumiwa na chaguo-msingi kwenye pochi zote za Bitcoin, inalingana na faharasa ya `0'`.
 
 Kwa portfolios zilizorekebishwa kwa Whirlpool, akaunti 4 hutumiwa kukidhi mahitaji ya mchakato wa ZeroLink:
 
@@ -2040,19 +2040,19 @@ Kwa portfolios zilizorekebishwa kwa Whirlpool, akaunti 4 hutumiwa kukidhi mahita
 - Akaunti ya **premix**, iliyotambuliwa na fahirisi `2 147 483 645'` ;
 - Akaunti ya **mchanganyiko wa posta**, iliyotambuliwa na faharasa `2 147 483 646'`.
 
-Kila moja ya akaunti hizi hutimiza kazi fulani katika mchakato wa CoinJoin, ambayo tutachunguza katika sehemu zifuatazo.
+Kila moja ya akaunti hizi hutimiza kazi fulani katika mchakato wa kuunga sarafu, ambayo tutachunguza katika sehemu zifuatazo.
 
-Akaunti hizi zote zimeunganishwa na seed moja, kuwezesha mtumiaji kurejesha ufikiaji wa bitcoins zake zote kwa kutumia maneno yake ya kurejesha na, inapohitajika, passphrase yake. Wakati wa urejeshaji, hata hivyo, programu lazima ijulishwe kuhusu faharasa mbalimbali za akaunti zinazotumiwa.
+Akaunti hizi zote zimeunganishwa na mbegu moja, kuwezesha mtumiaji kurejesha ufikiaji wa bitcoins zake zote kwa kutumia maneno yake ya kurejesha na, inapohitajika, passphrase yake. Wakati wa urejeshaji, hata hivyo, programu lazima ijulishwe kuhusu faharasa mbalimbali za akaunti zinazotumiwa.
 
-Hebu tuangalie hatua tofauti za Whirlpool CoinJoin ndani ya akaunti hizi.
+Hebu tuangalie hatua tofauti za Whirlpool kuunga sarafu ndani ya akaunti hizi.
 
 ### Sehemu ya TX0
 
-Sehemu ya kuanzia ya Whirlpool CoinJoin yoyote ni **amana** akaunti. Hii ndiyo akaunti unayotumia kiotomatiki unapounda Bitcoin Wallet mpya. Akaunti hii itahitaji kuhusishwa na bitcoins unazotaka kuchanganya.
+Sehemu ya kuanzia ya Whirlpool kuunga sarafu yoyote ni **amana** akaunti. Hii ndiyo akaunti unayotumia kiotomatiki unapounda Pochi la Bitcoin mpya. Akaunti hii itahitaji kuhusishwa na bitcoins unazotaka kuchanganya.
 
-Tx0" ni hatua ya kwanza katika mchakato wa kuchanganya wa Whirlpool. Madhumuni yake ni kuandaa na kusawazisha UTXO za CoinJoin, kuzigawanya katika vitengo vinavyolingana na kiasi cha bwawa lililochaguliwa, ili kuhakikisha mchanganyiko wa homogeneous. UTXO hivyo kusawazishwa hutumwa kwenye akaunti **premix**. Kuhusu tofauti, akaunti ya **ba haiwezi kutengwa kwa tofauti: benki** (au "doxxic change").
+Tx0" ni hatua ya kwanza katika mchakato wa kuchanganya wa Whirlpool. Madhumuni yake ni kuandaa na kusawazisha UTXO za kuunga sarafu, kuzigawanya katika vitengo vinavyolingana na kiasi cha bwawa lililochaguliwa, ili kuhakikisha mchanganyiko wa homogeneous. UTXO hivyo kusawazishwa hutumwa kwenye akaunti **premix**. Kuhusu tofauti, akaunti ya **ba haiwezi kutengwa kwa tofauti: benki** (au "doxxic change").
 
-Muamala huu wa awali wa `Tx0` pia hutumika kulipa ada ya huduma kutokana na mratibu wa CoinJoin. Tofauti na hatua zifuatazo, muamala huu si shirikishi, kwa hivyo ni lazima mtumiaji kubeba gharama kamili ya Mining:
+Muamala huu wa awali wa `Tx0` pia hutumika kulipa ada ya huduma kutokana na mratibu wa Kuunga sarafu. Tofauti na hatua zifuatazo, muamala huu si shirikishi, kwa hivyo ni lazima mtumiaji kubeba gharama kamili ya Uchimbaji:
 
 ![BTC204](assets/fr/144.webp)
 
@@ -2060,9 +2060,9 @@ Katika mfano huu wa shughuli ya `Tx0`, ingizo la `372,000 Sats` kutoka kwa **dep
 
 
 - Kiasi cha `5,000 Sats` kwa mratibu kwa ada za huduma, zinazolingana na kiingilio cha jumla cha `100,000 Sats`;
-- UTXO 3 zilizotayarishwa kwa kuchanganywa, zimeelekezwa kwenye akaunti yetu ya **premix** na kusajiliwa na mratibu. UTXO hizi zinasawazishwa kwa `108,000 Sats` kila moja, ili kulipia gharama za Mining kwa mchanganyiko wao wa awali wa siku zijazo;
-- Ziada, ambayo haiwezi kuingia kwenye bwawa kwa sababu ni ndogo sana, inachukuliwa kuwa Exchange ya kigeni yenye sumu. Inatumwa kwa akaunti yake maalum. Hapa, hii Exchange ni sawa na `40,000 Sats` ;
-- Hatimaye, zimesalia `3,000 Sats`, ambazo hazijumuishi pato, lakini ni gharama za Mining zinazohitajika ili kuthibitisha `Tx0`.
+- UTXO 3 zilizotayarishwa kwa kuchanganywa, zimeelekezwa kwenye akaunti yetu ya **premix** na kusajiliwa na mratibu. UTXO hizi zinasawazishwa kwa `108,000 Sats` kila moja, ili kulipia gharama za Uchimbaji kwa mchanganyiko wao wa awali wa siku zijazo;
+- Ziada, ambayo haiwezi kuingia kwenye bwawa kwa sababu ni ndogo sana, inachukuliwa kuwa Ubadilishanaji wa kigeni wenye sumu. Inatumwa kwa akaunti yake maalum. Hapa, huu Ubadilishanaji ni sawa na `40,000 Sats` ;
+- Hatimaye, zimesalia `3,000 Sats`, ambazo hazijumuishi pato, lakini ni gharama za Uchimbaji zinazohitajika ili kuthibitisha `Tx0`.
 
 Kwa mfano, hapa kuna Whirlpool Tx0 halisi (sio yangu): [edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46](https://GW-8 16.space/fr/tx/edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46)
 
@@ -2072,17 +2072,17 @@ Kwa mfano, hapa kuna Whirlpool Tx0 halisi (sio yangu): [edef60744f539483d868caff
 
 Ziada ambayo haikuweza kuunganishwa kwenye bwawa, hapa sawa na `40,000 Sats`, inaelekezwa kwenye **akaunti mbaya ya benki**, inayojulikana pia kama "doxxic Exchange", ili kuhakikisha utengano mkali kutoka kwa UTXO zingine kwenye jalada.
 
-UTXO hii ni hatari kwa usiri wa mtumiaji, kwa sababu sio tu kwamba bado imeshikamana na siku zake za nyuma, na kwa hiyo inawezekana kwa utambulisho wa mmiliki wake, lakini pia inajulikana kuwa ya mtumiaji ambaye ametengeneza CoinJoin.
+UTXO hii ni hatari kwa usiri wa mtumiaji, kwa sababu sio tu kwamba bado imeshikamana na siku zake za nyuma, na kwa hiyo inawezekana kwa utambulisho wa mmiliki wake, lakini pia inajulikana kuwa ya mtumiaji ambaye ametengeneza kuunga sarafu.
 
 ![BTC204](assets/fr/146.webp)
 
-Ikiwa UTXO hii itaunganishwa na matokeo mchanganyiko, ya pili itapoteza usiri wote uliopatikana wakati wa mizunguko ya CoinJoin, hasa kutokana na CIOH (*Common-Input-Ownership-Heuristic*). Ikiwa itaunganishwa na mabadiliko mengine ya doxxic, mtumiaji ana hatari ya kupoteza usiri, kwani itaunganisha maingizo mbalimbali ya mzunguko wa CoinJoin. Kwa hiyo inapaswa kutibiwa kwa tahadhari. Tutaingia kwa undani zaidi juu ya usimamizi wa UTXO hizi doxxic katika sehemu ya mwisho ya sura hii.
+Ikiwa UTXO hii itaunganishwa na matokeo mchanganyiko, wa pili utapoteza usiri wote uliopatikana wakati wa mizunguko ya kuunga sarafu, hasa kutokana na CIOH (*Common-Input-Ownership-Heuristic*). Ikiwa itaunganishwa na mabadiliko mengine ya doxxic, mtumiaji ana hatari ya kupoteza usiri, kwani itaunganisha maingizo mbalimbali ya mzunguko wa kuunga sarafu. Kwa hiyo inapaswa kutibiwa kwa tahadhari. Tutaingia kwa undani zaidi juu ya usimamizi wa UTXO hizi doxxic katika sehemu ya mwisho ya sura hii.
 
 ### Mchanganyiko wa awali
 
-Baada ya `Tx0`, UTXO zilizosawazishwa hutumwa kwenye akaunti yetu ya **premix** ya kwingineko, tayari kuanzishwa katika mzunguko wao wa kwanza wa CoinJoin, unaojulikana pia kama "mchanganyiko wa awali". Ikiwa, kama katika mfano wetu, `Tx0` inazalisha UTXO kadhaa za kuchanganya, kila moja itaunganishwa katika mchanganyiko tofauti wa awali.
+Baada ya `Tx0`, UTXO zilizosawazishwa hutumwa kwenye akaunti yetu ya **premix** ya kwingineko, tayari kuanzishwa katika mzunguko wao wa kwanza wa kuunga sarafu, unaojulikana pia kama "mchanganyiko wa awali". Ikiwa, kama katika mfano wetu, `Tx0` inazalisha UTXO kadhaa za kuchanganya, kila moja itaunganishwa katika mchanganyiko tofauti wa awali.
 
-Mwishoni mwa michanganyiko hii ya kwanza, akaunti ya **premix** itakuwa tupu, huku sarafu zetu, zikiwa zimelipa ada za Mining kwa CoinJoin hii ya kwanza, zitarekebishwa haswa kwa kiasi kinachofafanuliwa na bwawa lililochaguliwa. Katika mfano wetu, UTXO zetu za awali za `108,000 Sats` zitakuwa zimepunguzwa hadi `100,000 Sats` haswa.
+Mwishoni mwa michanganyiko hii ya kwanza, akaunti ya **premix** itakuwa tupu, huku sarafu zetu, zikiwa zimelipa ada za Uchimbaji kwa Kuunga sarafu hii ya kwanza, zitarekebishwa haswa kwa kiasi kinachofafanuliwa na bwawa lililochaguliwa. Katika mfano wetu, UTXO zetu za awali za `108,000 Sats` zitakuwa zimepunguzwa hadi `100,000 Sats` haswa.
 
 ![BTC204](assets/fr/147.webp)
 
@@ -2090,13 +2090,13 @@ Mwishoni mwa michanganyiko hii ya kwanza, akaunti ya **premix** itakuwa tupu, hu
 
 Baada ya mchanganyiko wa awali, UTXO huhamishiwa kwenye akaunti ya **mchanganyiko wa posta**. Akaunti hii hukusanya UTXO ambazo tayari zimechanganywa na zinazosubiri kuchanganywa tena. Mteja wa Whirlpool anapokuwa amilifu, UTXO zilizo katika akaunti **postmix** zinapatikana kiotomatiki kwa michanganyiko na zitachaguliwa bila mpangilio kushiriki katika mizunguko hii mipya.
 
-Kama ukumbusho, mchanganyiko hautakuwa 100% bila malipo: hakuna gharama za ziada za huduma au ada za Mining zinazohitajika. Kwa hivyo, kuweka UTXO katika akaunti ya **mchanganyiko wa posta** hudumisha thamani yake, na kuboresha utatuzi wao kwa wakati mmoja. Ndiyo maana ni muhimu kuruhusu sarafu hizi kushiriki katika mizunguko kadhaa ya CoinJoin. Haikugharimu chochote, na huongeza viwango vyao vya kutokujulikana.
+Kama ukumbusho, mchanganyiko hautakuwa 100% bila malipo: hakuna gharama za ziada za huduma au ada za Mining zinazohitajika. Kwa hivyo, kuweka UTXO katika akaunti ya **mchanganyiko wa posta** hudumisha thamani yake, na kuboresha utatuzi wao kwa wakati mmoja. Ndiyo maana ni muhimu kuruhusu sarafu hizi kushiriki katika mizunguko kadhaa ya Kuunga sarafu. Haikugharimu chochote, na huongeza viwango vyao vya kutokujulikana.
 
 Unapoamua kutumia UTXO zilizochanganywa, unaweza kufanya hivyo moja kwa moja kutoka kwenye akaunti hii **mchanganyiko wa posta**. Tunakushauri uweke UTXO zilizochanganywa katika akaunti hii ili kufaidika na michanganyiko isiyolipishwa na kuzizuia zisiondoke kwenye saketi ya Whirlpool, ambayo inaweza kupunguza usiri wao.
 
 ### Je, unadhibiti vipi michanganyiko yako ya posta?
 
-Baada ya kuendesha mizunguko ya CoinJoin, mkakati bora ni kuweka UTXO zako katika akaunti ya **mchanganyiko wa posta**, ukingoja matumizi ya baadaye. Inashauriwa hata kuziruhusu zichanganywe tena kwa muda usiojulikana hadi utakapohitaji kuzitumia.
+Baada ya kuendesha mizunguko ya kuunga sarafu, mkakati bora ni kuweka UTXO zako katika akaunti ya **mchanganyiko wa posta**, ukingoja matumizi ya baadaye. Inashauriwa hata kuziruhusu zichanganywe tena kwa muda usiojulikana hadi utakapohitaji kuzitumia.
 
 Watumiaji wengine wanaweza kufikiria kuhamisha bitcoins zao zilizochanganywa hadi Wallet iliyolindwa na Hardware Wallet. Hili linawezekana, lakini ni muhimu kufuata mapendekezo ya Samourai Wallet kwa uangalifu ili usihatarishe usiri uliopatikana.
 
