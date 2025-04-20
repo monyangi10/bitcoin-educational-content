@@ -1550,7 +1550,7 @@ Kwa mazoezi, hii ina maana kwamba mwangalizi wa nje anaweza kubaini kwamba UTXO 
 
 ![BTC204](assets/fr/098.webp)
 
-Kwa kufanya hivyo, huluki yoyote iliyo na ufikiaji wa data ya jukwaa la Exchange, ambayo inaweza kujumuisha mashirika ya serikali, itaweza kutambua kuwa ninamiliki viwango vingine vya BTC. Hapo awali, UTXO hizi hazikuhusishwa moja kwa moja na utambulisho wangu; sasa wako. Zaidi ya hayo, inafunua kwa vyanzo vyote kwamba ninamiliki kiasi fulani cha bitcoins.
+Kwa kufanya hivyo, huluki yoyote iliyo na ufikiaji wa data ya jukwaa la ubadilishanaji, ambayo inaweza kujumuisha mashirika ya serikali, itaweza kutambua kuwa ninamiliki viwango vingine vya BTC. Hapo awali, UTXO hizi hazikuhusishwa moja kwa moja na utambulisho wangu; sasa wako. Zaidi ya hayo, inafunua kwa vyanzo vyote kwamba ninamiliki kiasi fulani cha bitcoins.
 
 Linapokuja suala la kusimamia UTXOs, mazingatio ya kiuchumi, ambayo yanasukuma uimarishaji ili kupunguza gharama, huja kwenye mgongano na mazoezi mazuri ya faragha, ambayo yangependekeza kamwe kuunganisha UTXO. Chaguo kati ya uchumi na usiri kwa hivyo inategemea vipaumbele vya kila mtumiaji.
 
@@ -1577,25 +1577,25 @@ Kumiliki bitcoins zako kwa kujilinda ni nzuri, lakini kutumia nodi yako kamili n
 - Mchango wa mtandao**: Kwa kuendesha nodi, unasaidia kuimarisha na kusambaza mtandao wa Bitcoin;
 - Elimu ya kiufundi**: Kusimamia nodi kamili ni njia nzuri ya kuongeza ujuzi wako wa kiufundi wa Bitcoin.
 
-Mbali na manufaa haya, kutumia nodi kamili pia huboresha usiri wako wakati wa kutangaza shughuli zako. Unapotoa muamala, hutengenezwa kwanza na kusainiwa kupitia Wallet yako. Ili kuitangaza kwenye mtandao wa Bitcoin, lazima ijulikane kwa angalau nodi moja. Kwa kutumia nodi yako mwenyewe, una udhibiti wa moja kwa moja juu ya usambazaji huu, na hivyo kuimarisha usiri wako na kupunguza hatari ya kuvuja kwa data.
+Mbali na manufaa haya, kutumia nodi kamili pia huboresha usiri wako wakati wa kutangaza shughuli zako. Unapotoa muamala, hutengenezwa kwanza na kutiwa sahihi kupitia Pochi lako. Ili kulitangaza kwenye mtandao wa Bitcoin, lazima ijulikane kwa angalau nodi moja. Kwa kutumia nodi yako mwenyewe, una udhibiti wa moja kwa moja juu ya usambazaji huu, na hivyo kuimarisha usiri wako na kupunguza hatari ya kuvuja kwa data.
 
 ![BTC204](assets/fr/099.webp)
 
-Iwapo huna nodi yako ya Bitcoin, utalazimika kutumia ya mtu mwingine, kama ile inayotolewa na mtoa programu wako wa Wallet. Kando na miamala ya utangazaji, Wallet yako inahitaji ufikiaji wa taarifa mbalimbali kama vile miamala ambayo haijashughulikiwa, masalio yanayohusiana na anwani zako na idadi ya uthibitishaji wa miamala yako. Ili kufikia data hii yote, unahitaji kuuliza nodi.
+Iwapo huna nodi yako ya Bitcoin, utalazimika kutumia ya mtu mwingine, kama ile inayotolewa na mtoa programu wako wa Pochi. Kando na miamala ya utangazaji, Pochi lako linahitaji ufikiaji wa taarifa mbalimbali kama vile miamala ambayo haijashughulikiwa, masalio yanayohusiana na anwani zako na idadi ya uthibitishaji wa miamala yako. Ili kufikia data hii yote, unahitaji kuuliza nodi.
 
 ![BTC204](assets/fr/100.webp)
 
-Hatari kuu wakati hutumii nodi yako ya Bitcoin ni kwamba mwendeshaji wa nodi ya wahusika wengine anaweza kutazama shughuli zako kwenye Blockchain, au hata kushiriki maelezo haya na huluki nyingine. Ili kupunguza hatari hii, suluhu ya kati ni kutumia programu ya Wallet ambayo hufunika miunganisho yako kupitia Tor. Hii inaweza kupunguza udhihirisho wa data yako. Walakini, suluhisho bora ni kuwa na nodi yako ya Bitcoin na uitumie kutangaza shughuli zako. Bila shaka, utahitaji pia kuwa mwangalifu ili usivujishe habari yoyote kupitia nodi yako, lakini hilo ni somo lingine ambalo tutaangalia katika sehemu za baadaye.
+Hatari kuu wakati hutumii nodi yako ya Bitcoin ni kwamba mwendeshaji wa nodi ya wahusika wengine anaweza kutazama shughuli zako kwenye Blockchain, au hata kushiriki maelezo haya na huluki nyingine. Ili kupunguza hatari hii, suluhu ya kati ni kutumia programu ya Pochi ambalo hufunika miunganisho yako kupitia Tor. Hii inaweza kupunguza udhihirisho wa data yako. Walakini, suluhisho bora ni kuwa na nodi yako ya Bitcoin na uitumie kutangaza shughuli zako. Bila shaka, utahitaji pia kuwa mwangalifu ili usivujishe habari yoyote kupitia nodi yako, lakini hilo ni somo lingine ambalo tutaangalia katika sehemu za baadaye.
 
 Zaidi ya manufaa dhahiri ya faragha yako, kuwa na nodi yako kamili pia hukuhakikishia ukweli wa data kwenye Blockchain, hukulinda dhidi ya udhibiti na hukuruhusu kushiriki kikamilifu katika utawala wa Bitcoin. Kwa kutumia nodi yako mwenyewe, unachangia uzito wako wa kiuchumi kwa mlolongo wa chaguo lako, ambalo ni muhimu wakati wa migogoro ndani ya jumuiya, kama vile wakati wa Vita vya Blocksize kuanzia 2015 hadi 2017 kwa mfano. Katika tukio la Fork, kutumia nodi ya mtu wa tatu kunaweza kukuongoza kuunga mkono mnyororo ambao hutaki kupendelea, kwani opereta wa nodi anakufanyia chaguo.
 
 Kama unavyoona, kwa maslahi ya usiri na uhuru wa mtu binafsi, ni muhimu kuendesha na kutumia nodi yako kamili!
 
-### Heuristics ya uchambuzi wa kudanganya
+### Urithi wa uchambuzi wa kudanganya
 
-Kwa upana zaidi, ni muhimu kuelewa heuristics tuliyozungumzia katika sehemu iliyotangulia, ili kuziepuka au kuzidanganya vyema. Kupitisha mfululizo wa mbinu bora kunaweza kuwa na manufaa, hata kama si muhimu. Wanatoa Layer ya ziada ya ulinzi ambayo inaweza kuwa muhimu katika kudumisha usiri unapotumia Bitcoin.
+Kwa upana zaidi, ni muhimu kuelewa urithi tuliozungumzia katika sehemu iliyotangulia, ili kuziepuka au kuzidanganya vyema. Kupitisha mfululizo wa mbinu bora kunaweza kuwa na manufaa, hata kama si muhimu. Wanatoa Safu ya ziada ya ulinzi ambayo inaweza kuwa muhimu katika kudumisha usiri unapotumia Bitcoin.
 
-Ushauri wa kwanza ningeweza kutoa ni kujumuika na umati mnene zaidi. Kwenye Bitcoin, hii inamaanisha kutumia violezo vya hati vilivyopitishwa zaidi. Kwa mfano, maandishi ya P2WSH, mara nyingi hutumiwa kwa usanidi wa SegWit V0 Multisig, sio kawaida sana. Hawakuruhusu kujificha katika seti kubwa ya kutokujulikana. Vile vile huenda kwa mifano ya zamani kama vile P2PKH au P2SH. Ingawa zipo kwa wingi katika seti ya UTXO, zinatumika kidogo na kidogo kwa shughuli mpya.
+Ushauri wa kwanza ningeweza kutoa ni kujumuika na umati mnene zaidi. Kwenye Bitcoin, hii inamaanisha kutumia violezo vya hati vilivyopitishwa zaidi. Kwa mfano, maandishi ya P2WSH, mara nyingi hutumiwa kwa usanidi wa SegWit V0 Sahihi nyingi, sio kawaida sana. Hawakuruhusu kujificha katika seti kubwa ya kutokujulikana. Vile vile huenda kwa mifano ya zamani kama vile P2PKH au P2SH. Ingawa zipo kwa wingi katika seti ya UTXO, zinatumika kidogo na kidogo kwa shughuli mpya.
 
 Kwa ujumla, ni busara kuchagua kiwango cha hivi karibuni cha uandishi, mradi kimekubaliwa vya kutosha. Kwa hivyo, ikiwa mnamo 2022, ningeshauri dhidi ya kutumia P2TR (Taproot) kwa sababu ya kupitishwa kwake chini, mnamo 2024, ningependekeza kuchagua aina hii ya hati badala yake, au ikishindikana, kwa hati ya SegWit V0, kwani idadi ya miamala inayotumia P2TR inaanza kuwakilisha sehemu muhimu sana.
 
@@ -1603,45 +1603,45 @@ Kwa ujumla, ni busara kuchagua kiwango cha hivi karibuni cha uandishi, mradi kim
 
 Chanzo : [txstats.com](https://txstats.com/d/000000054/UTXO-set-repartition-by-output-type)
 
-Kidokezo kingine cha kuhifadhi usiri wako ni kujaribu kukwepa utabiri wa muamala wa ndani. Kwa mfano, unapofanya malipo, unaweza kujaribu kuepuka kuunda pato kwa kiasi cha pande zote, kwa kuwa hii inaweza kuashiria kwamba pato lingine linawakilisha Exchange ya kigeni. Iwapo unahitaji kutuma 100 k Sats kwa rafiki, fikiria kuhamisha kiasi cha juu kidogo ili kuepuka heuristic hii. Vile vile, jaribu kutounda matokeo ya kigeni ya Exchange ambayo ni ya juu bila uwiano kuhusiana na malipo yaliyofanywa, kwa kuwa hii inaweza pia kufichua ni matokeo gani kati ya hayo yanawakilisha Exchange ya kigeni.
+Kidokezo kingine cha kuhifadhi usiri wako ni kujaribu kukwepa utabiri wa muamala wa ndani. Kwa mfano, unapofanya malipo, unaweza kujaribu kuepuka kuunda pato kwa kiasi cha pande zote, kwa kuwa hii inaweza kuashiria kwamba pato lingine linawakilisha Ubadilishanaji wa kigeni. Iwapo unahitaji kutuma 100 k Sats kwa rafiki, fikiria kuhamisha kiasi cha juu kidogo ili kuepuka urithi huu. Vile vile, jaribu kutounda matokeo ya kigeni ya Ubadilishanaji ambao ni wa juu bila uwiano kuhusiana na malipo yaliyofanywa, kwa kuwa hii inaweza pia kufichua ni matokeo gani kati ya hayo yanawakilisha Ubadilishanaji wa kigeni.
 
 ![BTC204](assets/fr/102.webp)
 
-Hatimaye, ikiwa utafanya miamala ya Bitcoin mara kwa mara, hakikisha hutazitangaza kila wakati kwa wakati mmoja. Kwa kueneza utangazaji wa miamala yako siku nzima na wiki, unaepuka kuwapa watazamaji wa nje fursa ya kugundua muundo wa muda unaotegemea saa za eneo ambao unaweza kuimarisha uchanganuzi wao.
+Hatimaye, ikiwa utafanya miamala ya Bitcoin mara kwa mara, hakikisha hutazitangaza kila wakati kwa wakati mmoja. Kwa kueneza utangazaji wa miamala yako siku nzima na wiki, unaepuka kuwapa watazamaji wa nje fursa ya kugundua muundo wa muda unaotegemea saa za eneo ambalo unaweza kuimarisha uchanganuzi wao.
 
-Mbali na mazoea haya yote mazuri ya kupitishwa kila siku, kuna njia bora zaidi za kuvunja kabisa ufuatiliaji wa bitcoins zako. Hizi ni pamoja na, bila shaka, shughuli za CoinJoin, ambazo tutaangalia kwa kina katika sehemu inayofuata.
+Mbali na mazoea haya yote mazuri ya kupitishwa kila siku, kuna njia bora zaidi za kuvunja kabisa ufuatiliaji wa bitcoins zako. Hizi ni pamoja na, bila shaka, shughuli za kujiunga sarafu, ambazo tutaangalia kwa kina katika sehemu inayofuata.
 
-# Kuelewa shughuli za CoinJoin
+# Kuelewa shughuli za Sarafu ya kujiunga
 
 <partId>6d0bbf16-3714-4db1-9897-2d45019f6bdc</partId>
 
-## Muamala wa CoinJoin ni nini?
+## Muamala wa Sarafu ya kujiunga ni nini?
 
 <chapterId>0862bc6b-1c48-4aa4-b76d-4f547b469008</chapterId>
 
-Baada ya kujifunza misingi ya ulinzi wa faragha, sasa tutaangalia mbinu za kisasa zaidi zinazolenga kutetea usiri wako kikamilifu, hasa kwa kutenganisha historia yako ya Bitcoin. Katika sehemu inayofuata, tutaangalia mbinu nyingi ndogo, lakini kwanza, ningependa kukuambia kuhusu CoinJoin.
+Baada ya kujifunza misingi ya ulinzi wa faragha, sasa tutaangalia mbinu za kisasa zaidi zinazolenga kutetea usiri wako kikamilifu, hasa kwa kutenganisha historia yako ya Bitcoin. Katika sehemu inayofuata, tutaangalia mbinu nyingi ndogo, lakini kwanza, ningependa kukuambia kuhusu Sarafu ya kujiunga.
 
-CoinJoin mara nyingi huchukuliwa kuwa njia bora zaidi ya kulinda faragha ya watumiaji wa Bitcoin. Lakini ni nini hasa shughuli ya CoinJoin? Hebu tujue.
+Sarafu ya kujiunga mara nyingi huchukuliwa kuwa njia bora zaidi ya kulinda faragha ya watumiaji wa Bitcoin. Lakini ni nini hasa shughuli ya sarafu ya kujiunga? Hebu tujue.
 
-### Kanuni za msingi za CoinJoin
+### Kanuni za msingi za Sarafu ya kujiunga
 
-CoinJoin ni mbinu ya kuvunja ufuatiliaji wa Bitcoin kwenye Blockchain. Inategemea shughuli ya ushirikiano na muundo maalum wa jina moja: shughuli ya CoinJoin.
+Sarafu ya kujiunga ni mbinu ya kuvunja ufuatiliaji wa Bitcoin kwenye Blockchain. Inategemea shughuli ya ushirikiano na muundo maalum wa jina moja: shughuli ya sarafu ya kujiunga.
 
-Kama tulivyoona katika sehemu za kwanza za kozi hii, miamala ya Bitcoin inajulikana kwa watumiaji wote kupitia nodi zao. Kwa hiyo ni rahisi kuangalia mlolongo wa saini ya elektroniki ya kila sarafu na kuchunguza historia yake. Hii inamaanisha kuwa watumiaji wote wanaweza kujaribu kuchanganua miamala ya watumiaji wengine. Matokeo yake, kutokujulikana katika kiwango cha muamala haiwezekani. Walakini, kutokujulikana kunahifadhiwa katika kiwango cha kitambulisho cha mtu binafsi. Tofauti na mfumo wa kawaida wa benki, ambapo kila akaunti imeunganishwa na utambulisho wa kibinafsi, kwenye Bitcoin, fedha zinahusishwa na jozi za funguo za kriptografia (au hati), zinazowapa watumiaji aina ya jina bandia nyuma ya vitambulishi vya siri.
+Kama tulivyoona katika sehemu za kwanza za kozi hii, miamala ya Bitcoin inajulikana kwa watumiaji wote kupitia nodi zao. Kwa hiyo ni rahisi kuangalia mlolongo wa sahihi ya elektroniki ya kila sarafu na kuchunguza historia yake. Hii inamaanisha kuwa watumiaji wote wanaweza kujaribu kuchanganua miamala ya watumiaji wengine. Matokeo yake, kutokujulikana katika kiwango cha muamala haiwezekani. Walakini, kutokujulikana kunahifadhiwa katika kiwango cha kitambulisho cha mtu binafsi. Tofauti na mfumo wa kawaida wa benki, ambapo kila akaunti imeunganishwa na utambulisho wa kibinafsi, kwenye Bitcoin, fedha zinahusishwa na jozi za funguo za kriptografia (au hati), zinazowapa watumiaji aina ya jina bandia nyuma ya vitambulishi vya siri.
 
 ![BTC204](assets/fr/103.webp)
 
-Usiri wa Bitcoin hudhoofishwa wakati waangalizi wa nje wanaweza kuhusisha UTXO maalum na watumiaji waliotambuliwa. Mara tu muungano huu utakapoanzishwa, itawezekana kufuatilia miamala yao na kuchanganua historia yao ya Bitcoin. CoinJoin ni mbinu haswa iliyobuniwa ili kuvunja ufuatiliaji wa UTXO, ili kuwapa watumiaji wa Bitcoin usiri fulani wa Layer katika kiwango cha muamala.
+Usiri wa Bitcoin hudhoofishwa wakati waangalizi wa nje wanaweza kuhusisha UTXO maalum na watumiaji waliotambuliwa. Mara tu muungano huu utakapoanzishwa, itawezekana kufuatilia miamala yao na kuchanganua historia yao ya Bitcoin. Sarafu ya kujiunga ni mbinu haswa iliyobuniwa ili kuvunja ufuatiliaji wa UTXO, ili kuwapa watumiaji wa Bitcoin usiri fulani wa Safu katika kiwango cha muamala.
 
-Coinjoins huimarisha usiri wa watumiaji wa Bitcoin kwa kufanya uchanganuzi wa minyororo kuwa mgumu zaidi kwa waangalizi wa nje. Muundo wao huruhusu sarafu nyingi kutoka kwa watumiaji tofauti kuunganishwa katika shughuli moja, ikitia ukungu kwenye mistari na kufanya iwe vigumu kubainisha viungo kati ya anwani za kuingiza na kutoa.
+Sarafu za kujiunga huimarisha usiri wa watumiaji wa Bitcoin kwa kufanya uchanganuzi wa minyororo kuwa mgumu zaidi kwa waangalizi wa nje. Muundo wao huruhusu sarafu nyingi kutoka kwa watumiaji tofauti kuunganishwa katika shughuli moja, ikitia ukungu kwenye mistari na kufanya iwe vigumu kubainisha viungo kati ya anwani za kuingiza na kutoa.
 
-Ni muhimu kuelewa kwamba lengo la shughuli ya CoinJoin ni kuvunja historia ya sarafu. Mbinu hii haitoi kutokujulikana kwa kudumu au kuzuia kwa hakika ufuatiliaji wa Bitcoin, kinyume na unavyoweza kufikiria. CoinJoin inalenga tu kuvunja historia mahali ambapo shughuli ya CoinJoin inafanywa. Walakini, kabla na baada ya operesheni hii, sarafu inabaki chini ya hatari sawa kwa suala la usiri.
+Ni muhimu kuelewa kwamba lengo la shughuli ya sarafu ya kujiunga ni kuvunja historia ya sarafu. Mbinu hii haitoi kutokujulikana kwa kudumu au kuzuia kwa hakika ufuatiliaji wa Bitcoin, kinyume na unavyoweza kufikiria. Sarafu ya kujiunga inalenga tu kuvunja historia mahali ambapo shughuli ya sarafu ya kujiunga inafanywa. Walakini, kabla na baada ya operesheni hii, sarafu inabaki chini ya hatari sawa kwa suala la usiri.
 
 ![BTC204](assets/fr/104.webp)
 
-### Je, coinjoins hufanya kazi vipi?
+### Je, Sarafu za kujiunga hufanya kazi vipi?
 
-Kanuni ya CoinJoin inategemea mbinu ya ushirikiano: watumiaji kadhaa wanaotaka kuchanganya amana zao za bitcoins kiasi sawa kama pembejeo kwa shughuli sawa. Kiasi hiki kisha kusambazwa upya katika matokeo ya thamani sawa kwa kila mtumiaji.
+Kanuni ya sarafu ya kujiunga inategemea mbinu ya ushirikiano: watumiaji kadhaa wanaotaka kuchanganya amana zao za bitcoins kiasi sawa kama pembejeo kwa shughuli sawa. Kiasi hiki kisha kusambazwa upya katika matokeo ya thamani sawa kwa kila mtumiaji.
 
 ![BTC204](assets/fr/105.webp)
 
@@ -1649,15 +1649,15 @@ Mwishoni mwa muamala, inakuwa vigumu kuhusisha pato mahususi na mtumiaji anayeju
 
 ![BTC204](assets/fr/106.webp)
 
-Hebu tuchukue mfano wa Alice. Anataka kutuma karibu 100,000 Sats kwa dada yake Eve kwa siku yake ya kuzaliwa. Hata hivyo, Alice hataki Eve aweze kufuatilia historia yake ya muamala, kwani hataki kufichua ana bitcoins ngapi au alizipata vipi. Ili kufikia mwisho huu, Alice anaamua kuvunja historia yake ya UTXO na shughuli ya CoinJoin. Anapanga na Bob, Charles, David na Frank kutekeleza shughuli ya ushirikiano:
+Hebu tuchukue mfano wa Alice. Anataka kutuma karibu 100,000 Sats kwa dada yake Eve kwa siku yake ya kuzaliwa. Hata hivyo, Alice hataki Eve aweze kufuatilia historia yake ya muamala, kwani hataki kufichua ana bitcoins ngapi au alizipata vipi. Ili kufikia mwisho huu, Alice anaamua kuvunja historia yake ya UTXO na shughuli ya kuunga sarafu. Anapanga na Bob, Charles, David na Frank kutekeleza shughuli ya ushirikiano:
 
 
-- Alice, Bob, Charles, David na Frank kila mmoja anafanya UTXO ya 105,000 Sats (pamoja na 5,000 Sats kwa ada za Mining) kama michango ya muamala:
+- Alice, Bob, Charles, David na Frank kila mmoja anafanya UTXO ya 105,000 Sats (pamoja na 5,000 Sats kwa ada za Uchimbaji) kama michango ya muamala:
 
 ![BTC204](assets/fr/107.webp)
 
 
-- Kwa malipo ya kutumia pembejeo hizi, kila moja hutoa Address tupu ili kuunda matokeo matano yanayofanana ya 100,000 Sats kila moja. Kila moja hupata pato moja:
+- Kwa malipo ya kutumia pembejeo hizi, kila mmoja hutoa Anwani tupu ili kuunda matokeo matano yanayofanana ya 100,000 Sats kila moja. Kila moja hupata pato moja:
 
 ![BTC204](assets/fr/108.webp)
 
@@ -1667,13 +1667,13 @@ Hebu tuchukue mfano wa Alice. Anataka kutuma karibu 100,000 Sats kwa dada yake E
 ![BTC204](assets/fr/109.webp)
 
 
-- Eve akijaribu kuchanganua muamala huu ili kupata maelezo, atakabiliwa na muamala wa CoinJoin unaohusisha Alice, Bob, Charles, David na Frank. Haiwezi kutofautisha ni pembejeo gani ni ya nani kwa sababu ya usawa wa kiasi hicho, Hawa hawezi kufuatilia historia ya Alice ya UTXO, wala kuamua ni bitcoins ngapi ambazo dada yake anamiliki au jinsi alizipata:
+- Eve akijaribu kuchanganua muamala huu ili kupata maelezo, atakabiliwa na muamala wa Kuunga sarafu unaohusisha Alice, Bob, Charles, David na Frank. Haiwezi kutofautisha ni pembejeo gani ni ya nani kwa sababu ya usawa wa kiasi hicho, Hawa hawezi kufuatilia historia ya Alice ya UTXO, wala kuamua ni bitcoins ngapi ambazo dada yake anamiliki au jinsi alizipata:
 
 ![BTC204](assets/fr/110.webp)
 
-Katika kesi hii, Alice ametumia mbinu ya CoinJoin ili kuongeza usiri kuhusu uchanganuzi wa nyuma. Kwa kweli, Alice anajilinda dhidi ya uchanganuzi unaowezekana na Hawa, ambaye angeanza kutoka kwa shughuli mahususi na kufanya kazi nyuma kupitia historia ya UTXO. Ulinzi huu dhidi ya uchanganuzi kutoka kwa sasa hadi zamani unajulikana kama anonseti ya nyuma. Tutaangalia dhana hii kwa undani zaidi katika sura za mwisho za sehemu hii.
+Katika kesi hii, Alice ametumia mbinu ya Sarafu ya kujiunga ili kuongeza usiri kuhusu uchanganuzi wa nyuma. Kwa kweli, Alice anajilinda dhidi ya uchanganuzi unaowezekana na Hawa, ambaye angeanza kutoka kwa shughuli mahususi na kufanya kazi nyuma kupitia historia ya UTXO. Ulinzi huu dhidi ya uchanganuzi kutoka kwa sasa hadi zamani unajulikana kama anonseti ya nyuma. Tutaangalia dhana hii kwa undani zaidi katika sura za mwisho za sehemu hii.
 
-Hata hivyo, CoinJoin pia inatoa uwezekano wa kuimarisha usiri katika uso wa uchanganuzi kutoka zamani hadi sasa, unaojulikana kama anonset tarajiwa. Wacha turudi kwenye mfano wetu ambapo Alice alimtumia Eve 98,000 Sats kwa siku yake ya kuzaliwa, lakini majukumu yakiwa kinyume. Sasa hebu tuwazie kwamba ni Hawa ambaye ana wasiwasi kuhusu faragha yake. Kwa kweli, Alice anaweza kujaribiwa kufuatilia sarafu aliyomtumia Eve ili kupata habari kutoka kwayo. Hawa angeweza kujumuisha UTXO hii ambayo amepokea hivi punde na UTXO zake zingine zote, ambazo zinaweza kumfunulia Alice kiasi cha bitcoins alichonacho kwenye Wallet yake. Ili kuepuka hili, Hawa anaweza pia kuvunja historia ya sarafu ambayo amepokea hivi punde:
+Hata hivyo, Kuunga sarafu pia unatoa uwezekano wa kuimarisha usiri katika uso wa uchanganuzi kutoka zamani hadi sasa, unaojulikana kama anonset tarajiwa. Wacha turudi kwenye mfano wetu ambapo Alice alimtumia Eve 98,000 Sats kwa siku yake ya kuzaliwa, lakini majukumu yakiwa kinyume. Sasa hebu tuwazie kwamba ni Hawa ambaye ana wasiwasi kuhusu faragha yake. Kwa kweli, Alice anaweza kujaribiwa kufuatilia sarafu aliyomtumia Eve ili kupata habari kutoka kwayo. Hawa angeweza kujumuisha UTXO hii ambayo amepokea hivi punde na UTXO zake zingine zote, ambazo zinaweza kumfunulia Alice kiasi cha bitcoins alichonacho kwenye Pochi lake. Ili kuepuka hili, Hawa anaweza pia kuvunja historia ya sarafu ambayo amepokea hivi punde:
 
 
 - Eve, Grace, Mallory, Oscar na Victor kila mmoja aliweka UTXO ya 98,000 Sats kama ingizo la muamala wa Bitcoin:
@@ -1686,90 +1686,90 @@ Hata hivyo, CoinJoin pia inatoa uwezekano wa kuimarisha usiri katika uso wa ucha
 ![BTC204](assets/fr/112.webp)
 
 
-- Hawa sasa anashikilia UTXO ya 97,500 Sats ambayo historia yake imevunjwa. Anaweza kuitumia bila woga kufanya shughuli za siku zijazo. Hakika, ikiwa Alice anajaribu kufuatilia bitcoins alizotuma kwa Hawa, atakabiliwa na shughuli ya CoinJoin. Hataweza kubainisha ni UTXO ipi inayotoka ni ya Hawa. Uchambuzi hauwezekani:
+- Hawa sasa anashikilia UTXO ya 97,500 Sats ambayo historia yake imevunjwa. Anaweza kuitumia bila woga kufanya shughuli za siku zijazo. Hakika, ikiwa Alice anajaribu kufuatilia bitcoins alizotuma kwa Hawa, atakabiliwa na shughuli ya kuunga sarafu. Hataweza kubainisha ni UTXO ipi inayotoka ni ya Hawa. Uchambuzi hauwezekani:
 
 ![BTC204](assets/fr/113.webp)
 
-Katika mfano wa kwanza, tuliona jinsi CoinJoin inaweza kulinda faragha ya chumba kuhusiana na siku zake za nyuma, na katika mfano wa pili, jinsi inaweza pia kupata historia ya chumba kuhusiana na siku zijazo. Ndio maana nilisema kwamba CoinJoin inapaswa kuonekana kama tukio la mara moja ambalo linagawanya historia ya sehemu katika pande zote mbili:
+Katika mfano wa kwanza, tuliona jinsi kuunga sarafu inaweza kulinda faragha ya chumba kuhusiana na siku zake za nyuma, na katika mfano wa pili, jinsi inaweza pia kupata historia ya chumba kuhusiana na siku zijazo. Ndio maana nilisema kwamba kuunga sarafu kunapaswa kuonekana kama tukio la mara moja ambalo linagawanya historia ya sehemu katika pande zote mbili:
 
 ![BTC204](assets/fr/104.webp)
 
-### Mchanganyiko, CoinJoin, mchanganyiko ... Je! ni tofauti gani?
+### Mchanganyiko, kuunga sarafu, mchanganyiko ... Je! ni tofauti gani?
 
-Coinjoins wakati mwingine huelezewa kama "mixers", neno ambalo bitcoiners wengine hukataa, wakiogopa kwamba inaweza kuchanganyikiwa na wachanganyaji wa uhifadhi. Ninaamini, hata hivyo, kwamba hofu hii haina msingi, kwa kuwa, katika muktadha wa hisabati, CoinJoin inajumuisha kwa usahihi dhana ya kuchanganya.
+Sarafu za kujiunga wakati mwingine huelezewa kama "mixers", neno ambalo bitcoiners wengine hukataa, wakiogopa kwamba inaweza kuchanganyikiwa na wachanganyaji wa uhifadhi. Ninaamini, hata hivyo, kwamba hofu hii haina msingi, kwa kuwa, katika muktadha wa hisabati, Kuuunga sarafu kunajumuisha kwa usahihi dhana ya kuchanganya.
 
-Katika uwanja wa jumla wa hisabati, kuchanganya kunarejelea mali ya mfumo wa nguvu ambapo, baada ya muda fulani, sehemu zote za nafasi ya awali zinaweza kuchanganywa kinadharia na sehemu nyingine yoyote. Kuchanganya kunamaanisha kuwa nafasi ya chembe au hali ya mfumo hubadilika kwa njia ambayo usambazaji wake wa siku zijazo hautegemei usambazaji wake wa awali, na hivyo kufikia hali ambapo sifa za hali ya awali zinasambazwa sawasawa katika nafasi ya mfumo. Hii ndio hasa kinachotokea katika CoinJoin na bitcoins. Kwa hiyo, kwa maoni yangu, CoinJoin ni kweli njia ya kuchanganya sarafu.
+Katika uwanja wa jumla wa hisabati, kuchanganya kunarejelea mali ya mfumo wa nguvu ambapo, baada ya muda fulani, sehemu zote za nafasi ya awali zinaweza kuchanganywa kinadharia na sehemu nyingine yoyote. Kuchanganya kunamaanisha kuwa nafasi ya chembe au hali ya mfumo hubadilika kwa njia ambayo usambazaji wake wa siku zijazo hautegemei usambazaji wake wa awali, na hivyo kufikia hali ambapo sifa za hali ya awali zinasambazwa sawasawa katika nafasi ya mfumo. Hii ndio hasa kinachotokea katika Kuunga sarafu na bitcoins. Kwa hiyo, kwa maoni yangu, Kuunga sarafu ni kweli njia ya kuchanganya sarafu.
 
 ![BTC204](assets/fr/114.webp)
 
-Kwa upande mwingine, ni muhimu kutofautisha CoinJoin kutoka kwa shufflers. Shuffler ni huduma ambapo watumiaji hutuma bitcoins zao kuchanganywa. Huduma hizi zilikuwa maarufu katika miaka ya 2010, lakini matumizi yao yamepungua kwa sababu ya shida kuu mbili ikilinganishwa na CoinJoin:
+Kwa upande mwingine, ni muhimu kutofautisha kuunga sarafu kutoka kwa washushaji. Ushushaji ni huduma ambayo watumiaji hutuma bitcoins zao kuchanganywa. Huduma hizi zilikuwa maarufu katika miaka ya 2010, lakini matumizi yao yamepungua kwa sababu ya shida kuu mbili ikilinganishwa na Kuunga sarafu:
 
 
-- Wanahitaji watumiaji kuachilia uhifadhi wa pesa zao wakati wa mchakato wa kuchanganya, ambao unawaweka kwenye hatari ya wizi;
+- Wanahitaji watumiaji kuachilia uhifadhi wa pesa zao wakati wa mchakato wa kuchanganya, ambao unawaweka kwenye hatari za wizi;
 - Hakuna hakikisho kwamba kichanganyaji hakitarekodi maelezo ya muamala, au hata kuuza maelezo haya kwa kampuni za uchanganuzi wa minyororo.
 
 ![BTC204](assets/fr/115.webp)
 
-Kwa hivyo, watumiaji wa leo wanapendelea CoinJoin, kwani inawaruhusu kudumisha udhibiti kamili wa pesa zao katika mchakato wote. Washiriki wa CoinJoin hawana hatari ya kuibiwa bitcoins na wahusika wengine. Wacha tuangalie jinsi haya yote yanawezekana katika sura inayofuata.
+Kwa hivyo, watumiaji wa leo wanapendelea Kuunga sarafu, kwani inawaruhusu kudumisha udhibiti kamili wa pesa zao katika mchakato wote. Washiriki wa Kuunga sarafu hawana hatari ya kuibiwa bitcoins na wahusika wengine. Wacha tuangalie jinsi haya yote yanawezekana katika sura inayofuata.
 
 ## Zerolink na chaumian zinaungana
 
 <chapterId>326c9654-b359-4906-b23d-d6518dd5dc3e</chapterId>
 
-Faragha iliyotolewa na CoinJoin hupatikana kwa ukubwa wa kikundi ambamo kipande chetu kimefichwa. Hii inamaanisha kupata washiriki wengi iwezekanavyo. Inawezekana kabisa kuunda CoinJoin kwa mikono, na watumiaji tumejipata wenyewe, lakini huu ni mchakato mgumu, na hautakushindia makosa yoyote makubwa.
+Faragha iliyotolewa na kuunga sarafu hupatikana kwa ukubwa wa kikundi ambamo kipande chetu kimefichwa. Hii inamaanisha kupata washiriki wengi iwezekanavyo. Inawezekana kabisa kuunda kuunga sarafu kwa mikono, na watumiaji tumejipata wenyewe, lakini huu ni mchakato mgumu, na hautakushindia makosa yoyote makubwa.
 
-Hii ndiyo sababu waratibu wa CoinJoin wameendeleza kwenye Bitcoin. Jukumu lao ni kuwasiliana na watumiaji mbalimbali na kusambaza taarifa zinazohitajika ili kukamilisha shughuli ya ushirikiano.
+Hii ndiyo sababu waratibu wa kuunga sarafu wameendeleza kwenye Bitcoin. Jukumu lao ni kuwasiliana na watumiaji mbalimbali na kusambaza taarifa zinazohitajika ili kukamilisha shughuli ya ushirikiano.
 
 ![BTC204](assets/fr/116.webp)
 
-Lakini tunawezaje kuhakikisha kwamba mratibu hajawahi kuwa na mikono yake kwenye bitcoins za watumiaji, na licha ya ukweli kwamba yeye ndiye mtu anayeunda shughuli ya CoinJoin, tunawezaje kuhakikisha kwamba hawezi kuunganisha pembejeo na matokeo ya watumiaji, ambayo inaweza kuunda uvujaji wa siri?
+Lakini tunawezaje kuhakikisha kwamba mratibu hajawahi kuwa na mikono yake kwenye bitcoins za watumiaji, na licha ya ukweli kwamba yeye ndiye mtu anayeunda shughuli ya Kuunga sarafu, tunawezaje kuhakikisha kwamba hawezi kuunganisha pembejeo na matokeo ya watumiaji, ambayo inaweza kuunda uvujaji wa siri?
 
-### Saini za upofu za Chaum
+### Sahihi za upofu za Chaum
 
-Utekelezaji wa kisasa wa CoinJoin hutumia saini za upofu za David Chaum ili kuzuia kuvuja kwa habari. Hebu tuangalie kwa haraka jinsi sahihi hizi za vipofu zinavyofanya kazi.
+Utekelezaji wa kisasa wa kuunga sarafu hutumia saini za upofu za David Chaum ili kuzuia kuvuja kwa habari. Hebu tuangalie kwa haraka jinsi sahihi hizi za vipofu zinavyofanya kazi.
 
-Sahihi za upofu za Chaum ni aina ya sahihi ya kidijitali ambayo mtoaji saini hajui maudhui ya ujumbe anaotia saini. Lakini saini basi inaweza kuthibitishwa dhidi ya ujumbe asili. Mbinu hii ilitengenezwa na mwandishi wa maandishi David Chaum mnamo 1983.
+Sahihi za upofu za Chaum ni aina ya sahihi ya kidijitali ambayo mtoaji saini hajui maudhui ya ujumbe anaotia sahihi. Lakini sahihi basi inaweza kuthibitishwa dhidi ya ujumbe asili. Mbinu hii ilitengenezwa na mwandishi wa maandishi David Chaum mnamo 1983.
 
 ![BTC204](assets/fr/117.webp)
 
-Hebu tuchukue mfano wa kampuni inayotaka kuthibitisha hati ya siri, kama vile Contract, bila kufichua maudhui yake. Kampuni hutumia mchakato wa kuficha uso ambao hubadilisha hati asili kwa njia inayoweza kutenduliwa. Hati hii iliyorekebishwa inatumwa kwa mamlaka ya uidhinishaji, ambayo huweka sahihi bila kujua maudhui ya msingi. Baada ya kupokea hati iliyosainiwa, kampuni inafungua saini. Matokeo yake ni hati asili iliyothibitishwa na sahihi ya mamlaka, bila mamlaka kuwahi kuona maudhui asili.
+Hebu tuchukue mfano wa kampuni inayotaka kuthibitisha hati ya siri, kama vile Mkataba, bila kufichua maudhui yake. Kampuni hutumia mchakato wa kuficha uso ambao hubadilisha hati asili kwa njia inayoweza kutenduliwa. Hati hii iliyorekebishwa inatumwa kwa mamlaka ya uidhinishaji, ambayo huweka sahihi bila kujua maudhui ya msingi. Baada ya kupokea hati iliyosainiwa, kampuni inafungua sahihi. Matokeo yake ni hati asili iliyothibitishwa na sahihi ya mamlaka, bila mamlaka kuwahi kuona maudhui asili.
 
-Kwa hivyo, sahihi za upofu za Chaum zinaweza kuthibitisha uhalisi wa hati bila kujua maudhui yake, hivyo basi kuhakikisha usiri wa data ya mtumiaji na uadilifu wa hati iliyotiwa saini.
+Kwa hivyo, sahihi za upofu za Chaum zinaweza kuthibitisha uhalisi wa hati bila kujua maudhui yake, hivyo basi kuhakikisha usiri wa data ya mtumiaji na uadilifu wa hati iliyotiwa sahihi.
 
 ### Chaumian inajiunga
 
 Kinachojulikana kama "Chaumian" sanjari huchanganya matumizi ya saini za upofu za Tor na David Chaum ili kuhakikisha kuwa mratibu hawezi kujua ni pato gani ni la mtumiaji gani.
 
-Mchakato wa ujenzi wa muamala wa CoinJoin unahusisha hatua kuu 3: usajili wa pembejeo, usajili wa pato na saini ya muamala. Wacha tuangalie mchakato huu kupitia mfano wa Alice, mmoja wa washiriki wa CoinJoin. Washiriki wengine wote wanafuata hatua sawa na Alice, kila mmoja kivyake.
+Mchakato wa ujenzi wa muamala wa sarafu ya kujiunga unahusisha hatua kuu 3: usajili wa pembejeo, usajili wa pato na saini ya muamala. Wacha tuangalie mchakato huu kupitia mfano wa Alice, mmoja wa washiriki wa sarafu ya kujiunga. Washiriki wengine wote wanafuata hatua sawa na Alice, kila mmoja kivyake.
 
 **Hatua ya 1: Usajili wa ingizo
 
 
-- Alice anatuma kwa mratibu UTXO anayotaka kutumia kama ingizo kwa muamala, na vile vile kipokezi cha Address ambacho angependa kutumia kama pato kupokea bitcoins zake. Kwa hivyo mratibu hana njia ya kujua Address ya Alice. Inaona toleo lake lililofichwa tu:
+- Alice anatuma kwa mratibu UTXO anayotaka kutumia kama ingizo kwa muamala, na vile vile kipokezi cha Anwani ambayo angependa kutumia kama pato kupokea bitcoins zake. Kwa hivyo mratibu hana njia ya kujua Anwani ya Alice. Inaona toleo lake lililofichwa tu:
 
 ![BTC204](assets/fr/118.webp)
 
 
-- Mratibu hukagua uhalali wa pembejeo, kisha hutia saini Address ya Alice iliyofunikwa na ufunguo wake wa kibinafsi. Anarudisha saini ya upofu kwa Alice:
+- Mratibu hukagua uhalali wa pembejeo, kisha hutia sahihi kwa Anwani ya Alice iliyofunikwa na ufunguo wake wa kibinafsi. Anarudisha sahihi ya upofu kwa Alice:
 
 ![BTC204](assets/fr/119.webp)
 
 **Hatua ya 2: Usajili wa matokeo**
 
 
-- Alice anaweza kufichua Address yake, ambayo sasa imetiwa saini na ufunguo wa faragha wa mratibu. Ataanzisha muunganisho mpya chini ya kitambulisho tofauti cha Tor. Mratibu hawezi kutambua kuwa ni Alice ambaye anaunganishwa chini ya utambulisho huu mpya:
+- Alice anaweza kufichua Anwani yake, ambayo sasa imetiwa sahihi na ufunguo wa faragha wa mratibu. Ataanzisha muunganisho mpya chini ya kitambulisho tofauti cha Tor. Mratibu hawezi kutambua kuwa ni Alice ambaye anaunganishwa chini ya utambulisho huu mpya:
 
 ![BTC204](assets/fr/120.webp)
 
 
-- Alice anatuma Address ambayo haijafichuliwa na kutia sahihi kwa mratibu (ambaye bado hajui ni Alice):
+- Alice anatuma Anwani ambayo haijafichuliwa na kutia sahihi kwa mratibu (ambaye bado hajui ni Alice):
 
 ![BTC204](assets/fr/121.webp)
 
-**Hatua ya 3: Kusaini muamala**
+**Hatua ya 3: Kutia sahihi muamala**
 
 
-- Kwa njia hiyo hiyo, mratibu hupata matokeo ambayo hayajafichwa kutoka kwa washiriki wote. Shukrani kwa saini zinazohusishwa, anaweza kuangalia kwamba kila pato lililowasilishwa bila kujulikana limetiwa saini na ufunguo wake wa kibinafsi kabla, na hivyo kuhakikisha uhalali wao. Kisha yuko tayari kujenga shughuli ya CoinJoin na kuituma kwa washiriki ili kutia saini:
+- Kwa njia hiyo hiyo, mratibu hupata matokeo ambayo hayajafichwa kutoka kwa washiriki wote. Shukrani kwa saini zinazohusishwa, anaweza kuangalia kwamba kila pato lililowasilishwa bila kujulikana limetiwa saini na ufunguo wake wa kibinafsi kabla, na hivyo kuhakikisha uhalali wao. Kisha yuko tayari kujenga shughuli ya kuunga sarafu na kuituma kwa washiriki ili kutia sahihi:
 
 ![BTC204](assets/fr/122.webp)
 
@@ -1779,28 +1779,28 @@ Mchakato wa ujenzi wa muamala wa CoinJoin unahusisha hatua kuu 3: usajili wa pem
 ![BTC204](assets/fr/123.webp)
 
 
-- Baada ya kukusanya saini kutoka kwa washiriki wote wa CoinJoin, mratibu anaweza kutangaza shughuli kwenye mtandao wa Bitcoin, ili iweze kuongezwa kwenye block.
+- Baada ya kukusanya sahihi kutoka kwa washiriki wote wa kuunga sarafu, mratibu anaweza kutangaza shughuli kwenye mtandao wa Bitcoin, ili iweze kuongezwa kwenye block.
 
-Katika mfumo huu, mratibu hawezi kuunganisha ingizo kwenye pato mahususi. Zaidi ya hayo, hawezi kufaa fedha za washiriki, kwa kuwa yeye huwa hawezi kufikia funguo za faragha zinazohitajika ili kufungua UTXO zao. Katika mchakato mzima, hadi mwisho wa hatua ya 3, yeye pia hana ufikiaji wa saini. Wakati Alice na washiriki wengine wanatia saini shughuli ya kimataifa, baada ya kuangalia kwamba kila kitu ni sahihi, mratibu hawezi tena kurekebisha shughuli, ikiwa ni pamoja na matokeo, bila kuibatilisha. Hii inamzuia mratibu kuiba bitcoins.
+Katika mfumo huu, mratibu hawezi kuunganisha ingizo kwenye pato mahususi. Zaidi ya hayo, hawezi kufaa fedha za washiriki, kwa kuwa yeye huwa hawezi kufikia funguo za faragha zinazohitajika ili kufungua UTXO zao. Katika mchakato mzima, hadi mwisho wa hatua ya 3, yeye pia hana ufikiaji wa sahihi. Wakati Alice na washiriki wengine wanatia sahihi shughuli ya kimataifa, baada ya kuangalia kwamba kila kitu ni sahihi, mratibu hawezi tena kurekebisha shughuli, ikiwa ni pamoja na matokeo, bila kuibatilisha. Hii inamzuia mratibu kuiba bitcoins.
 
-Hatimaye, wakati wa kusajili pato lake katika shughuli hiyo, mtumiaji wa CoinJoin angependa kuwa na dhamana sawa na zile za raia anayepiga kura katika uchaguzi. Kuna uwili kati ya mambo ya umma na ya kibinafsi ya vitendo hivi. Kwa upande mmoja, kuna kile unachotaka kuweka faragha: kwa mpiga kura, hataki kura yake ihusishwe na utambulisho wake; kwa mtumiaji wa CoinJoin, hataki matokeo yake yahusishwe na mchango wake. Hakika, ikiwa mratibu, au chama kingine chochote, kitaweza kuanzisha kiungo kati ya pembejeo na pato, CoinJoin inapoteza maslahi yote. Kama ilivyoelezwa hapo juu, CoinJoin lazima ifanye kazi kama mapumziko katika historia ya sarafu. Kuacha huku hutokea kwa usahihi kwa sababu ya kutowezekana kwa kuhusisha pembejeo maalum na pato maalum katika shughuli ya CoinJoin (anonset inayotarajiwa) na kinyume chake (anonset retrospective).
+Hatimaye, wakati wa kusajili pato lake katika shughuli hiyo, mtumiaji wa Kuunga sarafu angependa kuwa na dhamana sawa na zile za raia anayepiga kura katika uchaguzi. Kuna uwili kati ya mambo ya umma na ya kibinafsi ya vitendo hivi. Kwa upande mmoja, kuna kile unachotaka kuweka faragha: kwa mpiga kura, hataki kura yake ihusishwe na utambulisho wake; kwa mtumiaji wa Kuunga sarafu, hataki matokeo yake yahusishwe na mchango wake. Hakika, ikiwa mratibu, au chama kingine chochote, kitaweza kuanzisha kiungo kati ya pembejeo na pato, Kuunga sarafu inapoteza maslahi yote. Kama ilivyoelezwa hapo juu, kuunga sarafu lazima ifanye kazi kama mapumziko katika historia ya sarafu. Kuacha huku hutokea kwa usahihi kwa sababu ya kutowezekana kwa kuhusisha pembejeo maalum na pato maalum katika shughuli ya kuunga sarafu (anonset inayotarajiwa) na kinyume chake (anonset retrospective).
 
-Kwa upande mwingine, kuna kipengele cha umma: mpiga kura anataka kuwa na uhakika kwamba kura yake imejumuishwa kwenye sanduku la kura; vile vile, mtumiaji wa CoinJoin anataka kuwa na uhakika kwamba pato lake limejumuishwa katika shughuli ya CoinJoin. Hakika, washiriki wa CoinJoin lazima wawe na uwezo wa kuthibitisha uwepo wa pato lao kabla ya kusaini muamala, vinginevyo mratibu anaweza kuiba fedha hizo.
+Kwa upande mwingine, kuna kipengele cha umma: mpiga kura anataka kuwa na uhakika kwamba kura yake imejumuishwa kwenye sanduku la kura; vile vile, mtumiaji wa Kuunga sarafu anataka kuwa na uhakika kwamba pato lake limejumuishwa katika shughuli ya kuunga sarafu. Hakika, washiriki wa Kuunga sarafu lazima wawe na uwezo wa kuthibitisha uwepo wa pato lao kabla ya kutia sahihi muamala, vinginevyo mratibu anaweza kuiba fedha hizo.
 
-Ni hasa vipengele hivi 2 vya umma na vya kibinafsi, vinavyowezeshwa na matumizi ya saini za vipofu za David Chaum, ambazo zinawahakikishia washiriki katika ushirikiano wa Chaumian kwamba bitcoins zao hazitaibiwa, na kwamba fedha zao haziwezi kufuatiliwa.
+Ni hasa vipengele hivi 2 vya umma na vya kibinafsi, vinavyowezeshwa na matumizi ya sahihi za vipofu za David Chaum, ambazo zinawahakikishia washiriki katika ushirikiano wa Chaumian kwamba bitcoins zao hazitaibiwa, na kwamba fedha zao haziwezi kufuatiliwa.
 
-### Nani aligundua dhana ya CoinJoin?
+### Nani aligundua dhana ya Kuunga sarafu?
 
-Ni Hard kusema kwa uhakika ni nani aliyeanzisha wazo la CoinJoin kwa Bitcoin kwanza, na ni nani alikuja na wazo la kutumia saini za upofu za David Chaum katika muktadha huu. Mara nyingi inafikiriwa kuwa ni Gregory Maxwell ambaye aliitaja kwa mara ya kwanza katika [ujumbe kwenye BitcoinTalk mnamo 2013](https://bitcointalk.org/index.php?topic=279249.0) :
+Ni vigumu kusema kwa uhakika ni nani aliyeanzisha wazo la kuunga sarafu kwa Bitcoin kwanza, na ni nani alikuja na wazo la kutumia saini za upofu za David Chaum katika muktadha huu. Mara nyingi inafikiriwa kuwa ni Gregory Maxwell ambaye aliitaja kwa mara ya kwanza katika [ujumbe kwenye BitcoinTalk mnamo 2013](https://bitcointalk.org/index.php?topic=279249.0) :
 
-> *"Kwa kutumia saini za upofu za Chaum: Watumiaji huingia na kutoa pembejeo (na anwani za Exchange) pamoja na toleo la siri la blinded la Address ambalo wangependa kutuma sehemu zao za siri; seva hutia sahihi ishara na kuzirejesha. Watumiaji huunganisha tena bila kujulikana, funua anwani zao za matokeo ambayo seva inaweza kuzituma tena, na seva inaweza kuzituma tena. kwa hivyo, matokeo yote yanatoka kwa washiriki halali Baadaye, watu huunganisha tena na kuingia
+> *"Kwa kutumia sahihi za upofu za Chaum: Watumiaji huingia na kutoa pembejeo (na anwani za Ubadilishanaji) pamoja na toleo la siri la blinded la Anwani ambalo wangependa kutuma sehemu zao za siri; seva hutia sahihi ishara na kuzirejesha. Watumiaji huunganisha tena bila kujulikana, funua anwani zao za matokeo ambayo seva inaweza kuzituma tena, na seva inaweza kuzituma tena. kwa hivyo, matokeo yote yanatoka kwa washiriki halali Baadaye, watu huunganisha tena na kuingia
 Maxwell, G. (2013, Agosti 22). *CoinJoin: Faragha ya Bitcoin kwa ulimwengu halisi*. BitcoinTalk Forum. https://bitcointalk.org/index.php?topic=279249.0
 
 ![BTC204](assets/fr/124.webp)
 
-Walakini, kuna majina mengine yaliyotajwa hapo awali, kwa saini za Chaum kama sehemu ya mchanganyiko, lakini pia kwa coinjoins. [Mnamo Juni 2011, Duncan Townsend aliwasilisha kwenye BitcoinTalk](https://bitcointalk.org/index.php?topic=12751.0) kichanganyaji kinachotumia sahihi za Chaum kwa njia inayofanana kabisa na sarafu za kisasa za Chaumian.
+Walakini, kuna majina mengine yaliyotajwa hapo awali, kwa saini za Chaum kama sehemu ya mchanganyiko, lakini pia kwa sarafu za kujiunga. [Mnamo Juni 2011, Duncan Townsend aliwasilisha kwenye BitcoinTalk](https://bitcointalk.org/index.php?topic=12751.0) kichanganyaji kinachotumia sahihi za Chaum kwa njia inayofanana kabisa na sarafu za kisasa za Chaumian.
 
-Katika mazungumzo sawa, tunaweza kupata [ujumbe kutoka hashcoin kujibu Duncan Townsend](https://bitcointalk.org/index.php?topic=12751.msg315793#msg315793) ili kuboresha kichanganyaji chake. Mchakato ulioelezewa katika ujumbe huu ndio hasa coinjoins inahusu. Kutajwa kwa mfumo kama huo kunaweza pia kupatikana katika [ujumbe kutoka kwa Alex Mizrahi mwaka wa 2012](https://gist.github.com/killerstorm/6f843e1d3ffc38191aebca67d483bd88#file-laundry), alipokuwa akiwashauri waundaji wa Tenebrix ya kwanza, ambayo baadaye ilitolewa kama msingi wa Tenebrix. Hata neno "CoinJoin" lenyewe inasemekana halikuundwa na Greg Maxwell, lakini lilitokana na wazo la Peter Todd.
+Katika mazungumzo sawa, tunaweza kupata [ujumbe kutoka hashcoin kujibu Duncan Townsend](https://bitcointalk.org/index.php?topic=12751.msg315793#msg315793) ili kuboresha kichanganyaji chake. Mchakato ulioelezewa katika ujumbe huu ndio hasa sarafu za kujiunga inahusu. Kutajwa kwa mfumo kama huo kunaweza pia kupatikana katika [ujumbe kutoka kwa Alex Mizrahi mwaka wa 2012](https://gist.github.com/killerstorm/6f843e1d3ffc38191aebca67d483bd88#file-laundry), alipokuwa akiwashauri waundaji wa Tenebrix ya kwanza, ambayo baadaye ilitolewa kama msingi wa Tenebrix. Hata neno "CoinJoin" lenyewe inasemekana halikuundwa na Greg Maxwell, lakini lilitokana na wazo la Peter Todd.
 
 ![BTC204](assets/fr/125.webp)
 
@@ -1810,46 +1810,46 @@ Zerolink ni itifaki ya kina ya kuchanganya inayojumuisha ushirikiano wa Chaumian
 
 ![BTC204](assets/fr/126.webp)
 
-Kama jina lake linavyopendekeza, kanuni nyuma ya Zerolink ni kuunda miamala ya CoinJoin ambayo inahakikisha kwamba viungo kati ya pembejeo na matokeo haviwezi kufuatiliwa. Hii inafanikiwa kwa kuhakikisha kuwa matokeo yote yana viwango sawa kabisa.
+Kama jina lake linavyopendekeza, kanuni nyuma ya Zerolink ni kuunda miamala ya Sarafu ya kujiunga ambayo inahakikisha kwamba viungo kati ya pembejeo na matokeo haviwezi kufuatiliwa. Hii inafanikiwa kwa kuhakikisha kuwa matokeo yote yana viwango sawa kabisa.
 
 ![BTC204](assets/fr/127.webp)
 
-Hatua muhimu ya kuzuia iliyochukuliwa na Zerolink ni kuweka UTXO zisizochanganyika tofauti kabisa na UTXO mchanganyiko kwa kutumia seti tofauti za funguo za siri, au hata kwingineko tofauti. Hii inatofautisha "*kabla ya mchanganyiko*" Wallet, iliyokusudiwa kwa sehemu kabla ya kuchanganywa, kutoka kwa "*post-mix*" Wallet, iliyohifadhiwa kwa sehemu ambazo zimechanganywa.
+Hatua muhimu ya kuzuia iliyochukuliwa na Zerolink ni kuweka UTXO zisizochanganyika tofauti kabisa na UTXO mchanganyiko kwa kutumia seti tofauti za funguo za siri, au hata kwingineko tofauti. Hii inatofautisha "*kabla ya mchanganyiko*" Pochi, lililokusudiwa kwa sehemu kabla ya kuchanganywa, kutoka kwa "*post-mix*" Pochi, lililohifadhiwa kwa sehemu ambazo zimechanganywa.
 
 ![BTC204](assets/fr/128.webp)
 
-Mgawanyiko huu mkali wa UTXO hutumikia zaidi ya yote kuzuia ushirikiano wa ajali kati ya UTXO mchanganyiko na UTXO isiyochanganywa. Hakika, ikiwa viungo hivyo vinatokea, ufanisi wa CoinJoin kwenye mchanganyiko wa UTXO umefutwa bila mtumiaji kufahamu, na hivyo kuathiri usiri wa UTXO ambaye historia yake alifikiri kuwa amevunja. Viungo hivi vinaweza kutokea ama kwa kutumia tena Address katika kupata mchanganyiko wa UTXO na isiyochanganywa, au kupitia utumiaji wa CIOH (_Common-Input-Ownership Heuristic_), ikiwa mtumiaji anatumia UTXO zilizochanganywa na zisizochanganywa kama nyenzo za muamala sawa. Kwa kutenganisha jalada la kabla ya mchanganyiko na baada ya mchanganyiko, tunaepuka miunganisho kama hiyo ya kiajali na kumlinda mtumiaji dhidi ya hitilafu zisizokusudiwa.
+Mgawanyiko huu mkali wa UTXO hutumikia zaidi ya yote kuzuia ushirikiano wa ajali kati ya UTXO mchanganyiko na UTXO isiyochanganywa. Hakika, ikiwa viungo hivyo vinatokea, ufanisi wa CoinJoin kwenye mchanganyiko wa UTXO umefutwa bila mtumiaji kufahamu, na hivyo kuathiri usiri wa UTXO ambaye historia yake alifikiri kuwa amevunja. Viungo hivi vinaweza kutokea ama kwa kutumia tena Anwani katika kupata mchanganyiko wa UTXO na isiyochanganywa, au kupitia utumiaji wa CIOH (_Common-Input-Ownership Heuristic_), ikiwa mtumiaji anatumia UTXO zilizochanganywa na zisizochanganywa kama nyenzo za muamala sawa. Kwa kutenganisha jalada la kabla ya mchanganyiko na baada ya mchanganyiko, tunaepuka miunganisho kama hiyo ya kiajali na kumlinda mtumiaji dhidi ya hitilafu zisizokusudiwa.
 
 ![BTC204](assets/fr/129.webp)
 
-Utenganisho huu pia unatoa uwezekano wa kutumia sheria tofauti kati ya mseto wa awali na wa baada ya mchanganyiko katika kiwango cha programu kwingineko. Kwa mfano, katika kwingineko baada ya kuchanganya, programu inaweza kuzuia kuunganishwa kwa UTXO kwenye pembejeo ili kuzuia utumizi wa CIOH, jambo ambalo litahatarisha mfumo wa kutoweka wa mtumiaji. Pia inawezekana kusawazisha utumiaji wa hati na chaguo za muamala (kama vile kuripoti kwa RBF, kwa mfano) ili kuzuia kutambuliwa kwa alama za vidole za Wallet.
+Utenganisho huu pia unatoa uwezekano wa kutumia sheria tofauti kati ya mseto wa awali na wa baada ya mchanganyiko katika kiwango cha programu kwingineko. Kwa mfano, katika kwingineko baada ya kuchanganya, programu inaweza kuzuia kuunganishwa kwa UTXO kwenye pembejeo ili kuzuia utumizi wa CIOH, jambo ambalo litahatarisha mfumo wa kutoweka wa mtumiaji. Pia inawezekana kusawazisha utumiaji wa hati na chaguo za muamala (kama vile kuripoti kwa RBF, kwa mfano) ili kuzuia kutambuliwa kwa alama za vidole za Pochi.
 
-Kwa sasa, Whirlpool ndiyo utekelezaji pekee wa CoinJoin unaotumia kwa ukali itifaki ya Zerolink. Katika sura inayofuata, tutaangalia utekelezaji mbalimbali wa CoinJoin uliopo, na faida na hasara za kila moja.
+Kwa sasa, Whirlpool ndiyo utekelezaji pekee wa Kuunga sarafu unaotumia kwa ukali itifaki ya Zerolink. Katika sura inayofuata, tutaangalia utekelezaji mbalimbali wa kuunga sarafu uliopo, na faida na hasara za kila moja.
 
-## Utekelezaji wa CoinJoin
+## Utekelezaji wa kuunga sarafu
 
 <chapterId>e37ed073-9498-4e4f-820b-30951e829596</chapterId>
 
-*Mnamo mwaka wa 2024, tunashuhudia mabadiliko makubwa katika zana zinazopatikana kwa watumiaji wanaotaka kufanya mchanganyiko kwenye Bitcoin. Kwa sasa tuko katika hatua ya mabadiliko, na soko la CoinJoin linafanyiwa marekebisho makubwa. Sura hii hakika itasasishwa baada ya muda
+*Mnamo mwaka wa 2024, tunashuhudia mabadiliko makubwa katika zana zinazopatikana kwa watumiaji wanaotaka kufanya mchanganyiko kwenye Bitcoin. Kwa sasa tuko katika hatua ya mabadiliko, na soko la kuunga sarafu linafanyiwa marekebisho makubwa. Sura hii hakika itasasishwa baada ya muda
 
-Kwa sasa kuna utekelezaji 3 tofauti wa CoinJoin kwenye Bitcoin:
+Kwa sasa kuna utekelezaji 3 tofauti wa kuunga sarafu kwenye Bitcoin:
 
 
 - Whirlpool;
 - Wabisabi;
 - JoinMarket.
 
-Kila moja ya utekelezaji huu inalenga kuvunja historia ya UTXO kupitia miamala ya CoinJoin. Walakini, mifumo yao inatofautiana sana. Kwa hivyo ni muhimu kuelewa jinsi kila moja inavyofanya kazi, kwa hivyo unaweza kuchagua chaguo linalofaa zaidi mahitaji yako.
+Kila moja ya utekelezaji huu inalenga kuvunja historia ya UTXO kupitia miamala ya kuunga sarafu. Walakini, mifumo yao inatofautiana sana. Kwa hivyo ni muhimu kuelewa jinsi kila moja inavyofanya kazi, kwa hivyo unaweza kuchagua chaguo linalofaa zaidi mahitaji yako.
 
 ### JoinMarket
 
-JoinMarket, iliyoanzishwa mwaka wa 2015 na Adam Gibson na Chris Belcher, inajitokeza wazi kutoka kwa utekelezaji mwingine wa CoinJoin shukrani kwa muundo wake wa kipekee wa kuunganisha watumiaji. Mfumo huo unategemea soko la P2P Exchange ambapo watumiaji wengine, "watengenezaji", hufanya bitcoins zao zipatikane kwa kuchanganya, wakati wengine, "wachukuaji", hutumia fedha hizi kufanya coinjoins kwa malipo.
+JoinMarket, iliyoanzishwa mwaka wa 2015 na Adam Gibson na Chris Belcher, inajitokeza wazi kutoka kwa utekelezaji mwingine wa kuunga sarafu shukrani kwa muundo wake wa kipekee wa kuunganisha watumiaji. Mfumo huo unategemea soko la P2P Ubadilishanaji ambapo watumiaji wengine, "watengenezaji", hufanya bitcoins zao zipatikane kwa kuchanganya, wakati wengine, "wachukuaji", hutumia fedha hizi kufanya uungaji wa sarafu kwa malipo.
 
 ![BTC204](assets/fr/130.webp)
 
-Kwa mfano huu, "watengenezaji" hufanya bitcoins zao kupatikana kwa "wachukuaji" na kupokea ada kwa huduma yao. Wachukuaji, kwa upande wake, hulipa kutumia bitcoins za watengenezaji kufanya miamala yao ya CoinJoin. Ada za huduma hutofautiana kulingana na jukumu linalochukuliwa: "watengenezaji" hujilimbikiza ada za kutoa ukwasi, wakati "wachukuaji" hulipa ada. Soko linafanya kazi kwa uhuru, bila masharti ya matumizi.
+Kwa mfano huu, "watengenezaji" hufanya bitcoins zao kupatikana kwa "wachukuaji" na kupokea ada kwa huduma yao. Wachukuaji, kwa upande wake, hulipa kutumia bitcoins za watengenezaji kufanya miamala yao ya kuunga sarafu. Ada za huduma hutofautiana kulingana na jukumu linalochukuliwa: "watengenezaji" hujilimbikiza ada za kutoa ukwasi, wakati "wachukuaji" hulipa ada. Soko linafanya kazi kwa uhuru, bila masharti ya matumizi.
 
-Moja ya vikwazo kuu vya JoinMarket ni ugumu wake wa matumizi, ambayo inahitaji kiwango fulani cha faraja na vituo ili kuiendesha kwa ufanisi. Ingawa utata huu si kikwazo kwa mtumiaji mwenye uzoefu, unaweza kuzuia ufikiaji wa umma kwa ujumla. Hata hivyo, utangulizi wa hivi majuzi wa mtandao wa Interface unaoitwa JAM umerahisisha kidogo kutumia.
+Moja ya vikwazo kuu vya JoinMarket ni ugumu wake wa matumizi, ambayo inahitaji kiwango fulani cha faraja na vituo ili kuiendesha kwa ufanisi. Ingawa utata huu si kikwazo kwa mtumiaji mwenye uzoefu, unaweza kuzuia ufikiaji wa umma kwa ujumla. Hata hivyo, utangulizi wa hivi majuzi wa mtandao wa kiole sura unaoitwa JAM umerahisisha kidogo kutumia.
 
 ![BTC204](assets/fr/131.webp)
 
