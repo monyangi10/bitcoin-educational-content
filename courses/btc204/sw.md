@@ -2098,45 +2098,45 @@ Unapoamua kutumia UTXO zilizochanganywa, unaweza kufanya hivyo moja kwa moja kut
 
 Baada ya kuendesha mizunguko ya kuunga sarafu, mkakati bora ni kuweka UTXO zako katika akaunti ya **mchanganyiko wa posta**, ukingoja matumizi ya baadaye. Inashauriwa hata kuziruhusu zichanganywe tena kwa muda usiojulikana hadi utakapohitaji kuzitumia.
 
-Watumiaji wengine wanaweza kufikiria kuhamisha bitcoins zao zilizochanganywa hadi Wallet iliyolindwa na Hardware Wallet. Hili linawezekana, lakini ni muhimu kufuata mapendekezo ya Samourai Wallet kwa uangalifu ili usihatarishe usiri uliopatikana.
+Watumiaji wengine wanaweza kufikiria kuhamisha bitcoins zao zilizochanganywa hadi Pochi lililolindwa na Pochi la Hardware. Hili linawezekana, lakini ni muhimu kufuata mapendekezo ya Pochi la Samourai kwa uangalifu ili usihatarishe usiri uliopatikana.
 
-Kuunganisha UTXO ndio kosa la kawaida. Ili kuepuka CIOH (*Common-Input-Ownership-Heuristic*), ni lazima uepuke kuchanganya UTXO zilizochanganywa na UTXO ambazo hazijachanganywa katika shughuli hiyo hiyo. Hii inahitaji usimamizi makini wa UTXO zako ndani ya jalada lako, haswa katika suala la kuweka lebo.
+Kuunganisha UTXO ndio kosa la kawaida. Ili kuepuka CIOH (*Common-Input-Ownership-Heuristic*), ni lazima uepuke kuchanganya UTXO zilizochanganywa na UTXO ambazo hazijachanganywa katika shughuli hiyo hiyo. Hii inahitaji usimamizi makini wa UTXO zako ndani ya jalada lako, haswa katika suala la kuweka Alama.
 
 ![BTC204](assets/fr/148.webp)
 
-Uangalifu lazima pia uchukuliwe wakati wa kuunganisha UTXO zilizochanganywa. Ujumuishaji wa wastani unawezekana ikiwa UTXO zako zilizochanganywa zina utatuzi muhimu, lakini hii itapunguza usiri wa sehemu zako bila shaka. Hakikisha kwamba uunganisho si mwingi sana, wala haufanyiki baada ya idadi isiyotosha ya michanganyiko, katika hatari ya kuanzisha viungo vinavyoweza kupunguzwa kati ya UTXO zako kabla na baada ya mizunguko ya CoinJoin. Unapokuwa na shaka kuhusu upotoshaji huu, mbinu bora zaidi si kuunganisha UTXO za baada ya mchanganyiko, lakini kuzihamisha moja baada ya nyingine hadi kwa Hardware Wallet yako, na kutengeneza Address mpya tupu kila wakati. Kwa mara nyingine tena, kumbuka kuweka lebo kila UTXO unayopokea.
+Uangalifu lazima pia uchukuliwe wakati wa kuunganisha UTXO zilizochanganywa. Ujumuishaji wa wastani unawezekana ikiwa UTXO zako zilizochanganywa zina utatuzi muhimu, lakini hii itapunguza usiri wa sehemu zako bila shaka. Hakikisha kwamba uunganisho si mwingi sana, wala haufanyiki baada ya idadi isiyotosha ya michanganyiko, katika hatari ya kuanzisha viungo vinavyoweza kupunguzwa kati ya UTXO zako kabla na baada ya mizunguko ya kuunga sarafu. Unapokuwa na shaka kuhusu upotoshaji huu, mbinu bora zaidi si kuunganisha UTXO za baada ya mchanganyiko, lakini kuzihamisha moja baada ya nyingine hadi kwa Hardware Wallet yako, na kutengeneza Anwani mpya tupu kila wakati. Kwa mara nyingine tena, kumbuka kuweka alama kila UTXO unayopokea.
 
-Pia haipendekezi kuhamisha UTXO zako za posta hadi Wallet kwa kutumia hati ambazo hazitumiwi sana. Kwa mfano, ukiingiza Whirlpool kutoka kwa Multisig Wallet kwa kutumia hati za `P2WSH`, kuna uwezekano mdogo kwamba utachanganywa na watumiaji wengine ambao awali walikuwa na aina sawa ya Wallet. Ikiwa unachanganya tena mchanganyiko wako wa posta kwenye Multisig Wallet sawa, kiwango cha usiri wa bitcoins zako zilizochanganywa kitapunguzwa sana. Zaidi ya maandishi, kuna alama zingine nyingi za vidole za Wallet ambazo zinaweza kucheza hila kwako.
+Pia haipendekezi kuhamisha UTXO zako za posta hadi Pochi kwa kutumia hati ambazo hazitumiwi sana. Kwa mfano, ukiingiza Whirlpool kutoka kwa Pochi la Sahihi nyingi kwa kutumia hati za `P2WSH`, kuna uwezekano mdogo kwamba utachanganywa na watumiaji wengine ambao awali walikuwa na aina sawa ya Pochi. Ikiwa unachanganya tena mchanganyiko wako wa posta kwenye Pochi la sahihi nyingi sawa, kiwango cha usiri wa bitcoins zako zilizochanganywa kitapunguzwa sana. Zaidi ya maandishi, kuna alama zingine nyingi za vidole za Pochi ambazo zinaweza kucheza hila kwako.
 
-Kama ilivyo kwa muamala wowote wa Bitcoin, ni muhimu pia kutotumia tena kupokea Address. Kila muamala mpya lazima upokewe kwenye Address mpya, tupu.
+Kama ilivyo kwa muamala wowote wa Bitcoin, ni muhimu pia kutotumia tena kupokea Anwani. Kila muamala mpya lazima upokewe kwenye Anwani mpya, tupu.
 
 Suluhisho rahisi na salama zaidi ni kuacha UTXO zako zilizochanganyika zikiwa zimepumzika katika akaunti yao ya **mchanganyiko wa posta**, ukiziacha zichanganyike na kuzigusa tu ili zitumie. Pochi za Samurai na Sparrow zina ulinzi wa ziada dhidi ya hatari hizi zote za uchanganuzi wa minyororo. Ulinzi huu hukusaidia kuepuka kufanya makosa.
 
 ### Je, unadhibiti vipi ubadilishanaji wa sumu?
 
-Kisha, utahitaji kuwa mwangalifu kuhusu usimamizi wako wa doxxic Exchange, Exchange ambayo haikufanikiwa kuingia kwenye bwawa la CoinJoin. UTXO hizi zenye sumu, zinazotokana na matumizi ya Whirlpool, zinahatarisha ufaragha wako, kwa kuwa zinaanzisha kiungo kati yako na mtumiaji wa CoinJoin. Kwa hivyo ni muhimu kuzisimamia kwa uangalifu na sio kuzichanganya na UTXO zingine, haswa UTXO mchanganyiko.
+Kisha, utahitaji kuwa mwangalifu kuhusu usimamizi wako wa Ubadilishanaji wa doxxic , Ubadilishanaji ambao haukufanikiwa kuingia kwenye bwawa la kuunga sarafu. UTXO hizi zenye sumu, zinazotokana na matumizi ya Whirlpool, zinahatarisha ufaragha wako, kwa kuwa zinaanzisha kiungo kati yako na mtumiaji wa kuunga sarafu. Kwa hivyo ni muhimu kuzisimamia kwa uangalifu na sio kuzichanganya na UTXO zingine, haswa UTXO mchanganyiko.
 
 Hapa kuna baadhi ya mikakati ya kuzitumia:
 
 
-- Changanya kwenye madimbwi madogo:** Ikiwa UTXO yako yenye sumu ni kubwa ya kutosha kutoshea kwenye bwawa dogo yenyewe, zingatia kuichanganya. Hii mara nyingi ni chaguo bora zaidi. Hata hivyo, haishauriwi kuunganisha UTXO kadhaa zenye sumu ili kufikia bwawa, kwani hii inaweza kuunganisha maingizo yako tofauti;
+- Changanya kwenye madimbwi madogo:** Ikiwa UTXO yako yenye sumu ni kubwa ya kutosha kutoshea kwenye bwawa dogo lenyewe, zingatia kulichanganya. Hii mara nyingi ni chaguo bora zaidi. Hata hivyo, haishauriwi kuunganisha UTXO kadhaa zenye sumu ili kufikia bwawa, kwani hii inaweza kuunganisha maingizo yako tofauti;
 - Ziweke alama kama "zisizo za spendable":** Mbinu nyingine ni kuacha kuzitumia, ziweke alama kuwa "zisizo za spendable" katika akaunti yao maalum, na HODL pekee. Hii inahakikisha kwamba hutazitumia kimakosa. Iwapo thamani ya Bitcoin itapanda, madimbwi mapya yanayofaa zaidi UTXO zako zenye sumu yanaweza kuibuka;
 - Toa michango:** Zingatia kutoa michango, ingawa ni ya kiasi, kwa wasanidi programu wanaotumia Bitcoin na programu zinazohusiana. Unaweza pia kuchangia vyama vinavyokubali BTC. Ikiwa kudhibiti UTXO zako zenye sumu kunaonekana kuwa ngumu sana, unaweza kuziondoa na kutoa mchango;
-- Nunua kadi za zawadi:** Mifumo kama vile [Bitrefill](https://www.bitrefill.com/) hukuruhusu kutumia bitcoins za Exchange kwa kadi za zawadi ambazo zinaweza kutumika kwa wafanyabiashara mbalimbali. Hii inaweza kuwa njia ya kutengana na UTXO zako zenye sumu bila kupoteza thamani inayohusika;
-- Ziunganishe kwenye Monero:** Samourai Wallet inatoa huduma ya kubadilishana atomiki kati ya BTC na XMR. Hii ni bora kwa kudhibiti UTXO zenye sumu kwa kuziunganisha kwenye Monero, bila kuhatarisha usiri wako kupitia CIOH, kabla ya kuzirudisha kwa Bitcoin. Hata hivyo, chaguo hili linaweza kuwa la gharama kubwa kwa mujibu wa ada na malipo ya Mining kutokana na vikwazo vya ukwasi;
+- Nunua kadi za zawadi:** Mifumo kama vile [Bitrefill](https://www.bitrefill.com/) hukuruhusu kutumia bitcoins za Ubadilishanaji kwa kadi za zawadi ambazo zinaweza kutumika kwa wafanyabiashara mbalimbali. Hii inaweza kuwa njia ya kutengana na UTXO zako zenye sumu bila kupoteza thamani inayohusika;
+- Ziunganishe kwenye Monero:**Pochi la Samourai  linatoa huduma ya kubadilishana atomiki kati ya BTC na XMR. Hii ni bora kwa kudhibiti UTXO zenye sumu kwa kuziunganisha kwenye Monero, bila kuhatarisha usiri wako kupitia CIOH, kabla ya kuzirudisha kwa Bitcoin. Hata hivyo, chaguo hili linaweza kuwa la gharama kubwa kwa mujibu wa ada na malipo ya Uchimbaji kutokana na vikwazo vya ukwasi;
 - Zitume kwa Lightning Network:** Kuhamisha UTXO hizi kwa Lightning Network ili kufaidika na ada za ununuzi zilizopunguzwa kunaweza kuwa chaguo la kuvutia. Walakini, njia hii inaweza kufichua habari fulani kulingana na jinsi unavyotumia Umeme, na kwa hivyo inapaswa kutumiwa kwa tahadhari.
 
 ### Je, ninatumiaje Whirlpool?
 
-Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kunaswa kwa seva zao mnamo Aprili 24, 2024, zana ya Whirlpool haifanyi kazi tena, hata kwa wale walio na Dojo zao. Hapo awali, ilipatikana kwenye Samourai Wallet na Sparrow Wallet.
+Kufuatia kukamatwa kwa waanzilishi wa Pochi la Samourai na kunaswa kwa seva zao mnamo Aprili 24, 2024, zana ya Whirlpool haifanyi kazi tena, hata kwa wale walio na Dojo zao. Hapo awali, ilipatikana kwenye Pochi la Samourai na Pochi la Sparrow.
 
 ![BTC204](assets/fr/149.webp)
 
-Hata hivyo, bado inawezekana kwamba zana hii itawashwa tena katika wiki zijazo, kulingana na matokeo ya majaribio, au kuzinduliwa upya kwa njia tofauti. Kwa vyovyote vile, sidhani kama soko la Bitcoin CoinJoin litakuwa bila Supply kwa muda mrefu, kwani mahitaji yapo. Zaidi ya hayo, kwa vile modeli ya Whirlpool ndiyo ya juu zaidi katika suala la usiri, hakika itakuwa ni kielelezo cha chaguo kwa utekelezaji mwingine katika siku zijazo.
+Hata hivyo, bado inawezekana kwamba zana hii itawashwa tena katika wiki zijazo, kulingana na matokeo ya majaribio, au kuzinduliwa upya kwa njia tofauti. Kwa vyovyote vile, sidhani kama soko la kuunga sarafu ya Bitcoin  litakuwa bila usambazaji kwa muda mrefu, kwani mahitaji yapo. Zaidi ya hayo, kwa vile modeli ya Whirlpool ndiyo ya juu zaidi katika suala la usiri, hakika itakuwa ni kielelezo cha chaguo kwa utekelezaji mwingine katika siku zijazo.
 
 Tunafuatilia kwa karibu kesi hii na maendeleo katika zana zinazohusiana. Kuwa na uhakika kwamba tutakuwa tukisasisha kozi hii ya mafunzo kadri taarifa mpya zinavyopatikana.
 
-Katika sura inayofuata, tutajua "anonsets" ni nini, jinsi viashiria hivi vinavyohesabiwa, na jinsi vinaweza kutusaidia kukadiria ufanisi wa mizunguko ya CoinJoin.
+Katika sura inayofuata, tutajua "anonsets" ni nini, jinsi viashiria hivi vinavyohesabiwa, na jinsi vinaweza kutusaidia kukadiria ufanisi wa mizunguko ya kuunga sarafu.
 
 https://planb.network/tutorials/privacy/on-chain/coinjoin-sparrow-wallet-84def86d-faf5-4589-807a-83be60720c8b
 https://planb.network/tutorials/privacy/on-chain/coinjoin-samourai-wallet-e566803d-ab3f-4d98-9136-5462009262ef
@@ -2145,17 +2145,17 @@ https://planb.network/tutorials/privacy/on-chain/coinjoin-dojo-c4b20263-5b30-4c7
 
 <chapterId>be1093dc-1a74-40e5-9545-2b97a7d7d431</chapterId>
 
-Baada ya kusoma jinsi coinjoins hufanya kazi na maswala yanayohusika katika uchanganyaji mzuri, sasa tutajua jinsi ya kupima ufanisi wao. Tunawezaje kujua ikiwa mchakato wa kuunganisha umekuwa na matokeo, na ni kiwango gani cha kutokujulikana ambacho sehemu fulani imepata? Hiyo ndiyo tutakayopata katika sura hii yenye seti za kutokujulikana au "anonsets".
+Baada ya kusoma jinsi kuunga sarafu hufanya kazi na maswala yanayohusika katika uchanganyaji mzuri, sasa tutajua jinsi ya kupima ufanisi wao. Tunawezaje kujua ikiwa mchakato wa kuunganisha umekuwa na matokeo, na ni kiwango gani cha kutokujulikana ambacho sehemu fulani imepata? Hiyo ndiyo tutakayopata katika sura hii yenye seti za kutokujulikana au "anonsets".
 
-### Kikumbusho cha manufaa ya CoinJoin
+### Kikumbusho cha manufaa ya Kuunga sarafu
 
-Umuhimu wa CoinJoin upo katika uwezo wake wa kutoa ukataaji unaokubalika, kwa kupachika sehemu yako ndani ya kundi la sehemu zisizoweza kutofautishwa. Kusudi la hatua hii ni kuvunja viungo vya ufuatiliaji, kutoka zamani hadi sasa na kutoka sasa hadi zamani.
+Umuhimu wa kuunga sarafu upo katika uwezo wake wa kutoa ukataaji unaokubalika, kwa kupachika sehemu yako ndani ya kundi la sehemu zisizoweza kutofautishwa. Kusudi la hatua hii ni kuvunja viungo vya ufuatiliaji, kutoka zamani hadi sasa na kutoka sasa hadi zamani.
 
-Kwa maneno mengine, mchambuzi anayejua muamala wako wa awali (`Tx0`) wakati wa kuingiza mizunguko ya CoinJoin hapaswi kuwa na uwezo wa kutambua kwa uhakika UTXO yako wakati wa kuondoka kwa mizunguko ya remix (ingizo la mzunguko kwenye uchanganuzi wa kuondoka kwenye mzunguko).
+Kwa maneno mengine, mchambuzi anayejua muamala wako wa awali (`Tx0`) wakati wa kuingiza mizunguko ya kuunga sarafu hapaswi kuwa na uwezo wa kutambua kwa uhakika UTXO yako wakati wa kuondoka kwa mizunguko ya remix (ingizo la mzunguko kwenye uchanganuzi wa kuondoka kwenye mzunguko).
 
 ![BTC204](assets/fr/150.webp)
 
-Kinyume chake, mchambuzi anayejua UTXO yako wakati wa kuondoka kwa mizunguko ya CoinJoin lazima asiweze kubainisha shughuli ya awali wakati wa kuingiza mizunguko (kutoka kwa mzunguko hadi uchanganuzi wa kuingia kwenye mzunguko).
+Kinyume chake, mchambuzi anayejua UTXO yako wakati wa kuondoka kwa mizunguko ya kuunga sarafu lazima asiweze kubainisha shughuli ya awali wakati wa kuingiza mizunguko (kutoka kwa mzunguko hadi uchanganuzi wa kuingia kwenye mzunguko).
 
 ![BTC204](assets/fr/151.webp)
 
@@ -2163,9 +2163,9 @@ Ili kutathmini jinsi ilivyo ngumu kwa mchambuzi kuunganisha yaliyopita na ya sas
 
 ### Kuelewa anonsets
 
-Anonsets hutumiwa kama viashirio vya kutathmini kiwango cha usiri wa UTXO fulani. Hasa zaidi, wanapima idadi ya UTXO zisizoweza kutofautishwa ndani ya seti inayojumuisha sehemu inayochunguzwa. Mahitaji ya seti isiyo na usawa ya UTXO inamaanisha kuwa anonsets kawaida huhesabiwa kwenye mizunguko ya CoinJoin. Utumiaji wa viashiria hivi ni muhimu sana kwa viungo vya Whirlpool, kwa sababu ya usawa wao.
+Anonsets hutumiwa kama viashirio vya kutathmini kiwango cha usiri wa UTXO fulani. Hasa zaidi, wanapima idadi ya UTXO zisizoweza kutofautishwa ndani ya seti inayojumuisha sehemu inayochunguzwa. Mahitaji ya seti isiyo na usawa ya UTXO inamaanisha kuwa anonsets kawaida huhesabiwa kwenye mizunguko ya Kuunga sarafu. Utumiaji wa viashiria hivi ni muhimu sana kwa viungo vya Whirlpool, kwa sababu ya usawa wao.
 
-Ikiwa ni lazima, anonsets inaweza kutumika kuhukumu ubora wa coinjoins. Anonset kubwa ina maana kiwango cha juu cha kutokujulikana, kwani inakuwa vigumu kutofautisha UTXO maalum ndani ya seti ya homogeneous.
+Ikiwa ni lazima, anonsets inaweza kutumika kuhukumu ubora wa kuunga sarafu. Anonset kubwa ina maana kiwango cha juu cha kutokujulikana, kwani inakuwa vigumu kutofautisha UTXO maalum ndani ya seti ya homogeneous.
 
 Kuna aina 2 za anonsets:
 
@@ -2181,27 +2181,27 @@ Kiashiria hiki kinapima upinzani wa usiri wa chumba kwa uchanganuzi wa zamani ha
 
 ![BTC204](assets/fr/152.webp)
 
-Kipimo hiki kinatumika kukadiria kiwango ambacho UTXO yako imelindwa dhidi ya majaribio ya kuunda upya historia yake kutoka mahali pake pa kuingia hadi inapotoka katika mchakato wa CoinJoin.
+Kipimo hiki kinatumika kukadiria kiwango ambacho UTXO yako imelindwa dhidi ya majaribio ya kuunda upya historia yake kutoka mahali pake pa kuingia hadi inapotoka katika mchakato wa Kuunga sarafu.
 
-Kwa mfano, ikiwa muamala wako umeshiriki katika mzunguko wake wa kwanza wa CoinJoin na mizunguko miwili zaidi ya kushuka imekamilika, uondoaji tarajiwa wa sarafu yako utakuwa `13` :
+Kwa mfano, ikiwa muamala wako umeshiriki katika mzunguko wake wa kwanza wa Kuunga sarafu na mizunguko miwili zaidi ya kushuka imekamilika, uondoaji tarajiwa wa sarafu yako utakuwa `13` :
 
 ![BTC204](assets/fr/153.webp)
 
-Kwa mfano, hebu tufikirie kuwa sarafu yetu mwanzoni mwa mzunguko wa CoinJoin ina uwezekano wa kutoweka kwa `86,871`. Kwa maneno ya kiutendaji, hii inamaanisha kuwa imefichwa kati ya sehemu `86,871` zisizoweza kutofautishwa. Kwa mtazamaji wa nje ambaye anajua sarafu hii mwanzoni mwa mizunguko ya CoinJoin na kujaribu kufuatilia jinsi ilipotoka, atakabiliwa na `86,871` zinazowezekana za UTXO, kila moja ikiwa na uwezekano sawa wa kuwa sarafu anayotafuta.
+Kwa mfano, hebu tufikirie kuwa sarafu yetu mwanzoni mwa mzunguko wa Kuunga sarafu ina uwezekano wa kutoweka kwa `86,871`. Kwa maneno ya kiutendaji, hii inamaanisha kuwa imefichwa kati ya sehemu `86,871` zisizoweza kutofautishwa. Kwa mtazamaji wa nje ambaye anajua sarafu hii mwanzoni mwa mizunguko ya kuunga sarafu na kujaribu kufuatilia jinsi ilipotoka, atakabiliwa na `86,871` zinazowezekana za UTXO, kila moja ikiwa na uwezekano sawa wa kuwa sarafu anayotafuta.
 
 ![BTC204](assets/fr/154.webp)
 
 ### Anoset ya nyuma
 
-Anoset ya kurudi nyuma inaonyesha idadi ya vyanzo vinavyowezekana kwa sehemu fulani, kujua UTXO mwishoni mwa mzunguko. Kiashirio hiki kinapima upinzani wa usiri wa sehemu kwa uchanganuzi wa sasa hadi wa zamani (tokeo-kwa-ingizo), yaani, jinsi ilivyo vigumu kwa mchambuzi kufuatilia sehemu yako hadi asili yake, kabla ya mizunguko ya CoinJoin. Jina la kiashirio hiki ni "kuacha nyuma", au "vipimo vinavyoonekana nyuma".
+Anoset ya kurudi nyuma inaonyesha idadi ya vyanzo vinavyowezekana kwa sehemu fulani, kujua UTXO mwishoni mwa mzunguko. Kiashirio hiki kinapima upinzani wa usiri wa sehemu kwa uchanganuzi wa sasa hadi wa zamani (tokeo-kwa-ingizo), yaani, jinsi ilivyo vigumu kwa mchambuzi kufuatilia sehemu yako hadi asili yake, kabla ya mizunguko ya kuunga sarafu. Jina la kiashirio hiki ni "kuacha nyuma", au "vipimo vinavyoonekana nyuma".
 
 ![BTC204](assets/fr/155.webp)
 
-Kwa kujua UTXO yako wakati wa kuondoka kwa mizunguko, uwekajifichaji wa nyuma huamua idadi ya miamala ya Tx0 inayoweza kujumuisha kuingia kwako kwenye mizunguko ya CoinJoin. Katika mchoro hapa chini, hii inalingana na jumla ya Bubbles zote za machungwa.
+Kwa kujua UTXO yako wakati wa kuondoka kwa mizunguko, uwekajifichaji wa nyuma huamua idadi ya miamala ya Tx0 inayoweza kujumuisha kuingia kwako kwenye mizunguko ya kuunga sarafu. Katika mchoro hapa chini, hii inalingana na jumla ya Bubbles zote za machungwa.
 
 ![BTC204](assets/fr/156.webp)
 
-Kwa mfano, hebu tufikirie kuwa sehemu yetu ya CoinJoin ina urejeshi anonseti wa `42,185`. Kwa vitendo, hii inamaanisha kuwa kuna `42,185` vyanzo vinavyowezekana vya UTXO hii. Ikiwa mwangalizi wa nje atatambua sarafu hii mwishoni mwa mizunguko na kutafuta kufuatilia asili yake, atakabiliwa na `42,185` vyanzo vinavyowezekana, vyote vikiwa na uwezekano sawa wa kuwa asili inayotafutwa.
+Kwa mfano, hebu tufikirie kuwa sehemu yetu ya kuunga sarafu ina urejeshi anonseti wa `42,185`. Kwa vitendo, hii inamaanisha kuwa kuna `42,185` vyanzo vinavyowezekana vya UTXO hii. Ikiwa mwangalizi wa nje atatambua sarafu hii mwishoni mwa mizunguko na kutafuta kufuatilia asili yake, atakabiliwa na `42,185` vyanzo vinavyowezekana, vyote vikiwa na uwezekano sawa wa kuwa asili inayotafutwa.
 
 ![BTC204](assets/fr/157.webp)
 
@@ -2211,16 +2211,16 @@ Inawezekana kuhesabu anonsets kwa mikono kwa kutumia Block explorer kwa ensemble
 
 ![BTC204](assets/fr/158.webp)
 
-Kama tulivyoona katika sura hii, anonsets zinaweza kuhesabiwa tu ikiwa kuna homogeneity fulani katika muundo wa CoinJoin. Katika sura inayofuata, tutajua jinsi ya kuhesabu usawa huu kwenye muamala wa Bitcoin, iwe ni CoinJoin au shughuli ya kitamaduni zaidi.
+Kama tulivyoona katika sura hii, anonsets zinaweza kuhesabiwa tu ikiwa kuna homogeneity fulani katika muundo wa Kuunga sarafu. Katika sura inayofuata, tutajua jinsi ya kuhesabu usawa huu kwenye muamala wa Bitcoin, iwe ni Kuunga sarafu au shughuli ya kitamaduni zaidi.
 
 https://planb.network/tutorials/privacy/analysis/wst-anonsets-0354b793-c301-48af-af75-f87569756375
 ## Entropy
 
 <chapterId>e4fe289d-618b-49a2-84c9-68c562e708b4</chapterId>
 
-Kama tulivyoona katika sehemu hii ya coinjoins, homogeneity ya UTXOs katika pembejeo na pato ina jukumu muhimu katika kuboresha usiri wa shughuli ya Bitcoin. Kigezo hiki kinajenga ukataaji unaowezekana katika uso wa uchambuzi wa Blockchain. Mbinu kadhaa zinaweza kutumika kupima homogeneity hii, lakini mojawapo ya ufanisi zaidi, kwa maoni yangu, ni matumizi ya viashiria vinavyotolewa na chombo cha *Boltzmann*, kilichotengenezwa na timu za OXT na Samourai Wallet, na hasa entropy ya shughuli. Hili ndilo tutakaloangalia kwa undani katika sura hii.
+Kama tulivyoona katika sehemu hii ya kuunga sarafu, homogeneity ya UTXOs katika pembejeo na pato ina jukumu muhimu katika kuboresha usiri wa shughuli ya Bitcoin. Kigezo hiki kinajenga ukataaji unaowezekana katika uso wa uchambuzi wa Blockchain. Mbinu kadhaa zinaweza kutumika kupima homogeneity hii, lakini mojawapo ya ufanisi zaidi, kwa maoni yangu, ni matumizi ya viashiria vinavyotolewa na chombo cha *Boltzmann*, kilichotengenezwa na timu za OXT na Pochi la Samourai, na hasa entropy ya shughuli. Hili ndilo tutakaloangalia kwa undani katika sura hii.
 
-Tofauti na anonsets, ambazo zimehesabiwa kwa seti ya shughuli, viashiria vilivyowasilishwa hapa vinazingatia shughuli moja, iwe ni CoinJoin au shughuli ya jadi zaidi.
+Tofauti na anonsets, ambazo zimehesabiwa kwa seti ya shughuli, viashiria vilivyowasilishwa hapa vinazingatia shughuli moja, iwe ni kuunga sarafu au shughuli ya jadi zaidi.
 
 ### Idadi ya tafsiri
 
@@ -2248,17 +2248,17 @@ Katika muktadha mahususi wa uchanganuzi wa Blockchain, entropy pia ni jina la ki
 
 Wakati shughuli inawasilisha idadi kubwa ya tafsiri zinazowezekana, mara nyingi inafaa zaidi kurejelea entropy yake. Kiashiria hiki kinapima ukosefu wa ujuzi wa wachambuzi kuhusu usanidi halisi wa shughuli. Kwa maneno mengine, juu ya entropy, inakuwa vigumu zaidi kwa wachambuzi kutambua mtiririko wa bitcoins kati ya pembejeo na matokeo.
 
-Katika mazoezi, entropy huonyesha kama, kutoka kwa mtazamo wa mtazamaji wa nje, shughuli inawasilisha tafsiri nyingi zinazowezekana, kulingana na kiasi cha pembejeo na matokeo, bila kuzingatia mifumo mingine ya nje au ya ndani na heuristics. Kwa hivyo entropy ya juu ni sawa na usiri mkubwa zaidi wa shughuli.
+Katika mazoezi, entropy huonyesha kama, kutoka kwa mtazamo wa mtazamaji wa nje, shughuli inawasilisha tafsiri nyingi zinazowezekana, kulingana na kiasi cha pembejeo na matokeo, bila kuzingatia mifumo mingine ya nje au ya ndani na urithi. Kwa hivyo entropy ya juu ni sawa na usiri mkubwa zaidi wa shughuli.
 
-Entropy inafafanuliwa kama logarithm ya binary ya idadi ya michanganyiko inayowezekana. Hapa kuna fomula iliyotumiwa na $E$ entropy ya muamala na $C$ idadi ya tafsiri zinazowezekana:
+Entropy inafafanuliwa kama logarithmu ya binary ya idadi ya michanganyiko inayowezekana. Hapa kuna fomula iliyotumiwa na $E$ entropy ya muamala na $C$ idadi ya tafsiri zinazowezekana:
 
 $$
 E = \log_2(C)
 $$
 
-Katika hisabati, logarithm binary (base-2 logarithm) ni uendeshaji kinyume wa upanuzi wa 2. Kwa maneno mengine, logariti ya binary ya $x$ ni kipeo ambacho $2$ lazima iinulishwe ili kupata $x$. Kwa hiyo kiashiria hiki kinaonyeshwa kwa bits.
+Katika hisabati, logarithmu binary (base-2 logarithmu) ni uendeshaji kinyume wa upanuzi wa 2. Kwa maneno mengine, logariti ya binary ya $x$ ni kipeo ambacho $2$ lazima iinulishwe ili kupata $x$. Kwa hiyo kiashiria hiki kinaonyeshwa kwa bits.
 
-Wacha tuchukue mfano wa hesabu ya entropy kwa shughuli ya CoinJoin iliyoundwa kulingana na mfano wa Whirlpool 5x5, ambayo, kama ilivyotajwa katika sehemu iliyopita, ina tafsiri kadhaa zinazowezekana $1\,496$ :
+Wacha tuchukue mfano wa hesabu ya entropy kwa shughuli ya Kuunga sarafu iliyoundwa kulingana na mfano wa Whirlpool 5x5, ambayo, kama ilivyotajwa katika sehemu iliyopita, ina tafsiri kadhaa zinazowezekana $1\,496$ :
 
 $$
 \begin{align*}
@@ -2268,9 +2268,9 @@ E &= 10.5469 \text{ bits}
 \end{align*}
 $$
 
-Kwa hivyo, shughuli hii ya CoinJoin ina entropy ya bits $ 10.5469$, ambayo inachukuliwa kuwa ya kuridhisha sana. Kadiri thamani hii inavyoongezeka, ndivyo tafsiri tofauti zaidi shughuli inavyokubali, na hivyo kuimarisha kiwango chake cha usiri.
+Kwa hivyo, shughuli hii ya kuunga sarafu ina entropy ya bits $ 10.5469$, ambayo inachukuliwa kuwa ya kuridhisha sana. Kadiri thamani hii inavyoongezeka, ndivyo tafsiri tofauti zaidi shughuli inavyokubali, na hivyo kuimarisha kiwango chake cha usiri.
 
-Kwa muamala wa CoinJoin 8x8 wenye tafsiri $9\,934\,563$, entropy itakuwa :
+Kwa muamala wa kuunga sarafu 8x8 wenye tafsiri $9\,934\,563$, entropy itakuwa :
 
 $$
 \begin{align*}
@@ -2300,7 +2300,7 @@ Kulingana na entropy ya muamala, tunaweza pia kukokotoa ufanisi wake kulingana n
 
 Hii inatuleta kwenye dhana ya entropy ya juu zaidi, ambayo inalingana na entropy ya juu zaidi ambayo muundo maalum wa shughuli unaweza kufikia kinadharia. Ufanisi wa muamala kisha huhesabiwa kwa kulinganisha entropy hii ya juu zaidi na entropy halisi ya shughuli inayochanganuliwa.
 
-Formula inayotumika ni kama ifuatavyo:
+Mbinu inayotumika ni kama ifuatavyo:
 
 
 - e_R$: entropy halisi ya shughuli iliyoonyeshwa kwa bits;
@@ -2311,7 +2311,7 @@ $$
 Ef = E_R - E_M
 $$
 
-Kwa mfano, kwa muundo wa Whirlpool 5x5 CoinJoin, entropy ya juu ni $10.5469$ :
+Kwa mfano, kwa muundo wa Whirlpool 5x5 kuunga sarafu, entropy ya juu ni $10.5469$ :
 
 $$
 \begin{align*}
@@ -2355,7 +2355,7 @@ $$
 E_D = \frac{E}{T}
 $$
 
-Wacha tuchukue mfano wa Whirlpool 5x5 CoinJoin:
+Wacha tuchukue mfano wa Whirlpool 5x5 kuunga sarafu:
 
 $$
 \begin{align*}
@@ -2367,7 +2367,7 @@ E_D &= 1.054 \text{ bits}
 \end{align*}
 $$
 
-Wacha tuhesabu pia msongamano wa entropy wa 8x8 Whirlpool CoinJoin:
+Wacha tuhesabu pia msongamano wa entropy wa 8x8 Whirlpool kuunga sarafu:
 
 $$
 \begin{align*}
@@ -2379,13 +2379,13 @@ E_D &= 1.453 \text{ bits}
 \end{align*}
 $$
 
-Kwa kuchambua msongamano wa entropy wa aina hizi mbili za CoinJoin, inakuwa wazi kwamba, hata wakati wa kuhalalisha entropy kwa idadi ya Elements, "Surge Cycle 8x8" CoinJoin hutoa kutokuwa na uhakika zaidi kwa uchambuzi.
+Kwa kuchambua msongamano wa entropy wa aina hizi mbili za Kuunga sarafu, inakuwa wazi kwamba, hata wakati wa kuhalalisha entropy kwa idadi ya Vipengele, "Surge Cycle 8x8" kuunga sarafu hutoa kutokuwa na uhakika zaidi kwa uchambuzi.
 
 ### Bao la Boltzmann
 
 Sehemu nyingine ya habari iliyochanganuliwa katika shughuli ni alama ya Boltzmann ya kila kipengele kinachohusiana na kingine. Hili ni jedwali la uwezekano wa kulinganisha kati ya pembejeo na matokeo. Jedwali hili linaonyesha, kupitia alama ya Boltzmann, uwezekano wa masharti kwamba ingizo mahususi limeunganishwa na matokeo fulani. Kwa hiyo ni kipimo cha kiasi cha uwezekano wa masharti kwamba ushirikiano kati ya ingizo na pato katika shughuli itatokea, kulingana na uwiano wa idadi ya matukio mazuri ya tukio hili kwa jumla ya idadi ya matukio iwezekanavyo, katika seti ya tafsiri.
 
-Kwa kutumia mfano wa Whirlpool CoinJoin, jedwali la uwezekano wa masharti lingeangazia uwezekano wa kiungo kati ya kila ingizo na pato, likitoa kipimo cha kiasi cha utata wa vyama katika shughuli ya ununuzi:
+Kwa kutumia mfano wa Whirlpool Kuunga sarafu, jedwali la uwezekano wa masharti lingeangazia uwezekano wa kiungo kati ya kila ingizo na pato, likitoa kipimo cha kiasi cha utata wa vyama katika shughuli ya ununuzi:
 
 | % | Pato 0 | Pato 1 | Pato 2 | Pato 3 | Pato 4 |
 
@@ -2414,7 +2414,7 @@ $$
 \end{align*}
 $$
 
-Ikiwa tutachukua mfano wa Whirlpool 8x8 Surge Cycle CoinJoin, jedwali la Boltzmann lingeonekana kama hii:
+Ikiwa tutachukua mfano wa Whirlpool 8x8 Surge Cycle kuunga sarafu, jedwali la Boltzmann lingeonekana kama hii:
 
 | NJE.0 | NJE.1 | NJE.2 | NJE.3 | NJE.4 | NJE.5 | NJE.6 | NJE.7 |
 
@@ -2450,11 +2450,11 @@ Hapa, tunaona kwamba uwezekano wa kila pato linalotokana na pembejeo #0 ni 100%.
 
 Tunaweza pia kuhesabu idadi ya viungo vya kuamua katika shughuli ya ununuzi. Kiashiria hiki kinaonyesha ni miunganisho mingapi kati ya pembejeo na matokeo katika shughuli iliyochanganuliwa isiyo na shaka, na uwezekano wa 100%. Kiashiria hiki kinaweza kukamilika kwa kuhesabu uwiano wa viungo vya kuamua. Uwiano huo unatoa mtazamo wa uzito wa viungo hivi bainifu ndani ya jumla ya viungo vya muamala.
 
-Kwa mfano, shughuli ya Whirlpool CoinJoin haina viungo vya kuamua kati ya pembejeo na matokeo, na kwa hiyo inaonyesha kiashiria cha viungo 0 na uwiano wa 0%. Kinyume chake, katika shughuli yetu ya pili rahisi ya malipo iliyochunguzwa (kwa pembejeo moja na matokeo 2), kiashiria kinatuambia kuwa kuna viungo 2 vya kuamua, na uwiano unafikia 100%. Kwa maneno mengine, kiashiria cha sifuri kinaonyesha usiri bora, shukrani kwa kukosekana kwa viungo vya moja kwa moja na visivyoweza kuepukika kati ya pembejeo na matokeo.
+Kwa mfano, shughuli ya Whirlpool kuunga sarafu haina viungo vya kuamua kati ya pembejeo na matokeo, na kwa hiyo inaonyesha kiashiria cha viungo 0 na uwiano wa 0%. Kinyume chake, katika shughuli yetu ya pili rahisi ya malipo iliyochunguzwa (kwa pembejeo moja na matokeo 2), kiashiria kinatuambia kuwa kuna viungo 2 vya kuamua, na uwiano unafikia 100%. Kwa maneno mengine, kiashiria cha sifuri kinaonyesha usiri bora, shukrani kwa kukosekana kwa viungo vya moja kwa moja na visivyoweza kuepukika kati ya pembejeo na matokeo.
 
 ### Je, unahesabu vipi viashiria hivi?
 
-Kuhesabu viashirio hivi kwa mikono kwa kutumia milinganyo ambayo nimetoa ni moja kwa moja. Ugumu upo hasa katika kuamua idadi ya tafsiri zinazowezekana za muamala. Kwa shughuli ya classic, hesabu hii inaweza kufanywa kwa mkono. Kwa CoinJoin, hata hivyo, kazi ni ngumu zaidi.
+Kuhesabu viashirio hivi kwa mikono kwa kutumia milinganyo ambayo nimetoa ni moja kwa moja. Ugumu upo hasa katika kuamua idadi ya tafsiri zinazowezekana za muamala. Kwa shughuli ya classic, hesabu hii inaweza kufanywa kwa mkono. Kwa kuunga sarafu, hata hivyo, kazi ni ngumu zaidi.
 
 Hapo awali, kulikuwa na zana ya Python inayoitwa _Boltzmann Calculator_, iliyotengenezwa na timu za OXT na Samourai, ambayo ilihesabu kiashirio hiki kiotomatiki kwa shughuli ya Bitcoin :
 
@@ -2466,28 +2466,28 @@ Pia iliwezekana kutumia tovuti ya KYCP.org kwa uchanganuzi huu:
 
 Kwa bahati mbaya, kufuatia kukamatwa kwa waanzilishi wa Samourai, zana hizi hazifanyi kazi tena.
 
-Kwa kuwa sasa tumeangazia sainjoins kwa kina, tutaangalia mbinu zingine za faragha zinazopatikana kwenye Bitcoin katika sehemu ya mwisho ya kozi yetu. Tutaangalia viungo vya malipo, aina maalum za shughuli za pseudo-CoinJoin, itifaki tuli za Address, pamoja na hatua za kuimarisha usiri sio kwa kiwango cha shughuli yenyewe, lakini kwa kiwango cha mtandao wa nodi.
+Kwa kuwa sasa tumeangazia sainjoins kwa kina, tutaangalia mbinu zingine za faragha zinazopatikana kwenye Bitcoin katika sehemu ya mwisho ya kozi yetu. Tutaangalia viungo vya malipo, aina maalum za shughuli za pseudo-CoinJoin, itifaki tuli za Anwani, pamoja na hatua za kuimarisha usiri sio kwa kiwango cha shughuli yenyewe, lakini kwa kiwango cha mtandao wa nodi.
 
 https://planb.network/tutorials/privacy/analysis/boltzmann-entropy-738e45af-18a6-4ce6-af1a-1bf58e15f1fe
 # Kuelewa changamoto za mbinu zingine za hali ya juu za usiri
 
 <partId>19989ae6-d608-4acf-b698-2cf1e7e5e6ae</partId>
 
-## PayJoin shughuli
+## ulipaji kujiunga shughuli
 
 <chapterId>c1e90b95-f709-4574-837b-2ec26b11286f</chapterId>
 
-CoinJoin kwa sasa ndiyo njia mwafaka zaidi ya kutambulisha kutokuwa na uhakika katika ufuatiliaji wa sehemu katika uchanganuzi wa mnyororo. Kama tulivyoona katika sura zilizopita, ili kupata mchanganyiko wa utendaji wa juu, pembejeo na matokeo lazima yawe sawa iwezekanavyo. Kwa kuongeza, ni muhimu kwamba sehemu ziunganishwe katika kundi kubwa iwezekanavyo ili kuongeza anonsets. Kwa hivyo, ili coinjoins ziwe na ufanisi, lazima zihusishe idadi kubwa ya sehemu za sare. Wingi huu wa mahitaji unamaanisha kuwa shughuli za CoinJoin zina muundo mgumu sana: kiasi hupangwa mapema, na washiriki wote lazima wazingatie ili kuhakikisha usawa wa mchakato. Kwa kuongeza, coinjoins zinahitaji maingiliano kati ya washiriki wote na mratibu wakati wa ujenzi wa shughuli.
+Kuunga sarafu kwa sasa ndiyo njia mwafaka zaidi ya kutambulisha kutokuwa na uhakika katika ufuatiliaji wa sehemu katika uchanganuzi wa mnyororo. Kama tulivyoona katika sura zilizopita, ili kupata mchanganyiko wa utendaji wa juu, pembejeo na matokeo lazima yawe sawa iwezekanavyo. Kwa kuongeza, ni muhimu kwamba sehemu ziunganishwe katika kundi kubwa iwezekanavyo ili kuongeza anonsets. Kwa hivyo, ili kuunga sarafu ziwe na ufanisi, lazima zihusishe idadi kubwa ya sehemu za sare. Wingi huu wa mahitaji unamaanisha kuwa shughuli za Kuunga sarafu zina muundo mgumu sana: kiasi hupangwa mapema, na washiriki wote lazima wazingatie ili kuhakikisha usawa wa mchakato. Kwa kuongeza, kuunga sarafu zinahitaji maingiliano kati ya washiriki wote na mratibu wakati wa ujenzi wa shughuli.
 
-Mahitaji haya hufanya CoinJoin isifae kwa malipo ya moja kwa moja. Kwa mfano, ikiwa una sarafu ya 1M Sats kwenye bwawa la CoinJoin, kuitumia moja kwa moja kama malipo itakuwa ngumu. Itahitaji kusawazisha na washiriki wengine na mratibu ili kuunda muamala shirikishi kwa usahihi wakati unahitaji kufanya malipo, na kiasi cha ununuzi kitalazimika kuendana haswa na thamani ya sarafu yako, ambayo kwa hakika haiwezekani. Kwa hivyo, muamala wa CoinJoin kwa asili yake ni shughuli ya kufagia shirikishi, yaani, kwa kawaida huwa ni wamiliki wale wale wa pembejeo tunazopata katika matokeo.
+Mahitaji haya hufanya Kuunga sarafu isifae kwa malipo ya moja kwa moja. Kwa mfano, ikiwa una sarafu ya 1M Sats kwenye bwawa la Kuunga sarafu, kuitumia moja kwa moja kama malipo itakuwa ngumu. Itahitaji kusawazisha na washiriki wengine na mratibu ili kuunda muamala shirikishi kwa usahihi wakati unahitaji kufanya malipo, na kiasi cha ununuzi kitalazimika kuendana haswa na thamani ya sarafu yako, ambayo kwa hakika haiwezekani. Kwa hivyo, muamala wa Kuunga sarafu kwa asili yake ni shughuli ya kufagia shirikishi, yaani, kwa kawaida huwa ni wamiliki wale wale wa pembejeo tunazopata katika matokeo.
 
 Hata hivyo, itakuwa ya kuvutia kuwa na miundo ya shughuli ambayo inaruhusu malipo kufanywa kwa njia ya vitendo, wakati huo huo kuanzisha shaka katika uchanganuzi wa minyororo. Hili ndilo hasa tutakalokuwa tukiangalia katika sura hii na inayofuata.
 
-### Muamala wa PayJoin ni nini?
+### Muamala wa ulipaji wa kujiunga ni nini?
 
-PayJoin ni muundo mahususi wa muamala wa Bitcoin ambao huongeza faragha ya mtumiaji wakati wa kutumia kwa kushirikiana na mpokeaji malipo.
+Ulipaji wa kujiunga ni muundo mahususi wa muamala wa Bitcoin ambao huongeza faragha ya mtumiaji wakati wa kutumia kwa kushirikiana na mpokeaji malipo.
 
-LaurentMT kwa mara ya kwanza aliitaja njia hii kama "*steganographic transaction*" mnamo 2015, kulingana na hati inayopatikana. [hapa](https://gist.githubusercontent.com/LaurentMT/e758767ca4038ac40aaf/raw/c8125f6a3c3d0e90246dc96d3b603690ab6f1dcc/gistfile1.txt). Mbinu hiyo ilipitishwa baadaye na Samourai Wallet, ambayo mnamo 2018 ikawa mteja wa kwanza kuitekeleza kwa zana ya Stowaway. Dhana ya PayJoin pia inaweza kupatikana katika [BIP79](https://github.com/Bitcoin/bips/blob/master/bip-0079.mediawiki) na [BIP78](https://github.com/Bitcoin/bips/blob/master/bip-0078).mediawiki). Maneno kadhaa hutumiwa kuteua PayJoin:
+LaurentMT kwa mara ya kwanza aliitaja njia hii kama "*steganographic transaction*" mnamo 2015, kulingana na hati inayopatikana. [hapa](https://gist.githubusercontent.com/LaurentMT/e758767ca4038ac40aaf/raw/c8125f6a3c3d0e90246dc96d3b603690ab6f1dcc/gistfile1.txt). Mbinu hiyo ilipitishwa baadaye na Pochi la Samourai, ambalo mnamo 2018 likawa mteja wa kwanza kulitekeleza kwa zana ya Stowaway. Dhana ya ulipaji wa kujiunga pia inaweza kupatikana katika [BIP79](https://github.com/Bitcoin/bips/blob/master/bip-0079.mediawiki) na [BIP78](https://github.com/Bitcoin/bips/blob/master/bip-0078).mediawiki). Maneno kadhaa hutumiwa kuteua kulipa kujiunga:
 
 
 - PayJoin ;
@@ -2495,9 +2495,9 @@ LaurentMT kwa mara ya kwanza aliitaja njia hii kama "*steganographic transaction
 - P2EP (*Pay-to-End-Point*) ;
 - Shughuli ya Steganographic.
 
-Kipengele maalum cha PayJoin kiko katika uwezo wake wa generate shughuli ambayo inaonekana ya kawaida kwa mtazamo wa kwanza, lakini kwa kweli ni mini CoinJoin kati ya watu wawili. Ili kufanikisha hili, muundo wa muamala unahusisha mpokeaji malipo katika pembejeo pamoja na mtumaji halisi. Kwa hivyo mpokeaji hujumuisha malipo kwake mwenyewe katikati ya shughuli ambayo yenyewe inamwezesha kulipwa.
+Kipengele maalum cha kulipa kujiunga kiko katika uwezo wake wa generate shughuli ambayo inaonekana ya kawaida kwa mtazamo wa kwanza, lakini kwa kweli ni mini kuunga sarafu kati ya watu wawili. Ili kufanikisha hili, muundo wa muamala unahusisha mpokeaji malipo katika pembejeo pamoja na mtumaji halisi. Kwa hivyo mpokeaji hujumuisha malipo kwake mwenyewe katikati ya shughuli ambayo yenyewe inamwezesha kulipwa.
 
-Hebu tuchukue mfano ili kuelewa vizuri mchakato huu. Alice ananunua baguette kwa 4,000 Sats kwa kutumia UTXO ya 10,000 Sats na kuchagua PayJoin. Mwokaji wake, Bob, anaongeza UTXO ya 15,000 Sats yake kama pembejeo, ambayo anaipata kikamilifu kama pato, pamoja na 4,000 Sats ya Alice.
+Hebu tuchukue mfano ili kuelewa vizuri mchakato huu. Alice ananunua baguette kwa 4,000 Sats kwa kutumia UTXO ya 10,000 Sats na kuchagua kulipa kujiunga. Mwokaji wake, Bob, anaongeza UTXO ya 15,000 Sats yake kama pembejeo, ambayo anaipata kikamilifu kama pato, pamoja na 4,000 Sats ya Alice.
 
 ![BTC204](assets/fr/165.webp)
 
