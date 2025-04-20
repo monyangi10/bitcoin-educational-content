@@ -2957,35 +2957,35 @@ Kama tulivyoona katika sehemu ya 3, kutumia tena Anwani ni kikwazo kikubwa kwa u
 
 ![BTC204](assets/fr/210.webp)
 
-Katika mfumo wa benki wa kitamaduni, kwa mfano, tumezoea kugawana IBAN yetu, ambayo inabaki kuwa sawa. Mara tu tunapompa mtu, anaweza kututumia malipo mengi bila kuwasiliana nasi tena. Neo-benki pia hutoa uwezekano wa kisasa zaidi, kama vile matumizi ya barua pepe za kipekee kwenye PayPal au RevTags on Revolut. Hata nje ya nyanja ya kifedha, vitambulishi vyetu vya kila siku kama vile posta Address, nambari ya simu na barua pepe Address pia ni ya kipekee na ya kudumu. Si lazima tuyasasishe kwa kila mwingiliano mpya.
+Katika mfumo wa benki wa kitamaduni, kwa mfano, tumezoea kugawana IBAN yetu, ambayo inabaki kuwa sawa. Mara tu tunapompa mtu, anaweza kututumia malipo mengi bila kuwasiliana nasi tena. Neo-benki pia hutoa uwezekano wa kisasa zaidi, kama vile matumizi ya barua pepe za kipekee kwenye PayPal au RevTags on Revolut. Hata nje ya nyanja ya kifedha, vitambulishi vyetu vya kila siku kama vile Anwani ya posta, nambari ya simu na barua pepe Anwani pia ni ya kipekee na ya kudumu. Si lazima tuyasasishe kwa kila mwingiliano mpya.
 
 ![BTC204](assets/fr/211.webp)
 
-Hata hivyo, Bitcoin inafanya kazi tofauti: Address mpya inayopokea lazima itolewe kwa kila shughuli inayoingia. Maelewano haya kati ya urahisi wa utumiaji na usiri yanarejea kwenye chimbuko la Karatasi Nyeupe ya Bitcoin. Mara tu baada ya kuchapishwa kwa toleo la kwanza la hati yake mwishoni mwa 2008, Satoshi Nakamoto ilikuwa tayari inatutahadharisha juu ya hatari hii:
+Hata hivyo, Bitcoin inafanya kazi tofauti: Anwani mpya inayopokea lazima itolewe kwa kila shughuli inayoingia. Maelewano haya kati ya urahisi wa utumiaji na usiri unarejea kwenye chimbuko la Karatasi Nyeupe ya Bitcoin. Mara tu baada ya kuchapishwa kwa toleo la kwanza la hati yake mwishoni mwa 2008, Satoshi Nakamoto alikuwa tayari inatutahadharisha juu ya hatari hii:
 
 **Kama ngome ya ziada, jozi mpya ya funguo inaweza kutumika kwa kila shughuli ili kuwatenganisha na mmiliki wa kawaida.
 
-Kuna njia nyingi za kupokea malipo mengi kwenye kitambulisho kimoja bila kutumia tena Address. Kila moja ina faida na hasara zake. Miongoni mwa mbinu hizi ni BIP47, pendekezo lililotayarishwa na Justus Ranvier na kuchapishwa mwaka wa 2015. Pendekezo hili linalenga kuunda misimbo ya malipo inayoweza kutumika tena inayowezesha miamala mingi kutekelezwa dhidi ya mtu yuleyule, huku ikiepuka kutumia tena Address. Kwa kifupi, BIP47 inalenga kutoa mfumo wa malipo kuwa rahisi kama kitambulisho cha kipekee, huku ikihifadhi usiri wa miamala.
+Kuna njia nyingi za kupokea malipo mengi kwenye kitambulisho kimoja bila kutumia Anwani tena. Kila moja ina faida na hasara zake. Miongoni mwa mbinu hizi ni BIP47, pendekezo lililotayarishwa na Justus Ranvier na kuchapishwa mwaka wa 2015. Pendekezo hili linalenga kuunda misimbo ya malipo inayoweza kutumika tena inayowezesha miamala mingi kutekelezwa dhidi ya mtu yuleyule, huku ikiepuka kutumia tena Address. Kwa kifupi, BIP47 inalenga kutoa mfumo wa malipo kuwa rahisi kama kitambulisho cha kipekee, huku ikihifadhi usiri wa miamala.
 
 ![BTC204](assets/fr/212.webp)
 
 BIP47 haiboresha usiri wa mtumiaji moja kwa moja, kwani malipo ya BIP47 hutoa kiwango sawa cha usiri kama muamala wa kawaida wa Bitcoin kwa kutumia anwani tupu. Hata hivyo, hufanya kutumia Bitcoin kuwa rahisi zaidi na angavu, urahisi ambao kwa kawaida unaweza kuhatarisha usiri. Shukrani kwa BIP47, urahisi huu wa utumiaji unafikia kiwango sawa cha usiri kama muamala wa kawaida. Ndio maana BIP47 ni zana muhimu sana ya kuhifadhi faragha.
 
-Hapo awali, BIP47 ilipendekezwa kuunganishwa kwenye Bitcoin Core, lakini haikuwahi kutekelezwa. Walakini, programu zingine za programu zilichagua kutekeleza peke yao. Kwa mfano, timu za Samourai Wallet zimeunda utekelezaji wao wa BIP47 unaoitwa "PayNym".
+Hapo awali, BIP47 ilipendekezwa kuunganishwa kwenye Bitcoin Core, lakini haikuwahi kutekelezwa. Walakini, programu zingine za programu zilichagua kutekeleza peke yao. Kwa mfano, timu za Pochi la Samourai zimeunda utekelezaji wao wa BIP47 unaoitwa "PayNym".
 
 ### Kanuni ya jumla ya BIP47 na PayNym
 
-Lengo la BIP47 ni kufanya uwezekano wa kupokea idadi kubwa ya malipo bila kutumia tena anwani. Inatokana na matumizi ya nambari ya malipo inayoweza kutumika tena, ambayo huwawezesha watoa huduma tofauti kutuma malipo kadhaa kwa msimbo mmoja wa mtumiaji mwingine. Kwa hivyo, mpokeaji si lazima atoe Address mpya, tupu kwa kila shughuli, ambayo hurahisisha sana ubadilishanaji wakati wa kuhifadhi usiri.
+Lengo la BIP47 ni kufanya uwezekano wa kupokea idadi kubwa ya malipo bila kutumia tena anwani. Inatokana na matumizi ya nambari ya malipo inayoweza kutumika tena, ambayo huwawezesha watoa huduma tofauti kutuma malipo kadhaa kwa msimbo mmoja wa mtumiaji mwingine. Kwa hivyo, mpokeaji si lazima atoe Anwani mpya, tupu kwa kila shughuli, ambayo hurahisisha sana ubadilishanaji wakati wa kuhifadhi usiri.
 
 ![BTC204](assets/fr/213.webp)
 
-Kwa hivyo mtumiaji anaweza kushiriki msimbo wake wa malipo kwa uhuru kamili, iwe kwenye mitandao ya kijamii au kwenye tovuti yake, bila kuhatarisha upotevu wowote wa usiri, tofauti na mpokeaji wa kawaida wa Address au ufunguo wa umma.
+Kwa hivyo mtumiaji anaweza kushiriki msimbo wake wa malipo kwa uhuru kamili, iwe kwenye mitandao ya kijamii au kwenye tovuti yake, bila kuhatarisha upotevu wowote wa usiri, tofauti na mpokeaji wa kawaida wa Anwani au ufunguo wa umma.
 
-Ili kutekeleza muamala, pande zote mbili zinahitaji Bitcoin Wallet yenye utekelezaji wa BIP47, kama vile PayNym kwenye Samurai Wallet au Sparrow Wallet. Matumizi ya pamoja ya misimbo yao ya malipo hutengeneza njia ya siri kati yao. Ili kuanzisha kituo hiki kwa ufanisi, mtoaji lazima atekeleze shughuli mahususi kwenye Bitcoin Blockchain, inayojulikana kama "muamala wa arifa" (zaidi kuhusu hili baadaye).
+Ili kutekeleza muamala, pande zote mbili zinahitaji Pochi la Bitcoin yenye utekelezaji wa BIP47, kama vile PayNym kwenye Pochi la Samurai au Pochi la Sparrow. Matumizi ya pamoja ya misimbo yao ya malipo hutengeneza njia ya siri kati yao. Ili kuanzisha kituo hiki kwa ufanisi, mtoaji lazima atekeleze shughuli mahususi kwenye Bitcoin Blockchain, inayojulikana kama "muamala wa arifa" (zaidi kuhusu hili baadaye).
 
 Kuchanganya misimbo ya malipo ya watumiaji hao wawili hutoa siri zilizoshirikiwa, ambazo hutengeneza idadi kubwa ya anwani za kipekee za Bitcoin zinazopokea (haswa 2^32, au karibu bilioni 4). Kwa njia hii, malipo yanayofanywa kupitia BIP47 hayaelekezwi kwa msimbo wa malipo yenyewe, bali kwa anwani za kawaida za risiti zinazotokana na misimbo ya malipo ya watumiaji wanaohusika.
 
-Kwa hivyo nambari ya malipo hutumika kama kitambulisho pepe kinachotokana na kwingineko ya seed. Katika muundo wa utoto wa kidaraja cha kwingineko, msimbo wa malipo umewekwa katika kiwango cha 3, yaani katika kiwango cha akaunti.
+Kwa hivyo nambari ya malipo hutumika kama kitambulisho pepe kinachotokana na kwingineko ya mbegu. Katika muundo wa utoto wa kidaraja cha kwingineko, msimbo wa malipo umewekwa katika kiwango cha 3, yaani katika kiwango cha akaunti.
 
 ![BTC204](assets/fr/214.webp)
 
@@ -3001,9 +3001,9 @@ Ili kukupa wazo la jinsi nambari ya malipo inavyoonekana, hii ndio yangu:
 PM8TJSBiQmNQDwTogMAbyqJe2PE2kQXjtgh88MRTxsrnHC8zpEtJ8j7Aj628oUFk8X6P5rJ7P5qDudE4Hwq9JXSRzGcZJbdJAjM9oVQ1UKU5j2nr7VR5
 ```
 
-Msimbo huu pia unaweza kusimba kama msimbo wa QR, ili kurahisisha mawasiliano, kama vile mapokezi ya kawaida ya Address.
+Msimbo huu pia unaweza kusimba kama msimbo wa QR, ili kurahisisha mawasiliano, kama vile mapokezi ya kawaida ya Anwani.
 
-Kuhusu PayNym Bots, roboti zinazoonekana wakati mwingine kwenye Twitter, hizi ni viwakilishi vya kuona vya msimbo wa malipo, iliyoundwa na Samourai Wallet. Wao huzalishwa kwa kutumia kazi ya Hash, kuwapa karibu-pekee. Zinachukua umbo la mfuatano mdogo wa herufi zinazoanza na `+` :
+Kuhusu PayNym Bots, roboti zinazoonekana wakati mwingine kwenye Twitter, hivi ni viwakilishi vya kuona vya msimbo wa malipo, iliyoundwa na Pochi la Samourai. Wao huzalishwa kwa kutumia kazi ya Hash, kuwapa karibu-pekee. Zinachukua umbo la mfuatano mdogo wa herufi zinazoanza na `+` :
 
 ```plaintext
 +throbbingpond8B1
