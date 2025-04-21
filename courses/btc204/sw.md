@@ -3723,18 +3723,18 @@ $$ S = b \cdot A $$
 $$ s = \text{SHA256}(Sx) $$
 
 
-- Kwa njia sawa na Alice, Bob anakokotoa pointi ya $s-G$ kwenye mkunjo wa duaradufu. Kisha anaongeza sehemu hii ya siri kwa ufunguo wake wa umma $B $. Kisha anapata nukta mpya kwenye curve ya duaradufu, ambayo anaifasiri kama ufunguo wa umma $K0$ :
+- Kwa njia sawa na Alice, Bob anakokotoa pointi ya $s-G$ kwenye mkunjo wa duaradufu. Kisha anaongeza sehemu hii ya siri kwa ufunguo wake wa umma $B $. Kisha anapata nukta mpya kwenye mkunjo wa duaradufu, ambao anaufasiri kama ufunguo wa umma $K0$ :
 
 $$ K0 = B + s \cdot G $$
 
-Mara tu Bob anapokuwa na ufunguo huu wa umma $K0$, anaweza kupata ufunguo wa faragha unaohusishwa ili kutumia bitcoins zake. Ni yeye pekee anayeweza generate ufunguo huu wa faragha:
+Mara tu Bob anapokuwa na ufunguo huu wa umma $K0$, anaweza kupata ufunguo wa faragha unaohusishwa ili kutumia bitcoins zake. Ni yeye pekee anayeweza kuzalisha ufunguo huu wa faragha:
 
 
 - Bob anaongeza ufunguo wa faragha wa bintiye $b$ unaotokana na nambari yake ya malipo ya kibinafsi. Ni yeye pekee anayeweza kupata thamani ya $b$. Kisha anaongeza $b$ kwenye siri iliyoshirikiwa $s$ ili kupata $k0$, ufunguo wa faragha wa $K0$:
 
 $$ k0 = b + s $$
 
-Shukrani kwa sheria ya kikundi ya curve ya mviringo, Bob anapata ufunguo wa faragha unaolingana na ufunguo wa umma unaotumiwa na Alice. Kwa hivyo tunayo:
+Shukrani kwa sheria ya kikundi ya mkunjo wa mviringo, Bob anapata ufunguo wa faragha unaolingana na ufunguo wa umma unaotumiwa na Alice. Kwa hivyo tunayo:
 
 $$ K0 = k0 \cdot G $$
 
@@ -3744,14 +3744,14 @@ Nitafanya muhtasari wa hatua ambazo tumeona pamoja ili kupokea malipo ya BIP47 n
 - Bob huchagua ufunguo wa kibinafsi wa binti wa kwanza unaotokana na nambari yake ya malipo ya kibinafsi;
 - Hukokotoa sehemu ya siri kwenye mkunjo wa duaradufu kwa kutumia ECDH kutoka kwa ufunguo wa umma wa binti wa kwanza unaotokana na msimbo wa kamba wa Alice;
 - Inatumia sehemu hii ya siri kukokotoa siri iliyoshirikiwa na SHA256;
-- Anatumia siri hii iliyoshirikiwa kuhesabu hatua mpya ya siri kwenye curve ya mviringo;
+- Anatumia siri hii iliyoshirikiwa kuhesabu hatua mpya ya siri kwenye mkunjo wa mviringo;
 - Anaongeza siri hii mpya kwa ufunguo wake wa kibinafsi wa umma;
 - Anapata ufunguo mpya wa umma wa muda mfupi, ule ambao Alice atamtumia malipo ya kwanza;
 - Bob huhesabu ufunguo wa faragha unaohusishwa na ufunguo huu wa umma wa muda mfupi kwa kuongeza ufunguo wa faragha wa bintiye unaotokana na msimbo wake wa malipo na siri iliyoshirikiwa.
 
 ![BTC204](assets/fr/233.webp)
 
-Kwa kuwa Alice hawezi kupata $b$ (ufunguo wa faragha wa Bob), hawezi kubainisha $k0$ (ufunguo wa faragha unaohusishwa na mapokezi ya Bob ya BIP47 Address). Kwa utaratibu, tunaweza kuwakilisha hesabu ya siri iliyoshirikiwa $S$ kama ifuatavyo:
+Kwa kuwa Alice hawezi kupata $b$ (ufunguo wa faragha wa Bob), hawezi kubainisha $k0$ (ufunguo wa faragha unaohusishwa na mapokezi ya Bob ya Anwani ya BIP47). Kwa utaratibu, tunaweza kuwakilisha hesabu ya siri iliyoshirikiwa $S$ kama ifuatavyo:
 
 ![BTC204](assets/fr/228.webp)
 
@@ -3778,12 +3778,12 @@ https://planb.network/tutorials/privacy/on-chain/paynym-bip47-a492a70b-50eb-4f95
 
 BIP47 imekosolewa sana kwa uzembe wake wa onchain. Kama ilivyoelezwa katika sura iliyotangulia, inahitaji shughuli ya arifa ifanywe kwa kila mpokeaji mpya. Kizuizi hiki kitapungua ikiwa tunapanga kuanzisha njia endelevu ya malipo na mpokeaji huyu. Hakika, shughuli moja ya arifa hufungua njia kwa karibu idadi isiyo na kikomo ya malipo yanayofuata ya BIP47.
 
-Hata hivyo, katika hali fulani, shughuli ya arifa inaweza kuwa kikwazo kwa mtumiaji. Hebu tuchukue mfano wa mchango wa mara moja kwa mpokeaji: kwa Bitcoin Address ya kawaida, shughuli moja inatosha kukamilisha mchango. Lakini kwa BIP47, shughuli mbili zinahitajika: moja kwa taarifa na nyingine kwa malipo halisi. Wakati mahitaji ya nafasi ya kuzuia ni ya chini na ada za muamala ni ndogo, hatua hii ya ziada kwa kawaida si tatizo. Hata hivyo, wakati wa msongamano, ada za muamala zinaweza kuwa kubwa sana kwa malipo moja, na hivyo kuongeza gharama maradufu kwa mtumiaji ikilinganishwa na muamala wa kawaida wa Bitcoin, ambao huenda usikubalike kwa mtumiaji.
+Hata hivyo, katika hali fulani, shughuli ya arifa inaweza kuwa kikwazo kwa mtumiaji. Hebu tuchukue mfano wa mchango wa mara moja kwa mpokeaji: kwa Anwani ya Bitcoin ya kawaida, shughuli moja inatosha kukamilisha mchango. Lakini kwa BIP47, shughuli mbili zinahitajika: moja kwa taarifa na nyingine kwa malipo halisi. Wakati mahitaji ya nafasi ya kuzuia ni ya chini na ada za muamala ni ndogo, hatua hii ya ziada kwa kawaida si tatizo. Hata hivyo, wakati wa msongamano, ada za muamala zinaweza kuwa kubwa sana kwa malipo moja, na hivyo kuongeza gharama maradufu kwa mtumiaji ikilinganishwa na muamala wa kawaida wa Bitcoin, ambao huenda usikubalike kwa mtumiaji.
 
-Kwa hali ambapo mtumiaji anapanga kufanya malipo machache tu kwa kitambulisho tuli, masuluhisho mengine yametengenezwa. Hizi ni pamoja na Malipo ya Kimya, yaliyofafanuliwa katika [BIP352](https://github.com/Bitcoin/bips/blob/master/bip-0352.mediawiki). Itifaki hii inafanya uwezekano wa kutumia kitambulisho tuli kupokea malipo bila kutoa matumizi tena ya Address, na bila kuhitaji matumizi ya miamala ya arifa. Hebu tuangalie jinsi itifaki hii inavyofanya kazi.
+Kwa hali ambapo mtumiaji anapanga kufanya malipo machache tu kwa kitambulisho tuli,suluhisho nyingine imetengenezwa. Hii ni pamoja na Malipo ya Kimya, yaliyofafanuliwa katika [BIP352](https://github.com/Bitcoin/bips/blob/master/bip-0352.mediawiki). Itifaki hii inafanya uwezekano wa kutumia kitambulisho tuli kupokea malipo bila kutoa matumizi tena ya Anwani, na bila kuhitaji matumizi ya miamala ya arifa. Hebu tuangalie jinsi itifaki hii inavyofanya kazi.
 
 ---
-*Ili kuelewa sura hii kikamilifu, ni muhimu kufahamu utendakazi wa ECDH (Elliptic Curve Diffie-Hellman) na chimbuko la ufunguo wa kriptografia katika HD Wallet. Dhana hizi zilifunikwa kwa undani katika sura iliyotangulia juu ya BIP47. Sitazirudia hapa. Ikiwa bado haujafahamu dhana hizi, ninapendekeza uangalie sura iliyotangulia kabla ya kuendelea na hii. Sitarejelea hatari zinazohusishwa na utumizi tena wa anwani, wala umuhimu wa kuwa na kitambulisho cha kipekee cha kupokea malipo.* Nitataja mambo machache ambayo ningependa kueleza hapa.
+*Ili kuelewa sura hii kikamilifu, ni muhimu kufahamu utendakazi wa ECDH (Elliptic Curve Diffie-Hellman) na chimbuko la ufunguo wa kriptografia katika pochi la HD. Dhana hizi zilifunikwa kwa undani katika sura iliyotangulia juu ya BIP47. Sitazirudia hapa. Ikiwa bado haujafahamu dhana hizi, ninapendekeza uangalie sura iliyotangulia kabla ya kuendelea na hii. Sitarejelea hatari zinazohusishwa na utumizi tena wa anwani, wala umuhimu wa kuwa na kitambulisho cha kipekee cha kupokea malipo.* Nitataja mambo machache ambayo ningependa kueleza hapa.
 
 ---
 ### Kwa nini usihamishe arifa?
@@ -3797,18 +3797,18 @@ Kama ilivyojadiliwa katika sura ya BIP47, shughuli ya arifa ina kazi kuu mbili:
 Mtu anaweza kufikiria kwa ujinga kuwa mchakato huu wa arifa unaweza kufanywa off-chain. Kinadharia, inawezekana kabisa: yote ambayo mpokeaji angelazimika kufanya ni kuonyesha njia ya mawasiliano ili kupokea misimbo ya malipo ya BIP47 kutoka kwa watumaji. Walakini, kuna shida mbili kuu na njia hii:
 
 
-- Kwanza, ingehamisha mchakato wa uwasilishaji wa msimbo hadi itifaki nyingine ya mawasiliano. Matatizo yanayohusiana na gharama na usiri wa Exchange yangebaki, lakini yangehamishiwa kwa itifaki hii mpya. Kwa upande wa usiri, hii inaweza pia kuunda kiungo kati ya utambulisho wa mtumiaji na shughuli ya onchain, ambayo ndiyo tunayotafuta kuepuka kwa kutekeleza arifa moja kwa moja kwenye Blockchain. Zaidi ya hayo, kutoa arifa nje ya Blockchain kunaweza kuanzisha hatari za udhibiti (kama vile kuzuia fedha) ambazo hazipo kwenye Bitcoin;
-- Pili, hii inaweza kusababisha shida ya uokoaji. Kwa BIP47, mpokeaji lazima ajue misimbo ya malipo ya watumaji ili kupata pesa. Hii ni kweli wakati wa kupokea, lakini pia katika tukio la kurejesha fedha kupitia seed ikiwa Wallet imepotea. Kwa arifa za onchain, hatari hii inaepukwa, kwani mtumiaji anaweza kupata na kusimbua miamala ya arifa kwa kujua tu seed yake. Hata hivyo, ikiwa arifa itatolewa nje ya Blockchain, mtumiaji atalazimika kudumisha hifadhi rudufu ya misimbo yote ya malipo iliyopokelewa, jambo ambalo haliwezekani kwa mtumiaji wa kawaida.
+- Kwanza, ingehamisha mchakato wa uwasilishaji wa msimbo hadi itifaki nyingine ya mawasiliano. Matatizo yanayohusiana na gharama na usiri wa Ubadilishanaji ungebaki, lakini yangehamishiwa kwa itifaki hii mpya. Kwa upande wa usiri, hii inaweza pia kuunda kiungo kati ya utambulisho wa mtumiaji na shughuli ya onchain, ambayo ndiyo tunayotafuta kuepuka kwa kutekeleza arifa moja kwa moja kwenye Blockchain. Zaidi ya hayo, kutoa arifa nje ya Blockchain kunaweza kuanzisha hatari za udhibiti (kama vile kuzuia fedha) ambazo hazipo kwenye Bitcoin;
+- Pili, hii inaweza kusababisha shida ya uokoaji. Kwa BIP47, mpokeaji lazima ajue misimbo ya malipo ya watumaji ili kupata pesa. Hii ni kweli wakati wa kupokea, lakini pia katika tukio la kurejesha fedha kupitia mbegu ikiwa Pochi limepotea. Kwa arifa za onchain, hatari hii inaepukwa, kwani mtumiaji anaweza kupata na kusimbua miamala ya arifa kwa kujua tu mbegu yake. Hata hivyo, ikiwa arifa itatolewa nje ya Blockchain, mtumiaji atalazimika kudumisha hifadhi rudufu ya misimbo yote ya malipo iliyopokelewa, jambo ambalo haliwezekani kwa mtumiaji wa kawaida.
 
-Vikwazo hivi vyote hufanya matumizi ya arifa ya onchain kuwa muhimu kwa BIP47. Walakini, Malipo ya Kimya yanatafuta kuzuia hatua hii ya arifa ya onchain kwa sababu ya gharama yake. Kwa hivyo, suluhisho lililopitishwa sio kuhamisha arifa, lakini kuiondoa kabisa. Ili kufikia hili, maelewano yanapaswa kukubaliwa: skanning. Tofauti na BIP47, ambapo mtumiaji anajua haswa mahali pa kupata pesa zake kutokana na miamala ya arifa, na Malipo ya Kimya, mtumiaji anapaswa kuchunguza miamala yote iliyopo ya Bitcoin ili kugundua malipo yoyote yanayokusudiwa kwake. Ili kupunguza mzigo huu wa kiutendaji, utafutaji wa Malipo ya Kimya unalenga tu shughuli za malipo zinazoweza kuwa na malipo kama hayo, yaani, zile zilizo na angalau pato moja la Taproot P2TR. Uchanganuzi pia unaangazia zaidi shughuli za kuanzia tarehe ya kuundwa kwa Wallet (hakuna haja ya kuchanganua miamala ya mwaka wa 2009 ikiwa Wallet iliundwa mwaka wa 2024).
+Vikwazo hivi vyote hufanya matumizi ya arifa ya onchain kuwa muhimu kwa BIP47. Walakini, Malipo ya Kimya yanatafuta kuzuia hatua hii ya arifa ya onchain kwa sababu ya gharama yake. Kwa hivyo, suluhisho lililopitishwa sio kuhamisha arifa, lakini kuiondoa kabisa. Ili kufikia hili, maelewano yanapaswa kukubaliwa: skanning. Tofauti na BIP47, ambapo mtumiaji anajua haswa mahali pa kupata pesa zake kutokana na miamala ya arifa, na Malipo ya Kimya, mtumiaji anapaswa kuchunguza miamala yote iliyopo ya Bitcoin ili kugundua malipo yoyote yanayokusudiwa kwake. Ili kupunguza mzigo huu wa kiutendaji, utafutaji wa Malipo ya Kimya unalenga tu shughuli za malipo zinazoweza kuwa na malipo kama hayo, yaani, zile zilizo na angalau pato moja la Taproot P2TR. Uchanganuzi pia unaangazia zaidi shughuli za kuanzia tarehe ya kuundwa kwa Pochi (hakuna haja ya kuchanganua miamala ya mwaka wa 2009 ikiwa Pochi liliundwa mwaka wa 2024).
 
-Kwa hivyo unaweza kuona ni kwa nini BIP47 na Malipo ya Kimya, ingawa yanalenga lengo sawa, yanahusisha ubadilishanaji wa mapato tofauti na kwa hivyo **kukidhi hali mahususi za utumiaji**. Kwa malipo ya mara moja, kama vile michango ya mara moja, Malipo ya Kimya yanafaa zaidi kwa sababu ya gharama yake ya chini. Kwa upande mwingine, kwa shughuli za kawaida kwa mpokeaji sawa, kama ilivyo kwa majukwaa ya Exchange au mabwawa ya Mining, BIP47 inaweza kupendekezwa.
+Kwa hivyo unaweza kuona ni kwa nini BIP47 na Malipo ya Kimya, ingawa yanalenga lengo sawa, linalohusisha ubadilishanaji wa mapato tofauti na kwa hivyo **kukidhi hali mahususi za utumiaji**. Kwa malipo ya mara moja, kama vile michango ya mara moja, Malipo ya Kimya yanafaa zaidi kwa sababu ya gharama yake ya chini. Kwa upande mwingine, kwa shughuli za kawaida kwa mpokeaji sawa, kama ilivyo kwa majukwaa ya Ubadilishanaji au mabwawa ya Uchimbaji, BIP47 inaweza kupendekezwa.
 
 Hebu tuangalie utendakazi wa kiufundi wa Malipo ya Kimya ili kuelewa vyema kilicho hatarini. Ili kufanya hivyo, napendekeza tuchukue mbinu sawa na hati ya maelezo ya BIP352. Tutagawanya hatua kwa hatua mahesabu ya kufanywa, kipengele kwa kipengele, kuhalalisha kila nyongeza mpya.
 
 ### dhana chache kuelewa
 
-Kabla ya kuanza, ni muhimu kubainisha kuwa Malipo ya Kimya yanategemea matumizi ya aina za hati za P2TR (*Lipa kwa Taproot*) pekee. Tofauti na BIP47, si lazima kupata anwani za kupokea kutoka kwa funguo za umma za watoto kwa hashing. Katika kiwango cha P2TR, ufunguo wa umma uliowekwa hutumiwa moja kwa moja na usio na ufiche katika Address. Kwa hivyo Taproot kupokea Address kimsingi ni ufunguo wa umma na metadata fulani. Ufunguo huu wa umma uliobadilishwa ni muunganisho wa funguo zingine mbili za umma: moja kuwezesha matumizi ya moja kwa moja, ya kitamaduni kupitia saini rahisi, na nyingine ikiwakilisha Merkle Root ya MAST, ambayo inaidhinisha matumizi kulingana na kuridhika kwa mojawapo ya masharti yanayoweza kuandikwa katika Merkle Tree.
+Kabla ya kuanza, ni muhimu kubainisha kuwa Malipo ya Kimya yanategemea matumizi ya aina za hati za P2TR (*Lipa kwa Taproot*) pekee. Tofauti na BIP47, si lazima kupata anwani za kupokea kutoka kwa funguo za umma za watoto kwa hashing. Katika kiwango cha P2TR, ufunguo wa umma uliowekwa hutumiwa moja kwa moja na usio na ufiche kwenye Anwani. Kwa hivyo Taproot kupokea Anwani kimsingi ni ufunguo wa umma na metadata fulani. Ufunguo huu wa umma uliobadilishwa ni muunganisho wa funguo zingine mbili za umma: moja kuwezesha matumizi ya moja kwa moja, ya kitamaduni kupitia sahihi rahisi, na nyingine ikiwakilisha Merkle Root ya MAST, ambayo inaidhinisha matumizi kulingana na kuridhika kwa mojawapo ya masharti yanayoweza kuandikwa katika Merkle Tree.
 
 ![BTC204](assets/fr/068.webp)
 
@@ -3816,41 +3816,41 @@ Kuna sababu kuu mbili za uamuzi wa kuweka kikomo cha Malipo ya Kimya kwa Taproot
 
 
 - Kwanza, hurahisisha utekelezaji na uboreshaji wa siku zijazo katika programu za kwingineko, kwani ni kiwango kimoja tu kinachohitaji kuheshimiwa;
-- Pili, mbinu hii husaidia kuboresha hali ya kutoweka kwa watumiaji kwa kuwahimiza kutojigawanya kati ya aina tofauti za hati, ambazo alama za vidole za generate tofauti katika uchanganuzi wa minyororo (kwa maelezo zaidi kuhusu dhana hii, tafadhali rejelea sura ya 4 ya sehemu ya 2).
+- Pili, mbinu hii husaidia kuboresha hali ya kutoweka kwa watumiaji kwa kuwahimiza kutojigawanya kati ya aina tofauti za hati, ambazo alama za vidole za kuzalisha tofauti katika uchanganuzi wa minyororo (kwa maelezo zaidi kuhusu dhana hii, tafadhali rejelea sura ya 4 ya sehemu ya 2).
 
 ### Utokezi wa ujinga wa ufunguo wa umma wa Malipo ya Kimya
 
-Wacha tuanze na mfano rahisi ili kupata kiini cha jinsi SP (Malipo ya Kimya) hufanya kazi. Hebu tuchukue Alice na Bob, watumiaji wawili wa Bitcoin. Alice anataka kutuma Bitcoins kwa Bob kwa kupokea tupu Address. Kuna malengo matatu ya mchakato huu:
+Wacha tuanze na mfano rahisi ili kupata kiini cha jinsi SP (Malipo ya Kimya) hufanya kazi. Hebu tuchukue Alice na Bob, watumiaji wawili wa Bitcoin. Alice anataka kutuma Bitcoins kwa Bob kwa kupokea Anwani tupu. Kuna malengo matatu ya mchakato huu:
 
 
-- Alice lazima awe na uwezo wa generate Address tupu;
-- Bob lazima aweze kutambua malipo yaliyotumwa kwa Address hii maalum;
-- Bob anahitaji kupata ufunguo wa faragha unaohusishwa na Address hii ili kutumia pesa zake.
+- Alice lazima awe na uwezo wa kuzalisha Anwani tupu;
+- Bob lazima aweze kutambua malipo yaliyotumwa kwa Anwani hii maalum;
+- Bob anahitaji kupata ufunguo wa faragha unaohusishwa na Anwani hii ili kutumia pesa zake.
 
-Alice ana UTXO katika Bitcoin Wallet yake salama na jozi zifuatazo muhimu:
+Alice ana UTXO katika Pochi la Bitcoin yake salama na jozi zifuatazo muhimu:
 
 
 - $a$: ufunguo wa faragha;
 - $A$: ufunguo wa umma ($A = a \cdot G$)
 
-Bob ana SP Address ambayo amechapisha kwenye Mtandao na:
+Bob ana Anwani ya SP ambayo amechapisha kwenye Mtandao na:
 
 
 - $b$: ufunguo wa faragha;
 - $B$: ufunguo wa umma ($B = b \cdot G$)
 
-Kwa kupata tena Address ya Bob, Alice anaweza kukokotoa Address mpya ambayo ni ya Bob kwa kutumia ECDH. Hebu tuite hii Address $P$ :
+Kwa kupata tena Anwani ya Bob, Alice anaweza kukokotoa Anwani mpya ambayo ni ya Bob kwa kutumia ECDH. Hebu tuite hii Anwani $P$ :
 
 $$ P = B + \maandishi{Hash}(a \cdot B) \cdot G $$
 
-Katika mlingano huu, Alice amekokotoa tu bidhaa ya scalar ya ufunguo wake wa faragha $a$ na ufunguo wa umma wa Bob $B$. Amepitisha matokeo haya kuwa kazi ya Hash inayojulikana kwa kila mtu. Thamani inayotokana huzidishwa kwa kasi kwa nukta ya kuzalisha $G$ ya mkunjo wa duaradufu `secp256k1`. Hatimaye, Alice anaongeza hatua inayotokana na ufunguo wa umma wa Bob $B$. Mara tu Alice anapokuwa na Address $P$ hii, anaitumia kama pato katika shughuli, yaani, yeye hutuma bitcoins kwake.
+Katika mlingano huu, Alice amekokotoa tu bidhaa ya scalar ya ufunguo wake wa faragha $a$ na ufunguo wa umma wa Bob $B$. Amepitisha matokeo haya kuwa kazi ya Hash inayojulikana kwa kila mtu. Thamani inayotokana huzidishwa kwa kasi kwa nukta ya kuzalisha $G$ ya mkunjo wa duaradufu `secp256k1`. Hatimaye, Alice anaongeza hatua inayotokana na ufunguo wa umma wa Bob $B$. Mara tu Alice anapokuwa na Anwani $P$ hii, anaitumia kama pato katika shughuli, yaani, yeye hutuma bitcoins kwake.
 
 > *Katika muktadha wa Malipo ya Kimya, chaguo za kukokotoa za "Hash" inalingana na chaguo za kukokotoa za SHA256 Hash zilizowekwa lebo maalum na `BIP0352/SharedSecret`, ambayo huhakikisha kwamba heshi zinazozalishwa ni za kipekee kwa itifaki hii na haziwezi kutumika tena katika miktadha mingine, huku ikitoa ulinzi wa ziada dhidi ya utumiaji sahihi wa nonces. Kiwango hiki kinalingana na kile [kilichobainishwa katika BIP340 kwa sahihi za Schnorr](https://github.com/Bitcoin/bips/blob/master/bip-0340.mediawiki) kwenye `secp256k1`.*
-Shukrani kwa sifa za curve ya elliptic ambayo ECDH inategemea, tunajua kwamba:
+Shukrani kwa sifa za mkunjo wa elliptic ambao ECDH inategemea, tunajua kwamba:
 
 $$ a \cdot B = b \cdot A $$
 
-Kwa hiyo Bob ataweza kuhesabu kupokea Address ambayo Alice ametuma bitcoins. Ili kufanya hivyo, yeye hufuatilia miamala yote ya Bitcoin ambayo inakidhi vigezo vya Malipo ya Kimya na kutumia hesabu ifuatayo kwa kila mmoja wao ili kuona kama malipo yameelekezwa kwake (*skanning*):
+Kwa hiyo Bob ataweza kuhesabu kupokea Anwani ambayo Alice ametuma bitcoins. Ili kufanya hivyo, yeye hufuatilia miamala yote ya Bitcoin ambayo inakidhi vigezo vya Malipo ya Kimya na kutumia hesabu ifuatayo kwa kila mmoja wao ili kuona kama malipo yameelekezwa kwake (*skanning*):
 
 $$ P' = B + \maandishi{Hash}(b \cdot A) \cdot G $$
 
@@ -3858,35 +3858,35 @@ Anapokagua muamala wa Alice, anagundua kuwa $P'$ ni sawa na $P$. Kwa hivyo anaju
 
 $$ P' = B + \text{Hash}(b \cdot A) \cdot G = B + \text{Hash}(a \cdot B) \cdot G = P $$
 
-Kuanzia hapa, Bob ataweza kukokotoa ufunguo wa faragha $p$ ambao unaruhusu Address $P$ kutumika:
+Kuanzia hapa, Bob ataweza kukokotoa ufunguo wa faragha $p$ ambao unaruhusu Anwani $P$ kutumika:
 
 $$ p = (b + \maandishi{Hash}(b \cdot A)) \bmod n $$
 
-Kama unavyoona, ili kukokotoa ufunguo huu wa faragha $p$, lazima uwe na ufunguo wa faragha $b$. Bob pekee ndiye aliye na ufunguo huu wa faragha $b$. Kwa hiyo atakuwa ndiye pekee anayeweza kutumia bitcoins zilizotumwa kwa Malipo yake ya Kimya Address.
+Kama unavyoona, ili kukokotoa ufunguo huu wa faragha $p$, lazima uwe na ufunguo wa faragha $b$. Bob pekee ndiye aliye na ufunguo huu wa faragha $b$. Kwa hiyo atakuwa ndiye pekee anayeweza kutumia bitcoins zilizotumwa kwa Malipo yake ya Anwani ya Kimya.
 
 ![BTC204](assets/fr/236.webp)
 
 *Hadithi:*
 
 
-- $B$ : Ufunguo wa umma/tuli Address iliyochapishwa na Bob
+- $B$ : Ufunguo wa umma/Anwani tuli iliyochapishwa na Bob
 - $b$ : Ufunguo wa faragha wa Bob
 - $A$ : Kitufe cha umma cha Alice cha UTXO kinatumika kama ingizo la muamala
 - $a$ : Ufunguo wa kibinafsi wa Alice
-- $G$ : Sehemu ya kuzalisha ya curve ya duaradufu `secp256k1`
+- $G$ : Sehemu ya kuzalisha ya mkunjo ya duaradufu `secp256k1`
 - $\text{SHA256}$ : Chaguo za kukokotoa za SHA256 Hash zilizowekwa alama ya `BIP0352/SharedSecret`
 - $s$ : Siri ya pamoja ya ECDH
-- $P$ : Ufunguo wa umma/kipekee Address kwa malipo kwa Bob
+- $P$ : Ufunguo wa umma/Anwani ya kipekee kwa malipo kwa Bob
 
-Hapa kuna mbinu ya awali ya ujinga ya kutumia Address tuli ya Bob, iliyobainishwa $B$, kupata Address $P$ ya kipekee ya kutuma bitcoins kwa. Hata hivyo, njia hii ni rahisi sana na ina dosari kadhaa zinazohitaji kurekebishwa. Shida ya kwanza ni kwamba, katika mpango huu, Alice hawezi kuunda matokeo mengi kwa Bob ndani ya shughuli sawa.
+Hapa kuna mbinu ya awali ya ujinga ya kutumia Anwani tuli ya Bob, iliyobainishwa $B$, kupata Anwani $P$ ya kipekee ya kutuma bitcoins kwa. Hata hivyo, njia hii ni rahisi sana na ina dosari kadhaa zinazohitaji kurekebishwa. Shida ya kwanza ni kwamba, katika mpango huu, Alice hawezi kuunda matokeo mengi kwa Bob ndani ya shughuli sawa.
 
 ### Ninawezaje kuunda matokeo mengi?
 
-Katika mfano katika sehemu iliyotangulia, Alice anaunda pato moja ambalo litaenda kwa Bob kwa Address $P $ yake ya kipekee. Kwa ingizo lile lile lililochaguliwa, haiwezekani kwa Alice kuunda anwani mbili tofauti tupu za Bob, kwa kuwa njia inayotumiwa inaweza kusababisha matokeo sawa kila wakati kwa $P$, yaani Address sawa. Hata hivyo, kunaweza kuwa na hali nyingi ambapo Alice anataka kugawanya malipo yake kwa Bob katika viwango kadhaa vidogo, hivyo kuunda UTXO kadhaa. Kwa hiyo ni muhimu kutafuta mbinu ya kufikia hili.
+Katika mfano katika sehemu iliyotangulia, Alice anaunda pato moja ambalo litaenda kwa Bob kwa Anwani $P $ yake ya kipekee. Kwa ingizo lile lile lililochaguliwa, haiwezekani kwa Alice kuunda anwani mbili tofauti tupu za Bob, kwa kuwa njia inayotumiwa inaweza kusababisha matokeo sawa kila wakati kwa $P$, yaani Anwani sawa. Hata hivyo, kunaweza kuwa na hali nyingi ambapo Alice anataka kugawanya malipo yake kwa Bob katika viwango kadhaa vidogo, hivyo kuunda UTXO kadhaa. Kwa hiyo ni muhimu kutafuta mbinu ya kufikia hili.
 
-Ili kufanikisha hili, tutarekebisha kidogo hesabu anayofanya Alice ili kupata $P$, ili aweze generate anwani mbili tofauti za Bob, ambazo ni $P_0$ na $P_1$.
+Ili kufanikisha hili, tutarekebisha kidogo hesabu anayofanya Alice ili kupata $P$, ili aweze kuzalisha anwani mbili tofauti za Bob, ambazo ni $P_0$ na $P_1$.
 
-Ili kurekebisha hesabu na kupata anwani 2 tofauti, ongeza tu nambari kamili inayorekebisha matokeo. Kwa hivyo, Alice ataongeza $0$ kwenye hesabu yake ili kupata Address $P_0$ na $1$ ili kupata Address $P_1$. Wacha tuite nambari hii kamili $i$ :
+Ili kurekebisha hesabu na kupata anwani 2 tofauti, ongeza tu nambari kamili inayorekebisha matokeo. Kwa hivyo, Alice ataongeza $0$ kwenye hesabu yake ili kupata Anwani $P_0$ na $1$ ili kupata Anwani $P_1$. Wacha tuite nambari hii kamili $i$ :
 
 $$ P_i = B + \maandishi{Hash}(a \cdot B \maandishi{ ‖} i) \cdot G $$
 
@@ -3919,31 +3919,31 @@ $$
 *Hadithi:*
 
 
-- $B$ : Ufunguo wa umma/tuli Address iliyochapishwa na Bob
+- $B$ : Ufunguo wa umma/Anwani tuli iliyochapishwa na Bob
 - $b$ : Ufunguo wa faragha wa Bob
 - $A$ : Kitufe cha umma cha Alice cha UTXO kinatumika kama ingizo la muamala
 - $a$ : Ufunguo wa kibinafsi wa Alice
-- $G$ : Sehemu ya kuzalisha ya curve ya duaradufu `secp256k1`
+- $G$ : Sehemu ya kuzalisha ya mkunjo wa duaradufu `secp256k1`
 - $\text{SHA256}$ : Chaguo za kukokotoa za SHA256 Hash zilizowekwa alama ya `BIP0352/SharedSecret`
 - $s_0$ : Siri ya kwanza ya kawaida ya ECDH
 - $s_1$ : Siri ya pili ya kawaida ya ECDH
-- $P_0$ : Ufunguo wa kwanza wa umma / wa kipekee wa Address kwa malipo kwa Bob
-- $P_1$ : Ufunguo wa pili wa umma / Address ya kipekee kwa malipo kwa Bob
+- $P_0$ : Ufunguo wa kwanza wa umma / wa kipekee wa Anwani kwa malipo kwa Bob
+- $P_1$ : Ufunguo wa pili wa umma / Anwani ya kipekee kwa malipo ya Bob
 
-Kwa njia hii, tunaanza kupata itifaki nzuri, lakini bado kuna changamoto chache za kushinda, si haba kuzuia utumiaji tena wa Address.
+Kwa njia hii, tunaanza kupata itifaki nzuri, lakini bado kuna changamoto chache za kushinda, si haba kuzuia utumiaji tena wa Anwani.
 
-### Jinsi ya kuzuia kutumia tena Address?
+### Jinsi ya kuzuia kutumia tena ya Anwani?
 
-Kama tulivyoona katika sehemu zilizopita, Alice anatumia jozi muhimu ambayo inalinda UTXO yake, ambayo atatumia kukokotoa siri iliyoshirikiwa ya ECDH na Bob. Siri hii inamwezesha kupata Address $P_0$ ya kipekee. Hata hivyo, jozi muhimu ($a$, $A$) iliyotumiwa na Alice inaweza kupata UTXO kadhaa ikiwa ametumia tena Address hii mara kadhaa. Iwapo Alice atafanya malipo mawili kwa Address $B$ tuli ya Bob kwa kutumia UTXO mbili zilizolindwa kwa ufunguo sawa wa $A$, hii inaweza kusababisha matumizi ya Address tena kwa Bob.
+Kama tulivyoona katika sehemu zilizopita, Alice anatumia jozi muhimu ambayo inalinda UTXO yake, ambayo atatumia kukokotoa siri iliyoshirikiwa ya ECDH na Bob. Siri hii inamwezesha kupata Anwani $P_0$ ya kipekee. Hata hivyo, jozi muhimu ($a$, $A$) iliyotumiwa na Alice inaweza kupata UTXO kadhaa ikiwa ametumia tena Anwani hii mara kadhaa. Iwapo Alice atafanya malipo mawili kwa Anwani $B$ tuli ya Bob kwa kutumia UTXO mbili zilizolindwa kwa ufunguo sawa wa $A$, hii inaweza kusababisha matumizi ya Anwani tena kwa Bob.
 
-> *Utumiaji tena wa Address ni mazoea mabaya sana katika suala la usiri wa mtumiaji. Ili kujua ni kwa nini, nakushauri upitie sehemu za kwanza za kozi hii ya mafunzo.*
-Hakika, kwa kuwa Address $P_0$ ya kipekee imechukuliwa kutoka $A$ na $B$, vyema ikiwa Alice atapata Address ya pili kwa malipo ya pili kwa $B$, na ufunguo sawa $A$, ataishia kwenye Address $P_0$ sawa kabisa. Ili kuepuka hatari hii na kuzuia kutumia tena Address ndani ya Malipo ya Kimya, tutahitaji kurekebisha hesabu zetu kidogo.
+> *Utumiaji tena wa Anwani ni mazoea mabaya sana katika suala la usiri wa mtumiaji. Ili kujua ni kwa nini, nakushauri upitie sehemu za kwanza za kozi hii ya mafunzo.*
+Hakika, kwa kuwa Anwani $P_0$ ya kipekee imechukuliwa kutoka $A$ na $B$, vyema ikiwa Alice atapata Anwani ya pili kwa malipo ya pili kwa $B$, na ufunguo sawa $A$, ataishia kwenye Anwani $P_0$ sawa kabisa. Ili kuepuka hatari hii na kuzuia kutumia tena Anwani ndani ya Malipo ya Kimya, tutahitaji kurekebisha hesabu zetu kidogo.
 
-Tunachotaka ni kwa kila UTXO inayotumiwa na Alice kama ingizo la malipo ili kutoa Address ya kipekee kwa upande wa Bob, hata kama UTXO kadhaa zimelindwa na jozi sawa za funguo. Kwa hivyo tunachohitaji kufanya ni kuongeza marejeleo kwa UTXO wakati wa kukokotoa Address $P_0$ ya kipekee. Rejeleo hili litakuwa tu Hash ya UTXO inayotumiwa kama pembejeo:
+Tunachotaka ni kwa kila UTXO inayotumiwa na Alice kama ingizo la malipo ili kutoa Anwani ya kipekee kwa upande wa Bob, hata kama UTXO kadhaa zimelindwa na jozi sawa za funguo. Kwa hivyo tunachohitaji kufanya ni kuongeza marejeleo kwa UTXO wakati wa kukokotoa Anwani $P_0$ ya kipekee. Rejeleo hili litakuwa tu Hash ya UTXO inayotumiwa kama pembejeo:
 
 $$ \text{inputHash} = \text{Hash}(\text{outpoint} \text{ ‖ } A) $$
 
-Na Alice ataongeza rejeleo hili kwa ingizo kwenye hesabu yake ya kipekee ya Address $P_0$ :
+Na Alice ataongeza rejeleo hili kwa ingizo kwenye hesabu yake ya kipekee ya Anwani $P_0$ :
 
 $$ P_0 = B + \maandishi{Hash}(\text{inputHash} \cdot a \cdot B \text{ ‖ } 0) \cdot G $$
 
@@ -3962,15 +3962,15 @@ $$
 *Hadithi:*
 
 
-- $B$ : Ufunguo wa umma/tuli Address iliyochapishwa na Bob
+- $B$ : Ufunguo wa umma/Anwani tuli iliyochapishwa na Bob
 - $b$ : Ufunguo wa faragha wa Bob
 - $A$ : Kitufe cha umma cha Alice cha UTXO kinatumika kama ingizo la muamala
 - $a$ : Ufunguo wa kibinafsi wa Alice
 - $H$ : UTXO Hash imetumika kama ingizo
-- $G$ : Sehemu ya kuzalisha ya curve ya duaradufu `secp256k1`
+- $G$ : Sehemu ya kuzalisha ya mkunjo wa duaradufu `secp256k1`
 - $\text{SHA256}$ : Chaguo za kukokotoa za SHA256 Hash zilizowekwa alama ya `BIP0352/SharedSecret`
 - $s_0$ : Siri ya kwanza ya ECDH ya pamoja
-- $P_0$ : Ufunguo wa kwanza wa umma / wa kipekee wa Address kwa malipo kwa Bob
+- $P_0$ : Ufunguo wa kwanza wa umma / wa kipekee wa Anwani kwa malipo ya Bob
 
 Kwa sasa, hesabu zetu zinachukulia kuwa Alice anatumia ingizo moja kwa shughuli yake. Walakini, anapaswa kuwa na uwezo wa kutumia pembejeo kadhaa. Kwa hivyo, kwa upande wa Bob, kwa kila shughuli inayohusisha pembejeo kadhaa, anapaswa kukokotoa ECDH kinadharia kwa kila pembejeo ili kubaini kama malipo yanalenga kwake. Njia hii sio ya kuridhisha, kwa hivyo tunahitaji kutafuta suluhisho la kupunguza mzigo wa kazi!
 
@@ -3987,7 +3987,7 @@ Kwa mfano, hebu tufikirie kuwa shughuli ya Alice ina pembejeo 3, kila moja ikiwa
 
 ![BTC204](assets/fr/239.webp)
 
-Kufuatia njia iliyoelezwa hapo awali, Alice angelazimika kuchagua jozi moja ya funguo kati ya $a_0$, $a_1$, na $a_2$ ili kukokotoa siri ya ECDH na generate malipo moja ya Address $P$ kutoka kwa tuli ya Bob Address $B$. Hata hivyo, mbinu hii inahitaji Bob ajaribu kila uwezekano kwa mfuatano, akianza na $a_0$, kisha $a_1$, na kadhalika, hadi atambue jozi inayozalisha $P$ Address halali. Mchakato huu unamhitaji Bob kuendesha hesabu ya ECDH kwenye ingizo zote za miamala yote, ambayo huongeza kwa kiasi kikubwa mzigo wa uendeshaji wa skanning.
+Kufuatia njia iliyoelezwa hapo awali, Alice angelazimika kuchagua jozi moja ya funguo kati ya $a_0$, $a_1$, na $a_2$ ili kukokotoa siri ya ECDH na kuzalisha malipo moja ya Anwani $P$ kutoka kwa tuli ya Anwani ya Bob $B$. Hata hivyo, mbinu hii inahitaji Bob ajaribu kila uwezekano kwa mfuatano, akianza na $a_0$, kisha $a_1$, na kadhalika, hadi atambue jozi inayozalisha $P$ Anwani halali. Mchakato huu unamhitaji Bob kuendesha hesabu ya ECDH kwenye ingizo zote za miamala yote, ambayo huongeza kwa kiasi kikubwa mzigo wa uendeshaji wa skanning.
 
 Ili kuepuka hili, tutamwomba Alice akokotoe $P$ kwa kutumia jumla ya vitufe vyote vya kuingiza data. Kwa kutumia mfano wetu, ufunguo wa faragha uliobadilishwa $a$ utahesabiwa kama ifuatavyo:
 
@@ -3999,7 +3999,7 @@ $$ A = A_0 + A_1 + A_2 $$
 
 Kwa njia hii, Bob anahitaji tu kuhesabu jumla ya funguo za umma za shughuli, kisha kuhesabu siri ya ECDH kutoka $ A $ pekee, ambayo hupunguza kwa kiasi kikubwa idadi ya hesabu zinazohitajika kwa hatua ya skanning.
 
-Walakini, kumbuka sehemu iliyopita. Tulikuwa tumeongeza $\text{inputHash}$ Hash kwenye hesabu yetu, ambayo inatumika kama Nonce ili kuepuka kutumia tena Address:
+Walakini, kumbuka sehemu iliyopita. Tulikuwa tumeongeza $\text{inputHash}$ Hash kwenye hesabu yetu, ambayo inatumika kama Nonce ili kuepuka kutumia tena Anwani:
 
 $$ \text{inputHash} = \text{Hash}(\text{outpoint} \text{ ‖ } A) $$
 
@@ -4011,9 +4011,9 @@ Kisha hesabu zitasalia sawa na zile zilizowasilishwa katika sehemu iliyotangulia
 
 ### Tenganisha funguo za gharama na uchanganue
 
-Kwa sasa, tumerejelea Malipo ya Kimya tuli Address $B$ kama ufunguo wa kipekee wa umma. Kumbuka, ni ufunguo huu wa umma $B$ ambao Alice hutumia kuunda ECDH ya siri iliyoshirikiwa, ambayo nayo hukokotoa malipo ya kipekee Address $P$. Bob hutumia ufunguo huu wa umma $B$ na ufunguo wa faragha unaolingana $b$ kwa hatua ya kuchanganua. Lakini pia atatumia ufunguo wa faragha $b$ kukokotoa ufunguo wa faragha $p$ unaowezesha matumizi kutoka kwa Address $P$.
+Kwa sasa, tumerejelea Malipo ya Kimya Anwani tuli $B$ kama ufunguo wa kipekee wa umma. Kumbuka, ni ufunguo huu wa umma $B$ ambao Alice hutumia kuunda ECDH ya siri iliyoshirikiwa, ambayo nayo hukokotoa malipo ya Anwani ya kipekee $P$. Bob hutumia ufunguo huu wa umma $B$ na ufunguo wa faragha unaolingana $b$ kwa hatua ya kuchanganua. Lakini pia atatumia ufunguo wa faragha $b$ kukokotoa ufunguo wa faragha $p$ unaowezesha matumizi kutoka kwa Anwani $P$.
 
-Ubaya wa njia hii ni kwamba ufunguo wa faragha wa $b$, ambao hutumika kukokotoa funguo zote za faragha za anwani ambazo zimepokea Malipo ya Kimya, hutumiwa pia na Bob kuchanganua miamala. Hatua hii inahitaji ufunguo wa $b$ kupatikana kwenye programu iliyounganishwa na mtandao ya Wallet, ambayo inaiweka kwenye hatari ya wizi kuliko kuiweka kwenye Cold Wallet. Kwa hakika, itakuwa na manufaa kuweza kufaidika na Malipo ya Kimya huku ukiweka ufunguo wa faragha wa $b$, ambao unadhibiti ufikiaji wa funguo nyingine zote za faragha, salama kwenye Hardware Wallet. Kwa bahati nzuri, itifaki imebadilishwa ili kuruhusu hivyo tu.
+Ubaya wa njia hii ni kwamba ufunguo wa faragha wa $b$, ambao hutumika kukokotoa funguo zote za faragha za anwani ambazo zimepokea Malipo ya Kimya, hutumiwa pia na Bob kuchanganua miamala. Hatua hii inahitaji ufunguo wa $b$ kupatikana kwenye programu iliyounganishwa na Pochi la mtandao, ambayo inaiweka kwenye hatari ya wizi kuliko kuiweka kwenye Pochi la Cold. Kwa hakika, itakuwa na manufaa kuweza kufaidika na Malipo ya Kimya huku ukiweka ufunguo wa faragha wa $b$, ambao unadhibiti ufikiaji wa funguo nyingine zote za faragha, salama kwenye Pochi la Hardware. Kwa bahati nzuri, itifaki imebadilishwa ili kuruhusu hivyo tu.
 
 Ili kufanya hivyo, BIP352 inahitaji mpokeaji kutumia jozi 2 tofauti za funguo:
 
@@ -4021,11 +4021,11 @@ Ili kufanya hivyo, BIP352 inahitaji mpokeaji kutumia jozi 2 tofauti za funguo:
 - b_{\text{spend}}$: kukokotoa funguo za faragha za anwani za kipekee za malipo;
 - b_{\text{scan}}$: ili kupata anwani za kipekee za malipo.
 
-Kwa njia hii, Bob anaweza kuweka ufunguo wa faragha $b_{\text{spend}}}$ kwenye Hardware Wallet na kutumia ufunguo wa faragha $b_{\text{scan}}$ kwenye programu ya mtandaoni ili kupata Malipo yake ya Kimya, bila kufichua $b_{\text{spend}}$. Kwa upande mwingine, funguo za umma $B_{\text{scan}}$ na $B_{\text{spend}}$ zote zinafichuliwa hadharani, kwa kuwa zinapatikana katika tuli ya Bob Address $B$ :
+Kwa njia hii, Bob anaweza kuweka ufunguo wa faragha $b_{\text{spend}}}$ kwenye Pochi la Hardware na kutumia ufunguo wa faragha $b_{\text{scan}}$ kwenye programu ya mtandaoni ili kupata Malipo yake ya Kimya, bila kufichua $b_{\text{spend}}$. Kwa upande mwingine, funguo za umma $B_{\text{scan}}$ na $B_{\text{spend}}$ zote zinafichuliwa hadharani, kwa kuwa zinapatikana katika Anwani tuli ya Bob  $B$ :
 
 $$ B = B_{\text{scan}} \text{ ‖ } B_{\text{spend}} $$
 
-Ili kukokotoa malipo ya kipekee ya Address $P_0$ ya Bob, Alice sasa atafanya hesabu ifuatayo:
+Ili kukokotoa malipo ya kipekee ya Anwani $P_0$ ya Bob, Alice sasa atafanya hesabu ifuatayo:
 
 $$ P_0 = B_{\text{spend}} + \text{Hash}(\text{inputHash} \cdot a \cdot B_{\text{scan}} \text{ ‖ } 0) \cdot G $$
 
@@ -4033,7 +4033,7 @@ Ili kupata malipo yaliyoelekezwa kwake, Bob atafanya hesabu ifuatayo:
 
 $$ P_0 = B_{\text{spend}} + \text{Hash}(\text{inputHash} \cdot b_{\text{scan}} \cdot A \text{ ‖ } 0) \cdot G $$
 
-Kama unavyoona, hadi sasa Bob hajahitaji kutumia $b_{\text{spend}}$, ambayo iko kwenye Hardware Wallet yake. Anapotaka kutumia $P_0$, anaweza kufanya hesabu ifuatayo ili kupata ufunguo wa faragha $p_0$ :
+Kama unavyoona, hadi sasa Bob hajahitaji kutumia $b_{\text{spend}}$, ambayo iko kwenye Pochi la Hardware yake. Anapotaka kutumia $P_0$, anaweza kufanya hesabu ifuatayo ili kupata ufunguo wa faragha $p_0$ :
 
 $$ p_0 = (b_{\text{spend}} + \text{Hash}(\text{inputHash} \cdot b_{\text{scan}} \cdot A \text{ ‖ } 0)) \bmod n $$
 
@@ -4044,48 +4044,48 @@ $$ p_0 = (b_{\text{spend}} + \text{Hash}(\text{inputHash} \cdot b_{\text{scan}} 
 
 - $B_{\text{scan}$: Kitufe cha kuchanganua hadharani cha Bob (Address tuli)
 - $b_{\text{scan}$ : Ufunguo wa faragha wa Bob wa kuchanganua
-- $B_{\text{spend}}$ : Kitufe cha Bob cha matumizi ya umma (tuli Address)
+- $B_{\text{spend}}$ : Kitufe cha Bob cha matumizi ya umma (Anwani tuli)
 - $b_{\text{spend}}$ : Ufunguo wa faragha wa Bob wa matumizi
 - $A$ : Jumla ya pembejeo muhimu za umma (tweak)
 - $a$ : Ufunguo wa faragha unaolingana na ufunguo wa umma uliobadilishwa
 - $H$ : Hash kati ya UTXO ndogo zaidi (kieleksikografia) imetumika kama ingizo
-- $G$ : Sehemu ya kuzalisha ya curve ya duaradufu `secp256k1`
+- $G$ : Sehemu ya kuzalisha ya mkunjo wa duaradufu `secp256k1`
 - $\text{SHA256}$ : Chaguo za kukokotoa za SHA256 Hash zilizowekwa alama ya `BIP0352/SharedSecret`
 - $s_0$ : ECDH ya siri ya kwanza
-- $P_0$ : Ufunguo wa kwanza wa umma / wa kipekee wa Address kwa malipo kwa Bob
+- $P_0$ : Ufunguo wa kwanza wa umma / wa kipekee wa Anwani kwa malipo ya Bob
 
 ### Kutumia anwani za SP zilizo na lebo
 
-Kwa hivyo Bob ana Address $B$ tuli kwa Malipo ya Kimya kama vile :
+Kwa hivyo Bob ana Anwani $B$ tuli kwa Malipo ya Kimya kama vile :
 
 $$ B = B_{\text{scan}} \text{ ‖ } B_{\text{spend}} $$
 
-Tatizo la njia hii ni kwamba haikuruhusu kutenga malipo tofauti yanayotumwa kwa Address hii. Kwa mfano, ikiwa Bob ana wateja 2 tofauti wa biashara yake, na anataka kutofautisha malipo kwa kila mmoja, atahitaji anwani 2 tofauti tuli. Suluhisho la kutojua, pamoja na mbinu ya sasa, lingekuwa kwa Bob kuunda pochi mbili tofauti, kila moja ikiwa na tuli yake ya Address, au hata kuanzisha anwani mbili tofauti ndani ya Wallet sawa. Hata hivyo, suluhisho hili linahitaji kuchanganua Blockchain nzima mara mbili (mara moja kwa kila Address) ili kugundua malipo yanayokusudiwa kwa kila Address mtawalia. Uchanganuzi huu mara mbili huongeza mzigo wa uendeshaji wa Bob bila sababu.
+Tatizo la njia hii ni kwamba haikuruhusu kutenga malipo tofauti yanayotumwa kwa Anwani hii. Kwa mfano, ikiwa Bob ana wateja 2 tofauti wa biashara yake, na anataka kutofautisha malipo kwa kila mmoja, atahitaji anwani 2 tofauti tuli. Suluhisho la kutojua, pamoja na mbinu ya sasa, lingekuwa kwa Bob kuunda pochi mbili tofauti, kila moja ikiwa na tuli yake ya Anwani, au hata kuanzisha anwani mbili tofauti ndani ya Pochi sawa. Hata hivyo, suluhisho hili linahitaji kuchanganua Blockchain nzima mara mbili (mara moja kwa kila Anwani) ili kugundua malipo yanayokusudiwa kwa kila Anwani mtawalia. Uchanganuzi huu mara mbili huongeza mzigo wa uendeshaji wa Bob bila sababu.
 
-Ili kutatua tatizo hili, BIP352 hutumia mfumo wa lebo unaoruhusu anwani tofauti za tuli, bila kuongeza bila sababu mzigo wa kazi wa kutafuta Malipo ya Kimya kwenye Blockchain. Ili kufanya hivyo, tunaongeza nambari kamili $m$ kwenye ufunguo wa matumizi ya umma $B_{\text{spend}}$. Nambari hii kamili inaweza kuchukua thamani ya $1$ kwa Address tuli ya kwanza, kisha $2$ kwa pili, na kadhalika. Vifunguo vya matumizi $B_{\text{spend}}$ sasa vitaitwa $B_m$ na vitaundwa kwa njia hii:
+Ili kutatua tatizo hili, BIP352 hutumia mfumo wa alama unaoruhusu anwani tofauti za tuli, bila kuongeza bila sababu mzigo wa kazi wa kutafuta Malipo ya Kimya kwenye Blockchain. Ili kufanya hivyo, tunaongeza nambari kamili $m$ kwenye ufunguo wa matumizi ya umma $B_{\text{spend}}$. Nambari hii kamili inaweza kuchukua thamani ya $1$ kwa Address tuli ya kwanza, kisha $2$ kwa pili, na kadhalika. Vifunguo vya matumizi $B_{\text{spend}}$ sasa vitaitwa $B_m$ na vitaundwa kwa njia hii:
 
 $$ B_m = B_{\text{spend}} + \text{Hash}(b_{\text{scan}} \text{ ‖ } m) \cdot G $$
 
-Kwa mfano, kwa ufunguo wa kwanza wa gharama ulio na lebo $1$ :
+Kwa mfano, kwa ufunguo wa kwanza wa gharama ulio na alama $1$ :
 
 $$ B_1 = B_{\text{spend}} + \text{Hash}(b_{\text{scan}} \text{ ‖ } 1) \cdot G $$
 
-Address tuli iliyochapishwa na Bob sasa itajumuisha $B_{\text{scan}}$ na $B_m$. Kwa mfano, Address ya kwanza tuli yenye lebo $1$ itakuwa :
+Anwani tuli iliyochapishwa na Bob sasa itajumuisha $B_{\text{scan}}$ na $B_m$. Kwa mfano, Anwani ya kwanza tuli yenye alama $1$ itakuwa :
 
 $$ B = B_{\text{scan}} \text{ ‖ } B_1 $$
 
-> *Tunaanzia kwenye lebo ya 1 pekee kwa sababu lebo 0 imetengwa kwa ajili ya mabadiliko.*
-Alice, kwa upande wake, atapata malipo moja ya Address $P$ kwa njia ile ile kama awali, lakini kwa kutumia $B_1$ mpya badala ya $B_{\text{spend}}$ :
+> *Tunaanzia kwenye alama ya 1 pekee kwa sababu alama 0 imetengwa kwa ajili ya mabadiliko.*
+Alice, kwa upande wake, atapata malipo moja ya Anwani $P$ kwa njia ile ile kama awali, lakini kwa kutumia $B_1$ mpya badala ya $B_{\text{spend}}$ :
 
 $$ P_0 = B_1 + \text{Hash}(\text{inputHash} \cdot a \cdot B_{\text{scan}} \text{ ‖ } 0) \cdot G $$
 
-Kwa uhalisia, Alice hata hajui kuwa Bob ana lebo ya Address, kwa kuwa anatumia tu sehemu ya pili ya Address tuli aliyotoa, na katika hali hii, ni thamani ya $B_1$ badala ya $B_{text{spend}}$.
+Kwa uhalisia, Alice hata hajui kuwa Bob ana alama ya Anwani, kwa kuwa anatumia tu sehemu ya pili ya Anwani tuli aliyotoa, na katika hali hii, ni thamani ya $B_1$ badala ya $B_{text{spend}}$.
 
-Ili kuchanganua malipo, Bob atatumia kila wakati thamani ya tuli yake ya awali ya Address na $B_{\text{spend}}$ kwa njia hii:
+Ili kuchanganua malipo, Bob atatumia kila wakati thamani ya tuli yake ya awali ya Anwani na $B_{\text{spend}}$ kwa njia hii:
 
 $$ P_0 = B_{\text{spend}} + \text{Hash}(\text{inputHash} \cdot b_{\text{scan}} \cdot A \text{ ‖ } 0) \cdot G $$
 
-Halafu, yeye huondoa tu dhamana anayopata $P_0$ kutoka kwa kila pato moja baada ya nyingine. Kisha huangalia ikiwa moja ya matokeo ya uondoaji huu yanalingana na thamani ya mojawapo ya lebo anazotumia kwenye kwingineko yake. Iwapo, kwa mfano, pato #4 linalingana na lebo ya $1$, hii inamaanisha kuwa pato hili ni Malipo ya Kimya yanayohusishwa na Address $B_1$ yenye lebo yake ya kitakwimu:
+Halafu, yeye huondoa tu dhamana anayopata $P_0$ kutoka kwa kila pato moja baada ya nyingine. Kisha huangalia ikiwa moja ya matokeo ya uondoaji huu yanalingana na thamani ya mojawapo ya alama anazotumia kwenye kwingineko yake. Iwapo, kwa mfano, pato #4 linalingana na alama ya $1$, hii inamaanisha kuwa pato hili ni Malipo ya Kimya yanayohusishwa na Anwani $B_1$ yenye alama yake ya kitakwimu:
 
 $$ Out_4 - P_0 = \text{Hash}(b_{\text{scan}} \text{ ‖ } 1) \cdot G $$
 
@@ -4093,7 +4093,7 @@ Inafanya kazi kwa sababu:
 
 $$ B_1 = B_{\text{spend}} + \text{Hash}(b_{\text{scan}} \text{ ‖ } 1) \cdot G $$
 
-Shukrani kwa mbinu hii, Bob anaweza kutumia wingi wa anwani tuli ($B_1$, $B_2$, $B_3$...), zote zimetokana na tuli yake ya msingi ya Address ($B = B_{\text{scan}} \text{ ‖ } B_{\text{spend}}}$), ili kuweka matumizi tofauti.
+Shukrani kwa mbinu hii, Bob anaweza kutumia wingi wa anwani tuli ($B_1$, $B_2$, $B_3$...), zote zimetokana na tuli yake ya msingi ya Anwani ($B = B_{\text{scan}} \text{ ‖ } B_{\text{spend}}}$), ili kuweka matumizi tofauti.
 
 Tafadhali kumbuka, hata hivyo, kwamba utengano huu wa anwani tuli ni halali tu kutoka kwa mtazamo wa usimamizi wa kwingineko ya kibinafsi, lakini hautenganishi vitambulisho. Kwa kuwa zote zina $B_{\text{scan}}}$ sawa, ni rahisi sana kuhusisha anwani tuli zote pamoja na kubaini kuwa zinamilikiwa na huluki moja.
 
@@ -4102,24 +4102,24 @@ Tafadhali kumbuka, hata hivyo, kwamba utengano huu wa anwani tuli ni halali tu k
 *Hadithi:*
 
 
-- $B_{\text{scan}$: Kitufe cha kuchanganua hadharani cha Bob (Address tuli)
+- $B_{\text{scan}$: Kitufe cha kuchanganua hadharani cha Bob (Anwani tuli)
 - $b_{\text{scan}$ : Ufunguo wa faragha wa Bob wa kuchanganua
-- $B_{\text{spend}}$ : Kitufe cha Bob cha matumizi ya umma (Address ya awali)
-- $B_m$ : Kitufe cha Bob cha matumizi ya umma kilichoandikwa (tuli Address)
+- $B_{\text{spend}}$ : Kitufe cha Bob cha matumizi ya umma (Anwani ya awali)
+- $B_m$ : Kitufe cha Bob cha matumizi ya umma kilichoandikwa (Anwani tuli)
 - $b_m$: Ufunguo wa matumizi wa kibinafsi wa Bob umeandikwa
 - $A$ : Jumla ya pembejeo muhimu za umma (tweak)
 - $a$ : Ufunguo wa faragha unaolingana na ufunguo wa umma uliobadilishwa
 - $H$ : Hash ya UTXO ndogo zaidi (kieleksikografia) imetumika kama ingizo
-- $G$ : Sehemu ya kuzalisha ya curve ya duaradufu `secp256k1`
+- $G$ : Sehemu ya kuzalisha ya mkunjo wa duaradufu `secp256k1`
 - $\text{SHA256}$ : Chaguo za kukokotoa za SHA256 Hash zilizowekwa alama ya `BIP0352/SharedSecret`
 - $s_0$ : Siri ya kwanza ya ECDH ya pamoja
-- $P_0$ : Ufunguo wa kwanza wa umma / wa kipekee wa Address kwa malipo kwa Bob
-- $p_0$ : Ufunguo wa faragha wa malipo ya kwanza ya kipekee ya Address kwa Bob
-- $X$ : Hash ya ufunguo wa kibinafsi wa kuchanganua na lebo
+- $P_0$ : Ufunguo wa kwanza wa umma / wa kipekee wa Anwani kwa malipo kwa Bob
+- $p_0$ : Ufunguo wa faragha wa malipo ya kwanza ya kipekee ya Anwani kwa Bob
+- $X$ : Hash ya ufunguo wa kibinafsi wa kuchanganua na alama
 
-### Je, ninawezaje kujenga Malipo ya Kimya Address?
+### Je, ninawezaje kujenga Malipo ya Kimya ya Anwani?
 
-Ili kuunda Address iliyoundwa kwa Malipo ya Kimya, kwanza unahitaji kupata jozi 2 muhimu kutoka kwa Bitcoin HD Wallet yako:
+Ili kuunda Anwani iliyoundwa kwa Malipo ya Kimya, kwanza unahitaji kupata jozi 2 muhimu kutoka kwa Pochi la Bitcoin HD yako:
 
 
 - Jozi $b_{\text{scan}}$, $B_{\text{scan}}$ ili kutafuta malipo yanayoelekezwa kwetu;
@@ -4132,21 +4132,21 @@ scan : m / 352' / 0' / 0' / 1' / 0
 spend : m / 352' / 0' / 0' / 0' / 0
 ```
 
-Mara tu tukiwa na jozi hizi 2 za funguo, tunaziunganisha kwa urahisi (mwisho-hadi-mwisho) ili kuunda upakiaji tuli wa Address:
+Mara tu tukiwa na jozi hizi 2 za funguo, tunaziunganisha kwa urahisi (mwisho-hadi-mwisho) ili kuunda upakiaji tuli wa Anwani:
 
 $$ B = B_{\text{scan}} \text{ ‖ } B_{\text{spend}} $$
 
-Ikiwa tunataka kutumia lebo, tutabadilisha $B_{\text{spend}}$ na $B_m$ :
+Ikiwa tunataka kutumia alama, tutabadilisha $B_{\text{spend}}$ na $B_m$ :
 
 $$ B = B_{\text{scan}} \text{ ‖ } B_m $$
 
-Na lebo $m$ :
+Na alama $m$ :
 
 $$ B_m = B_{\text{spend}} + \text{Hash}(b_{\text{scan}} \text{ ‖ } m) \cdot G $$
 
-Mara tu tunapopakia, tunaongeza HRP (*Sehemu Inayoweza Kusomwa na Binadamu*) `sp` na toleo la `q` (= toleo la 0). Pia tunaongeza cheki na umbizo la Address kama bech32m.
+Mara tu tunapopakia, tunaongeza HRP (*Sehemu Inayoweza Kusomwa na Binadamu*) `sp` na toleo la `q` (= toleo la 0). Pia tunaongeza cheki na umbizo la Anwani kama bech32m.
 
-Kwa mfano, hapa kuna Malipo yangu ya Kimya tuli Address:
+Kwa mfano, hapa kuna Malipo yangu ya Kimya ya Anwani tuli:
 
 ```text
 sp1qqvhjvsq2vz8zwrw372vuzle7472zup2ql3pz64yn5cpkw5ngv2n6jq4nl8cgm6zmu48yk3eq33ryc7aam6jrvrg0d0uuyzecfhx2wgsumcurv77e
@@ -4154,7 +4154,7 @@ sp1qqvhjvsq2vz8zwrw372vuzle7472zup2ql3pz64yn5cpkw5ngv2n6jq4nl8cgm6zmu48yk3eq33ry
 
 Hoja muhimu kuhusu anwani tuli, ambayo unaweza kuwa umeelewa katika sehemu zilizopita, ni kwamba anwani hizi hazionekani katika shughuli za Bitcoin. Ni anwani za malipo za $P$ zinazotumiwa katika matokeo pekee ndizo zinazoonekana kwenye Blockchain katika umbizo la kawaida la Taproot. Kwa hivyo, kutoka nje, haiwezekani kutofautisha muamala unaohusisha Malipo ya Kimya na muamala wa kawaida kwa kutumia matokeo ya P2TR.
 
-Kama ilivyo kwa BIP47, haiwezekani kuanzisha muunganisho kati ya Address $B$ tuli na malipo ya Address $P$ inayotokana na $B$. Hakika, hata kama Eve, mshambuliaji anayetarajiwa, atajaribu kuchanganua Blockchain kwa tuli ya Bob ya $B$ Address, hataweza kufanya hesabu zinazohitajika ili kubaini $P$. Ili kufanya hivyo, angehitaji ufunguo wa faragha wa Bob $b_{\text{scan}}$, au funguo za faragha za mtumaji $a$, lakini zote mbili bila shaka ni za faragha. Kwa hivyo inawezekana kuunganisha kwa uwazi Address tuli ya mtu na aina ya utambulisho wa kibinafsi.
+Kama ilivyo kwa BIP47, haiwezekani kuanzisha muunganisho kati ya Anwani $B$ tuli na malipo ya Address $P$ inayotokana na $B$. Hakika, hata kama Eve, mshambuliaji anayetarajiwa, atajaribu kuchanganua Blockchain kwa tuli ya Bob ya $B$ Anwani, hataweza kufanya hesabu zinazohitajika ili kubaini $P$. Ili kufanya hivyo, angehitaji ufunguo wa faragha wa Bob $b_{\text{scan}}$, au funguo za faragha za mtumaji $a$, lakini zote mbili bila shaka ni za faragha. Kwa hivyo inawezekana kuunganisha kwa uwazi Anwani tuli ya mtu na aina ya utambulisho wa kibinafsi.
 
 ### Je, ninawezaje kutumia Malipo ya Kimya?
 
@@ -4165,7 +4165,7 @@ Pendekezo la Malipo ya Kimya ni la hivi punde na limetekelezwa na idadi ndogo tu
 - [Silentium](https://app.silentium.dev/)
 - [Mkoba wa Mchango](https://github.com/Sosthene00/donationwallet)
 
-Hivi karibuni tutakupa mafunzo ya kina kuhusu jinsi ya kusanidi Malipo yako ya Kimya tuli ya Address.
+Hivi karibuni tutakupa mafunzo ya kina kuhusu jinsi ya kusanidi Malipo yako ya Anwani ya Kimya.
 
 Kwa kuwa kipengele hiki ni kipya, tunakushauri uwe mwangalifu na uepuke kutumia Malipo ya Kimya kwa kiasi kikubwa kwenye Mainnet.
 
