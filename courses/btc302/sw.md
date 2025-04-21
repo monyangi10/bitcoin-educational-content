@@ -1,4 +1,4 @@
----
+---silvia
 name: Kuunda Jumuiya ya Bitcoin au Mkutano
 goal: Unda na upange jumuiya ya Bitcoin kwa urahisi au mkutano
 objectives: 
@@ -14,15 +14,15 @@ objectives:
 
 Leo, kuna wingi wa maudhui ya elimu yanayopatikana kwenye Mtandao, yanayoruhusu kila mtu kujielimisha kuhusu Bitcoin na mfumo wake wa ikolojia.
 
-Hata hivyo, ** jambo moja ambalo wengi wetu, bitcoiners, tunakosa sana ni fursa ya kukutana, Exchange na kushiriki ujuzi wetu **. Lakini pia, ili **kujenga pamoja**.
+Hata hivyo, **jambo moja ambalo wengi wetu, bitcoiners, tunakosa sana ni fursa ya kukutana, Kubadilishana na kushirikisha ujuzi wetu**. Lakini pia, ili **kujenga pamoja**.
 
-Kwa Address hitaji hili linalokua, bitcoiners wengi huamua mara kwa mara **kuunda jumuiya mpya zinazowazunguka**. Mikutano basi inapendekezwa, wakati idadi ya washiriki inatosha; na mikutano hii, mara nyingi inakuwa ya mara kwa mara, kisha kuwa ardhi yenye rutuba ya kuundwa kwa mawasilisho na warsha, zote za kiufundi na maarufu.
+Kwa Anwani hitaji hili linalokua, bitcoiners wengi huamua mara kwa mara **kuunda jumuiya mpya zinazowazunguka**. Mikutano basi inapendekezwa, wakati idadi ya washiriki inatosha; na mikutano hii, mara nyingi inakuwa ya mara kwa mara, kisha kuwa ardhi yenye rutuba ya kuundwa kwa mawasilisho na warsha, zote za kiufundi na maarufu.
 
 Katika kozi hii yenye kichwa "**BTC302**," tutashiriki katika kuonyesha **mavutio ya kuunda jumuiya ya Bitcoin na/au kukutana**, kisha kufafanua na kupendekeza **zana mbalimbali za kukuza utambulisho wa kidijitali** wa jumuiya ya mtu au mkutano.
 
 Kisha, tutawasilisha **miradi na mipango mbalimbali** ambayo inaweza kutekelezwa kwa urahisi, hasa kwa mtazamo wa elimu. Rasilimali nyingi za chanzo-wazi zitatolewa.
 
-Hatimaye, tafakari ya kina itafanywa kuhusu **mageuzi ya jamii kutoka kwa mtazamo wa kitaifa**; lakini pia, juu ya **jukumu lao katika hyperbitcoinization ya ulimwengu wa kesho **.
+Hatimaye, tafakari ya kina itafanywa kuhusu **mageuzi ya jamii kutoka kwa mtazamo wa kitaifa**; lakini pia, juu ya **jukumu lao katika hyperbitcoinization ya ulimwengu wa kesho**.
 
 +++
 # Utangulizi
@@ -37,7 +37,7 @@ Tangu 2009, Bitcoin imeendelea kukuza. Hii ni pamoja na utekelezaji wa Mapendeke
 
 Maendeleo yake pia yanaonekana On-Chain, haswa katika kuongezeka kwa idadi ya miamala.
 
-Kwa hivyo, kati ya Januari 1, 2018 na Januari 1, 2024, idadi ya miamala kwenye Layer kuu ya Bitcoin inakadiriwa kuwa [iliongezeka kwa asilimia 66.2](https://dune.com/queries/3375917/5663935); ilhali kati ya Agosti 2021 na Agosti 2023, idadi ya miamala ya umma kwenye mwekeleo wa Umeme imeongezeka [kuongezeka kwa asilimia 1212](https://river.com/learn/files/river-lightning-report-2023.pdf).
+Kwa hivyo, kati ya Januari 1, 2018 na Januari 1, 2024, idadi ya miamala kwenye safu kuu ya Bitcoin inakadiriwa kuwa [iliongezeka kwa asilimia 66.2](https://dune.com/queries/3375917/5663935); ilhali kati ya Agosti 2021 na Agosti 2023, idadi ya miamala ya umma kwenye mwekeleo wa Umeme imeongezeka [kuongezeka kwa asilimia 1212](https://river.com/learn/files/river-lightning-report-2023.pdf).
 
 Mtazamo huu wa takwimu, bila shaka, unahusiana kwa karibu na:
 
@@ -69,7 +69,7 @@ Kwa matatizo haya mawili, suluhisho bora ni kuwa shambani na kuelimisha.
 
 Ingawa, katika mfumo ikolojia wa Bitcoin, hakuna ufafanuzi mahususi wa istilahi hizi mbili, jumuiya inaweza kuonekana kama mkusanyiko wa watu kadhaa ambao wanashiriki mapenzi/mapenzi yanayofanana na kuwasiliana pamoja mara kwa mara zaidi au kidogo.
 
-Sambamba na hilo, mkutano ni tukio lililoandaliwa na (na kwa) jumuiya hii, kwa lengo mahususi akilini. Kawaida hufanyika mara tu jumuiya inayohusishwa imeundwa.
+Sambamba na hilo, mkutano ni tukio lililoandaliwa na (na kwa) jumuiya hii, kwa lengo mahususi akilini. Kawaida hufanyika mara tu jumuiya inayohusishwa inakuwa imeundwa.
 
 Katika suala hili, katika kipindi cha kozi hii, tutazingatia kwamba ili kuzindua mkutano wa Bitcoin, itakuwa muhimu hapo awali kuwasiliana na watu wengine wanaopenda kufanya aina hii ya tukio; na kwa hivyo, kwamba **jumuiya ya Bitcoin lazima iwe imeundwa hapo awali**.
 
@@ -77,7 +77,7 @@ Katika suala hili, katika kipindi cha kozi hii, tutazingatia kwamba ili kuzindua
 
 Kama ilivyotajwa katika sura iliyotangulia, kuunda jumuiya kunaweza kuwa na malengo kadhaa.
 
-Kwa upande mmoja, wakati linajumuisha bitcoiners, jumuiya inaweza kuruhusu wanachama wake kwa Exchange na kubadilishana habari na kila mmoja. Msaada wa pande zote kwa ujumla ndio msingi wake, kuruhusu kila mtu kuharakisha kujifunza kwake.
+Kwa upande mmoja, wakati linajumuisha bitcoiners, jumuiya inaweza kuruhusu wanachama wake kwa ubadilishanaji na kubadilishana habari na kila mmoja. Msaada wa pande zote kwa ujumla ndio msingi wake, kuruhusu kila mtu kuharakisha kujifunza kwake.
 
 Hii ina maana hasa katika kesi ya Bitcoin, kutokana na ugumu wake.
 
@@ -101,7 +101,7 @@ Kwa upande mwingine, jumuiya ya Bitcoin pia inaweza kuwa na malengo ya wazi zaid
 
 Hatua kwa hatua, kujenga ngome za kwanza za ulimwengu wa kesho, **Jumuiya za Bitcoin kote ulimwenguni zinasimama kama ngome inayofaa dhidi ya majaribio ya upotoshaji na/au udhibiti katika baadhi ya nchi**. Sambamba, **wanaunda ardhi yenye rutuba ya kufundisha misingi ya Bitcoin**; kuwezesha mtu yeyote ambaye bado hajaelewa kuwa na, wakati yuko tayari, mawasiliano na rasilimali kufikiria ulimwengu mpya.
 
-Zaidi ya hayo, ** kwa sababu Bitcoin ni pamoja, inaonekana kuwa jukumu la jumuiya kuwawezesha na kuelimisha bitcoiners wote wa baadaye juu ya misingi ya Bitcoin**; wakiwemo wanaositasita zaidi.
+Zaidi ya hayo, **kwa sababu Bitcoin ni pamoja, inaonekana kuwa jukumu la jumuiya kuwawezesha na kuwaelimisha bitcoiners wote wa baadaye juu ya misingi ya Bitcoin**; wakiwemo wanaositasita zaidi.
 
 ####
 
@@ -111,9 +111,9 @@ Ingawa tutajadili mada hii kwa undani zaidi baadaye katika somo, bado ni muhimu 
 
 Kama ilivyoelezwa hapo awali, **kuundwa kwa mkutano hufuata kuundwa kwa jumuiya, kwa kuwa inakamilishana nayo**.
 
-Hakika, katika safari ya shabiki wa Bitcoin, idadi kubwa ya watu huangazia hamu (na haja) ya **kukutana na Exchange na wengine** ndani ya mfumo sawa wa ikolojia. Hii inaelezewa kwa ujumla na kuibuka kwa hisia ya upweke, iliyopo kati ya wengi wao.
+Hakika, katika safari ya shabiki wa Bitcoin, idadi kubwa ya watu huangazia hamu (na haja) ya **kukutana na Kubadilishana na wengine** ndani ya mfumo sawa wa ikolojia. Hii inaelezewa kwa ujumla na kuibuka kwa hisia ya upweke, iliyopo kati ya wengi wao.
 
-Kwa hivyo, kupanga mikutano hii kunaweza kuruhusu kukutana kimwili kwa urahisi zaidi kuliko kwa simu za sauti au video. Wanaweza kufanyika **karibu na kinywaji au mlo**, na kuruhusu mabadilishano sahihi zaidi na ya moja kwa moja, na watu wengi zaidi.
+Kwa hivyo, kupanga mikutano hii kunaweza kuruhusu kukutana kimwili kwa urahisi zaidi kuliko kwa simu za sauti au video. Zinaweza kufanyika **karibu na kinywaji au mlo**, na kuruhusu mabadilishano sahihi zaidi na ya moja kwa moja, na watu wengi zaidi.
 
 ![immagine](assets/fr/03.webp)
 
@@ -125,7 +125,7 @@ Kwa kuongeza, matukio haya yanaweza pia kuwezesha kutangazwa kwa miradi inayohus
 
 ####
 
-Ingawa ni juu ya kila jumuiya kuunda maoni yake, kuanzisha miradi yake na kufanya majaribio yake yenyewe, **mikutano inaonekana kuwa muhimu kwa maendeleo ya Bitcoin na jumuiya zake**; na kwamba, katika maeneo yote.
+Ingawa ni juu ya kila jumuiya kuunda maoni yake, kuanzisha miradi yake na kufanya majaribio yake yenyewe, **mikutano inayoonekana kuwa muhimu kwa maendeleo ya Bitcoin na jumuiya zake**; na kwamba, katika maeneo yote.
 
 **Shirika lao, hata hivyo, linahitaji mipango na wakati fulani**; na ndiyo maana, katika kozi hii, tunajaribu kushiriki uzoefu wa muhtasari wa [jamii sitini za Kifaransa na Ubelgiji Bitcoin](https://btcmap.org/communities/map#2/5.24949/0.20000); **ili uweze kuunda na kukuza jumuiya yako mwenyewe na kukutana kwa urahisi iwezekanavyo**.
 
@@ -139,7 +139,7 @@ Hakika, ingawa uundaji wa jumuiya mwanzoni unategemea tu zana za mawasiliano na 
 
 ####
 
-Hapo awali, unapotafuta kukutana na wapenzi wengine wa Bitcoin, ni kawaida kuanza kwa kutafuta mtandao. Hili hupelekea kwa haraka kugundua na kugeukia seva za Discord au chaneli za Telegraph kama vile zile za [Decouvre Bitcoin](https://decouvrebitcoin.fr/), au hata mabaraza ya majadiliano kama vile [bitcointalk.org](https://bitcointalk.org).
+Hapo awali, unapotafuta kukutana na wapenzi wengine wa Bitcoin, ni kawaida kuanza kwa kutafuta mtandao. Hili hupelekea kwa haraka kugundua na kugeukia seva za Discord au chaneli za Telegraph kama vile zile za [Decouvre Bitcoin](https://decouvrebitcoin.fr/), au hata baraza za mijadala kama vile [bitcointalk.org](https://bitcointalk.org).
 
 Baada ya miezi michache ya mwingiliano kupitia skrini, mara nyingi huja wakati ambapo mtu anahisi hamu ya kwenda zaidi. Hamu hii basi huangaza katika hitaji la kukutana na wapenda Bitcoin wengine ambao mtu anahisi "karibu" nao kimwili. Kwa maneno mengine: Bitcoin enthusiasts kutoka mji wa mtu, au hata jirani ya mtu.
 
@@ -147,7 +147,7 @@ Kwa bahati mbaya, **inawezekana kabisa kwamba hakuna jumuiya ya Bitcoin karibu n
 
 Kabla ya kuanza, hata hivyo, ni muhimu kutarajia hatua inayofuata: mkutano unaowezekana. Mkutano, kwa maneno mengine!
 
-Hata hivyo, ni wazi kwamba ikiwa washiriki wa jumuiya yako watalazimika kuendesha gari kwa saa mbili ili kuja kwenye hafla yako, wachache wao watafanya safari hiyo.
+Hata hivyo, ni wazi kwamba ikiwa washiriki wa jumuiya yako watalazimika kuendesha gari kwa masaa mawili ili kuja kwenye hafla yako, wachache wao watafanya safari hiyo.
 
 Hii ndiyo sababu **eneo la kijiografia la jumuiya yako (na hivyo basi, mikutano yako ya baadaye) ina athari kubwa katika maendeleo yake**.
 
@@ -159,14 +159,14 @@ Hapa kuna baadhi ya mawazo ambayo yanaweza kukuongoza:
 
 
     - pata ukumbi** kwa urahisi zaidi kwa ajili ya mkutano wako na/au miradi (mawasilisho, warsha, kukubali Bitcoin kama njia ya malipo, n.k.);
-    - ongeza hali ya kuhusika na kuhusika** ya watu zaidi kuelekea jumuiya na matukio yako;
-    - iwe rahisi kuhudhuria hafla zako** (usafiri wa umma, maegesho ya gari, n.k.). **Kwa hivyo, inashauriwa kuchagua mahali pa kuandaa mkutano wa kimwili, karibu na usafiri wa umma na maegesho ya magari**.
+  -ongeza hali ya kuhusika na kuhusika** kwa watu zaidi kuelekea jumuiya na matukio yako;
+ - iwe rahisi kuhudhuria hafla zako** (usafiri wa umma, maegesho ya gari, n.k.). **Kwa hivyo, inashauriwa kuchagua mahali pa kuandaa mkutano wa kimwili, karibu na usafiri wa umma na maegesho ya magari**.
 
 2) **Chagua jina la jumuiya/mkutano wako linalorejelea jiji hili**, ili iwe rahisi kwa watu kulitambua. Kwa mfano, "Bitcoin Paris," "Einundzwanzig Berlin," "Satoshi Spritz Milan," nk.
 
 ####
 
-Jambo lingine zaidi ya muhimu la kuchunguza ni: **Je, mkutano tayari upo karibu nami?
+Jambo lingine zaidi la muhimu la kuchunguza ni: **Je, mkutano tayari upo karibu nami?
 
 Ili kufanya hivyo, unapaswa kujua kwamba tovuti [btcmap.org](https://btcmap.org/communities/map#0/0/0/) huorodhesha takriban jumuiya zote za kimataifa na mikutano.
 
@@ -192,15 +192,15 @@ Ili kukusaidia, tumeorodhesha hapa chini baadhi ya mawazo ambayo yanaweza kukusa
 
 ####
 
-1. **Kwa nini, kama bitcoiner, nilianzisha jumuiya hii?** Je, ni kushiriki ujuzi wangu? Kuelimisha? Ili kujifunza kutoka kwa wengine? Ili kukutana na watu wengine wenye nia moja? Ili kujihusisha katika mfumo wa ikolojia? Ili kukutana na wataalamu? Kunywa bia tu na kupata marafiki wapya?
+1. **Kwa nini, kama bitcoiner, nilianzisha jumuiya hii?** Je, ni kushiriki ujuzi wangu? Kuelimisha? Ili kujifunza kutoka kwa wengine? Ili kukutana na watu wengine wenye nia moja? Ili kujihusisha katika mfumo wa ikolojia? Ili kukutana na wataalamu? Kunywa bia tu na kupata rafiki wapya?
 
 Ni wazi, kulingana na majibu yako, nafasi yako na motisha hazitakuwa sawa.
 
-Kwa mfano, ikiwa lengo lako ni **kushiriki maarifa yako kwa madhumuni ya kuelimisha kuhusu Bitcoin**, ni wazi kuwa **kuunda maudhui ya elimu** (makala, podikasti, video, mawasilisho, vipeperushi n.k.) ni muhimu. Kwa hivyo utahifadhi masaa mengine kadhaa ya utafiti na kazi. Hili linaweza kuchukuliwa zaidi kupitia **kuandaa warsha, mawasilisho na makongamano**.
+Kwa mfano, ikiwa lengo lako ni **kushirikisha maarifa yako kwa madhumuni ya kuelimisha kuhusu Bitcoin**, ni wazi kuwa **kuunda maudhui ya elimu** (makala, podikasti, video, mawasilisho, vipeperushi n.k.) ni muhimu. Kwa hivyo utahifadhi masaa mengine kadhaa ya utafiti na kazi. Hili linaweza kuchukuliwa zaidi kupitia **kuandaa warsha, mawasilisho na makongamano**.
 
 Sambamba, ikiwa lengo lako ni "tu" kukutana na bitcoiners wengine kushiriki maisha yako ya kila siku, hii inaweza kufanyika kwa njia ya utulivu zaidi; kwa mfano, juu ya vinywaji.
 
-Hata hivyo, bila shaka unafahamu kwamba toasting husaidia kuwezesha mwingiliano wa kijamii, hasa inapohusisha pombe. Hata hivyo, ingawa bado ni jambo la kawaida leo kujisikia peke yako na kutoeleweka na kila mtu wakati unasadikishwa kwa kina juu ya kile Bitcoin inaleta kwa jamii yetu, ni muhimu usisahau kwamba **kunywa bia hukuruhusu kujadili ulimwengu, lakini usiibadilishe** :smirk:
+Hata hivyo, bila shaka unafahamu kwamba chereko husaidia kuwezesha mwingiliano wa kijamii, hasa inapohusisha pombe. Hata hivyo, ingawa bado ni jambo la kawaida leo kujisikia peke yako na kutoeleweka na kila mtu wakati unasadikishwa kwa kina juu ya kile Bitcoin inaleta kwa jamii yetu, ni muhimu usisahau kwamba **kunywa bia hukuruhusu kujadili ulimwengu, lakini usiubadilishe** :smirk:
 
 Kwa maana hii, **itaonekana kuwa muhimu kuweka malengo na miradi thabiti**.
 
@@ -220,26 +220,26 @@ Wakati mwingine, kulingana na mada zinazoshughulikiwa (kama vile mawasilisho ya 
 
 ####
 
-3. Ni ushiriki gani ningependa jumuiya yangu iwe nayo katika mfumo ikolojia wa Bitcoin?
+3. Ni ushiriki gani ningependa jumuiya yangu iwe nao katika mfumo ikolojia wa Bitcoin?
 
 Swali hili la juu zaidi linaweza kuzingatiwa kutokana na kuundwa kwa jumuiya yako.
 
 Kwa hakika, ikiwa unatamani **kuunda jumuiya iliyoungana, inayohusika iliyojaa washikaji fedha waliohamasishwa** ambao wangependa kuelimisha na kuwapa dawa ya chungwa watu wengi karibu nawe iwezekanavyo, basi utahitaji:
 
 
-- kwa upande mmoja, **kukaribia jumuiya zilizopo**, kwa lengo la kupata seti kubwa zaidi ya habari, kuwa na upatikanaji wa wingi wa viungo na rasilimali huria ambazo zinaweza kutumika tena, lakini pia kupokea mkono wa usaidizi unapohitaji; * kwa upande mwingine, **kujipanga--na hivyo kusambaza kazi--ndani ya jumuiya yako ili kusonga mbele pamoja**.
+- kwa upande mmoja, **kukaribia jumuiya zilizopo**, kwa lengo la kupata seti kubwa zaidi ya habari, kuwa na upatikanaji wa wingi wa viungo na rasilimali huria ambavyo vinaweza kutumika tena, lakini pia kupokea mkono wa usaidizi unapohitaji; * kwa upande mwingine, **kujipanga--na hivyo kusambaza kazi--ndani ya jumuiya yako ili kusonga mbele pamoja**.
 
 ####
 
 Ni wazi kwamba kuweka malengo si kazi rahisi. Hata hivyo, **malengo ya muda mfupi, wa kati na mrefu** yanaweza kuwekwa katika sehemu tofauti katika mageuzi ya jumuiya yako.
 
-**Kwa mfano, unapounda jumuiya yako, unaweza kuchagua kulenga katika muda mfupi kutengeneza mitandao ya kijamii na njia za mawasiliano. Katika muda wa kati, maendeleo ya rasilimali za elimu (makala, vipeperushi, nk) ambazo zinapatikana na zinafaa. Hatimaye, kwa muda mrefu, sema katika miezi 6, kuzindua mkutano wa kimwili kwa ujumla inawezekana **.
+**Kwa mfano, unapounda jumuiya yako, unaweza kuchagua kulenga katika muda mfupi kutengeneza mitandao ya kijamii na njia za mawasiliano. Katika muda wa kati, maendeleo ya rasilimali za elimu (makala, vipeperushi, nk) ambazo zinapatikana na zinafaa. Hatimaye, kwa muda mrefu, sema katika miezi 6, kuzindua mkutano wa kimwili kwa ujumla inawezekana**.
 
 Miezi michache baadaye, **mikutano yako inapokuwa ya kawaida, unaweza kufafanua kwa muda mfupi utekelezaji wa mawasilisho au warsha kuhusu mada maalum; katika muda wa kati, utekelezaji wa kampeni ya uhamasishaji/elimu kwenye Bitcoin; na baada ya muda mrefu, kuundwa kwa chama au kutafuta baa ambayo inakubali Bitcoin kama njia ya malipo**.
 
 ####
 
-Hata hivyo, kumbuka kwamba kuunda jumuiya haifanyiki mara moja: **inahitaji muda, motisha na shirika fulani**.
+Hata hivyo, kumbuka kwamba kuunda jumuiya hakufanyiki mara moja: **inahitaji muda, motisha na shirika fulani**.
 
 Wakati mwingine, inaweza pia kuwa ya kukatisha tamaa; hasa wakati hakuna mtu anajitokeza kwenye mojawapo ya mikutano yako na unajisikia peke yako katika kutafuta sababu hii.
 
@@ -261,7 +261,7 @@ Katika muendelezo wa kozi hii, tutazingatia kwamba:
 
 **Hatua ya pili katika kuunda jumuiya ni dhahiri ni ile ya utambulisho wake**. Hii inahusisha kuchagua jina lake, lakini pia **utambulisho wake wa kuona**.
 
-Ndiyo maana tutajitahidi, katika Sehemu hii ya 2/8, kukupa mafunzo na suluhisho za programu zinazokuwezesha kubuni utambulisho unaoonekana wa jumuiya yako; na kwamba, bila ya kuwa na ujuzi wa mbunifu.####
+Ndiyo maana tutajitahidi, katika Sehemu hii ya 2/8, kukupa mafunzo na suluhisho za programu zinazokuwezesha kubuni utambulisho unaoonekana wa jumuiya yako; na kwamba, bila ya kuwa na ujuzi wa ubunifu.####
 
 Ni dhahiri kwamba binadamu anapojinasibisha na kundi fulani, yeye huhisi kuhusika zaidi. Kwa maana hii, kuwa na utambulisho wa kipekee kwa jumuiya yako ni muhimu.
 
@@ -315,13 +315,13 @@ Zaidi ya hayo, ikiwa msukumo unapita kwako, unaweza hata kwenda mbali zaidi kwa 
 
 Kwa kuunda nembo na mabango kwa ajili ya jumuiya yako, **unaweza kutumia [Canva](https://www.canva.com/)**.
 
-Tovuti hii ambayo ni rahisi kutumia na isiyolipishwa inajulikana hasa kwa wingi wa violezo; ambayo unaweza kurudia na kurekebisha unavyotaka.
+Tovuti hii ambayo ni rahisi kutumia na isiyolipishwa inajulikana hasa kwa wingi wa violezo; ambavyo unaweza kurudia na kurekebisha unavyotaka.
 
-Unapo*unda nembo yako**, basi unaweza kutafuta nembo tofauti zilizoundwa awali kwenye ukurasa wa nyumbani, ili kuiga ile au nembo unayovutiwa nayo; na kisha urekebishe unavyotaka.
+**Unapounda nembo yako**, basi unaweza kutafuta nembo tofauti zilizoundwa awali kwenye ukurasa wa nyumbani, ili kuiga ile au nembo unayovutiwa nayo; na kisha urekebishe unavyotaka.
 
-Kisha unaweza kuongeza kiwakilishi cha mandharinyuma cha jiji lako (kwa kuleta picha au kwa kutafuta "Michoro" au "Picha" kwenye menyu ya kushoto "Elements"). Ifuatayo, kuingiza nembo ya Bitcoin au ₿ juu-hata kubadilisha rangi yake ikiwa inataka-ni chaguo.
+Kisha unaweza kuongeza kiwakilishi cha mandharinyuma cha jiji lako (kwa kuleta picha au kwa kutafuta "Michoro" au "Picha" kwenye menyu ya kushoto "Vipengele"). Ifuatayo, kuingiza nembo ya Bitcoin au ₿ juu-hata kubadilisha rangi yake ikiwa unataka-ni chaguo.
 
-Katika kesi ya **kuunda bango au bango**, tafuta tu ukurasa wa nyumbani wa tovuti tena ili kupata bango lililoundwa awali. Baada ya kuinakili, utaweza kuihariri kwa kubadilisha maandishi na fonti, kuongeza nembo ya jumuiya yako, na kuleta picha ili kuziburuta hadi kwenye fremu (ambazo utapata kwa kutafuta "fremu" kwenye menyu ya kushoto "Elements").
+Katika kesi ya **kuunda bango au bango**, tafuta tu ukurasa wa nyumbani wa tovuti tena ili kupata bango lililoundwa awali. Baada ya kuinakili, utaweza kuihariri kwa kubadilisha maandishi na fonti, kuongeza nembo ya jumuiya yako, na kuleta picha ili kuziburuta hadi kwenye fremu (ambazo utapata kwa kutafuta "fremu" kwenye menyu ya kushoto "Vipengele").
 
 Kwa kuongeza, orodha ya kushoto "Design" inakuwezesha kutafuta mifano mingine kulingana na mahitaji yako.
 
@@ -340,21 +340,21 @@ Ili kukuongoza kwa undani zaidi, tunatoa hapa chini mafunzo ya video yasiyo ya k
 Hapa pia kuna baadhi ya faili zilizoundwa awali, zinazorudiwa na zinazoweza kuhaririwa zinazopatikana kwako tunazotumia pamoja na uhusiano wetu, Bitcoin Lille:
 
 
-- bango la tangazo la kukutana** (kwa mitandao ya kijamii, na kuchapishwa katika A4 au A3): [kiungo](https://www.canva.com/design/DAGBvBXFJ8A/92-j_toeLU8QbVAD0NwoAA/edit?utm_content=DAGBvBXFJ8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **bango la tangazo la kukutana** (kwa mitandao ya kijamii, na kuchapishwa katika A4 au A3): [kiungo](https://www.canva.com/design/DAGBvBXFJ8A/92-j_toeLU8QbVAD0NwoAA/edit?utm_content=DAGBvBXFJ8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ![immagine](assets/fr/10.webp)
 
 
-- bango la pamoja la tangazo la tukio** (kwa mitandao ya kijamii, na kuchapishwa katika A4 au A3): [kiungo](https://www.canva.com/design/DAGBvG3rNCc/oXtNR9pduRs22AqclG4O2g/edit?utm_content=DAGBvG3rNCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- mabango kwa baadhi ya mitandao ya kijamii**: [link](https://www.canva.com/design/DAGBvOXyNqw/iSJG9PbIQHgGWHz5PhlXSQ/edit?utm_content=DAGBvOXyNqw&utm_campaign=designshare&utm_medium_link2&utm_medium=relink2
-- tangazo la shindano**:[link](https://www.canva.com/design/DAGBvIjuA_w/YzSUXzOmbNV9oCma9mluOw/edit?utm_content=DAGBvIjuA_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebure
+- **bango la pamoja la tangazo la tukio** (kwa mitandao ya kijamii, na kuchapishwa katika A4 au A3): [kiungo](https://www.canva.com/design/DAGBvG3rNCc/oXtNR9pduRs22AqclG4O2g/edit?utm_content=DAGBvG3rNCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **mabango kwa baadhi ya mitandao ya kijamii**: [link](https://www.canva.com/design/DAGBvOXyNqw/iSJG9PbIQHgGWHz5PhlXSQ/edit?utm_content=DAGBvOXyNqw&utm_campaign=designshare&utm_medium_link2&utm_medium=relink2
+- **tangazo la shindano**:[link](https://www.canva.com/design/DAGBvIjuA_w/YzSUXzOmbNV9oCma9mluOw/edit?utm_content=DAGBvIjuA_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebure
 
 ![immagine](assets/fr/11.webp)
 
 
-- karatasi** kutoka maktaba yetu, inayoonyeshwa katika A4 wakati wa mikutano: [link](https://www.canva.com/design/DAGBvPqL7N4/LmUItfsysypRLSOFOzBXcQ/edit?utm_content=DAGBvPqL7N4&utm_campaign=designshare&utm_medium_link2)
-- Wasilisho la PowerPoint** "Sura ya 2 - Kuelewa Miamala ya Bitcoin," na @ProfEduStream: [kiungo](https://www.canva.com/design/DAFsEcnOro8/Mz9FYdTGhsvozZOe0Y9jtw/edit?utm_content=DAFsEcnOro8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- Kitini** "Sababu 21 za Kutumia Bitcoin," kilichoandikwa na @ProfEduStream: [kiungo](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **karatasi** kutoka maktaba yetu, inayoonyeshwa katika A4 wakati wa mikutano: [link](https://www.canva.com/design/DAGBvPqL7N4/LmUItfsysypRLSOFOzBXcQ/edit?utm_content=DAGBvPqL7N4&utm_campaign=designshare&utm_medium_link2)
+- **Wasilisho la PowerPoint** "Sura ya 2 - Kuelewa Miamala ya Bitcoin," na @ProfEduStream: [kiungo](https://www.canva.com/design/DAFsEcnOro8/Mz9FYdTGhsvozZOe0Y9jtw/edit?utm_content=DAFsEcnOro8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Kitini** "Sababu 21 za Kutumia Bitcoin," kilichoandikwa na @ProfEduStream: [kiungo](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Kama unaweza kuona, uwezekano hauna mwisho na ni wazi hutegemea mahitaji yako. **Usisite kubuni miundo mipya mwenyewe, kisha chukua dakika chache kuzishiriki na wengine walio karibu nawe ili uweze kuokoa saa kadhaa za kazi kwa jumuiya nyinginezo katika nchi yako**. Kwa hakika, usisahau kwamba **kila jumuiya, mapema au baadaye, itakabiliana na masuala na mahitaji sawa na wewe. Kwa kushiriki rasilimali zako kwa njia huria, kwa hivyo unaharakisha kwa njia isiyo ya moja kwa moja maendeleo ya jumuiya zingine zote za Bitcoin**.
 
@@ -410,7 +410,7 @@ Iwapo ungependa kuunda, kwa mfano, picha ya siku zijazo au nembo ya mkutano wa "
 Iwapo mapendekezo manne ya rubani-mwenza hayana uhalisia wa kutosha kwa ladha yako, unaweza kuongeza kwenye mazungumzo:
 
 
-- [ ] *Fanya ya nne kiwe ya kweli zaidi* - [Kiungo](https://copilot.microsoft.com/images/create/un-logo-Bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba64b72d4cea9830ab8DB7eb7e-DB7e)?
+- [ ] *Fanya ya nne kiwe cha kweli zaidi* - [Kiungo](https://copilot.microsoft.com/images/create/un-logo-Bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba64b72d4cea9830ab8DB7eb7e-DB7e)?
 
 ![immagine](assets/fr/15.webp)
 
@@ -429,7 +429,7 @@ Utoaji wa pili ni wa kawaida na unaweza kufanya ujanja!
 
 Hata hivyo, ingawa inaruhusu uundaji wa maonyesho ya kuvutia sana katika muda wa rekodi, **kwa bahati mbaya akili ya bandia haitaweza kufikia kile unachotaka kwa undani**.
 
-Kwa hiyo, kuwa na subira, jaribu kutoa maelekezo (au "prompts") kwa usahihi iwezekanavyo; na **ikiwa hujaridhika na matoleo unayopata, hakuna kitu cha kukuzuia kumkaribia bitcoiner mwenye uzoefu zaidi juu ya somo **. Kwa wachache walioketi (au bila malipo), wana uhakika wa kuunda alama ya ubora kwako.
+Kwa hiyo, kuwa na subira, jaribu kutoa maelekezo (au "prompts") kwa usahihi iwezekanavyo; na **ikiwa hujaridhika na matoleo unayopata, hakuna kitu cha kukuzuia kumkaribia bitcoiner mwenye uzoefu zaidi juu ya somo**. Kwa wachache walioketi (au bila malipo), wana uhakika wa kuunda alama ya ubora kwako.
 
 # Kuunda njia za mawasiliano kwa jumuiya yako ya Bitcoin
 
@@ -447,7 +447,7 @@ Kwa maana hii, **kuchagua njia za mawasiliano, mbinu inayofaa zaidi ni kuanza kw
 
 ####
 
-**Kwa upande wa Ufaransa (na ulimwengu unaozungumza Kifaransa kwa ujumla), njia kuu ya mawasiliano ni Telegram**. Zaidi ya 90% ya mikutano ya Wafaransa ina moja: ni "lazima-kuwa nayo." Kisha, **mtandao mkuu wa kijamii unaotumiwa na jumuiya ni Twitter** (70% ya mikutano ya Kifaransa); mtandao wa kijamii ambao bitcoiners wengi wapo. Zaidi ya hayo, karibu 30% ya mikutano ya Ufaransa (pamoja na mikutano yote ya Kanada) ina akaunti inayolipishwa kwenye programu ya **Meetup**. Hakika, hii inaweza kuwa njia bora ya kutoa mwonekano wa matukio nje ya mfumo ikolojia wa Bitcoin. Hatimaye, 30% ya mikutano ya Kifaransa pia ina **tovuti**; na 10%, seva ya **Discord** na akaunti ya **NOSTR**.
+**Kwa upande wa Ufaransa (na ulimwengu unaozungumza Kifaransa kwa ujumla), njia kuu ya mawasiliano ni Telegram**. Zaidi ya 90% ya mikutano ya Wafaransa ina moja: ni "lazima-kuwa nayo." Kisha, **mtandao mkuu wa kijamii unaotumiwa na jumuiya ni Twitter** (70% ya mikutano ya Kifaransa); mtandao wa kijamii ambao bitcoiners wengi wapo. Zaidi ya hayo, karibu 30% ya mikutano ya Ufaransa (pamoja na mikutano yote ya Kanada) ina akaunti inayolipishwa kwenye programu ya **Kukutana**. Hakika, hii inaweza kuwa njia bora ya kutoa mwonekano wa matukio nje ya mfumo ikolojia wa Bitcoin. Hatimaye, 30% ya mikutano ya Kifaransa pia ina **tovuti**; na 10%, seva ya **Discord** na akaunti ya **NOSTR**.
 
 ####
 
@@ -458,8 +458,8 @@ Bila shaka, njia nyinginezo za mawasiliano na mitandao ya kijamii wakati mwingin
 **Kwa yeyote anayetaka kuanzisha jumuiya nchini Ufaransa, kwa hivyo inashauriwa kuanza na:**
 
 
-- kikundi cha Telegraph **;
-- akaunti ya Twitter**.
+- **kikundi cha Telegraph**;
+- **akaunti ya Twitter**.
 
 Kulingana na muda wako na tamaa, unaweza baadaye kuendeleza mitandao mingine; hata **kukabidhi usimamizi kwa wanajamii wa siku zijazo**.
 
@@ -512,11 +512,11 @@ Wasimamizi wa kituo hiki wataweza:
 
 
 - kuchapisha ujumbe kibinafsi;
-- rekebisha ** yale muhimu zaidi;
+- **rekebisha** yale muhimu zaidi;
 - kuchapisha **tafiti** (ni muhimu sana kwa kuchagua tarehe ya mkutano unaofuata wakati bado sio wa kawaida, yaani, wakati jumuiya bado inaendelea);
 - tengeneza **kiungo cha mwaliko maalum** (ilimradi kikundi kiwe "cha umma" na si "faragha," ili kifafanuliwe katika mipangilio. Pia ni jambo la kawaida sana kuwa na kiungo chako cha mwaliko wa Telegram kilichowekwa mtindo: t.me/Bitcoin[CITY]);
-- ongeza au uondoe ruhusa, wasimamizi na wanachama**;
-- Ongeza "picha ya wasifu "** kwenye kikundi cha Telegramu (yaani, nembo ya jumuiya yako), **na ubadilishe jina lake**.
+- **ongeza au uondoe ruhusa, wasimamizi na wanachama**;
+- **Ongeza "picha ya wasifu "** kwenye kikundi cha Telegramu (yaani, nembo ya jumuiya yako), **na ubadilishe jina lake**.
 
 ####
 
@@ -548,9 +548,9 @@ Ni **kundi la Telegramu ambamo "mada"** tofauti zimeunganishwa. Kwa hivyo, mada 
 
 Mada **"Jumla "** pia inaweza kuwekwa, ambapo wanachama wote wanaweza kujadili.
 
-Hatimaye, **mada mahususi** (Mining, ukuzaji wa mradi, mkutano ujao, n.k.) zinaweza kuongezwa.
+Hatimaye, **mada mahususi** (uchimbaji, ukuzaji wa mradi, mkutano ujao, n.k.) zinaweza kuongezwa.
 
-Ni juu yako kuirekebisha kulingana na matakwa yako; sawa, kwa mfano, na kikundi kikuu cha Bitcoin Meet-up huko Abidjan.
+Ni juu yako kuirekebisha kulingana na matakwa yako; sawa, kwa mfano, na kikundi kikuu cha Bitcoin kukutana huko Abidjan.
 
 ![immagine](assets/fr/20.webp)
 
@@ -558,7 +558,7 @@ Ni juu yako kuirekebisha kulingana na matakwa yako; sawa, kwa mfano, na kikundi 
 
 Hata hivyo, ni muhimu kutambua kwamba **kikundi kikuu cha Telegram kinaweza kuwa kigumu zaidi kwa baadhi ya wanachama kutumia**. Kwa hakika, wakati mwingine, baadhi ya watu hawawezi kufahamu **jinsi ya kufikia mada nyingine katika kikundi hiki kikuu** (ili kufanya hivyo, bonyeza tu kwenye nembo ya kikundi; hii inafungua orodha ya mada zilizoundwa). Katika hali hii, kuwasaidia kwa kutuma mafunzo mafupi ya video katika picha ya skrini inaweza kuwa wazo zuri.####
 
-Kwa ujumla, hakuna idadi maalum ya wanachama ambayo inakuwa muhimu kutumia kikundi cha juu cha Telegraph dhidi ya kikundi cha Telegraph. Kwa hiyo, uchaguzi ni juu yako, kulingana na mahitaji na mahitaji ya wanachama wako; tukijua kuwa kikundi cha Telegraph kinaweza kubadilishwa kwa urahisi kuwa kikundi kikuu cha Telegraph (na kinyume chake). Ili kufanya hivyo, tengeneza tu mada (au ufute yote).
+Kwa ujumla, hakuna idadi maalum ya wanachama ambayo inakuwa muhimu kutumia kikundi cha juu cha Telegraph dhidi ya kikundi cha Telegraph. Kwa hiyo, uchaguzi ni juu yako, kulingana na hitaji lako na mahitaji ya wanachama wako; tukijua kuwa kikundi cha Telegraph kinaweza kubadilishwa kwa urahisi kuwa kikundi kikuu cha Telegraph (na kinyume chake). Ili kufanya hivyo, tengeneza tu mada (au ufute yote).
 
 Mafunzo ya kuunda kikundi kikuu cha Telegraph:
 
@@ -579,12 +579,12 @@ Kwa kuwa sasa umeunda kikundi chako cha Telegramu (au kikundi kikuu), ni wakati 
 Hata hivyo, **kutokana na uzoefu, ni vyema kuondoa ruhusa za wanachama ili**:
 
 
-- tuma uchunguzi**;
-- kutuma faili ** (katika kesi ya virusi);
-- tuma ujumbe wa sauti **;
-- ongeza watumiaji** (ikiwa bot itaingia kwenye kikundi);
-- kurekebisha ujumbe**;
-- hariri maelezo ya Exchange**.
+- **tuma uchunguzi**;
+- **kutuma faili** (katika kesi ya virusi);
+- **tuma ujumbe wa sauti**;
+- **ongeza watumiaji** (ikiwa bot itaingia kwenye kikundi);
+- **kurekebisha ujumbe**;
+- **hariri maelezo ya Ubadilishanaji**.
 
 Pia **inapendekezwa sana kuandika maelezo ya mkutano wako unapounda kikundi au kikundi kikuu kwenye Telegramu**, kwa kuwa yataonekana kwa mtu yeyote anayetaka kujiunga. Inaweza kuwa, kwa mfano:
 
