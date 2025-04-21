@@ -3026,7 +3026,7 @@ https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ---
 ### Nambari ya malipo inayoweza kutumika tena
 
-Kama ilivyoelezwa hapo awali, nambari ya malipo inayoweza kutumika tena iko katika kina cha 3 cha HD Wallet, na kuifanya kulinganishwa na `xpub`, kulingana na nafasi yake katika muundo wa Wallet na jukumu lake.
+Kama ilivyoelezwa hapo awali, nambari ya malipo inayoweza kutumika tena iko katika kina cha 3 cha Pochi la HD, na kulifanya kulinganishwa na `xpub`, kulingana na nafasi yake katika muundo wa Pochi na jukumu lake.
 
 Nambari ya malipo ya baiti 80 imechanganuliwa kama ifuatavyo:
 
@@ -3046,7 +3046,7 @@ Huu hapa ni uwakilishi wa heksadesimali wa nambari yangu ya malipo inayoweza kut
 
 ![BTC204](assets/fr/216.webp)
 
-Kisha, baiti ya kiambishi awali ya `P` lazima iongezwe mwanzoni ili kuonyesha wazi kuwa hii ni msimbo wa malipo. Byte hii inawakilishwa na `0x47` :
+Kisha, baiti ya kiambishi awali cha `P` lazima kiongezwe mwanzoni ili kuonyesha wazi kuwa hii ni msimbo wa malipo. Byte hii inawakilishwa na `0x47` :
 
 ```plaintext
 0x47010002a0716529bae6b36c5c9aa518a52f9c828b46ad8d907747f0d09dcd4d9a39e97c3c5f37c470c390d842f364086362f6122f412e2b0c7e7fc6e32287e364a7a36a00000000000000000000000000
@@ -3066,19 +3066,19 @@ Baada ya hatua hizi kukamilika, nambari ya malipo iko tayari. Kilichobaki ni kui
 PM8TJSBiQmNQDwTogMAbyqJe2PE2kQXjtgh88MRTxsrnHC8zpEtJ8j7Aj628oUFk8X6P5rJ7P5qDudE4Hwq9JXSRzGcZJbdJAjM9oVQ1UKU5j2nr7VR5
 ```
 
-Katika mchakato wa kuunda nambari ya malipo, tunatumia ufunguo wa umma uliobanwa na msimbo wa kamba. Zote mbili zinatokana na uamuzi na kihierarkia kutoka kwa Wallet seed. Njia ya uasilia inayotumika kufanikisha hili ni:
+Katika mchakato wa kuunda nambari ya malipo, tunatumia ufunguo wa umma uliobanwa na msimbo wa kamba. Zote mbili zinatokana na uamuzi na kihierarkia kutoka kwa Pochi la mbegu. Njia ya uasilia inayotumika kufanikisha hili ni:
 
 ```plaintext
 m/47'/0'/0'/
 ```
 
-Kwa maneno madhubuti, kwa generate ufunguo wa umma uliobanwa na msimbo wa kamba unaohusishwa na msimbo wa malipo unaoweza kutumika tena, tunaanza kwa kukokotoa ufunguo mkuu wa faragha kutoka kwa Wallet seed. Kisha tunaendelea kupata jozi ya funguo za binti kwa kutumia index `47 + 2^31` (iliyoimarishwa derivation). Hii inafuatwa na vitoleo viwili zaidi mfululizo vya jozi za binti, kila moja ikitumia faharasa `2^31` (chini iliyoimarishwa).
+Kwa maneno madhubuti, kwa kuzalisha ufunguo wa umma uliobanwa na msimbo wa kamba unaohusishwa na msimbo wa malipo unaoweza kutumika tena, tunaanza kwa kukokotoa ufunguo mkuu wa faragha kutoka kwa Pochi la mbegu. Kisha tunaendelea kupata jozi ya funguo za binti kwa kutumia index `47 + 2^31` (iliyoimarishwa derivation). Hii inafuatwa na vitoleo viwili zaidi mfululizo vya jozi za binti, kila moja ikitumia faharasa `2^31` (chini iliyoimarishwa).
 
 ![BTC204](assets/fr/218.webp)
 
-### Kitufe cha Diffie-Hellman Exchange kwenye mikondo ya duaradufu (ECDH)
+### Kitufe cha Ubadilishanaji cha Diffie-Hellman kwenye mikondo ya duaradufu (ECDH)
 
-Itifaki ya kriptografia iliyo katikati ya BIP47 inajulikana kwa kifupi ECDH, cha *Elliptic-Curve Diffie-Hellman*. Njia hii ni lahaja ya kitufe cha asili cha Diffie-Hellman Exchange.
+Itifaki ya kriptografia iliyo katikati ya BIP47 inajulikana kwa kifupi ECDH, cha *Elliptic-Curve Diffie-Hellman*. Njia hii ni lahaja ya kitufe cha asili ya Ubadilishanaji wa Diffie-Hellman.
 
 Ilianzishwa mwaka wa 1976, Diffie-Hellman ni itifaki muhimu ya makubaliano ambayo huwezesha pande mbili, kila moja ikiwa na jozi muhimu (ya umma na ya kibinafsi), kukubaliana juu ya siri ya pamoja, hata wakati wa kuwasiliana tu kupitia njia ya umma, isiyo na ulinzi.
 
@@ -3093,14 +3093,14 @@ Ili kufanikisha hili, Diffie-Hellman hutumia hesabu ya moduli kukokotoa siri ili
 
 - Alice na Bob wanakubaliana juu ya rangi ya kawaida, katika kesi hii ya njano, ambayo ni data ya umma (washambuliaji wanajua rangi hii);
 - Alice anachagua rangi ya siri, katika kesi hii nyekundu, na kuchanganya mbili ili kupata machungwa;
-- Bob pia huchagua rangi ya siri, katika kesi hii ya bluu, na huchanganya na njano ili kupata Green;
-- Wao basi Exchange rangi kusababisha, machungwa na Green. Exchange hii inaweza kufanyika kwenye mtandao usio salama na kuzingatiwa na washambuliaji;
-- Kwa kuchanganya Green ya Bob na rangi yake ya siri, Alice hutoa kahawia;
+- Bob pia huchagua rangi ya siri, katika kesi hii ya bluu, na huchanganya na njano ili kupata Kijani;
+- Wao basi kubadilishana rangi kusababisha, machungwa na Kijani. Ubadilishanaji huu unaweza kufanyika kwenye mtandao usio salama na kuzingatiwa na washambuliaji;
+- Kwa kuchanganya Kijani ya Bob na rangi yake ya siri, Alice hutoa kahawia;
 - Bob, akifanya vivyo hivyo na rangi ya chungwa na bluu ya siri ya Alice, pia anapata kahawia.
 
 ![BTC204](assets/fr/221.webp)
 
-Katika umaarufu huu, rangi ya kahawia inawakilisha siri iliyoshirikiwa na Alice na Bob. Hebu fikiria kwamba, kwa kweli, haiwezekani kwa mshambuliaji kutenganisha rangi ya machungwa na Green, ili kupata rangi za siri za Alice au Bob.
+Katika umaarufu huu, rangi ya kahawia inawakilisha siri iliyoshirikiwa na Alice na Bob. Hebu fikiria kwamba, kwa kweli, haiwezekani kwa mshambuliaji kutenganisha rangi ya machungwa na Kijani, ili kupata rangi za siri za Alice au Bob.
 
 Sasa hebu tuangalie jinsi itifaki hii inavyofanya kazi kweli, si kwa mlinganisho wa rangi, lakini kwa kutumia nambari halisi na hesabu za msimu!
 
