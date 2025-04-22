@@ -235,7 +235,7 @@ Walakini, Vita vya Ghuba viliashiria mabadiliko katika historia ya Dinari ya Usw
 
 ![image](assets/chapitre-2.1/17.webp)
 
-Jambo la kipekee liliibuka katika uchumi wa Iraq baada ya Vita vya Ghuba: mfumo wa bei mbili. Wafanyabiashara walitoa bei tofauti kulingana na aina ya noti iliyotumika kwa malipo, wakipendelea Dinari asilia ya Uswisi kuliko noti ya Uchina. Mfumo huu uliakisi imani iliyodumishwa katika noti za ubora wa juu, ambazo hazikukabiliwa na kushuka kwa thamani, hata katika muktadha ambapo thamani iliwekwa na serikali. Kipindi hiki kinaonyesha umuhimu wa sifa za ndani za sarafu na jinsi, hata katika mfumo wa sarafu ya fiat, ubora unaotambulika wa sarafu unaweza kuathiri thamani yake linganishi na, kwa kuongeza, imani ya watendaji wa kiuchumi.
+Jambo la kipekee liliibuka katika uchumi wa Iraq baada ya Vita vya Ghuba: mfumo wa bei mbili. Wafanyabiashara walitoa bei tofauti kulingana na aina ya noti iliyotumika kwa malipo, wakipendelea Dinari asilia ya Uswisi kuliko noti ya Uchina. Mfumo huu uliakisi imani iliyodumishwa katika noti za ubora wa juu, ambazo hazikukabiliwa na kushuka kwa thamani, hata katika muktadha ambapo thamani iliwekwa na serikali. Kipindi hiki kinaonyesha umuhimu wa sifa za ndani za sarafu na jinsi, hata katika mfumo wa sarafu ya serikali, ubora unaotambulika wa sarafu unaweza kuathiri thamani yake linganishi na, kwa kuongeza, imani ya watendaji wa kiuchumi.
 
 #### Ndio, tulipima sarafu!
 
@@ -243,9 +243,9 @@ Mtazamo wa kawaida mara nyingi huhusisha sarafu na uundaji wa serikali, ambapo u
 
 ![image](assets/chapitre-2.1/18.webp)
 
-Mfano unaonyeshwa kupitia uchunguzi wa uzani wa pesa sawa na reales nane za Uhispania, au dola moja ya Uhispania. Uzito huu, ulio na nambari ya Kirumi inayoonyesha thamani yake, ulitumiwa na wabadilishanaji wa sarafu kutathmini thamani ya sarafu kulingana na uzito wao, badala ya kugonga tu. Kwa kupima sarafu, wabadilishanaji wanaweza kuamua ikiwa walikuwa wamebadilishwa au kuharibiwa, ambayo inaweza kupunguza thamani yao. Zoezi hili linaangazia kwamba, ingawa upigaji chapa uliosawazishwa na serikali ulitoa thamani fulani ya kawaida kwa sarafu, thamani ya kweli ilikaa katika uzito wa madini ya thamani iliyomo.
+Mfano unaonyeshwa kupitia uchunguzi wa uzani wa pesa sawa na reales nane za Uhispania, au dola moja ya Uhispania. Uzito huu, ulio na nambari ya Kirumi inayoonyesha thamani yake, ulitumiwa na wabadilishanaji wa sarafu kutathmini thamani ya sarafu kulingana na uzito wao, badala ya kugonga tu. Kwa kupima sarafu, wabadilishanaji wanaweza kuamua ikiwa walikuwa wamebadilishwa au kuharibiwa, ambayo inaweza kupunguza thamani yao. Zoezi hili linaangazia kwamba, ingawa upigaji chapa uliosawazishwa na serikali ulitoa thamani fulani ya kawaida kwa sarafu, thamani ya kweli ilikaa katika uzito wa madini ya thamani yaliyomo.
 
-Uchanganuzi huu unaonyesha kuwa uaminifu katika sarafu, na kwa kuongeza thamani yake, uliegemezwa katika hali yake inayoonekana badala ya madai tu ya serikali. Inasisitiza uwili kati ya thamani ya jina iliyowekwa na serikali na thamani ya asili inayoagizwa na maudhui ya chuma cha thamani. Kwa hivyo, sarafu inakwenda zaidi ya kuwa chombo cha serikali tu, huku thamani yake ya kimsingi ikihusishwa kihalisi na inayoonekana na inayoweza kupimika ya Elements.
+Uchanganuzi huu unaonyesha kuwa uaminifu katika sarafu, na kwa kuongeza thamani yake, uliegemezwa katika hali yake inayoonekana badala ya madai tu ya serikali. Inasisitiza uwili kati ya thamani ya jina iliyowekwa na serikali na thamani ya asili inayoagizwa na maudhui ya chuma cha thamani. Kwa hivyo, sarafu inakwenda zaidi ya kuwa chombo cha serikali tu, huku thamani yake ya kimsingi ikihusishwa kihalisi na inayoonekana na inayoweza kupimika kwa vipengele.
 
 #### Hitimisho
 
@@ -273,34 +273,34 @@ Mfumuko wa bei, kwa upande mwingine, unafafanuliwa na ongezeko la jumla la bei k
 
 - Kiini cha Fedha cha Mfumuko wa bei:
 
-Kwa pesa za kudumu Supply, ongezeko la bei katika sekta moja lingesababisha kupungua kwa bei katika sekta nyingine, kwani kiasi cha fedha kinachopatikana cha kutumia mahali pengine kingepunguzwa. Mfumuko wa bei unahusiana kwa karibu na ongezeko la fedha Supply, ambayo inaruhusu ongezeko la wakati huo huo la bei katika sekta zote.
+Kwa pesa za kudumu usambazaji, ongezeko la bei katika sekta moja lingesababisha kupungua kwa bei katika sekta nyingine, kwani kiasi cha fedha kinachopatikana cha kutumia mahali pengine kingepunguzwa. Mfumuko wa bei unahusiana kwa karibu na ongezeko la fedha za usambazaji, ambao inaruhusu ongezeko la wakati huo huo la bei katika sekta zote.
 
 
-- Athari za Pesa Supply kwa Mfumuko wa Bei na Kupungua kwa bei:
+- Athari za Pesa za usambazaji kwa Mfumuko wa Bei na Kupungua kwa bei:
 
-Katika mfumo wa fedha uliowekwa wa Supply, ongezeko la uzalishaji linapaswa kinadharia kusababisha deflation, yaani, kupungua kwa bei, kwani kutakuwa na bidhaa na huduma zaidi.
+Katika mfumo wa fedha uliowekwa wa usambazaji, ongezeko la uzalishaji linapaswa kinadharia kusababisha deflation, yaani, kupungua kwa bei, kwani kutakuwa na bidhaa na huduma zaidi.
 
-Katika mfumo wa sasa wa fedha wa fiat, ongezeko la fedha Supply linafuta uwezekano wa deflation unaosababishwa na ongezeko la uzalishaji.
-
-
-- Madhara Hasi ya Marekebisho ya Pesa ya Supply:
-
-Ongezeko la fedha za Supply, bila ongezeko linalofanana la uzalishaji, husababisha mfumuko wa bei, kwani kuna pesa nyingi katika mzunguko kwa kiasi sawa cha bidhaa na huduma.
-
-Ingawa ongezeko la uzalishaji lilipaswa kusababisha kupungua kwa bei, ongezeko la wakati huo huo la pesa Supply ilibatilisha athari hii, na kusababisha mfumuko wa bei badala yake.
+Katika mfumo wa sasa wa fedha wa pesa za serikali, ongezeko la fedha Usambazaji linafuta uwezekano wa kupungua kwa bei unaosababishwa na ongezeko la uzalishaji.
 
 
-- Mfumuko wa Bei, Kupungua kwa Bei na Pesa Supply: Vyombo vya Kuwasiliana:
+- Madhara Hasi ya Marekebisho ya Pesa za usambazaji:
 
-Mfumuko wa bei na mfumuko wa bei ni kama vyombo vya mawasiliano katika uchumi. Kuongezeka kwa uzalishaji kunaweza kusababisha kupungua kwa bei, lakini ikiwa fedha za Supply zinaongezeka wakati huo huo, athari ya deflationary imefutwa, na kusababisha mfumuko wa bei.
+Ongezeko la fedha za Usambazaji, bila ongezeko linalofanana la uzalishaji, husababisha mfumuko wa bei, kwani kuna pesa nyingi katika mzunguko kwa kiasi sawa cha bidhaa na huduma.
 
-Majadiliano haya yanaangazia umuhimu wa kuelewa mbinu za kimsingi za mfumuko wa bei na upunguzaji wa bei, na jinsi kuchezea pesa za Supply kunaweza kuwa na athari kubwa kwa uchumi. Kuna uwezekano tutapitia tena dhana hizi baadaye kwa uelewa wa kina wa muunganisho wao na athari zake kwa uchumi wa dunia.
+Ingawa ongezeko la uzalishaji lilipaswa kusababisha kupungua kwa bei, ongezeko la wakati huo huo la pesa za Usambazaji ilibatilisha athari hii, na kusababisha mfumuko wa bei badala yake.
+
+
+- Mfumuko wa Bei, Kupungua kwa Bei na Pesa za Usambazaji: Vyombo vya Kuwasiliana:
+
+Mfumuko wa bei na mfumuko wa bei ni kama vyombo vya mawasiliano katika uchumi. Kuongezeka kwa uzalishaji kunaweza kusababisha kupungua kwa bei, lakini ikiwa fedha za Usambazaji zinaongezeka wakati huo huo, athari ya upungufu wa bei imefutwa, na kusababisha mfumuko wa bei.
+
+Majadiliano haya yanaangazia umuhimu wa kuelewa mbinu za kimsingi za mfumuko wa bei na upunguzaji wa bei, na jinsi kuchezea pesa za Usambazaji kunaweza kuwa na athari kubwa kwa uchumi. Kuna uwezekano tutapitia tena dhana hizi baadaye kwa uelewa wa kina wa muunganisho wao na athari zake kwa uchumi wa dunia.
 
 ### Kwa nini uchapishaji wa fedha sio daima husababisha mfumuko wa bei?
 
 #### Mfumuko wa bei ≠ CPI
 
-Mfumuko wa bei, ingawa mara nyingi huhusishwa na ongezeko la fedha Supply, sio kila mara huwa na uwiano wa moja kwa moja na uchapishaji wa pesa, kama inavyoonyeshwa na kipindi kilichofuata mgogoro wa kifedha wa 2008. Licha ya uchapishaji mkubwa wa pesa ili kuokoa benki, muongo uliofuata haukupata mfumuko wa bei wa juu, wastani wa kati ya 0 na 2% kwa mwaka. Hali hii inazua swali: kwa nini uchapishaji mkubwa wa pesa haukusababisha mfumuko wa bei sawia? Jibu liko katika nuances kadhaa zinazohusiana na kupima mfumuko wa bei na Fahirisi ya Bei ya Watumiaji (CPI).
+Mfumuko wa bei, ingawa mara nyingi huhusishwa na ongezeko la fedha za Usambazaji, sio kila mara huwa na uwiano wa moja kwa moja na uchapishaji wa pesa, kama inavyoonyeshwa na kipindi kilichofuata mgogoro wa kifedha wa 2008. Licha ya uchapishaji mkubwa wa pesa ili kuokoa benki, muongo uliofuata haukupata mfumuko wa bei wa juu, wastani wa kati ya 0 na 2% kwa mwaka. Hali hii inazua swali: kwa nini uchapishaji mkubwa wa pesa haukusababisha mfumuko wa bei sawia? Jibu liko katika nuances kadhaa zinazohusiana na kupima mfumuko wa bei na Fahirisi ya Bei ya Watumiaji (CPI).
 
 Maelezo ya kwanza yapo katika namna mfumuko wa bei unavyopimwa. Fahirisi ya Bei ya Watumiaji (CPI), inayotumika kama kiashirio kikuu cha mfumuko wa bei, ina vikwazo fulani. Kwa mfano, haizingatii kikamilifu mabadiliko ya bei ya mali isiyohamishika. Ingawa CPI inajumuisha kipengele kinachohusiana na kodi, thamani kubwa ya bei za nyumba haijaonyeshwa kikamilifu. Matokeo yake, ongezeko kubwa la gharama za makazi linaweza kutokea bila kukamatwa kikamilifu na CPI, uwezekano wa kupunguza mfumuko wa bei halisi.
 
