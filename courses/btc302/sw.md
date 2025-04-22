@@ -605,7 +605,7 @@ Kwa hakika, kutokana na uzoefu, kulikuwa na kisa ambapo kikundi cha Telegram cha
 
 Hatimaye, katika sehemu ya "Wasimamizi", kipengele cha "Aggressive Anti-spam" kinaweza kuongezwa, ambacho hufuta kiotomatiki ujumbe unaozingatiwa. Hata hivyo, hii inaweza si lazima kuhitajika.
 
-## Kuingiza Kijibu cha Multifunction kwenye Idhaa ya Telegramu
+## Kuingiza Kijibu cha Kazi nyingi kwenye Idhaa ya Telegramu
 
 <chapterId>c61f69cc-15ec-53f1-8c02-1cea55def09e</chapterId>
 
@@ -614,7 +614,7 @@ Hatimaye, katika sehemu ya "Wasimamizi", kipengele cha "Aggressive Anti-spam" ki
 Miongoni mwa chaguo nyingi zinazopatikana kwa **[@GroupHelpBot](https://telegram.me/grouphelpbot)** bot, tunaona miongoni mwa zingine:
 
 
-- ongeza seti ya sheria ** (/rules amri);
+- **ongeza seti ya sheria** (/rules amri);
 - sanidi utaratibu wa **kupambana na barua taka**;
 - ongeza **ujumbe wa kukaribisha otomatiki, unaoweza kubinafsishwa kwa wanachama wapya ambao hughairiwa baada ya dakika chache**;
 - sanidi **utaratibu wa kuzuia mafuriko**;
@@ -630,9 +630,9 @@ Miongoni mwa chaguo nyingi zinazopatikana kwa **[@GroupHelpBot](https://telegram
 Mawazo mengine matatu rahisi ni:
 
 
-- unda amri ya "/link "** kutuma kiungo cha kuingia kwenye kikundi cha Telegram;
+- **unda amri ya "/link "** kutuma kiungo cha kuingia kwenye kikundi cha Telegram;
 - sawa na kupata mitandao ya kijamii ("/socials") au sheria zako zinazowezekana ikiwa utadhibiti ("/kanuni");
-- kuzuia kuingia kwa bots ** na "kuingia / kutoka".
+- **kuzuia kuingia kwa bots** na "kuingia / kutoka".
 
 Chaguzi nyingi za ziada zinapatikana pia kwako. Hata hivyo, neno la ushauri: **usijaribu kuzuia mawasiliano na ubadilishanaji wa habari sana**.
 
@@ -666,7 +666,7 @@ Kwa hivyo, inapojengwa vizuri, seva ya Discord inaweza kuwa mali halisi kwa jami
 
 Ndiyo maana roboti ya chanzo huria iitwayo [TediCross](https://github.com/TediCross/TediCross) iliundwa. Lengo lake ni rahisi: kuhamisha kiotomatiki ujumbe kutoka kwa chaneli ya maandishi ya Discord hadi kwa kikundi cha Telegramu (au mada katika kikundi kikuu cha Telegraph); na kinyume chake. Kwa hivyo hii inaweza kuvutia sana kusanidi.####
 
-Hata hivyo, ni muhimu kutambua kwamba ufungaji wake si rahisi sana, kwamba ** inahitaji utekelezaji wa kuendelea wa amri ya haraka (CMD) kwenye kompyuta kwa bot hii kufanya kazi **; lakini pia, kwamba wakati mwingine kuna makosa. Kwa bahati nzuri, katika hali hii, anzisha tena; na kisha kila kitu kinarudi kwa kawaida.
+Hata hivyo, ni muhimu kutambua kwamba ufungaji wake si rahisi sana, kwamba**inahitaji utekelezaji wa kuendelea wa amri ya haraka (CMD) kwenye kompyuta kwa bot hii kufanya kazi**; lakini pia, kwamba wakati mwingine kuna makosa. Kwa bahati nzuri, katika hali hii, anzisha tena; na kisha kila kitu kinarudi kwa kawaida.
 
 Kwa lengo la kukuokoa wakati, hapa kuna mafunzo ya jinsi ya kuongeza roboti yenye kazi nyingi kwa kikundi cha Telegraph au kikundi bora zaidi:
 
@@ -688,7 +688,7 @@ Hii ndiyo sababu, katika miezi ijayo, mafunzo kuhusu utumiaji wa itifaki za mawa
 
 Lakini kwa nini uzingatie njia hizi mbadala?
 
-Kwa sababu tu, kama mtandao wa kijamii wa NOSTR na programu za mawasiliano kama vile Matrix, Mawimbi au Elementi, zimegatuliwa na/au zimesimbwa kwa njia fiche. Kando na **mapato ya usiri** katika ubadilishanaji unaofanywa kati ya wanajumuiya tofauti, hii pia hukuruhusu **kujilinda dhidi ya kuzima (kudhibiti?) kwa kikundi chako cha Telegraph au kikundi bora zaidi**.
+Kwa sababu tu, kama mtandao wa kijamii wa NOSTR na programu za mawasiliano kama vile Matrix, Mawimbi au vipengele, vimegatuliwa na/au vimesimbwa kwa njia fiche. Kando na **mapato ya usiri** katika ubadilishanaji unaofanywa kati ya wanajumuiya tofauti, hii pia hukuruhusu **kujilinda dhidi ya kuzima (kudhibiti?) kwa kikundi chako cha Telegraph au kikundi bora zaidi**.
 
 Ni nini kinachoweza kuwa bora zaidi, kama itifaki ya Bitcoin, kuliko **kuwa isiyoweza kugharamiwa na isiyobadilika**?
 
@@ -702,7 +702,7 @@ Ni nini kinachoweza kuwa bora zaidi, kama itifaki ya Bitcoin, kuliko **kuwa isiy
 
 Hiyo ndiyo yote, jumuiya yako imezinduliwa, na sasa una njia moja au zaidi za mawasiliano (Telegram na/au Matrix, kwa mfano)!
 
-Walakini, kwa wakati huu ... uko peke yako. Kwa hivyo, itabidi ** kufanya - baadhi - mawasiliano **.
+Walakini, kwa wakati huu ... uko peke yako. Kwa hivyo, itabidi **kufanya - baadhi ya - mawasiliano**.
 
 Ni dhahiri kwamba ikiwa hakuna mtu anayeweza kufikia njia zako za mawasiliano, ambazo unachapisha habari mara kwa mara (tarehe ya mkutano ujao, miradi, nk), kazi yako itakuwa bure. Hii ndiyo sababu **mitandao ya kijamii--na baadhi ya mifumo mahususi, ambayo tutaijadili baadaye--itakuwa na jukumu kuu katika maendeleo ya jumuiya yako**.
 
@@ -724,7 +724,7 @@ Katika sehemu ifuatayo ya kozi hii, tutaelezea kwa undani jinsi ya kuunda akaunt
 
 Twitter ni rahisi sana kutumia, inayohitaji marekebisho ya baadhi ya mipangilio ili kuboresha faragha.
 
-**Wakati wa kuunda akaunti mpya ya Twitter, habari nne muhimu lazima itolewe**:
+**Wakati wa kuunda akaunti mpya ya Twitter, habari nne muhimu lazima zitolewe**:
 
 1. **the @ Twitter**, ambayo itafafanua utambulisho wako na kukufanya kutafutwa kwa urahisi. Ikiwa jumuiya yako inaitwa "Bitcoin[CITY]," kwa hivyo ni muhimu kuchagua "@Bitcoin[CITY]."
 
@@ -742,7 +742,7 @@ Kwa kuongeza, **baadhi ya mipangilio ya faragha inaonekana inafaa kubadilishwa**
 
 - chaguo la **kuacha akaunti yako ya Twitter katika hali ya "umma"** (machapisho yanaonekana kwa mtu yeyote);
 - **itambulike na kila mtu** (jihadhari na ulaghai);
-- zima ufuatiliaji wa eneo na kushiriki data na vyombo vingine** (suala la faragha).
+- **zima ufuatiliaji wa eneo na kushirikisha data na vyombo vingine** (suala la faragha).
 
 ####
 
@@ -754,22 +754,22 @@ Ili kukuokoa muda mwingi, tulichukua muda kujifunza [msimbo wa chanzo wa kanuni 
 
 
 - Jumla:
-    - tweet katika lugha uliyoweka** kwenye akaunti yako ya Twitter, au kwa Kiingereza (vinginevyo, adhabu ni kali);
-    - tweet tu habari inayohusiana na kikoa cha akaunti yako** (vinginevyo, kuna adhabu kali);
+    - **tweet katika lugha uliyoweka** kwenye akaunti yako ya Twitter, au kwa Kiingereza (vinginevyo, adhabu ni kali);
+    - **tweet tu habari inayohusiana na kikoa cha akaunti yako** (vinginevyo, kuna adhabu kali);
     - tweet mara 1 au 2 kwa siku (msimamo ni muhimu);
-- tweet wakati wa mwonekano wa juu** (ya kuvutia zaidi ni Alhamisi au Ijumaa kati ya 8 asubuhi na 10 a.m.; angalia sehemu ya "Twitter Analytics" ya akaunti yako).
+- **tweet wakati wa mwonekano wa juu** (ya kuvutia zaidi ni Alhamisi au Ijumaa kati ya 8 asubuhi na 10 a.m.; angalia sehemu ya "Twitter Analytics" ya akaunti yako).
 - Unapoandika tweet:
-    - ongeza picha** (au video);
-    - ongeza hashtag moja tu kwenye tweet yako** (#Bitcoin kwa kawaida ndiyo inafaa zaidi. Ikiwa inaeleweka, na mradi inahusiana na upeo wa akaunti yako, ongeza reli inayovuma);
-    - inahimiza jumuiya yako kupenda** (uzito wa 0.5), **kutuma tena** (uzito wa 1) **lakini muhimu zaidi kujibu** (uzito wa 27!);
-    - kujibu watu wanaoguswa na tweets zako ** (uzito wa 75!);
-    - usiongeze kiungo katika tweet yako ya awali** (hii inaweza kufanyika katika maoni ya kwanza, kwa mfano);
+    - **ongeza picha** (au video);
+    - **ongeza hashtag moja tu kwenye tweet yako** (#Bitcoin kwa kawaida ndiyo inafaa zaidi. Ikiwa inaeleweka, na mradi inahusiana na upeo wa akaunti yako, ongeza reli inayovuma);
+    - **inahimiza jumuiya yako kupenda** (uzito wa 0.5), **kutuma tena** (uzito wa 1) **lakini muhimu zaidi kujibu** (uzito wa 27!);
+    - **kujibu watu wanaoguswa na tweets zako** (uzito wa 75!);
+    - **usiongeze kiungo katika tweet yako ya awali** (hii inaweza kufanyika katika maoni ya kwanza, kwa mfano);
     - andika maneno kwa ukamilifu, bila kutumia vifupisho.
 - Mambo mengine ya kuzingatia:
     - tweet kulingana na mitindo, mradi tu ziko ndani ya wigo wa akaunti yako;
-    - repost/retweet tweets zilizotazamwa zaidi**;
-    - hufanya tafiti mara kwa mara**;
-    - andika thread ikiwezekana**;
+    - **repost/retweet tweets zilizotazamwa zaidi**;
+    - **hufanya tafiti mara kwa mara**;
+    - **andika thread ikiwezekana**;
     - inahimiza jumuiya yako kutembelea na kufuata wasifu wako.
 
 ####
@@ -794,7 +794,7 @@ Kwa kuwa sasa chaneli zako za mawasiliano na mitandao ya kijamii zimeundwa, kusa
 
 Kwenye Twitter, hii inaweza kuanza kwa kufuata baadhi ya akaunti zinazofanya kazi katika ukuzaji wa Bitcoin kimataifa, kama vile @Bitcoin, @bitcoincoreorg, @planb_network, @FBCEglobal, na kutuma tena wimbo maarufu wa "Running Bitcoin" wa Januari 11, 2009, na @halfin; lakini pia - na muhimu zaidi - **kufuata akaunti za jumuiya za Bitcoin na mikutano katika nchi yako**.
 
-Kwa hakika, **hii itawezesha kufuatana, kuweka lebo na hivyo kupata mwonekano kwa pamoja**.
+Kwa hakika, **hii itawezesha kufuatana, kuweka alama na hivyo kupata mwonekano kwa pamoja**.
 
 Hivi ndivyo hali ilivyo kati ya jumuiya hamsini au zaidi za Kifaransa za Bitcoin; na hivyo ndivyo ilivyo kwa mipango mingi ya "Satoshi Spritz" nchini Italia na "Einundzwanzig" nchini Ujerumani.
 
@@ -802,13 +802,13 @@ Ingawa inaweza kuonekana kuwa ya kupita kiasi kwa wengine, **kufuata jumuiya za 
 
 ![immagine](assets/fr/26.webp)
 
-Zaidi ya hayo, nchini Ufaransa, inaweza pia kuwa muhimu **kufuata mipango ya @KonsensusFR, @bitcoinpointfr, @DecouvreBitcoin na @btcmap**. Haya ni mapendekezo tu, na bila shaka kila jumuiya iko huru kufanya inavyoona inafaa, katika ugatuaji kamili na uhuru.
+Zaidi ya hayo, nchini Ufaransa, kunaweza pia kuwa muhimu **kufuata mipango ya @KonsensusFR, @bitcoinpointfr, @DecouvreBitcoin na @btcmap**. Haya ni mapendekezo tu, na bila shaka kila jumuiya iko huru kufanya inavyoona inafaa, katika ugatuaji kamili na uhuru.
 
 Nia ya kufuata kila mmoja ni rahisi sana: toa mwonekano kwa kila mmoja. Kwa kweli, kadri unavyozidi kuwa na uwepo kwenye mitandao, ndivyo watu watakavyozungumza juu yako; na kadiri watu wanavyozungumza kukuhusu, ndivyo uwezekano wa watu watakuja kwenye hafla zako. Kupenda na kutuma tena machapisho kutoka kwa jumuiya nyingine kwenye mitandao ya kijamii kunaweza kuvutia vivyo hivyo.
 
 ####
 
-Sambamba na hilo, inawezekana pia **kuwapa waandaaji wa mkutano na wale ambao wameunda jumuiya fursa ya kukutana kwa wakati uliowekwa wakati wa matukio ya kimwili**. Hii inaweza kukuruhusu kujadili hisia za kila mtu, kuzungumza juu ya mageuzi ya jumuiya zilizopo, kubadilishana mawazo kwa ajili ya miradi ambayo imefanikiwa; lakini pia, toa masuluhisho inapohitajika. Ukipenda unaweza kushiriki ripoti iliyoandikwa na waandaaji wa jumuiya katika nchi yako ambazo hazikuwepo.
+Sambamba na hilo, inawezekana pia **kuwapa waandaaji wa mkutano na wale ambao wameunda jumuiya fursa ya kukutana kwa wakati uliowekwa wakati wa matukio ya kimwili**. Hii inaweza kukuruhusu kujadili hisia za kila mtu, kuzungumza juu ya mageuzi ya jumuiya zilizopo, kubadilishana mawazo kwa ajili ya miradi ambayo imefanikiwa; lakini pia, toa suluhisho inapohitajika. Ukipenda unaweza kushiriki ripoti iliyoandikwa na waandaaji wa jumuiya katika nchi yako ambayo haikuwepo.
 
 ## Ramani ya BTC
 
@@ -831,7 +831,7 @@ Kati ya hizi, tunapata haswa:
 Kulingana na nchi, pia kuna mipango ya kipekee. Hivi ndivyo hali hasa **nchini Ufaransa, huku tovuti [Bitcoin.fr](https://Bitcoin.fr/events/categories/evenements/) ikiorodhesha dazeni za matukio ya Bitcoin nchini Ufaransa kila mwezi**. Ikiwa bado hujawafuata kwenye Twitter au umewasiliana nao ili kutoa taarifa kuhusu jumuiya yako na/au matukio, sasa ni wakati! **Isitoshe, kwa lengo la kuwasaidia kusasisha kalenda ya matukio ya Ufaransa, itapendeza ikiwa jumuiya zote za Kifaransa za Bitcoin zingekuwa na mazoea ya:** ** **kumtaja @bitcoinpointfr kwenye Twitter katika kila tangazo jipya la tukio la jumuiya yao**;
 
 
-- rekebisha tangazo la tukio lililosemwa katika kikundi chao cha Telegraph **.
+- **rekebisha tangazo la tukio lililosemwa katika kikundi chao cha Telegraph**.
 
 ![immagine](assets/fr/27.webp)
 
@@ -839,7 +839,7 @@ Kulingana na nchi, pia kuna mipango ya kipekee. Hivi ndivyo hali hasa **nchini U
 
 Ni muhimu kutambua kwamba majukwaa mengine na programu pia huruhusu kuongezeka kwa mwonekano. **[Meetup](https://www.meetup.com/)** ni mojawapo. Kwa kweli, ni tovuti (na maombi ya simu) ambayo inakuwezesha kuunda tukio; lakini pia tafuta walio karibu nawe.
 
-Kwa bahati mbaya, ili kuunda mikutano, mtu lazima atumie takriban 8€ kwa mwezi (ambayo ni takriban 90€ kwa mwaka), ambayo ni ghali kwa jumuiya ambayo haijaundwa au kukomaa bado. Hata hivyo, Meetup ni maarufu sana katika baadhi ya nchi, hasa katika Kanada na Marekani; faida yake kuu ni kwamba inaruhusu usimamizi jumuishi wa usajili wa mikutano.
+Kwa bahati mbaya, ili kuunda mikutano, mtu lazima atumie takriban 8€ kwa mwezi (ambayo ni takriban 90€ kwa mwaka), ambayo ni ghali kwa jumuiya ambayo haijaundwa au kukomaa bado. Hata hivyo, kukutana ni maarufu sana katika baadhi ya nchi, hasa Canada na Marekani; faida yake kuu ni kwamba inaruhusu usimamizi jumuishi wa usajili wa mikutano.
 
 Sambamba na hilo, **[Orangepillapp](https://www.orangepillapp.com/)** ni programu ya simu inayolipishwa ambayo inaruhusu watumiaji wa bitcoin kukutana. Hata hivyo, pia ni kwa ada (50,000 Sats/mwaka, au 200,000 Sats kwa maisha).
 
@@ -863,15 +863,15 @@ Mara tu kikundi kidogo cha bitcoiners kinapojiunga nawe, hatua inayofuata ni kua
 
 <chapterId>ed8e471c-3b99-57e2-a042-2d4e8a40b137</chapterId>
 
-Kwa kuwa sasa mitandao ya kijamii na njia za mawasiliano za jumuiya yako zimezinduliwa, kilichobaki ni kufanya uwepo wako ujulikane kwenye majukwaa haya, na wanachama wapya wanapaswa kujitambulisha kwa kushiriki katika majadiliano hatua kwa hatua.
+Kwa kuwa sasa mitandao ya kijamii na njia za mawasiliano za jumuiya yako zimezinduliwa, kilichobaki ni kufanya uwepo wako ujulikane kwenye majukwaa haya, na wanachama wapya wanapaswa kujitambulisha kwa kushiriki katika mijadala hatua kwa hatua.
 
 Hii inaweza kisha kukuruhusu kuongeza muda kwa lengo la kufikiria kuunda tukio la aina ya "kukutana", katika umbizo lolote utakalo. Hii inafaa hasa ikiwa unaanza kuhisi shauku ndani ya jumuiya yako.
 
-Kama ilivyotajwa awali, **mkutano kuhusu Bitcoin unaweza kuonekana kama "kiwango kinachofuata" cha jumuiya**. Kwa upande mmoja, inaruhusu **washiriki wake bitcoiner kukutana **; kwa upande mwingine, **huelimisha watu wapya wanaovutiwa na mfumo huu wa ikolojia**. Tukio la aina ya "mkutano" kwa hivyo - kwa kipimo chako - itakuwezesha **kuunda shauku karibu na Bitcoin katika jiji lako**; ambayo inaweza kupanuka kwa muda kulingana na miradi inayofanywa na jumuiya yako.
+Kama ilivyotajwa awali, **mkutano kuhusu Bitcoin unaweza kuonekana kama "kiwango kinachofuata" cha jumuiya**. Kwa upande mmoja, inaruhusu **washiriki wake bitcoiner kukutana**; kwa upande mwingine, **huelimisha watu wapya wanaovutiwa na mfumo huu wa ikolojia**. Tukio la aina ya "mkutano" kwa hivyo - kwa kipimo chako - itakuwezesha **kuunda shauku karibu na Bitcoin katika jiji lako**; ambayo inaweza kupanuka kwa muda kulingana na miradi inayofanywa na jumuiya yako.
 
 ![immagine](assets/fr/28.webp)
 
-Bila shaka, kadri malengo unayoweka kwa ajili ya maendeleo ya jumuiya yako yakiwa ya maana zaidi, ndivyo wewe na wanachama wako watakavyohitaji kujitolea kuyatumia.
+Bila shaka, kadri unavyoweka malengo kwa ajili ya maendeleo ya jumuiya yako yakiwa ya maana zaidi, ndivyo wewe na wanachama wako watakavyohitaji kujitolea kuyatumia.
 
 Kwa hivyo ni muhimu **kuanza kwa kuweka malengo yanayoweza kufikiwa kwa shirika la mkutano huu**.
 
@@ -887,11 +887,11 @@ Kwa hivyo, inaonekana inafaa **kupendekeza kuandaa mkutano kuanzia wakati kuna w
 
 Mara tu unapohisi cheche hii ndogo, basi inawezekana kabisa kwako kupendekeza wazo la kukutana ana kwa ana. Wazo hili likivutia watu wengine, wewe **unarekebisha tu tarehe ya mkutano wako wa kwanza**.
 
-Ili kufanya hivyo, hakika ni vyema kutoweka tarehe maalum tangu mwanzo, lakini badala ya **pendekeza - karibu siku kumi mapema - uchunguzi ulio na siku tofauti na muda wa muda **. Kwa hivyo, kwa kuzingatia kura za kila mtu, hii itakuruhusu **kuongeza ushiriki wa wanachama**, kuunda shauku zaidi; lakini pia, **"kuboresha" wakati wako** bora zaidi.
+Ili kufanya hivyo, hakika ni vyema kutoweka tarehe maalum tangu mwanzo, lakini badala ya **pendekeza - karibu siku kumi mapema - uchunguzi ulio na siku tofauti na muda wa muda**. Kwa hivyo, kwa kuzingatia kura za kila mtu, hii itakuruhusu **kuongeza ushiriki wa wanachama**, kuunda shauku zaidi; lakini pia, **"kuboresha" wakati wako** bora zaidi.
 
 ![immagine](assets/fr/29.webp)
 
-Basi ni muhimu kutokuwa na wazo la kudumu, mapema, jinsi mkutano huu utafanyika, ni wangapi utakuwa, mada za majadiliano, nk. Una hatari ya kukata tamaa; na washiriki, uwezekano wa kuhisi "mizigo."
+Basi ni muhimu kutokuwa na wazo la kudumu, mapema, jinsi mkutano huu utafanyika, ni wangapi watakuwa, mada za majadiliano, nk. Una hatari ya kukata tamaa; na washiriki, uwezekano wa kuhisi "mizigo."
 
 Kwa maana hii, inaonekana ni vyema kuruhusu mambo yatokee kiasili, labda zaidi ya kinywaji. Kwa hivyo mazungumzo yanapaswa kuwa rahisi; hata ikiwa hiyo inamaanisha kuzungumza juu ya Bitcoin ikiwa utakutana uso kwa uso na kondoo aliyepotea.####
 
@@ -913,7 +913,7 @@ Hata hivyo, ni muhimu kutambua kwamba wakati mkutano unaanza tu, inaweza kuwa ha
 
 ####
 
-Mara tu mkutano wako ukifanyika, labda utataka kuandaa mwingine. **Mradi jumuiya yako ingali ndogo, inaonekana ni vyema kuendelea kupendekeza tarehe kupitia utafiti; kwa mfano, mara moja kwa mwezi (au kila mwezi mwingine)**. Ni juu yako kujadili hili na jumuiya yako.
+Mara tu mkutano wako ukifanyika, labda utataka maandalizi mengi. **Mradi jumuiya yako ingali ndogo, inaonekana ni vyema kuendelea kupendekeza tarehe kupitia utafiti; kwa mfano, mara moja kwa mwezi (au kila mwezi mwingine)**. Ni juu yako kujadili hili na jumuiya yako.
 
 Hata hivyo, ikiwa **kikundi cha kawaida cha Bitcoiners na wahusika wanaovutiwa** kitakua, inaonekana inafaa **kupanga tukio hili mara kwa mara zaidi**; kwa sababu kadhaa:
 
@@ -934,12 +934,12 @@ Hata hivyo, ni muhimu kutambua kwamba **kuwa na mikutano yote ya kitaifa kwa sik
 Hatimaye, jumuiya yako inapokua kwa kiasi kikubwa na mikutano yako inaanza kujaa, inawezekana kabisa kupendekeza:
 
 
-- lengo mahususi kwa kila mkutano wako**;
+- **lengo mahususi kwa kila mkutano wako**;
 - au hata **tukio la pili katika mwezi**.
 
 Katika kesi ya awali, ingawa unyeti na matamanio ya kila mtu yanahitaji kuzingatiwa, hii inaweza kuruhusu washiriki wote **kuondoka kwenye tukio wakiwa na maarifa mapya** huku wakizingatia tena mada za mazungumzo karibu na Bitcoin (kama walikuwa wakitofautiana).
 
-Katika kesi ya pili, tukio la pili katika mwezi, kwa mfano, inakuwezesha **Address mada maalum, kama vile kuandaa vikao vya "wanaoanza" na/au warsha** (Mining, umeme, ufungaji wa nodi, nk).
+Katika kesi ya pili, tukio la pili katika mwezi, kwa mfano, inakuwezesha **Anwani yenye mada maalum, kama vile kuandaa vikao vya "wanaoanza" na/au warsha** (Uchimbaji ,umeme, ufungaji wa nodi, nk).
 
 ![image](assets/fr/31.webp)
 
@@ -955,13 +955,13 @@ Kutafuta eneo la kufanyia matukio yako si lazima iwe rahisi. Hata hivyo, inaonek
 
 Wakati huo huo, vigezo vingi vinapaswa kuzingatiwa. Miongoni mwao:
 
-1) Mahali pa eneo: ni rahisi ** kufikiwa na usafiri wa umma? Kwa gari?** Je, inawezekana kuegesha hapo bila shida?
+1) Mahali pa eneo: ni rahisi **kufikiwa na usafiri wa umma? Kwa gari?** Je, inawezekana kuegesha hapo bila shida?
 
 2) **Je, ukumbi ni mzuri na hauna kelele nyingi?** Je, unatafuta mahali rasmi (sehemu ya kufanya kazi pamoja, chumba cha mikutano) au eneo lisilo rasmi (baa au hata mgahawa)? 3) **Je, ukumbi una uwezo wa kutosha kukuchukua?** Na hii, hata usiku wa mchezo wa raga au Ligi ya Mabingwa? 4) **Je, ukumbi una projekta ya video na nafasi tulivu ya mawasilisho yako?** 5) hatimaye, katika baa (au hata mgahawa), **je, menyu inaruhusu kila mtu kula na kunywa?** Kwa mambo haya, mambo matatu muhimu yanaweza kuongezwa:
 
 
-- ikiwa ungependa **kupasua jioni katika sehemu mbili** (kwanza, **wasilisho katika nafasi rasmi** ili kuruhusu kila mtu kuzingatia zaidi; kisha **kubadilisha ukumbi ili kuendelea jioni kwa utulivu zaidi katika baa** au mgahawa), ni muhimu kufahamu kwamba mabadiliko haya ya ukumbi katikati ya jioni yatasababisha **baadhi ya washiriki kuchukua fursa ya kuondoka. Kwa hiyo, aina hii ya mpangilio haifai **;
-- wakati wa mikutano yako michache ya kwanza, kuna uwezekano kwamba watu wachache watajitokeza, kwa hivyo labda hutafanya utangulizi. Kwa maana hii, haionekani kuwa muhimu kujijulisha kwa mmiliki na kuwasilisha malengo yako, nk Hata hivyo, ** mara tu mikutano yako inakuwa ya kawaida na ya kuhudhuria vizuri, inaonekana kuwa muhimu kujitambulisha, kuonyesha uzito wako na tamaa yako ya kuja mara kwa mara **. Hii inaweza kusababisha mijadala mingi (kuweka nafasi kiotomatiki kila mwezi, vinywaji na/au sahani bila malipo, punguzo, majadiliano ya Bitcoin, kukubalika kwa Bitcoin kama njia ya malipo, n.k.) Bila shaka, ikiwa unatafuta ukumbi mahususi wenye projekta ya video kwa ajili ya mawasilisho, inaonekana ni muhimu kuomba kukutana (ana kwa ana, au hata kuwasilisha malengo yako ya simu na mmiliki wa mradi) na mmiliki wa mradi mapema;
+- ikiwa ungependa **kupasua jioni katika sehemu mbili** (kwanza, **wasilisho katika nafasi rasmi** ili kuruhusu kila mtu kuzingatia zaidi; kisha **kubadilisha ukumbi ili kuendelea jioni kwa utulivu zaidi katika baa** au mgahawa), ni muhimu kufahamu kwamba mabadiliko haya ya ukumbi katikati ya jioni yatasababisha **baadhi ya washiriki kuchukua fursa ya kuondoka. Kwa hiyo, aina hii ya mpangilio haifai**;
+- wakati wa mikutano yako michache ya kwanza, kuna uwezekano kwamba watu wachache watajitokeza, kwa hivyo labda hutafanya utangulizi. Kwa maana hii, haionekani kuwa muhimu kujijulisha kwa umati na kuwasilisha malengo yako, nk Hata hivyo, **mara tu mikutano yako inakuwa ya kawaida na ya kuhudhuria vizuri, inaonekana kuwa muhimu kujitambulisha, kuonyesha uzito wako na tamaa yako ya kuja mara kwa mara**. Hii inaweza kusababisha mijadala mingi (kuweka nafasi kiotomatiki kila mwezi, vinywaji na/au sahani bila malipo, punguzo, majadiliano ya Bitcoin, kukubalika kwa Bitcoin kama njia ya malipo, n.k.) Bila shaka, ikiwa unatafuta ukumbi mahususi wenye projekta ya video kwa ajili ya mawasilisho, inaonekana ni muhimu kuomba kukutana (ana kwa ana, au hata kuwasilisha malengo yako ya simu na mmiliki wa mradi) na mmiliki wa mradi mapema;
 
 ![image](assets/fr/32.webp)
 
@@ -984,7 +984,7 @@ Je, umeamua kuandaa mkutano na kufahamisha jumuiya yako kuhusu tarehe hiyo? Hatu
 
 ![immagine](assets/fr/33.webp)
 
-4) **siku mbili hadi tatu kabla ya tukio, matangazo haya yanaweza kutumwa tena na kushirikiwa tena**, na kuongeza mwonekano;
+4) **siku mbili hadi tatu kabla ya tukio, matangazo haya yanaweza kutumwa tena na kushirikishwa tena**, na kuongeza mwonekano;
 
 5) hatimaye, kulingana na idadi ya majibu na/au usajili uliopokelewa siku moja kabla au siku iliyotangulia, inawezekana kabisa kwako kuwasiliana na mmiliki wa ukumbi tena ili kuthibitisha idadi ya washiriki wanaotarajiwa.
 
@@ -993,9 +993,9 @@ Je, umeamua kuandaa mkutano na kufahamisha jumuiya yako kuhusu tarehe hiyo? Hatu
 Kwa hatua hizi nne, zinaweza pia kuongezwa:
 
 
-- vipeperushi vya uchapishaji na/au mabango**;
-- tengeneza wasilisho** juu ya mada iliyofafanuliwa awali;
-- kuandaa shughuli au warsha **;
+- **vipeperushi vya uchapishaji na/au mabango**;
+- **tengeneza wasilisho** juu ya mada iliyofafanuliwa awali;
+- **kuandaa shughuli au warsha**;
 - nk.
 
 ## Siku ya mkutano
