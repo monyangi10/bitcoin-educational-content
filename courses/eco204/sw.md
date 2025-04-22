@@ -1,6 +1,6 @@
 ---
 name: Utafiti wa mfumuko wa bei
-goal: Kuelewa kuibuka kwa mfumuko wa bei katika ulimwengu wa Fiat na matokeo yao
+goal: Kuelewa kuibuka kwa mfumuko wa bei katika ulimwengu wa pesa za serikali na matokeo yao
 objectives: 
 
   - Soma mizunguko ya mfumuko wa bei
@@ -11,9 +11,9 @@ objectives:
 ---
 # Safari ya kuingia kwenye uchumi
 
-Mpango huu unalenga kutoa uelewa wa kina wa kuibuka kwa mfumuko wa bei katika ulimwengu unaotawaliwa na sarafu ya Fiat na kuchunguza matokeo yao muhimu. Washiriki watachunguza mizunguko ya mfumuko wa bei kwa undani, wakichanganua sababu, vichochezi, na mifano ya kihistoria na ya kisasa. Pia watachunguza athari zinazoonekana za mfumuko wa bei kwenye uchumi na maisha ya kila siku, wakisoma athari kwenye thamani ya sarafu, uwezo wa kununua, na akiba ya mtu binafsi na ya pamoja.
+Mpango huu unalenga kutoa uelewa wa kina wa kuibuka kwa mfumuko wa bei katika ulimwengu unaotawaliwa na sarafu ya Serikali na kuchunguza matokeo yao muhimu. Washiriki watachunguza mizunguko ya mfumuko wa bei kwa undani, wakichanganua sababu, vichochezi, na mifano ya kihistoria na ya kisasa. Pia watachunguza athari zinazoonekana za mfumuko wa bei kwenye uchumi na maisha ya kila siku, wakisoma athari kwenye thamani ya sarafu, uwezo wa kununua, na akiba ya mtu binafsi na ya pamoja.
 
-Hapa, tutaangazia mitindo na mifumo ya kawaida katika vipindi vya mfumuko mkubwa wa bei katika historia yote, huku tukitoa mikakati madhubuti na thabiti ya kujilinda katika vipindi vya mfumuko mkubwa wa bei. Washiriki watakuwa na fursa ya kuchunguza chaguzi mbalimbali za uwekezaji na mbinu za ulinzi wa kifedha, kupata zana za vitendo na ujuzi muhimu ili kuzunguka kwa utulivu katika hali ya kiuchumi isiyo imara.
+Hapa, tutaangazia mitindo na mifumo ya kawaida katika vipindi vya mfumuko mkubwa wa bei katika historia yote, huku tukitoa mikakati madhubuti na thabiti ya kujilinda katika vipindi vya mifumuko mikubwa ya bei. Washiriki watakuwa na fursa ya kuchunguza chaguzi mbalimbali za uwekezaji na mbinu za ulinzi wa kifedha, kupata zana za vitendo na ujuzi muhimu ili kuzunguka kwa utulivu katika hali ya kiuchumi isiyo imara.
 
 +++
 # Utangulizi
@@ -24,7 +24,7 @@ Hapa, tutaangazia mitindo na mifumo ya kawaida katika vipindi vya mfumuko mkubwa
 
 <chapterId>9d1aba8d-0485-5020-9863-5de37e6db8e0</chapterId>
 
-Mpango huu unalenga kutoa uelewa wa kina wa kuibuka kwa mfumuko wa bei katika ulimwengu unaotawaliwa na sarafu ya Fiat na kuchunguza matokeo yao muhimu. Washiriki watachunguza mizunguko ya mfumuko wa bei kwa undani, wakichanganua sababu, vichochezi, na mifano ya kihistoria na ya kisasa. Pia watachunguza athari zinazoonekana za mfumuko wa bei kwenye uchumi na maisha ya kila siku, wakisoma athari kwenye thamani ya sarafu, uwezo wa kununua, na akiba ya mtu binafsi na ya pamoja.
+Mpango huu unalenga kutoa uelewa wa kina wa kuibuka kwa mfumuko wa bei katika ulimwengu unaotawaliwa na sarafu ya Serikali na kuchunguza matokeo yao muhimu. Washiriki watachunguza mizunguko ya mfumuko wa bei kwa undani, wakichanganua sababu, vichochezi, na mifano ya kihistoria na ya kisasa. Pia watachunguza athari zinazoonekana za mfumuko wa bei kwenye uchumi na maisha ya kila siku, wakisoma athari kwenye thamani ya sarafu, uwezo wa kununua, na akiba ya mtu binafsi na ya pamoja.
 
 Hapa, tutaangazia mitindo na mifumo ya kawaida katika vipindi vya mfumuko mkubwa wa bei katika historia yote, huku tukitoa mikakati madhubuti na thabiti ya kujilinda katika vipindi vya mfumuko mkubwa wa bei. Washiriki watakuwa na fursa ya kuchunguza chaguzi mbalimbali za uwekezaji na mbinu za ulinzi wa kifedha, kupata zana za vitendo na ujuzi muhimu ili kuzunguka kwa utulivu katika hali ya kiuchumi isiyo imara.
 
@@ -55,7 +55,7 @@ Sehemu ya 3 - Je! mfumuko wa bei ni nini?
 Sehemu ya 4 - Tumefikaje hapa?
 
 
-- 4.1 - Kuibuka kwa Layer ya pili ya pesa na benki kuu
+- 4.1 - Kuibuka kwa Safu ya pili ya pesa na benki kuu
 - 4.2 - Vitabu na rasilimali
 
 Bahati nzuri!
@@ -78,9 +78,9 @@ Mfumuko wa bei ni dhana ambayo mara nyingi haieleweki kutokana na fasili nyingi 
 
 ![image](assets/chapitre-2.1/4.webp)
 
-Kwa kuzingatia ufafanuzi huu, ni muhimu kuelewa kwamba, kwa Robert, mfumuko wa bei unahusu hasa ongezeko la fedha Supply. Kwa upande mwingine, Larousse inazingatia matokeo ya upanuzi huu, yaani kupanda kwa bei kwa jumla.
+Kwa kuzingatia ufafanuzi huu, ni muhimu kuelewa kwamba, kwa Robert, mfumuko wa bei unahusu hasa ongezeko la usambazaji wa fedha. Kwa upande mwingine, Larousse inazingatia matokeo ya upanuzi huu, yaani kupanda kwa bei kwa jumla.
 
-Katika utafiti wetu juu ya mfumuko wa bei, tutapitisha ufafanuzi wa pili, ule wa kupanda kwa bei kwa jumla, kwani ni muhimu zaidi na wazi kwa somo letu. Hata hivyo, ni muhimu kukumbuka kwamba kupanda huku kwa bei kwa ujumla ni matokeo ya upanuzi wa fedha Supply.
+Katika utafiti wetu juu ya mfumuko wa bei, tutapitisha ufafanuzi wa pili, ule wa kupanda kwa bei kwa jumla, kwani ni muhimu zaidi na wazi kwa somo letu. Hata hivyo, ni muhimu kukumbuka kwamba kupanda huku kwa bei kwa ujumla ni matokeo ya upanuzi wa fedha za Usambazaji.
 
 Mwanauchumi maarufu Milton Friedman alisema:
 
@@ -89,11 +89,11 @@ Taarifa hii inaangazia uhusiano wa ndani kati ya upanuzi wa fedha na mfumuko wa 
 
 ### Kuelewa Uzushi wa Fedha
 
-Tunaporejelea hali ya kifedha, tunarejelea jinsi pesa Supply ya uchumi inavyoathiriwa. Milton Friedman kimsingi aliiona kama ongezeko la Supply hii. Kihistoria, kumekuwa na njia kuu mbili za kuongeza pesa Supply:
+Tunaporejelea hali ya kifedha, tunarejelea jinsi pesa za usambazaji ya uchumi inavyoathiriwa. Milton Friedman kimsingi aliiona kama ongezeko la Usambazaji huu. Kihistoria, kumekuwa na njia kuu mbili za kuongeza pesa za Usambazaji:
 
 1. Uchapishaji wa Fedha:
 
-Katika mifumo ya jadi ya fedha, ongezeko la fedha Supply lilipatikana kwa kuchapisha noti mpya. Ingawa siku hizi, pamoja na kutawala kwa sarafu ya kidijitali, uchapishaji huu hasa ni wa kielektroniki (kupitia hifadhidata za benki kuu na taasisi zingine za kifedha), historia inatuonyesha nyakati ambapo uchapishaji halisi wa noti ulisababisha mfumuko mkubwa wa bei.
+Katika mifumo ya jadi ya fedha, ongezeko la fedha za usambazaji lilipatikana kwa kuchapisha noti mpya. Ingawa siku hizi, pamoja na kutawala kwa sarafu ya kidijitali, uchapishaji huu hasa ni wa kielektroniki (kupitia hifadhidata za benki kuu na taasisi zingine za kifedha), historia inatuonyesha nyakati ambapo uchapishaji halisi wa noti ulisababisha mfumuko mkubwa wa bei.
 
 2. Kupunguza Maudhui ya Metali:
 
@@ -101,7 +101,7 @@ Njia nyingine ilikuwa kupunguza kiasi cha madini ya thamani katika sarafu kuling
 
 ![image](assets/chapitre-2.1/1.webp)
 
-Ni muhimu kusisitiza kwamba mfumuko mkubwa wa bei huzingatiwa hasa na sarafu za sarafu zikiwa zimetenganishwa na mali zao za msingi, kama vile madini ya thamani. Kihistoria, wakati sarafu ilipotokana na mali kama hii, kulikuwa na vipindi vya mfumuko wa bei (k.m., kupitia upunguzaji wa thamani ya maudhui ya chuma), lakini vipindi hivi havikuwahi kufikia viwango vya juu zaidi vya mfumuko wa bei. Katika sehemu zifuatazo, tutajifunza kwa undani vipindi vya kushuka kwa thamani ya fedha na athari za mifumo hii tofauti ya fedha kwenye mfumuko wa bei.
+Ni muhimu kusisitiza kwamba mfumuko mkubwa wa bei huzingatiwa hasa na sarafu za sarafu zikiwa zimetenganishwa na mali zao za msingi, kama vile madini ya thamani. Kihistoria, wakati sarafu ilipotokana na mali kama haya, kulikuwa na vipindi vya mfumuko wa bei (k.m., kupitia upunguzaji wa thamani ya maudhui ya chuma), lakini vipindi hivi havikuwahi kufikia viwango vya juu zaidi vya mfumuko wa bei. Katika sehemu zifuatazo, tutajifunza kwa undani vipindi vya kushuka kwa thamani ya fedha na athari za mifumo hii tofauti ya fedha kwenye mfumuko wa bei.
 
 ### Utafiti wa Vipindi vya Kushuka kwa Thamani ya Fedha
 
