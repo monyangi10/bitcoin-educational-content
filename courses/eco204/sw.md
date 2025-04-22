@@ -137,7 +137,7 @@ Wakati wa kulinganisha sarafu mbili kwa upande, tofauti ni ya kushangaza. Dinari
 
 ![image](assets/chapitre-2.1/3.webp)
 
-Ili kukamilisha onyesho hili, grafu inayoonyesha kushuka kwa thamani ya sarafu hizi baada ya muda itakuwa bora. Ingawa ni vigumu kuibua kupitia jukwaa hili, fikiria grafu inayoonyesha thamani ya dinari, kisha kushuka kwake kuelekea mwisho wa karne ya 2, na nafasi yake kuchukuliwa na Antoninianus inayodhaniwa kuwa na thamani ya dinari mbili lakini yenye maudhui ya chini ya fedha. Mabaki haya ni mashahidi wa kimya wa mabadiliko ya kiuchumi ya ustaarabu wa zamani.
+Ili kukamilisha onyesho hili, grafu inayoonyesha kushuka kwa thamani ya sarafu hizi baada ya muda itakuwa bora. Ingawa ni vigumu kuibua kupitia jukwaa hili, fikiria grafu inayoonyesha thamani ya dinari, kisha kushuka kwake kuelekea mwisho wa karne ya 2, na nafasi yake kuchukuliwa na Antoninianus inayodhaniwa kuwa na thamani ya dinari mbili lakini yenye maudhui ya chini ya fedha. Mabaki haya ni shahidi wa kimya wa mabadiliko ya kiuchumi ya ustaarabu wa zamani.
 
 #### 3. Maravedi wa Kihispania: Shahidi wa Kushuka kwa Thamani Inayolengwa
 
@@ -153,7 +153,7 @@ Tofauti na dola ya thamani ya fedha ya Kihispania, Maravedis ilikuwa sarafu ya s
 
 Mkakati huu uliruhusu serikali kupunguza thamani ya sarafu, kuunda mfumuko wa bei na kujifadhili kwa njia isiyo ya moja kwa moja, huku ikihifadhi uadilifu wa dola ya Uhispania kwenye hatua ya kimataifa. Hata hivyo, upunguzaji huu uliolengwa ulikuwa na matokeo kwa wakazi wa eneo hilo, ambao waliona thamani ya sarafu yao ya kawaida ikipunguzwa.
 
-Kisa cha Maravedi kinaonyesha jinsi serikali inavyoweza kupunguza thamani ya sarafu ya nchi kwa kuchagua ili kukidhi mahitaji yake ya ndani ya kiuchumi, huku ikihifadhi thamani ya sarafu ya akiba kwenye jukwaa la kimataifa. Ni mfano wa kutokeza wa utata na faini ya sera ya fedha katika historia.
+Kisa cha Maravedi kinaonyesha jinsi serikali inavyoweza kupunguza thamani ya sarafu ya nchi kwa kuchagua ili kukidhi mahitaji yake ya ndani ya kiuchumi, huku ikihifadhi thamani ya sarafu ya akiba kwenye jukwaa la kimataifa. Ni mfano wa kutokeza kwa utata na faini ya sera ya fedha katika historia.
 
 ![image](assets/chapitre-2.1/7.webp)
 
@@ -161,7 +161,7 @@ Zaidi kuhusu nini? -> [Kiungo](https://docs.google.com/document/d/1aZa7gvz1nt8ZH
 
 #### 4. Mapinduzi ya bei kutoka karne ya 15 hadi 17
 
-Kati ya karne ya 15 na 17, Ulaya ilishuhudia hali ya ajabu ya kiuchumi, ambayo mara nyingi hujulikana kama "mapinduzi ya bei." Kipindi hiki cha mfumuko wa bei kilichochewa kwa kiasi kikubwa na utitiri mkubwa wa madini ya thamani, hasa dhahabu na fedha, kutoka Amerika. Pamoja na uchumi wa Ulaya kwa kiasi kikubwa kuzingatia kiwango cha metali wakati huo, Supply hii ya ziada ya metali iliongeza fedha Supply. Matokeo yake, kiwango cha mfumuko wa bei cha takriban 1 hadi 2% kwa mwaka kiliibuka. Kwa mtazamo wa kwanza, mfumuko wa bei huu unaweza kuonekana kuwa wa kawaida. Hata hivyo, wakati huo, kushuka kwa bei kama hiyo ilikuwa isiyo ya kawaida kutosha kuchukuliwa kuwa "mapinduzi." Hii inaangazia jinsi mabadiliko katika akiba ya fedha yanaweza kuathiri mfumo mzima wa uchumi.
+Kati ya karne ya 15 na 17, Ulaya iliyoshuhudia hali ya ajabu ya kiuchumi, ambayo mara nyingi hujulikana kama "mapinduzi ya bei." Kipindi hiki cha mfumuko wa bei kilichochewa kwa kiasi kikubwa na utitiri mkubwa wa madini ya thamani, hasa dhahabu na fedha, kutoka Amerika. Pamoja na uchumi wa Ulaya kwa kiasi kikubwa kuzingatia kiwango cha metali wakati huo, Usambazaji huu wa ziada ya metali iliongeza fedha za Usambazaji. Matokeo yake, kiwango cha mfumuko wa bei cha takriban 1 hadi 2% kwa mwaka kiliibuka. Kwa mtazamo wa kwanza, mfumuko wa bei huu unaweza kuonekana kuwa wa kawaida. Hata hivyo, wakati huo, kushuka kwa bei kama hiyo ilikuwa isiyo ya kawaida kutosha kuchukuliwa kuwa "mapinduzi." Hii inaangazia jinsi mabadiliko katika akiba ya fedha yanaweza kuathiri mfumo mzima wa uchumi.
 
 #### 5. Sheria ya Yohana na Waliokabidhiwa
 
@@ -177,14 +177,14 @@ Noti hizi ni ushuhuda hai wa kipindi kikuu cha kwanza cha mfumuko wa bei katika 
 
 Agizo la Mtendaji 6102 na Kushuka kwa Thamani ya Dola
 
-Nchini Marekani, mapema miaka ya 1930 ilishuhudia mabadiliko makubwa katika sera ya fedha. Hapa kuna muhtasari wa kina wa mabadiliko haya:
+Nchini Marekani, mapema miaka ya 1930 ilishuhudia mabadiliko makubwa katika sera za fedha. Hapa kuna muhtasari wa kina wa mabadiliko haya:
 
 
 - 1928 $20 Bill
 
 ![image](assets/chapitre-2.1/11.webp)
 
-Mnamo 1928, muswada wa dola 20 huko Merika ulisema: "inaweza kukombolewa kwa dhahabu inapohitajika." Hii ina maana kwamba kila muswada ulibadilishwa kihalisi kuwa dhahabu. Hasa, noti ya $20.67 ilikuwa sawa na wakia moja ya dhahabu.
+Mnamo 1928, mswada wa dola 20 huko Merika ulisema: "inaweza kukombolewa kwa dhahabu inapohitajika." Hii ina maana kwamba kila mswada ulibadilishwa kihalisi kuwa dhahabu. Hasa, noti ya $20.67 ilikuwa sawa na wakia moja ya dhahabu.
 
 
 - Agizo la Mtendaji 6102
@@ -193,7 +193,7 @@ Mnamo 1933, msukosuko mkubwa ulitokea kwa kutolewa kwa Agizo la Utendaji 6102. A
 
 ![image](assets/chapitre-2.1/14.webp)
 
-Cheti cha Dhahabu ni mfano mzuri. Iliwekwa alama: "Katika sarafu ya dhahabu inayolipwa kwa mbebaji inapohitajika." Kuwa na cheti kama hicho kulikua haramu na kubaki hivyo hadi 1964.
+Cheti cha Dhahabu ni mfano mzuri. Kiliwekwa alama: "Katika sarafu ya dhahabu inayolipwa kwa mbebaji inapohitajika." Kuwa na cheti kama hicho kulikua haramu na kubaki hivyo hadi 1964.
 
 ![image](assets/chapitre-2.1/12.webp)
 
