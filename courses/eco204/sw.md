@@ -1,4 +1,4 @@
----
+---  
 name: Utafiti wa mfumuko wa bei
 goal: Kuelewa kuibuka kwa mfumuko wa bei katika ulimwengu wa Fiat na matokeo yao
 objectives: 
