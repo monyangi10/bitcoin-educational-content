@@ -518,15 +518,15 @@ Bitcoin ni Trustless na sarafu ya dijiti iliyogatuliwa bila ruhusa. Huenda hilo 
 
 Fikiria Blockchain kama leja kubwa au lahajedwali ya dijiti ambayo inadumisha rekodi ya kila shughuli inayofanywa kupitia Bitcoin. Kwa vile mtu yeyote ulimwenguni aliye na muunganisho wa intaneti anaweza kufuatilia, kuthibitisha au kuchakata miamala, hii inahakikisha kwamba sarafu ni salama na haiwezi kughushiwa.
 
-Bitcoin pia ni ya kipekee kwa kuwa ina Supply ndogo. Ni Bitcoin milioni 21 pekee zitawahi kuundwa, jambo ambalo linaipa uhaba, kama vile dhahabu na madini mengine ya thamani. Uhaba huu ni sehemu ya kile kinachoipa Bitcoin thamani yake.
+Bitcoin pia ni ya kipekee kwa kuwa ina usambazaji mdogo. Ni Bitcoin milioni 21 pekee zitawahi kuundwa, jambo ambalo linaipa uhaba, kama vile dhahabu na madini mengine ya thamani. Uhaba huu ni sehemu ya kile kinachoipa Bitcoin thamani yake.
 
-Hatimaye, na kwa ubishi muhimu zaidi, ikizingatiwa kwamba inafanya kazi bila ya serikali au benki. Bitcoin huwezesha watu kupata thamani ya Exchange moja kwa moja, kama vile shughuli za pesa taslimu. Hata hivyo, tofauti na pesa taslimu, Bitcoin inaweza kutumika kununua bidhaa na huduma mtandaoni, bila kutegemea mbinu za malipo za jadi. Hii ina maana kwamba kutokana na hali yake ya kidijitali iliyogatuliwa, Bitcoin inaondoa hitaji la wapatanishi, noti halisi na sarafu, na kufanya miamala kuwa rahisi, haraka na salama zaidi.
+Hatimaye, na kwa ubishi muhimu zaidi, ikizingatiwa kwamba inafanya kazi bila ya serikali au benki. Bitcoin huwezesha watu kupata thamani ya ubadilishanaji moja kwa moja, kama vile shughuli za pesa taslimu. Hata hivyo, tofauti na pesa taslimu, Bitcoin inaweza kutumika kununua bidhaa na huduma mtandaoni, bila kutegemea mbinu za malipo za jadi. Hii ina maana kwamba kutokana na hali yake ya kidijitali iliyogatuliwa, Bitcoin inaondoa hitaji la wapatanishi, noti halisi na sarafu, na kufanya miamala kuwa rahisi, haraka na salama zaidi.
 
 Kwa mara ya kwanza kwa muda mrefu, Bitcoin inawakilisha njia mpya ya kufikiri juu ya fedha na thamani. Hii ndiyo sababu tunafurahi kukushusha kwenye shimo la sungura pamoja nasi.
 
 ### Waanzilishi wa Sarafu ya Dijiti
 
-Kabla ya kuundwa kwa Bitcoin, watu wachache walioona maono waliweka msingi wa Bitcoin huku wakifikiria ulimwengu ambapo pesa zinaweza kutumwa kielektroniki bila waamuzi. Watu hawa bila kujua walichukua jukumu muhimu katika ukuzaji wa Bitcoin, kwani bila michango yao katika usimbaji fiche, haingekuwapo leo. Miongoni mwa waanzilishi maarufu zaidi ni:
+Kabla ya kuundwa kwa Bitcoin, watu wachache walioona maono waliweka msingi wa Bitcoin huku wakifikiria ulimwengu ambao pesa zinaweza kutumwa kielektroniki bila waamuzi. Watu hawa bila kujua walichukua jukumu muhimu katika ukuzaji wa Bitcoin, kwani bila michango yao katika usimbaji fiche, haingekuwapo leo. Miongoni mwa waanzilishi maarufu zaidi ni:
 
 #### Cypherpunks
 
@@ -539,18 +539,18 @@ Leo, mawazo maono ya cypherpunks yanaendelea kuchagiza mabadiliko ya mazingira y
 Cypherpunks zingine zinazojulikana ni pamoja na:
 
 
-- Timothy May:** Mwanachama mwanzilishi wa orodha ya wanaopokea barua pepe ya Cypherpunks na aliandika kwa kina juu ya usimbaji fiche na faragha katika miaka ya 90 na mwanzoni mwa miaka ya 2000. Maandishi yake yaliweka msingi wa majadiliano juu ya faragha ya kidijitali na mifumo ya pesa taslimu kielektroniki.
-- Eric Huges:** Mwanachama mwingine mwanzilishi wa Cypherpunks na mwandishi mwenza wa "Manifesto ya A Cypherpunk," ambayo ilisisitiza umuhimu wa faragha na kutokujulikana katika enzi ya kidijitali.
-- Whitfield Diffie na Martin Hellman:** Ilianzisha dhana ya ufunguo wa siri wa umma, kuleta mapinduzi katika mawasiliano salama ya mtandao.
-- Julian Assange:** Mwanzilishi wa WikiLeaks, ambayo huchapisha taarifa zilizoainishwa na nyeti ili kukuza uwazi na uwajibikaji.
-- Bram Cohen:** Imeunda BitTorrent, itifaki ya kushiriki faili kati ya wenzao ambayo iligawanya usambazaji wa maudhui na kuwezesha upakuaji wa haraka zaidi.
-- John Gilmore:** Mjasiriamali na mwanalibertarian ambaye alianzisha pamoja Electronic Frontier Foundation (EFF) na kutetea haki za kidijitali na faragha ya mtandaoni.
+- **Timothy May:** Mwanachama mwanzilishi wa orodha ya wanaopokea barua pepe ya Cypherpunks na aliandika kwa kina juu ya usimbaji fiche na faragha katika miaka ya 90 na mwanzoni mwa miaka ya 2000. Maandishi yake yaliweka msingi wa majadiliano juu ya faragha ya kidijitali na mifumo ya pesa taslimu kielektroniki.
+- **Eric Huges:** Mwanachama mwingine mwanzilishi wa Cypherpunks na mwandishi mwenza wa "Manifesto ya A Cypherpunk," ambayo ilisisitiza umuhimu wa faragha na kutokujulikana katika enzi ya kidijitali.
+- **Whitfield Diffie na Martin Hellman:** Ilianzisha dhana ya ufunguo wa siri wa umma, kuleta mapinduzi katika mawasiliano salama ya mtandao.
+- **Julian Assange:** Mwanzilishi wa WikiLeaks, ambayo huchapisha taarifa zilizoainishwa na nyeti ili kukuza uwazi na uwajibikaji.
+- **Bram Cohen:** Imeunda BitTorrent, itifaki ya kushiriki faili kati ya wenzao ambayo iligawanya usambazaji wa maudhui na kuwezesha upakuaji wa haraka zaidi.
+- **John Gilmore:** Mjasiriamali na mwanalibertarian ambaye alianzisha pamoja Electronic Frontier Foundation (EFF) na kutetea haki za kidijitali na faragha ya mtandaoni.
 
 ...na orodha inaendelea.
 
 #### David Chaum (Baba wa Sarafu ya Dijiti)
 
-Mapema miaka ya 1980, David Chaum alileta mapinduzi makubwa katika ulimwengu wa sarafu za kidijitali kwa kazi yake kuu ya "saini za blinded." Hii iliwezesha kusaini kwa siri ujumbe bila kujua maudhui yake, kuhakikisha faragha na usalama katika miamala ya kidijitali. Mnamo 1982, David Chaum aligundua Ecash, mfumo wa pesa wa kielektroniki ambao haukujulikana ambao ulitumia maandishi ya siri, ambayo baadaye ilitekelezwa kupitia shirika lake la Digicash.
+Mapema miaka ya 1980, David Chaum alileta mapinduzi makubwa katika ulimwengu wa sarafu za kidijitali kwa kazi yake kuu ya "sahihi za blinded." Hii iliwezesha kusaini kwa siri ujumbe bila kujua maudhui yake, kuhakikisha faragha na usalama katika miamala ya kidijitali. Mnamo 1982, David Chaum aligundua Ecash, mfumo wa pesa wa kielektroniki ambao haukujulikana ambao ulitumia maandishi ya siri, ambayo baadaye ilitekelezwa kupitia shirika lake la Digicash.
 
 Ingawa Digicash ilitumika kama mfumo wa malipo madogo katika benki moja ya Marekani kutoka 1995 hadi 1998, Chaum hatimaye iliwasilisha kesi ya kufilisika. Alisema hivyo, mawazo yake ya kibunifu yaliwahimiza wengine kuchunguza sarafu za kidijitali, na hivyo kutengeneza njia ya maendeleo ya fedha za kisasa za crypto, kama vile Bitcoin.
 
@@ -558,9 +558,9 @@ Ingawa Digicash ilitumika kama mfumo wa malipo madogo katika benki moja ya Marek
 
 Kufuatia nyayo za Chaum, mwaka wa 1996, wavumbuzi wawili, Douglas Jackson na Barry Downey, walianzisha E-gold, sarafu ya kwanza ya kidijitali inayotumika sana, ikiruhusu watumiaji kuhamisha dhahabu Ownership kielektroniki. Dhana hiyo ilipata kuvutia haraka na kuvutia mamilioni ya watumiaji ambao waliona uwezo wa aina hii ya kipekee ya pesa. Kwa kutumia E-dhahabu, watu wangeweza kuhamisha fedha kwa urahisi na kwa haraka kuvuka mipaka bila kushughulika na mifumo ya benki ya polepole na inayosumbua.
 
-Hata hivyo, kama ilivyo kwa teknolojia yoyote mpya, E-gold ilikabiliana na changamoto za udhibiti na masuala ya shughuli haramu kama vile utakatishaji fedha na ulaghai. Matokeo yake, kampuni ililazimika kuzima shughuli zake, na kuashiria pigo kubwa kwa maendeleo ya mapema ya sarafu za digital.
+Hata hivyo, kama ilivyo kwa teknolojia yoyote mpya, E-gold ilikabiliana na changamoto za udhibiti na masuala ya shughuli haramu kama vile utakatishaji fedha na ulaghai. Matokeo yake, kampuni ililazimika kuzima shughuli zake, na kuashiria pigo kubwa kwa maendeleo ya mapema ya sarafu za digitali.
 
-Licha ya kushindwa kwake kabisa, E-dhahabu ilikuwa hatua muhimu katika mageuzi ya sarafu za kidijitali. Mafunzo yaliyopatikana kutoka kwa matumizi ya E-gold yalitoa ramani ya barabara kwa wavumbuzi wa siku zijazo kwa changamoto za udhibiti wa Address na maswala ya usalama.
+Licha ya kushindwa kwake kabisa, E-dhahabu ilikuwa hatua muhimu katika mageuzi ya sarafu za kidijitali. Mafunzo yaliyopatikana kutoka kwa matumizi ya E-gold yalitoa ramani ya barabara kwa wavumbuzi wa siku zijazo kwa changamoto za udhibiti wa Anwani na maswala ya usalama.
 
 Kwa kuzingatia kupanda kwa hali ya anga ya Bitcoin, watu wengi wanaamini kimakosa kuwa ilikuwa sarafu ya kwanza ya kidijitali kuwahi kuwepo. Walakini, kama inavyotarajiwa sasa, dhana hii iko mbali na ukweli. Kuibuka kwa Bitcoin kulitokana na miongo kadhaa ya utafiti na majaribio ya waanzilishi katika uga wa cryptography. Bila michango ya watu binafsi hapo juu na wengine wengi, Bitcoin inaweza kuwa haijawahi kuundwa. Ingawa sarafu hizi za mapema za kidijitali hatimaye zilishindwa, Bitcoin ilijifunza kutokana na makosa yao, hatimaye kuwa sarafu ya kidijitali tunayoijua leo.
 
@@ -572,7 +572,7 @@ Ijapokuwa Bitcoin imevutia akili za mamilioni ya watu kwa uwezo wake wa kuvuruga
 
 Vyovyote vile, wacha tuangalie hekaya na ngano.
 
-Satoshi Nakamoto iliibuka kwenye mtandao mwaka wa 2008 na wazo la kimapinduzi: pesa taslimu za kielektroniki za peer-to-peer. Alishiriki maono yake katika [karatasi ya kurasa tisa](https://Bitcoin.org/Bitcoin.pdf) yenye jina "Bitcoin: Mfumo wa Pesa Peer-to-Peer Electronic" na orodha ya Cypherpunk ya utumaji barua pepe. Licha ya kutopendezwa na washiriki wengi wa orodha ya wanaotuma barua, wazo hilo lilizua udadisi wa kutosha kwa mwanachama mmoja, Hal Finney, ambaye hatimaye alifikia Satoshi. Kuhusika kwa Hal katika ukuzaji wa Bitcoin kumeonekana kuwa hatua ya mageuzi, na kusababisha watu wengi kutoa msaada wao.
+Satoshi Nakamoto iliibuka kwenye mtandao mwaka wa 2008 na wazo la kimapinduzi: pesa taslimu za kielektroniki za rika kwa rika. Alishiriki maono yake katika [karatasi ya kurasa tisa](https://Bitcoin.org/Bitcoin.pdf) yenye jina "Bitcoin: Mfumo wa Pesa za rika kwa rika ya Electronic" na orodha ya Cypherpunk ya utumaji barua pepe. Licha ya kutopendezwa na washiriki wengi wa orodha ya wanaotuma barua, wazo hilo lilizua udadisi wa kutosha kwa mwanachama mmoja, Hal Finney, ambaye hatimaye alifikia Satoshi. Kuhusika kwa Hal katika ukuzaji wa Bitcoin kumeonekana kuwa hatua ya mageuzi, na kusababisha watu wengi kutoa msaada wao.
 
 Hata hivyo, baada ya miaka miwili ya kufanya kazi kwenye mradi huo, Satoshi ilitoweka bila kujulikana, na [mawasiliano yake ya mwisho ya kuaminika](https://plan99.net/~mike/Satoshi-emails/thread5.html) mnamo Aprili 23, 2011, ambapo alisema kwamba "ameendelea na mambo mengine."
 
@@ -597,11 +597,11 @@ Ingawa fumbo la Satoshi linaongeza fitina kwenye historia ya Bitcoin, kuna jambo
 Kwa muhtasari, Bitcoin imebadilisha jinsi tunavyofikiri kuhusu pesa na thamani. Kwa mara ya kwanza katika historia, tuna sarafu ya kidijitali ambayo ni:
 
 
-- Peer-to-Peer:** Bitcoin inaruhusu watu binafsi kutuma na kupokea malipo moja kwa moja bila kuhitaji wapatanishi, kama vile benki au wachakataji malipo.
-- Iliyogatuliwa:** Bitcoin inafanya kazi kwenye mtandao uliogatuliwa, kumaanisha kuwa hakuna mamlaka kuu au udhibiti wa sarafu.
-- Salama:** Shughuli za Bitcoin zinalindwa kwa kutumia kriptografia, hivyo kufanya ughushi au sarafu za Double-spending kuwa ngumu.
-- Limited katika Supply & Divisible:** Supply ya Bitcoin ina kikomo—ikiwa na sarafu milioni 21 pekee—wakati huo huo, inaweza kugawanywa katika sehemu nane za desimali, kuwezesha miamala kwa sehemu ya senti. Uhaba huu umeundwa ili kutoa thamani ya sarafu na kuzuia mfumuko wa bei.
-- Psuedoanonymous:** Ingawa miamala ya Bitcoin haijatambulishwa kabisa, inatoa kiwango cha faragha na majina bandia ambayo njia za kawaida za malipo hazifanyi.
+- **Peer-to-Peer:** Bitcoin inaruhusu watu binafsi kutuma na kupokea malipo moja kwa moja bila kuhitaji wapatanishi, kama vile benki au wachakataji malipo.
+- **Iliyogatuliwa:** Bitcoin inafanya kazi kwenye mtandao uliogatuliwa, kumaanisha kuwa hakuna mamlaka kuu au udhibiti wa sarafu.
+- **Salama:** Shughuli za Bitcoin zinalindwa kwa kutumia kriptografia, hivyo kufanya ughushi au sarafu za matumizi ya kulipa zaidi kuwa ngumu.
+- **Limited katika usambazaji na Ugawanyikaji:** Usambazaji wa Bitcoin una kikomo—ikiwa na sarafu milioni 21 pekee—wakati huo huo, inaweza kugawanywa katika sehemu nane za desimali, kuwezesha miamala kwa sehemu ya senti. Uhaba huu umeundwa ili kutoa thamani ya sarafu na kuzuia mfumuko wa bei.
+- **Psuedoanonymous:** Ingawa miamala ya Bitcoin haijatambulishwa kabisa, inatoa kiwango cha faragha na majina bandia ambayo njia za kawaida za malipo hazifanyi.
 
 Pointi hizi zikijumuishwa zinamaanisha kuwa Bitcoin inampa mtu yeyote faragha ya kifedha, usalama na uwezo wa kufanya miamala kimataifa kwa ada na msuguano mdogo. Hatimaye, Bitcoin ni chombo chenye nguvu kwa wale wanaotafuta uhuru zaidi wa kiuchumi na uhuru. Hili ni jambo la kubadilisha mchezo kwa wale wanaotafuta gari salama la kuweka akiba, achilia mbali kuishi chini ya serikali za kimabavu, kukumbwa na mfumuko mkubwa wa bei, wanaokimbia nchi zilizokumbwa na vita, au kurejesha pesa kwa wapendwa wao ng'ambo. Kwa vile Bitcoin inatoa njia mbadala ya bei nafuu kwa mbinu za jadi za uhamishaji pesa, hii inaacha pesa zaidi mikononi mwa wale wanaohitaji zaidi. Akiwa na Bitcoin, mtu yeyote anaweza kuwa benki yake mwenyewe na kudhibiti mustakabali wake wa kifedha.
 
@@ -639,17 +639,17 @@ Kwa hivyo, hebu tuangalie kila moja ya majukumu haya ...
 
 #### Nodi
 
-Nodi ni muhimu kwa uadilifu na usalama wa mtandao wa Bitcoin. Wanatumika kama walinzi wa lango la mfumo, wakihakikisha kwamba miamala inachakatwa kwa usahihi na kulingana na sheria. Kila nodi hupakuliwa na kuthibitisha ndani nakala kamili ya Blockchain, ambayo kimsingi ni Ledger ya kidijitali ambayo inarekodi kila shughuli iliyowahi kufanywa kwenye mtandao wa Bitcoin. Kupitia makubaliano, nodi zinakubaliana juu ya uhalali wa kila shughuli na kuhakikisha kuwa sheria zinafuatwa. Hii ina maana kwamba nodes zitakataa shughuli ikiwa mtu anajaribu kudanganya mfumo, k.m. kwa kutuma zaidi ya Bitcoin kuliko waliyo nayo au kujaribu kutumia Bitcoin sawa mara mbili.
+Nodi ni muhimu kwa uadilifu na usalama wa mtandao wa Bitcoin. Wanatumika kama walinzi wa lango la mfumo, wakihakikisha kwamba miamala inachakatwa kwa usahihi na kulingana na sheria. Kila nodi hupakuliwa na kuthibitisha ndani nakala kamili ya Blockchain, ambayo kimsingi ni Ledger ya kidijitali ambayo inarekodi kila shughuli iliyowahi kufanywa kwenye mtandao wa Bitcoin. Kupitia makubaliano, nodi zinakubaliana juu ya uhalali wa kila shughuli na kuhakikisha kuwa sheria zinafuatwa. Hii ina maana kwamba nodi zitakataa shughuli ikiwa mtu anajaribu kudanganya mfumo, k.m. kwa kutuma zaidi ya Bitcoin kuliko waliyo nayo au kujaribu kutumia Bitcoin sawa mara mbili.
 
-Ili kufafanua zaidi wazo hili la maafikiano, wasanidi wanapopendekeza mabadiliko au uboreshaji wa Bitcoin, nodi huwa na jukumu katika kupitisha au kukataa mabadiliko haya. Wanafanya hivyo kwa kuboresha programu yao hadi toleo jipya au kuendelea kutumia toleo la zamani. Mchakato huu mara nyingi huhusisha mijadala na mijadala ndani ya jumuiya ya Bitcoin ili kufikia muafaka. Hiyo ilisema, makubaliano ya Bitcoin sio nyeusi na nyeupe kama mashine ya kupiga kura. Wengi si lazima watawale. Ikiwa baadhi ya watu hawakubaliani na mabadiliko hayo, wanaweza kuzindua tokeni mpya inayotokana na Bitcoin. Sasa, Bitcoin ya asili ipo bila mabadiliko na mpya iliyo na mabadiliko. Kupitia kununua na kuuza, ni juu ya jamii kuangazia ni toleo gani wanaloona kuwa la thamani zaidi. Utaratibu huu wa maafikiano huhakikisha kwamba mabadiliko yoyote yanayofanywa kwa itifaki ya Bitcoin yanakubaliwa na jumuiya nzima, hivyo kufanya iwe vigumu kwa mtu binafsi au kikundi kudhibiti mfumo kwa manufaa yao wenyewe.
+Ili kufafanua zaidi wazo hili la maafikiano, wasanidi wanapopendekeza mabadiliko au uboreshaji wa Bitcoin, nodi huwa na jukumu katika kupitisha au kukataa mabadiliko haya. Wanafanya hivyo kwa kuboresha programu yao hadi toleo jipya au kuendelea kutumia toleo la zamani. Mchakato huu mara nyingi huhusisha mijadala na mijadala ndani ya jumuiya ya Bitcoin ili kufikia muafaka. Hiyo ilisema, makubaliano ya Bitcoin sio nyeusi na nyeupe kama mashine ya kupiga kura. Wengi si lazima watawale. Ikiwa baadhi ya watu hawakubaliani na mabadiliko hayo, wanaweza kuzindua tokeni mpya inayotokana na Bitcoin. Sasa, Bitcoin ya asili ipo bila mabadiliko na mpya iliyo na mabadiliko. Kupitia kununua na kuuza, ni juu ya jamii kuangazia toleo ambalo wanaliona kuwa la thamani zaidi. Utaratibu huu wa maafikiano huhakikisha kwamba mabadiliko yoyote yanayofanywa kwa itifaki ya Bitcoin yanakubaliwa na jumuiya nzima, hivyo kufanya iwe vigumu kwa mtu binafsi au kikundi kudhibiti mfumo kwa manufaa yao wenyewe.
 
 Pia ni muhimu kutambua kwamba nodi ni kipande cha programu ambacho mtu yeyote anaweza kuendesha kwenye kompyuta yake ya nyumbani. Sharti pekee ni muunganisho wa intaneti na, kulingana na ni kiasi gani cha Blockchain unachotaka kuhifadhi, popote kutoka 5 hadi 500gb ya nafasi ya bure.
 
 #### Wachimbaji madini
 
-Wachimbaji wa Bitcoin, kwa upande mwingine, wana jukumu muhimu katika kutunza kumbukumbu, kwani wana jukumu la kuagiza na kuthibitisha miamala. Ili kufanya hivyo, wachimbaji hutumia kompyuta maalum kufanya kazi inayoitwa hashing. Bila kupiga mbizi katika hali mbaya ya hashing, ifikirie kama wachimba migodi wanaoshindana ili kuongeza miamala mipya kwa Blockchain, Ledger ya umma ya miamala. Katika Exchange kwa kazi yao, wachimba migodi hutuzwa kwa Bitcoin mpya iliyoundwa na ada za miamala kwa miamala yoyote iliyochakatwa. Mchakato wa Mining umeundwa kuwa mgumu, wa ushindani, na wa kubahatisha, na idadi ndogo tu ya Bitcoin mpya inayotolewa kila mwaka, kuhakikisha kuwa Supply ya Bitcoin ni ndogo na thamani yake inadumishwa. Bila wachimbaji, shughuli hazitashughulikiwa.
+Wachimbaji wa Bitcoin, kwa upande mwingine, wana jukumu muhimu katika kutunza kumbukumbu, kwani wana jukumu la kuagiza na kuthibitisha miamala. Ili kufanya hivyo, wachimbaji hutumia kompyuta maalum kufanya kazi inayoitwa hashing. Bila kupiga mbizi katika hali mbaya ya hashing, ifikirie kama wachimba migodi wanaoshindana ili kuongeza miamala mipya kwa Blockchain, Leja ya umma ya miamala. Katika Ubadilishanaji kwa kazi yao, wachimba migodi hutuzwa kwa Bitcoin mpya iliyoundwa na ada za miamala kwa miamala yoyote iliyochakatwa. Mchakato wa uchimbaji umeundwa kuwa mgumu, wa ushindani, na wa kubahatisha, na idadi ndogo tu ya Bitcoin mpya inayotolewa kila mwaka, kuhakikisha kuwa usambazaji wa Bitcoin ni mdogo na thamani yake inadumishwa. Bila wachimbaji, shughuli hazitashughulikiwa.
 
-Ikizingatiwa kwamba wachimbaji wanapaswa kushindana wao kwa wao ili kushughulikia miamala na wanatuzwa kwa kufanya hivyo, shindano hili linapunguza uwezekano wa Miner au chombo chochote kudhibiti mtandao na kuwapa motisha wachimbaji kutenda kwa uaminifu na kufuata sheria. Ikiwa Miner inajaribu kudanganya au kuvunja sheria, wana hatari ya kupoteza malipo yao, kwa hiyo kuna motisha kali ya kucheza na sheria.
+Ikizingatiwa kwamba wachimbaji wanapaswa kushindana wao kwa wao ili kushughulikia miamala na wanatuzwa kwa kufanya hivyo, shindano hili linapunguza uwezekano wa Miner au chombo chochote kudhibiti mtandao na kuwapa motisha wachimbaji kutenda kwa uaminifu na kufuata sheria. Ikiwa Mchimbaji anajaribu kudanganya au kuvunja sheria, wana hatari ya kupoteza malipo yao, kwa hiyo kuna motisha kali ya kucheza na sheria.
 
 #### Watengenezaji
 
@@ -667,7 +667,7 @@ Ili kuelewa jinsi wachezaji hawa wote wanavyofanya kazi pamoja, hebu tufikirie m
 
 #### Kuanzishwa kwa Muamala
 
-Kila muamala wa Bitcoin huanza na kuanzishwa kwake wakati mtumaji, katika kesi hii, Alice, anaunda muamala unaobainisha mpokeaji, Bob, na kiasi, 0.00100000 Bitcoin. Node inayohusishwa na Wallet ya Alice kisha inatangaza shughuli kwenye mtandao, ambapo nodes zinathibitisha uhalali wake, na hutumwa kwa wachimbaji kwa uthibitisho.
+Kila muamala wa Bitcoin huanza na kuanzishwa kwake wakati mtumaji, katika kesi hii, Alice, anaunda muamala unaobainisha mpokeaji, Bob, na kiasi, 0.00100000 Bitcoin. Nodi inayohusishwa na Pochi la Alice kisha inatangaza shughuli kwenye mtandao, ambapo nodi zinathibitisha uhalali wake, na hutumwa kwa wachimbaji kwa uthibitisho.
 
 Katika hatua hii, muamala unaingia kwenye kile kinachojulikana kama Mempool, kimsingi chumba cha kungojea kwa miamala iliyo tayari kuongezwa kwa Blockchain. Ifikirie kama orodha ya miamala inayosubiri, sawa na ile unayoona kwenye taarifa ya kadi yako ya mkopo, ambayo imeanzishwa lakini inasubiri kushughulikiwa. Mara tu shughuli hiyo itakapoanzishwa na imekaa kwenye Mempool, sasa iko mikononi mwa wachimbaji.
 
@@ -677,7 +677,7 @@ Wachimba migodi sasa huchukua miamala hii ambayo haijashughulikiwa, kuziweka kat
 
 #### Uthibitishaji wa Muamala
 
-Mara tu shughuli hiyo itakapothibitishwa, Bob anapaswa sasa kuona 0.00100000 Bitcoin kwenye Wallet yake. Lakini haishii hapo. Kisha nodi huthibitisha kwamba Miner imefanya kazi yao kwa usahihi na kwamba miamala iliyojumuishwa kwenye kizuizi hiki kipya inakidhi sheria zilizokubaliwa na nodi. Ikiwa kizuizi kinashindwa kufanya hivyo, basi kizuizi kipya kitakataliwa, na Miner itapoteza malipo yao ya Mining.
+Mara tu shughuli hiyo itakapothibitishwa, Bob anapaswa sasa kuona 0.00100000 Bitcoin kwenye Wallet yake. Lakini haishii hapo. Kisha nodi huthibitisha kwamba Mchimbaji amefanya kazi yake kwa usahihi na kwamba miamala iliyojumuishwa kwenye kizuizi hiki kipya inakidhi sheria zilizokubaliwa na nodi. Ikiwa kizuizi kinashindwa kufanya hivyo, basi kizuizi kipya kitakataliwa, na Mchimbaji atapoteza malipo yako ya Uchimbaji.
 
 _**Ukweli wa Kufurahisha:** Hata baada ya muamala wa Bitcoin kuthibitishwa, uwezekano wa kubadilisha upo ikiwa nodi zitakataa vizuizi. Hata hivyo, kwa kila kizuizi kipya kinachoongezwa kwa Blockchain baada ya muamala, uwezekano wa kutenduliwa hupungua kwa kasi. Ili kuimarisha usalama, ubadilishanaji na pochi mara nyingi hushikilia Bitcoin yako hadi vizuizi kadhaa vifuatavyo viambatishwe— kwa kawaida vitatu hadi sita. Hii hulinda fedha na huhakikisha amani ya akili ya muamala._
 
@@ -689,15 +689,15 @@ Kama ilivyoelezwa kote katika sehemu hii, ingawa Bitcoin inaweza kuonekana kama 
 - Nodi, kupitia uthibitishaji wa shughuli, huhakikisha uadilifu na usalama wa mtandao kwa kutumika kama walinzi wa lango.
 - Wachimbaji madini wanawajibika kuagiza na kuthibitisha miamala.
 - Wasanidi programu ni wanachama wenye ujuzi wa hali ya juu wa jumuiya ya Bitcoin wanaofanya kazi pamoja kudumisha na kuboresha programu inayotumia mtandao.
-- Jumuiya, kupitia matumizi ya Bitcoin, ndiyo inayoipa thamani.
+- Jumuiya, kupitia matumizi ya Bitcoin, ndiyo yanayoipa thamani.
 
-Kila moja ya majukumu haya ni muhimu kwa utendakazi na mafanikio ya Bitcoin kama sarafu ya kidijitali. Kwa kukabidhi majukumu haya muhimu kwa wahusika wakuu, Bitcoin inaweza kufanya kazi kama njia salama, ya uwazi na inayowajibika ya Exchange kwa watumiaji wote, na kuifanya iwe mafanikio makubwa katika historia ya sarafu.
+Kila moja ya majukumu haya ni muhimu kwa utendakazi na mafanikio ya Bitcoin kama sarafu ya kidijitali. Kwa kukabidhi majukumu haya muhimu kwa wahusika wakuu, Bitcoin inaweza kufanya kazi kama njia salama, ya uwazi na inayowajibika ya Ubadilishanaji kwa watumiaji wote, na kuifanya iwe ya mafanikio makubwa katika historia ya sarafu.
 
-## Ni nini hufanya Bitcoin kuwa tofauti na Fiat?
+## Ni nini hufanya Bitcoin kuwa tofauti na pesa za serikali?
 
 <chapterId>5ef55778-cbcf-5c7e-960d-a2fcdf1a4006</chapterId>
 
-Katika sehemu iliyotangulia, tuliangazia utendakazi wa kipekee wa Bitcoin unaoitofautisha na sarafu za jadi na jinsi Bitcoin inafikia beji inayotamaniwa ya kugatuliwa. Sasa, hebu tubadilishe mtazamo wetu na tuchunguze jinsi Bitcoin inavyotofautiana na fiat kulingana na sifa zinazofanya sarafu kuwa nzuri. Ni kwa kuchunguza sifa hizi muhimu pekee ndipo tunaweza kupata ufahamu wa kina wa kwa nini Bitcoin ni ya kipekee na katika ulimwengu wake pekee linapokuja suala la pesa.
+Katika sehemu iliyotangulia, tuliangazia utendakazi wa kipekee wa Bitcoin unaoitofautisha na sarafu za jadi na jinsi Bitcoin inafikia beji inayotamaniwa ya kugatuliwa. Sasa, hebu tubadilishe mtazamo wetu na tuchunguze jinsi Bitcoin inavyotofautiana na pesa za serikali kulingana na sifa zinazofanya sarafu kuwa nzuri. Ni kwa kuchunguza sifa hizi muhimu pekee ndipo tunaweza kupata ufahamu wa kina wa kwa nini Bitcoin ni ya kipekee na katika ulimwengu wake pekee linapokuja suala la pesa.
 
 Ukikumbuka kutoka kwa Moduli ya Kwanza, tuliangalia kazi na sifa za pesa, hizi zikiwa:
 
@@ -708,7 +708,7 @@ Ukikumbuka kutoka kwa Moduli ya Kwanza, tuliangalia kazi na sifa za pesa, hizi z
 - _Haba:_ Idadi ndogo.
 - _Isiyobadilika:_ Haiwezi kubadilishwa au kubadilishwa.
 
-**Wastani wa Exchange:** Hutumika kama njia ya kufanya biashara ya bidhaa na huduma.
+**Wastani wa Ubadilishanaji:** Hutumika kama njia ya kufanya biashara ya bidhaa na huduma.
 
 
 - _Inabebeka:_ Inabebwa au kusafirishwa kwa urahisi.
@@ -720,38 +720,38 @@ Ukikumbuka kutoka kwa Moduli ya Kwanza, tuliangalia kazi na sifa za pesa, hizi z
 
 - _Fungible:_ Inaweza kubadilishwa na vitengo vingine vya aina sawa.
 
-Hebu sasa tuchambue fiat na Bitcoin kupitia lenzi ya kazi hizi na sifa ili kuelewa vyema jinsi zinavyotofautiana.
+Hebu sasa tuchambue pesa za serikali na Bitcoin kupitia lenzi ya kazi hizi na sifa ili kuelewa vyema jinsi zinavyotofautiana.
 
 #### Hifadhi ya Thamani
 
-Ingawa sarafu za sarafu zinaweza kukabiliwa na mfumuko wa bei na zimethibitishwa kihistoria kupoteza thamani kwa muda kutokana na sera za serikali, Bitcoin yenye kikomo Supply na asili iliyogatuliwa huifanya kuwa ghala dhabiti la thamani ambalo haliwezi kudanganywa na mamlaka yoyote kuu. Kinachofanya Bitcoin kuwa duka kubwa la thamani ni kwamba ni:
+Ingawa sarafu za sarafu zinaweza kukabiliwa na mfumuko wa bei na zimethibitishwa kihistoria kupoteza thamani kwa muda kutokana na sera za serikali, Bitcoin yenye kikomo usambazaji na asili iliyogatuliwa huifanya kuwa ghala dhabiti la thamani ambalo haliwezi kudanganywa na mamlaka yoyote kuu. Kinachofanya Bitcoin kuwa duka kubwa la thamani ni kwamba ni:
 
 
-- Inayodumu:** Bitcoin ni ya dijitali na, kwa hivyo, haiwezi kuharibika au kuharibika kama vile sarafu za karatasi au chuma. Zaidi ya hayo, asili yake ya ugatuzi inahakikisha kwamba haina hatua moja ya kushindwa kwa mashambulizi.
-- Uhaba:** Supply ya Bitcoin ina ukomo wa sarafu milioni 21, na kuifanya kuwa adimu ikilinganishwa na sarafu za sarafu, ambazo serikali zinaweza kuchapisha bila kikomo. Supply hii iliyodhibitiwa inamaanisha kuwa thamani ya Bitcoin haiko chini ya shinikizo sawa la mfumuko wa bei kama sarafu za sarafu.
-- Haibadiliki:** Teknolojia ya Blockchain ya Bitcoin inahakikisha kwamba shughuli inaporekodiwa kwenye mtandao, haiwezi kubadilishwa au kuchezewa. Kiwango hiki cha kutobadilika hakiwezekani kwa sarafu za fiat, ambazo zinaona udanganyifu mkubwa zaidi, ughushi au ubadilishaji wa shughuli.
+- **Inayodumu:** Bitcoin ni ya dijitali na, kwa hivyo, haiwezi kuharibika au kuharibika kama vile sarafu za karatasi au chuma. Zaidi ya hayo, asili yake ya ugatuzi inahakikisha kwamba haina hatua moja ya kushindwa kwa mashambulizi.
+- **Uhaba:** Usambazaji wa Bitcoin una ukomo wa sarafu milioni 21, na kuifanya kuwa adimu ikilinganishwa na sarafu za sarafu, ambazo serikali zinaweza kuchapisha bila kikomo. Usambazaji huu uliodhibitiwa unamaanisha kuwa thamani ya Bitcoin haiko chini ya shinikizo sawa la mfumuko wa bei kama sarafu za sarafu.
+- **Haibadiliki:** Teknolojia ya Blockchain ya Bitcoin inahakikisha kwamba shughuli inaporekodiwa kwenye mtandao, haiwezi kubadilishwa au kuchezewa. Kiwango hiki cha kutobadilika hakiwezekani kwa sarafu za serikali, ambazo zinaona udanganyifu mkubwa zaidi, ughushi au ubadilishaji wa shughuli.
 
-#### Kati ya Exchange
+#### Kati ya Ubadilishaji
 
-Ingawa Bitcoin bado haijakubalika duniani kote kama sarafu za mtandaoni, asili yake ya uhusiano kati ya watu wengine, nyakati za ununuzi wa haraka na ada za chini zinaifanya kuwa njia ya kuvutia zaidi ya Exchange, hasa kwa miamala ya kuvuka mipaka. Hii inawezeshwa na ukweli kwamba ni:
+Ingawa Bitcoin bado haijakubalika duniani kote kama sarafu za mtandaoni, asili yake ya uhusiano kati ya watu wengine, nyakati za ununuzi wa haraka na ada za chini zinaifanya kuwa njia ya kuvutia zaidi ya Ubadilishanaji, hasa kwa miamala ya kuvuka mipaka. Hii inawezeshwa na ukweli kwamba ni:
 
 
-- Inabebeka:** Bitcoin, ikiwa ya dijitali, inaruhusu uhamishaji usio na mipaka na wa kati kati ya watu binafsi, na kuifanya kuwa njia rahisi na inayofikika ya Exchange. Ingawa baadhi ya sarafu za fedha pia hutoa masuluhisho ya kidijitali, wale walio katika nchi zinazoendelea au zilizokumbwa na vita wanaweza kutatizika kupata huduma za benki zinazotimiza hitaji hili. Asili ya ugatuzi ya Bitcoin inafanya kupatikana kwa mtu yeyote aliye na muunganisho wa intaneti, ikitoa njia mbadala inayofaa kwa mifumo ya kitamaduni ya benki katika maeneo yenye ufikiaji mdogo wa huduma za kifedha.
-- Divisible:** Mgawanyiko uliokithiri wa Bitcoin ni mojawapo ya faida zake kuu kama sarafu. Kwa kila Bitcoin kugawanywa hadi nafasi nane za desimali, kitengo kidogo zaidi, Satoshi, kina thamani ya sehemu tu ya senti. Kulingana na njia ya kufanya shughuli, yaani Layer moja au mbili, hii inafanya Bitcoin iweze kubadilika sana kwa shughuli za ukubwa wowote, kutoka kwa ununuzi mdogo hadi uwekezaji mkubwa.
-- Imekubaliwa:** Ingawa hali ya kukubalika kwa Bitcoin bado haijaenea ulimwenguni kote, kuongezeka kwake kupitishwa na wafanyabiashara, taasisi na watu binafsi duniani kote kunapendekeza kwamba inakubalika zaidi kama njia halali ya malipo.
+- **Inabebeka:** Bitcoin, ikiwa ya dijitali, inaruhusu uhamishaji usio na mipaka na wa kati kati ya watu binafsi, na kuifanya kuwa njia rahisi na inayofikika ya Ubadilishanaji. Ingawa baadhi ya sarafu za fedha pia hutoa masuluhisho ya kidijitali, wale walio katika nchi zinazoendelea au zilizokumbwa na vita wanaweza kutatizika kupata huduma za benki zinazotimiza hitaji hili. Asili ya ugatuzi ya Bitcoin inafanya kupatikana kwa mtu yeyote aliye na muunganisho wa intaneti, ikitoa njia mbadala inayofaa kwa mifumo ya kitamaduni ya benki katika maeneo yenye ufikiaji mdogo wa huduma za kifedha.
+- **Divisible:** Mgawanyiko uliokithiri wa Bitcoin ni mojawapo ya faida zake kuu kama sarafu. Kwa kila Bitcoin kugawanywa hadi nafasi nane za desimali, kitengo kidogo zaidi, Satoshi, kina thamani ya sehemu tu ya senti. Kulingana na njia ya kufanya shughuli, yaani Safu moja au mbili, hii inafanya Bitcoin iweze kubadilika sana kwa shughuli za ukubwa wowote, kutoka kwa ununuzi mdogo hadi uwekezaji mkubwa.
+- **Imekubaliwa:** Ingawa hali ya kukubalika kwa Bitcoin bado haijaenea ulimwenguni kote, kuongezeka kwake kupitishwa na wafanyabiashara, taasisi na watu binafsi duniani kote kunapendekeza kwamba inakubalika zaidi kama njia halali ya malipo.
 
 ### Kitengo cha Akaunti
 
-Kwa vile Bitcoin imepata kutambuliwa kama kati ya Exchange, imepanda daraja haraka kama kitengo cha kutegemewa cha akaunti ya bidhaa na huduma, kama vile sarafu za sarafu. Hata hivyo, kinachotenganisha Bitcoin na fiat ni uwezo wake wa kutoa njia salama, ya uwazi na iliyogatuliwa ya kufanya miamala. Mchangiaji mkuu katika ongezeko la kupitishwa kwa Bitcoin kama kitengo cha akaunti ni ukweli kwamba ni:
+Kwa vile Bitcoin imepata kutambuliwa kama kati ya Ubadilishanaji, imepanda daraja haraka kama kitengo cha kutegemewa cha akaunti ya bidhaa na huduma, kama vile sarafu za sarafu. Hata hivyo, kinachotenganisha Bitcoin na sarafu ya serikali ni uwezo wake wa kutoa njia salama, ya uwazi na iliyogatuliwa ya kufanya miamala. Mchangiaji mkuu katika ongezeko la kupitishwa kwa Bitcoin kama kitengo cha akaunti ni ukweli kwamba ni:
 
 
-- Fungible:** Kila Bitcoin haiwezi kutofautishwa na nyingine yoyote, na kuifanya iweze kubadilishwa kwa urahisi, jambo ambalo si mara zote hali ya sarafu halisi ambayo inaweza kuwa na vitambulishi vya kipekee au vya ubora tofauti.
+- **Fungible:** Kila Bitcoin haiwezi kutofautishwa na nyingine yoyote, na kuifanya iweze kubadilishwa kwa urahisi, jambo ambalo si mara zote hali ya sarafu halisi ambayo inaweza kuwa na vitambulishi vya kipekee au vya ubora tofauti.
 
-### Raslimali dhidi ya Mtandao
+### Rasilimali dhidi ya Mtandao
 
-Huenda umegundua hapo juu kwamba Bitcoin si tu nyenzo yenye nguvu ya kuhifadhi thamani, lakini sifa zake za kipekee pia zinaifanya kuwa mtandao salama na mzuri sana wa kufanya miamala. Hii inaweza kuonekana kuwa ya kutatanisha kidogo, kwa hivyo wacha tueleze. Bitcoin, kama fiat, imeundwa na vipengele viwili:
+Huenda umegundua hapo juu kwamba Bitcoin si tu nyenzo yenye nguvu ya kuhifadhi thamani, lakini sifa zake za kipekee pia zinaifanya kuwa mtandao salama na mzuri sana wa kufanya miamala. Hii inaweza kuonekana kuwa ya kutatanisha kidogo, kwa hivyo wacha tueleze. Bitcoin, kama pesa za serikali, imeundwa na vipengele viwili:
 
-**Kipengee (kinachojulikana kama Bitcoin chenye herufi ndogo “b”)** – Hiki ndicho tunachonunua ambacho kinaweza kufikiwa na Wallet yetu. Inapohifadhiwa nje ya ubadilishanaji wa fedha kati au pochi, utegemezi wetu wa uaminifu hupunguzwa, hasa ukizingatia usalama wa maunzi yetu. Hata hivyo, tunaweza kupunguza uaminifu huo kwa kuweka nakala rudufu ya maneno yetu ya seed kwa usalama au kutumia chaguo za uhifadhi kama vile sahihi nyingi. Zaidi ya hayo, kwa kuzingatia kwamba maamuzi yoyote yanayolenga kurekebisha sifa za kimsingi za Bitcoin, kama vile jumla ya Supply, yanaamuliwa na kuungwa mkono na jumuiya, kuna ulinzi thabiti dhidi ya utekelezaji wa mabadiliko mabaya ambayo yanaweza kudhuru watumiaji, yaani, upotezaji wa sarafu kupitia upanuzi wa Supply.
+**Kipengee (kinachojulikana kama Bitcoin chenye herufi ndogo “b”)** – Hiki ndicho tunachonunua ambacho kinaweza kufikiwa na Wallet yetu. Inapohifadhiwa nje ya ubadilishanaji wa fedha kati au pochi, utegemezi wetu wa uaminifu hupunguzwa, hasa ukizingatia usalama wa maunzi yetu. Hata hivyo, tunaweza kupunguza uaminifu huo kwa kuweka nakala rudufu ya maneno yetu ya mbegu kwa usalama au kutumia chaguo za uhifadhi kama vile sahihi nyingi. Zaidi ya hayo, kwa kuzingatia kwamba maamuzi yoyote yanayolenga kurekebisha sifa za kimsingi za Bitcoin, kama vile jumla ya Usambazaji, yanaamuliwa na kuungwa mkono na jumuiya, kuna ulinzi thabiti dhidi ya utekelezaji wa mabadiliko mabaya ambayo yanaweza kudhuru watumiaji, yaani, upotezaji wa sarafu kupitia upanuzi wa Usambazaji.
 
 **Mtandao (unaojulikana kama Bitcoin wenye herufi kubwa “B”)** – Hizi ndizo reli zinazowezesha biashara ya Bitcoin-the-asset. Mtandao unaruhusu mtu yeyote kutuma, kuthibitisha au kuthibitisha miamala. Asili ya ugatuzi ya Bitcoin, inayoungwa mkono na nodi nyingi, wachimba migodi na wasanidi programu, huhakikisha muundo uliosambazwa ambapo hakuna huluki moja inayoshikilia mamlaka juu ya nyingine. Hii inatoa hali ya kutia moyo ya usalama na kutegemewa wakati wa kufanya shughuli, kuondoa wasiwasi kuhusu uwezekano wa kubatilisha, kukataliwa, kusimamisha au kukatizwa nyingine.
 
@@ -759,7 +759,7 @@ Tunapotazama sarafu za fedha kutoka kwa mtazamo wa "mali" na "mtandao," inakuwa 
 
 #### **Mali** - _Fedha za sarafu tunazotumia kama akiba ya thamani (k.m. Dola ya Marekani, euro, yen, faranga, pauni sata, n.k.)._
 
-**Benki Kuu husimamia Sera ya Fedha** – Sera ya Fedha inarejelea hatua zinazochukuliwa na benki kuu ili kudhibiti viwango vya riba na jumla ya Supply ya fedha katika mzunguko. Wakati benki kuu inapunguza viwango vya riba au kuongeza pesa Supply, inaingiza pesa mpya katika uchumi, na hivyo kupunguza thamani ya sarafu iliyopo katika mzunguko. Hii inasababisha kupunguzwa kwa uwezo wa ununuzi wa sarafu, na kusababisha mfumuko wa bei.
+**Benki Kuu husimamia Sera ya Fedha** – Sera ya Fedha inarejelea hatua zinazochukuliwa na benki kuu ili kudhibiti viwango vya riba na jumla ya Supply ya fedha katika mzunguko. Wakati benki kuu inapunguza viwango vya riba au kuongeza pesa usambazaji, inaingiza pesa mpya katika uchumi, na hivyo kupunguza thamani ya sarafu iliyopo katika mzunguko. Hii inasababisha kupunguzwa kwa uwezo wa ununuzi wa sarafu, na kusababisha mfumuko wa bei.
 
 **Serikali husimamia Sera ya Fedha** – Sera ya Fedha inahusu hatua za serikali zinazohusiana na ushuru na matumizi ya serikali. Kwa mfano, ikiwa serikali itaamua kuchochea uchumi kwa kupunguza kodi na kutoa hundi za vichocheo, huongeza mapato ya watu, na kusababisha matumizi ya juu. Kuongezeka kwa matumizi haya kunaweza kuongeza bei, na kusababisha mfumuko wa bei na kupunguza uwezo wetu wa kununua kwa wakati.
 
