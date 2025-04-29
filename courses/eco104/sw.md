@@ -799,7 +799,7 @@ Bitcoin pia inakuwa itifaki ya msingi ya uhamishaji thamani ya mtandao kwa harak
 
 **Hitimisho**
 
-Sifa za kipekee za Bitcoin kama hifadhi ya thamani, wastani wa Exchange, na kitengo cha akaunti huifanya kuwa sarafu ambayo iko katika aina yake. Ugatuaji wake, uhaba, uimara, kutoweza kubadilika, kubebeka, kukubalika, mgawanyiko na kugundulika kwake huchanganyikana kuunda mtandao wenye nguvu na bora ambao unaweza kutumika kwa miamala isiyo na mwisho, usalama, ufanisi na ada za chini.
+Sifa za kipekee za Bitcoin kama hifadhi ya thamani, wastani wa Ubadilishanaji, na kitengo cha akaunti huifanya kuwa sarafu ambayo iko katika aina yake. Ugatuaji wake, uhaba, uimara, kutoweza kubadilika, kubebeka, kukubalika, mgawanyiko na kugundulika kwake huchanganyikana kuunda mtandao wenye nguvu na bora ambao unaweza kutumika kwa miamala isiyo na mwisho, usalama, ufanisi na ada za chini.
 
 Zaidi ya hayo, sifa hizi zilizounganishwa sio tu kwamba zinaweka Bitcoin kama chombo chenye nguvu cha kuhifadhi na kujenga utajiri kwa muda mrefu (Bitcoin mali) lakini pia hutoa manufaa mengi kwa wale wanaotaka kuajiri Bitcoin kama njia ya muamala (Bitcoin mtandao). Hii inatofautisha kabisa sarafu za sarafu, ambazo zinahitaji uaminifu na waamuzi katika hali zote mbili. Hii inafanya Bitcoin kuwa sarafu ya kuvutia kwa watu binafsi na biashara sawa, bila kujali kama inatumika kuokoa au kufanya shughuli.
 
@@ -809,7 +809,7 @@ Zaidi ya hayo, sifa hizi zilizounganishwa sio tu kwamba zinaweka Bitcoin kama ch
 
 Bitcoin imechukua mfumo wa fedha kwa kasi, na kuvutia hisia za nchi zinazoendelea, watu binafsi wenye ujuzi wa teknolojia na wawekezaji sawa. Hata hivyo, kutokana na ukuaji wake wa haraka, wengi wanashangaa jinsi mali hii ya kidijitali inavyoweza kushindana na mbinu za malipo za jadi kama vile Visa na Mastercard. Zaidi ya hayo, watu binafsi wana shauku kuhusu jinsi wanaweza kujihusisha kibinafsi na Bitcoin.
 
-Katika sehemu hii, tutazama katika tabaka tofauti za shughuli, iwe katika fiat au Bitcoin. Pia tutachunguza mbinu bora za kuweka Bitcoin yako salama, ikijumuisha umuhimu wa kuchagua Wallet inayofaa.
+Katika sehemu hii, tutazama katika tabaka tofauti za shughuli, iwe katika pesa za serikali au Bitcoin. Pia tutachunguza mbinu bora za kuweka Bitcoin yako salama, ikijumuisha umuhimu wa kuchagua Wallet inayofaa.
 
 ### Tabaka za Bitcoin
 
@@ -821,25 +821,25 @@ Jibu ni rahisi. Sio kushindana nao.
 
 Kulinganisha Blockchain ya Bitcoin na Visa au Mastercard ni kama kulinganisha meli ya kimataifa ya kontena na malipo katika duka la vifaa vya ndani. Meli ya kontena imekusudiwa kufanya miamala mingi isiyo ya mara kwa mara, ilhali ulipaji hujengwa kwa kutumia masafa ya juu, miamala midogo. Ingawa bidhaa zote mbili zinasonga, kuzilinganisha ni kama kulinganisha tufaha na machungwa.
 
-Kwa kuzingatia hili, Bitcoin inatoa Trustless, miamala isiyo na ruhusa na utatuzi wa mwisho, wakati Visa na Mastercard hutoa urahisi na urahisi wa matumizi. Walakini, hiyo haisemi kwamba Blockchain ya Bitcoin haitoi vitu hivi pia. Haijaribu kuzifanikisha kwenye mnyororo wa msingi au msingi wa Layer kama inavyojulikana kawaida.
+Kwa kuzingatia hili, Bitcoin inatoa Trustless, miamala isiyo na ruhusa na utatuzi wa mwisho, wakati Visa na Mastercard hutoa urahisi wa matumizi. Walakini, hiyo haisemi kwamba Blockchain ya Bitcoin haitoi vitu hivi pia. Haijaribu kuzifanikisha kwenye mnyororo wa msingi au msingi wa Layer kama inavyojulikana kawaida.
 
 Wacha tuchunguze hii inamaanisha nini ...
 
 Wakati wa kukagua mfumo wowote wa fedha, mara nyingi kuna mbinu tofauti, au tabaka, za kufanya miamala, huku kila njia ikitoa manufaa mbalimbali kwa mtumiaji. Tabaka za miamala katika mfumo wetu wa sasa wa fedha ni pamoja na:
 
-**Layer One:** Shughuli hizi kwa kawaida huhusisha kiasi kikubwa cha pesa lakini zina uwezo mdogo wa kuchakata, kumaanisha kuwa ni idadi ndogo tu ya miamala inayoweza kuchakatwa kwa sekunde. Mifano ya miamala ya Layer moja katika mfumo wa fedha wa jadi ni pamoja na uhamisho wa kielektroniki wa benki na uhamishaji wa fedha kati ya benki ya Fed Wire. Shughuli hizi za malipo hutumika kwa shughuli za thamani ya juu, lakini mara nyingi huwa za polepole na za gharama kubwa, huku ada za kuhamisha kielektroniki zikiwa kati ya \$10 hadi \$50 na muda wa uchakataji ambao unaweza kuchukua siku kadhaa. Ingawa miamala ya Layer moja ni salama na inategemewa, huenda isiwe chaguo bora kwa watumiaji wanaohitaji kufanya miamala midogo haraka na kwa gharama nafuu.
+**Layer One:** Shughuli hizi kwa kawaida huhusisha kiasi kikubwa cha pesa lakini zina uwezo mdogo wa kuchakata, kumaanisha kuwa ni idadi ndogo tu ya miamala inayoweza kuchakatwa kwa sekunde. Mifano ya miamala ya Safu moja katika mfumo wa fedha wa jadi ni pamoja na uhamisho wa kielektroniki wa benki na uhamishaji wa fedha kati ya benki ya Fed Wire. Shughuli hizi za malipo hutumika kwa shughuli za thamani ya juu, lakini mara nyingi huwa za polepole na za gharama kubwa, huku ada za kuhamisha kielektroniki zikiwa kati ya \$10 hadi \$50 na muda wa uchakataji ambao unaweza kuchukua siku kadhaa. Ingawa miamala ya Safu moja ni salama na inategemewa, huenda isiwe chaguo bora kwa watumiaji wanaohitaji kufanya miamala midogo haraka na kwa gharama nafuu.
 
 **Layer Mbili:** Layer hii kwa kawaida inajumuisha miamala ndogo ya thamani ya juu, kuwezesha miamala mingi kuchakatwa kwa sekunde. Inatoa miamala ya haraka na ya bei nafuu, na ada kwa kawaida ni karibu 1-3% ya thamani ya ununuzi. Mifano ya kawaida ya miamala miwili ya Layer katika mfumo wa fedha wa jadi ni malipo ya kadi ya mkopo na benki, huduma za malipo ya mtandaoni na miamala ya kadi ya zawadi.
 
 **Je, Bitcoin Blockchain inafaa wapi katika miamala miwili ya Layer moja na Layer?**
 
-Bitcoin Blockchain ni mbadala nzuri kwa shughuli za Layer moja. Ingawa huenda isiweze kulingana na kasi ya malipo ya Visa mbili ya Layer, ina uwezo wa kuchakata miamala ya thamani ya juu kwa sehemu ya kasi na gharama ya mbinu za jadi za Layer moja. Zaidi ya hayo, Bitcoin inafanya kazi kwa njia isiyo na kibali na Trustless, kumaanisha kuwa miamala inaweza kufanywa bila waamuzi.
+Bitcoin Blockchain ni mbadala nzuri kwa shughuli za Layer moja. Ingawa huenda isiweze kulingana na kasi ya malipo ya Visa mbili ya Safu, ina uwezo wa kuchakata miamala ya thamani ya juu kwa sehemu ya kasi na gharama ya mbinu za jadi za Layer moja. Zaidi ya hayo, Bitcoin inafanya kazi kwa njia isiyo na kibali na Trustless, kumaanisha kuwa miamala inaweza kufanywa bila waamuzi.
 
-Walakini, licha ya faida zake kama suluhisho la Layer moja, Bitcoin inaweza pia kushindana na njia mbili za ununuzi za Layer. Kuna teknolojia zilizojengwa juu ya mtandao wa Bitcoin, kama vile Umeme, ambazo huwawezesha watumiaji kufanya miamala karibu mara moja na kwa sehemu za senti. Teknolojia hizi zinaweza kuzingatiwa kama suluhisho mbili za Layer kwa mtandao wa Bitcoin. Kwa kuzingatia hili, kama vile mfumo wetu wa fedha wa jadi una miamala ya Layer moja na mbili, vivyo hivyo Bitcoin.
+Walakini, licha ya faida zake kama suluhisho la safu moja, Bitcoin inaweza pia kushindana na njia mbili za ununuzi za Layer. Kuna teknolojia zilizojengwa juu ya mtandao wa Bitcoin, kama vile Umeme, ambazo huwawezesha watumiaji kufanya miamala karibu mara moja na kwa sehemu za senti. Teknolojia hizi zinaweza kuzingatiwa kama suluhisho mbili za safu kwa mtandao wa Bitcoin. Kwa kuzingatia hili, kama vile mfumo wetu wa fedha wa jadi una miamala ya safu moja na mbili, vivyo hivyo Bitcoin.
 
-Ikiwa unatafuta njia ya haraka (lakini si ya papo hapo), ya gharama nafuu na salama ya kutuma kiasi kikubwa cha pesa, basi Bitcoin Layer moja ndiyo dau lako bora zaidi. Ingawa, ikiwa unatazamia kufanya shughuli za karibu mara moja na kwa sehemu za senti, utataka kuelekeza mawazo yako kwenye baadhi ya teknolojia zilizojengwa kwenye Bitcoin, zinazojumuisha ubunifu kama vile [Umeme](https://lightning.network/).
+Ikiwa unatafuta njia ya haraka (lakini si ya papo hapo), ya gharama nafuu na salama ya kutuma kiasi kikubwa cha pesa, basi Bitcoin Safu moja ndiyo dau lako bora zaidi. Ingawa, ikiwa unatazamia kufanya shughuli za karibu mara moja na kwa sehemu za senti, utataka kuelekeza mawazo yako kwenye baadhi ya teknolojia zilizojengwa kwenye Bitcoin, zinazojumuisha ubunifu kama vile [Umeme](https://lightning.network/).
 
-Bitcoin Lightning Network ni Layer ufumbuzi wa kuongeza mbili uliojengwa juu ya Bitcoin Layer moja. Inaruhusu shughuli za karibu za papo hapo na ada ndogo, kufanya miamala ndogo na ununuzi mdogo iwezekanavyo.
+Bitcoin Lightning Network ni Safu ufumbuzi wa kuongeza mbili uliojengwa juu ya Bitcoin Safu moja. Inaruhusu shughuli za karibu za papo hapo na ada ndogo, kufanya miamala midogo na ununuzi mdogo iwezekanavyo.
 
 Kwa kuwa El Salvador imepitisha Bitcoin kama zabuni halali, watu wengi wamekuwa wakitumia Lightning Network kufanya miamala ya Bitcoin badala ya ile ya kawaida ya Layer kutokana na manufaa yake. Kwa kutumia Lightning Network, watumiaji wanaweza kulipa sehemu ya senti kwa karibu miamala ya papo hapo, na kuifanya iwafaa wauzaji wanaotaka kukubali malipo ya Bitcoin bila ada za juu na muda wa malipo wa polepole wa miamala ya jadi ya On-Chain Bitcoin. Hii imerahisisha na kufikiwa zaidi na wananchi wa El Salvadori kutumia Bitcoin kwa shughuli za kila siku, na kuongeza uwezekano wa kupitishwa kwa Bitcoin kama sarafu ya kimataifa.
 
@@ -851,29 +851,29 @@ Kinachoifanya Bitcoin kuwa ya kimapinduzi ni kwamba, kwa mara ya kwanza katika h
 
 #### Mahali pa Kuhifadhi Bitcoin Yako
 
-Hatua ya kwanza katika kupata Bitcoin yako ni kuchagua Wallet sahihi. Bila kuingia kwa kina kirefu, kimsingi kuna aina mbili za pochi zinazopatikana: zilizowekwa na zisizo za kizuizini.
+Hatua ya kwanza katika kupata Bitcoin yako ni kuchagua Pochi sahihi. Bila kuingia kwa kina kirefu, kimsingi kuna aina mbili za pochi zinazopatikana: zilizowekwa na zisizo za kizuizini.
 
 **Pochi za Uhifadhi**
 
-Hizi ni pochi ambapo, ingawa unaweza kufikia Wallet yako na kusogeza pesa, huhifadhi watu wengine na hulinda Bitcoin yako.
+Hizi ni pochi ambazo, ingawa unaweza kufikia Pochi lako na kusogeza pesa, huhifadhi watu wengine na hulinda Bitcoin yako.
 
-Mfano mmoja wa kawaida wa Wallet ya uhifadhi ni akaunti ya Exchange. Unaponunua Bitcoin kupitia Exchange na kuacha Bitcoin yako kwenye Exchange, unatumia Wallet iliyohifadhiwa. Exchange ina ulinzi wa Bitcoin yako na ina jukumu la kuhifadhi na kupata pesa zako.
+Mfano mmoja wa kawaida wa Wallet ya uhifadhi ni akaunti ya Ubadilishanaji. Unaponunua Bitcoin kupitia Ubadilishanaji na kuacha Bitcoin yako kwenye Ubadilishanani, unatumia Pochi lililohifadhiwa. Ubadilishanaji una ulinzi wa Bitcoin yako na ina jukumu la kuhifadhi na kupata pesa zako.
 
-Pia kuna suluhu zingine zisizohesabika za Wallet zinazopatikana kwa simu za mkononi zinazokupa ufikiaji rahisi wa Bitcoin yako. Pochi hizi kwa kawaida zinafaa mtumiaji na hutoa njia rahisi ya kudhibiti Bitcoin yako, lakini bado zina funguo za Bitcoin yako.
+Pia kuna suluhu zingine zisizohesabika za Pochi zinazopatikana kwa simu za mkononi zinazokupa ufikiaji rahisi wa Bitcoin yako. Pochi hizi kwa kawaida zinafaa mtumiaji na hutoa njia rahisi ya kudhibiti Bitcoin yako, lakini bado zina funguo za Bitcoin yako.
 
 **Pochi zisizo na kizuizi (a.k.a. kujitunza)**
 
-Pochi zisizo na dhamana ni aina ya Bitcoin Wallet ambapo wewe ndiye mlinzi pekee wa pesa zako, kumaanisha kuwa una udhibiti kamili wa funguo zako za faragha. Vifunguo vya faragha ni kama nenosiri la Wallet yako na hutumika kutia sahihi na kuidhinisha miamala. Bila wao, huwezi kufikia au kuhamisha Bitcoin yako.
+Pochi zisizo na dhamana ni aina ya Pochi za Bitcoin ambapo wewe ndiye mlinzi pekee wa pesa zako, kumaanisha kuwa una udhibiti kamili wa funguo zako za faragha. Vifunguo vya faragha ni kama nenosiri la Pochi lako na hutumika kutia sahihi na kuidhinisha miamala. Bila wao, huwezi kufikia au kuhamisha Bitcoin yako.
 
 Pochi zisizo na dhamana hutoa kiwango cha juu cha usalama na faragha juu ya pochi za ulezi kwa kuwa ni wewe pekee unayewajibika kwa usalama wa pesa zako. Mifano ya pochi zisizo na dhamana ni pamoja na pochi za maunzi kama vile [Coldcard](https://store.coinkite.com/store/coldcard) na [Trezor](https://trezor.io/), ambavyo ni vifaa halisi vinavyohifadhi funguo zako za faragha nje ya mtandao na kutoa Layer ya ziada ya usalama. Pochi nyingine maarufu zisizo na dhamana ni pochi za programu kama vile [Sparrow](https://sparrowwallet.com/), [Electrum](https://electrum.org/#home), na [Blockstream Green](https://blockstream.com/Green/), ambazo zinaweza kupakuliwa na kusakinishwa kwenye kompyuta au kifaa chako cha mkononi.
 
-\*_Ingawa hatuwezi kupendekeza Wallet mahususi, tunashauri sana kuchukua udhibiti wa Bitcoin yako kupitia ulinzi binafsi au ulinzi shirikishi, unaojumuisha kuchagua Wallet ambayo inakidhi mahitaji na mapendeleo yako. Ni muhimu kufanya utafiti wa kina kabla ya kuamua juu ya Wallet ili kuhakikisha kuwa inalingana na mahitaji yako ya usalama na utumiaji._
+\*_Ingawa hatuwezi kupendekeza Pochi mahususi, tunashauri sana kuchukua udhibiti wa Bitcoin yako kupitia ulinzi binafsi au ulinzi shirikishi, unaojumuisha kuchagua Pochi ambayo inakidhi mahitaji na mapendeleo yako. Ni muhimu kufanya utafiti wa kina kabla ya kuamua juu ya Pochi ili kuhakikisha kuwa inalingana na mahitaji yako ya usalama na utumiaji._
 
 Ingawa pochi za uhifadhi zinaweza kuonekana kuwa rahisi, zinakuja na hatari kubwa. Kwa kutoa uhifadhi wa funguo zako za kibinafsi kwa mtu mwingine, unawapa udhibiti wa pesa zako. Ikiwa mlinzi atakuwa mfilisi, alidukuliwa, au kuzimwa, unaweza kupoteza ufikiaji wa Bitcoin yako. Na hii imetokea mara nyingi, kwa mifano ya hali ya juu ikijumuisha udukuzi wa Mt. Gox na QuadrigaCX na kusababisha upotevu wa fedha za wateja, au FTX, Voyager, BlockFi, na Celsius kukumbwa na ufilisi mbaya, na kusababisha upotevu wa fedha za wateja wao. Hasa kwa kuweka akiba, kufanya mazoezi ya kujilinda na kuchukua jukumu la kulinda Bitcoin yako ni muhimu.
 
 #### Vidokezo vya Usalama
 
-Baada ya kuamua juu ya Wallet, furaha na michezo bado haijaisha. Sasa ni wakati wa kupunguza hatari ya kupoteza. Ili kulinda Bitcoin yako, zingatia hatua hizi baada ya kuchagua Wallet yako:
+Baada ya kuamua juu ya pochi, furaha na michezo bado haijaisha. Sasa ni wakati wa kupunguza hatari ya kupoteza. Ili kulinda Bitcoin yako, zingatia hatua hizi baada ya kuchagua Pochi lako:
 
 1. Kwanza kabisa, hifadhi nakala ya Wallet yako unapojitunza. Pochi za maunzi huja na maneno ya kurejesha akaunti ya seed, seti ya maneno ambayo yanaweza kutumika kurejesha funguo zako za faragha endapo kifaa chako kitapotea au kuharibika. Unda nakala halisi, kama vile sahani ya chuma ya seed, ya [maneno ya seed](https://coincodex.com/article/23147/best-metal-crypto-wallets-for-seed-phrase-storage/) na uihifadhi mahali salama. Ni muhimu kuweka maneno haya ya uokoaji ya seed salama. KAMWE usiishiriki na mtu yeyote.
 
@@ -888,9 +888,9 @@ Ingawa kujitunza ni mbinu tunayopendekeza, tunaelewa kuwa huenda haifai kwa kila
 - Tibu mabadilishano au pochi za rununu kama Wallet yako halisi, ukihifadhi tu kiwango cha Bitcoin ambacho ungebeba kwenye Wallet yako ya kila siku.
 - Zingatia Hardware Wallet yako kama akaunti yako ya akiba. Inakusudiwa ufikiaji wa mara kwa mara na inatanguliza usalama na usalama kwa muda mrefu.
 
-Na ikiwa unatumia Exchange:
+Na ikiwa unatumia Ubadilishanaji:
 
-1. Unda nenosiri kali, la kipekee. Epuka kutumia misemo ya kawaida au manenosiri ambayo ni rahisi kukisia. Fikiria kutumia kidhibiti nenosiri.
+1. Unda nenosiri kali, la kipekee. Epuka kutumia misemo ya kawaida au maneno ya siri ambayo ni rahisi kukisia. Fikiria kutumia kidhibiti nenosiri.
 
 2. Washa uthibitishaji wa vipengele viwili (2FA) inapowezekana. Hii inaongeza Layer ya ziada ya usalama kwa kuhitaji msimbo kutoka kwa simu yako au kifaa cha maunzi pamoja na nenosiri lako.
 
@@ -906,7 +906,7 @@ Ikiwa una nia ya kuchunguza zaidi ulimwengu wa Bitcoin, chaguo nyingi zinapatika
 
 1. **Njia:** Kuendesha nodi ni mahali pazuri pa kuingilia kwa wale wanaotaka kujua kuhusu Bitcoin zaidi ya shughuli za kimsingi. Hukuruhusu sio tu kuchangia mtandao wa Bitcoin kwa kuthibitisha Blockchain na kuathiri masasisho au mabadiliko mapya lakini inapunguza uaminifu na inatoa ufaragha ulioimarishwa kwa kukupa uwezo wa kuthibitisha miamala na salio lako mwenyewe. Kwa kuendesha nodi, unakuwa sehemu ya mtandao uliogatuliwa na kusaidia kuhakikisha usalama na uadilifu wake.
 
-2. **Mining:** Mining ni njia nyingine ya kuchangia mtandao wa Bitcoin na uwezekano wa kupata Bitcoin. Ingawa inahitaji rasilimali kidogo zaidi kuliko kuendesha nodi na haina faida kama ilivyokuwa zamani, Mining ni shughuli ya kuthawabisha kwa wale wanaovutiwa na vipengele vya kiufundi vya mtandao.
+2. **Uchimbaji:** Uchimbaji ni njia nyingine ya kuchangia mtandao wa Bitcoin na uwezekano wa kupata Bitcoin. Ingawa inahitaji rasilimali kidogo zaidi kuliko kuendesha nodi na haina faida kama ilivyokuwa zamani, Uchimbaji ni shughuli ya kuthawabisha kwa wale wanaovutiwa na vipengele vya kiufundi vya mtandao.
 
 3. **Maendeleo:** Iwapo una uzoefu katika uundaji wa programu na ungependa kuchangia uundaji wa Bitcoin, mahali pazuri pa kuanzia ni hazina ya Bitcoin [GitHub](https://github.com/Bitcoin/Bitcoin).
 
@@ -914,7 +914,7 @@ Bila kujali mambo yanayokuvutia, kuna nyenzo nyingi zinazopatikana ili kukusaidi
 
 ### **Hitimisho**
 
-Ingawa mara nyingi tunasikia kwamba Bitcoin haiwezi kamwe kushindana na Visa au Mastercard, tunatumai kwamba sehemu hii imethibitisha wazo hili kuwa si la kweli. Badala ya kushindana moja kwa moja na kampuni hizi, msingi wa Bitcoin wa Layer umeundwa kushughulikia miamala ya bei ya juu kwa ufanisi zaidi kuliko mbinu za jadi. Hii inafanya kuwa mbadala mzuri kwa suluhisho za jadi za Layer moja. Zaidi ya hayo, teknolojia kama The Lightning Network, iliyojengwa juu ya Bitcoin Layer moja, huwezesha miamala karibu ya papo hapo kwa sehemu ya senti. Kwa hivyo, Bitcoin bado inaweza kushindana na Visa na Mastercard, ikitoa masuluhisho kwa biashara na watu binafsi sawa.
+Ingawa mara nyingi tunasikia kwamba Bitcoin haiwezi kamwe kushindana na Visa au Mastercard, tunatumai kwamba sehemu hii imethibitisha wazo hili kuwa si la kweli. Badala ya kushindana moja kwa moja na kampuni hizi, msingi wa Bitcoin wa Layer umeundwa kushughulikia miamala ya bei ya juu kwa ufanisi zaidi kuliko mbinu za jadi. Hii inafanya kuwa mbadala mzuri kwa suluhisho za jadi za Safu moja. Zaidi ya hayo, teknolojia kama The Lightning Network, iliyojengwa juu ya Bitcoin Layer moja, huwezesha miamala karibu ya papo hapo kwa sehemu ya senti. Kwa hivyo, Bitcoin bado inaweza kushindana na Visa na Mastercard, ikitoa masuluhisho kwa biashara na watu binafsi sawa.
 
 Faida kubwa ya Bitcoin ni kwamba inaturuhusu kuwa na ulinzi wa kibinafsi wa mali ya dijiti, ambayo haikuwezekana hapo awali. Ikiwa unahisi kuzidiwa baada ya kupitia sehemu hii, usijali. Kudhibiti Bitcoin yako mwenyewe ni hatua yenye nguvu kuelekea uhuru wa kifedha, lakini pia inakuja na majukumu mapya. Hata hivyo, kwa utafiti kidogo na umakini unaostahili, majukumu haya mapya yatakuwa asili kwako kwa haraka, na utajisikia vizuri kuchukua jukumu la kulinda Bitcoin yako kwa usalama.
 
@@ -926,7 +926,7 @@ Kwa kuwa sasa umepitia Moduli ya "Mtihani wa Jinsi Tulivyofika Hapa" itabidi uja
 
 1. Je, una maoni gani kuhusu dhana ya Trustless na sarafu ya kidijitali iliyogatuliwa bila ruhusa kama Bitcoin? Unafikiri inalinganishwaje na aina za jadi za sarafu?
 
-2. Je, unaamini kwamba Supply yenye kikomo cha Bitcoin, yenye sarafu milioni 21 pekee, inaipa thamani na kuifanya itamanike zaidi? Kwa nini au kwa nini?
+2. Je, unaamini kwamba usambazaji wenye kikomo cha Bitcoin, yenye sarafu milioni 21 pekee, inaipa thamani na kuifanya itamanike zaidi? Kwa nini au kwa nini?
 
 3. Kulingana na maelezo yaliyotolewa kuhusu Satoshi Nakamoto, unafikiri ni muhimu kujua utambulisho wa kweli wa muundaji wa Bitcoin? Kwa nini au kwa nini?
 
@@ -974,9 +974,9 @@ Na hapa ndipo Tether inapoingia.
 
 #### Tether ni nani?
 
-Katika mazingira yanayoendelea kubadilika ya sarafu za fiat, Tether imeibuka kama mchezaji muhimu, inayoendeshwa na maono ya Address mahitaji ya kifedha ya ulimwengu wa kisasa. Huku sarafu za jadi zikiendelea kutatizika kuendana na mahitaji ya uchumi wetu wa kimataifa unaobadilika kwa kasi, na hali tete ya muda mfupi ya Bitcoin inafanya kuwa changamoto kwa wale ambao hawana uwezo wa kuweka akiba, waanzilishi wa Tether walitambua fursa ya kuunganisha ulimwengu huu.
+Katika mazingira yanayoendelea kubadilika ya sarafu za serikali, Tether imeibuka kama mchezaji muhimu, inayoendeshwa na maono ya Anwani mahitaji ya kifedha ya ulimwengu wa kisasa. Huku sarafu za jadi zikiendelea kutatizika kuendana na mahitaji ya uchumi wetu wa kimataifa unaobadilika kwa kasi, na hali tete ya muda mfupi ya Bitcoin inafanya kuwa changamoto kwa wale ambao hawana uwezo wa kuweka akiba, waanzilishi wa Tether walitambua fursa ya kuunganisha ulimwengu huu.
 
-Tether ni "kisumbufu cha mfumo wa kawaida wa kifedha na kifutilia mbali katika matumizi ya kidijitali ya sarafu za jadi." Kusudi lao kuu ni kuboresha uasili wa Bitcoin kwa kuunganisha ulimwengu wa jadi wa kifedha kwa ulimwengu wa kidijitali wa Bitcoin. Wanafanikisha hili kwa kutoa tokeni mbalimbali za kidijitali, ambazo mara nyingi huitwa "stablecoins," ambazo zina thamani kwa sababu ya ulinganifu wao—hakuna neno linalokusudiwa—kwa mali ya ulimwengu halisi. Tether pia inawekeza katika Bitcoin Mining, elimu ya Bitcoin, miundombinu ya malipo ya Bitcoin, na utafiti na maendeleo ya juu ya Bitcoin.
+Tether ni "kisumbufu cha mfumo wa kawaida wa kifedha na kifutilia mbali katika matumizi ya kidijitali ya sarafu za jadi." Kusudi lao kuu ni kuboresha uasili wa Bitcoin kwa kuunganisha ulimwengu wa jadi wa kifedha kwa ulimwengu wa kidijitali wa Bitcoin. Wanafanikisha hili kwa kutoa tokeni mbalimbali za kidijitali, ambazo mara nyingi huitwa "stablecoins," ambazo zina thamani kwa sababu ya ulinganifu wao—hakuna neno linalokusudiwa—kwa mali ya ulimwengu halisi. Tether pia inawekeza katika Uchimbaji wa Bitcoin, elimu ya Bitcoin, miundombinu ya malipo ya Bitcoin, na utafiti na maendeleo ya juu ya Bitcoin.
 
 #### Stablecoin ni nini?
 
@@ -992,11 +992,11 @@ Tofauti na Bitcoin, ambayo thamani yake, kwa manufaa au madhara ya mwenye nayo, 
 
 Ili kufikia uthabiti huu, Tether inahakikisha kila tokeni ya kidijitali inaungwa mkono na dhamana (pamoja na sifa yake), na miamala inaweza kuwezeshwa kupitia mifumo mbalimbali ya rika-kwa-rika, ikiwa ni pamoja na blockchains ya sarafu nyinginezo za siri. Hii huongeza uwazi na kuondoa ulazima wa wasuluhishi kama vile benki. Hii haitoi tu wale walio na muunganisho wa intaneti ufikiaji wa huduma za benki lakini husababisha miamala ya haraka, ya bei ya chini ambayo inaweza kukamilika 24/7, siku 365 kwa mwaka, bila kujali saa za benki za jadi au likizo.
 
-Baada ya kusema hivyo, sarafu za sarafu zinazotolewa na Tether, kama USDt, pia hutofautiana na sarafu za jadi. Ingawa wanadumisha thamani ya mali kama vile USD, wao si sarafu zilizotolewa na serikali na hawana utiifu kwa taifa lolote. Tabia hii inawapa manufaa ya kipekee, hasa katika nchi zinazokabiliana na mfumuko wa bei, ambapo kufikia sarafu thabiti zaidi kama USD kunaweza kuwa changamoto. Tofauti na pesa taslimu, kupata USDt au sarafu zingine za uhakika kupitia mtandao wa Exchange kunahitaji tu muunganisho wa intaneti, ili kuhakikisha ufikivu bila kujali eneo la kijiografia la mtu. Kwa hivyo, tofauti kuu kati ya sarafu tofauti tofauti za fiat na Tether iko katika kutojali kwa mamlaka: inafanya kazi bila mshono kuvuka mipaka, ikiruhusu ufikiaji wa kimataifa kwa sarafu thabiti ya dijiti. Zaidi ya hayo, stablecoins hutoa manufaa kama vile kupunguzwa kwa ada za ununuzi, miamala ya haraka ya kuvuka mipaka, na kuongezeka kwa ujumuishaji wa kifedha, na kuzifanya kuwa mbadala wa kuvutia kwa sarafu za jadi.
+Baada ya kusema hivyo, sarafu za sarafu zinazotolewa na Tether, kama USDt, pia hutofautiana na sarafu za jadi. Ingawa wanadumisha thamani ya mali kama vile USD, wao si sarafu zilizotolewa na serikali na hawana utiifu kwa taifa lolote. Tabia hii inawapa manufaa ya kipekee, hasa katika nchi zinazokabiliana na mfumuko wa bei, ambapo kufikia sarafu thabiti zaidi kama USD kunaweza kuwa changamoto. Tofauti na pesa taslimu, kupata USDt au sarafu zingine za uhakika kupitia mtandao wa Ubadilishanaji kunahitaji tu muunganisho wa intaneti, ili kuhakikisha ufikivu bila kujali eneo la kijiografia la mtu. Kwa hivyo, tofauti kuu kati ya sarafu tofauti tofauti za pesa za serikali na Tether iko katika kutojali kwa mamlaka: inafanya kazi bila mshono kuvuka mipaka, ikiruhusu ufikiaji wa kimataifa kwa sarafu thabiti ya dijiti. Zaidi ya hayo, stablecoins hutoa manufaa kama vile kupunguzwa kwa ada za ununuzi, miamala ya haraka ya kuvuka mipaka, na kuongezeka kwa ujumuishaji wa kifedha, na kuzifanya kuwa mbadala wa kuvutia kwa sarafu za jadi.
 
 #### Je, kuna aina ngapi tofauti za stablecoins?
 
-Baada ya ujio wa Tether, makampuni mengine mengi na mipango ilizindua bidhaa sawa za Stablecoin. Majaribio haya mengi yanaweza kuainishwa kwa mapana katika aina tatu kuu: sarafu zinazoungwa mkono na fiat, zinazoungwa mkono na bidhaa na algorithmic stablecoins.
+Baada ya ujio wa Tether, makampuni mengine mengi na mipango yalizindua bidhaa sawa za Stablecoin. Majaribio haya mengi yanaweza kuainishwa kwa mapana katika aina tatu kuu: sarafu zinazoungwa mkono napesa za serikali, zinazoungwa mkono na bidhaa na algorithmic stablecoins.
 
 
 - Stablecoins zinazoungwa mkono na Fiat**, kama vile Tether's USDt, zinaungwa mkono na sarafu za jadi kama vile dola ya Marekani au Euro, na thamani yake inahusishwa moja kwa moja na thamani ya sarafu ya msingi ya fiat.
