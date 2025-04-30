@@ -5,7 +5,7 @@ objectives:
 
   - Kuelewa mabadiliko ya kihistoria ya pesa na pointi za msingi za maumivu zinazotokana na mfumo wetu wa sasa wa kifedha.
   - Kukuza uelewa wa kina wa Bitcoin, kuitofautisha na sarafu za kawaida.
-  - Inachunguza jukumu la sarafu, haswa Kuunganisha, katika uthabiti wa kifedha na kama daraja kati ya Bitcoin na sarafu za jadi za pesa za serikali.
+  - Inachunguza jukumu la sarafu, haswa Tether, katika uthabiti wa kifedha na kama daraja kati ya Bitcoin na sarafu za jadi za pesa za serikali.
   - Kutambua na kumaliza dhana potofu za kawaida zinazozunguka Bitcoin na stablecoins.
 
 ---
