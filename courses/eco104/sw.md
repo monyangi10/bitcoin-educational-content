@@ -999,11 +999,11 @@ Baada ya kusema hivyo, sarafu za sarafu zinazotolewa na Tether, kama USDt, pia h
 Baada ya ujio wa Tether, makampuni mengine mengi na mipango yalizindua bidhaa sawa za Stablecoin. Majaribio haya mengi yanaweza kuainishwa kwa mapana katika aina tatu kuu: sarafu zinazoungwa mkono napesa za serikali, zinazoungwa mkono na bidhaa na algorithmic stablecoins.
 
 
-- Stablecoins zinazoungwa mkono na Fiat**, kama vile Tether's USDt, zinaungwa mkono na sarafu za jadi kama vile dola ya Marekani au Euro, na thamani yake inahusishwa moja kwa moja na thamani ya sarafu ya msingi ya fiat.
-- Stablecoins zinazoungwa mkono na bidhaa** zinaungwa mkono na bidhaa kama vile dhahabu au mafuta, yaani, sarafu ya dhahabu ya Tether, XAUt,
-- Algorithmic stablecoins** hutegemea seti ya sheria au algoriti ili kudumisha thamani yake. Hiyo ilisema, bado hatujaona stablecoin ya algorithmic ikifanikiwa kwenye soko.
+- **Stablecoins zinazoungwa mkono na Fiat**, kama vile Tether's USDt, zinaungwa mkono na sarafu za jadi kama vile dola ya Marekani au Euro, na thamani yake inahusishwa moja kwa moja na thamani ya sarafu ya msingi ya pesa za serikali.
+- **Stablecoins zinazoungwa mkono na bidhaa** zinaungwa mkono na bidhaa kama vile dhahabu au mafuta, yaani, sarafu ya dhahabu ya Tether, XAUt,
+- **Algorithmic stablecoins** hutegemea seti ya sheria au algoriti ili kudumisha thamani yake. Hiyo ilisema, bado hatujaona stablecoin ya algorithmic ikifanikiwa kwenye soko.
 
-Kwa kumalizia, jinsi jamii yetu inavyoendelea kubadilika na maendeleo ya teknolojia, ndivyo uhusiano wetu na pesa unavyoongezeka. Kutoka sarafu hadi sarafu za kidijitali, tumeona mabadiliko katika jinsi tunavyoingiliana na kufanya miamala kwa kutumia pesa. Wakati mifumo ya benki ya jadi ina mapungufu, Tether, kupitia uteuzi wake wa stablecoin, inatoa suluhisho linalowezekana kwa changamoto hizi. Kwa kutoa uthabiti wa muda mfupi wa sarafu za jadi na kubadilika na ufikiaji wa sarafu za kidijitali asilia, sarafu zao thabiti huwapa watumiaji udhibiti mkubwa wa pesa zao. Iwe huna uwezo wa kufikia huduma za benki, kukabiliana na unyanyasaji wa serikali au unahitaji tu kufanya miamala nje ya saa za kawaida za benki, sarafu za benki kama USDt zinaweza kukupa njia mbadala inayotegemewa. Kwa hivyo, wanakuwa haraka kuwa sehemu muhimu ya mfumo wetu wa kifedha.
+Kwa kumalizia, jinsi jamii yetu inavyoendelea kubadilika na maendeleo ya teknolojia, ndivyo uhusiano wetu na pesa unavyoongezeka. Kutoka sarafu hadi sarafu za kidijitali, tumeona mabadiliko katika jinsi tunavyoingiliana na kufanya miamala kwa kutumia pesa. Wakati mifumo ya benki ya jadi ina mapungufu, Tether, kupitia uteuzi wake wa stablecoin, inatoa suluhisho linalowezekana kwa changamoto hizi. Kwa kutoa uthabiti wa muda mfupi wa sarafu za jadi na kubadilika na ufikiaji wa sarafu za kidijitali asilia, sarafu zao thabiti huwapa watumiaji udhibiti mkubwa wa pesa zao. Iwe huna uwezo wa kufikia huduma za benki, kukabiliana na unyanyasaji wa serikali au unahitaji tu kufanya miamala ya nje ya saa za kawaida za benki, sarafu za benki kama USDt zinaweza kukupa njia mbadala inayotegemewa. Kwa hivyo, wanakuwa haraka kuwa sehemu muhimu ya mfumo wetu wa kifedha.
 
 _**Dokezo la Upande:** Usijali ikiwa baadhi ya masharti haya hayana maana kabisa. Tutachunguza kila moja ya mada kwa undani zaidi katika moduli hii yote._
 
@@ -1011,19 +1011,19 @@ _**Dokezo la Upande:** Usijali ikiwa baadhi ya masharti haya hayana maana kabisa
 
 <chapterId>174e2cab-ef14-5e14-99c8-8457b6fc5fee</chapterId>
 
-Stablecoins imekuwa mada maarufu katika ulimwengu wa sarafu-fiche, ikitoa njia mbadala isiyo na tete katika muda mfupi kwa fedha fiche kama vile Bitcoin. Kama ilivyofafanuliwa katika utangulizi wa sehemu hii, sarafu za sarafu ni mali ya kidijitali ambayo imewekwa kwenye mali dhabiti kama vile sarafu ya fiat au madini ya thamani, iliyoundwa ili kudumisha thamani thabiti. Kwa hivyo, hebu tuchunguze historia ya sarafu za sarafu na tuangalie kwa karibu baadhi ya sarafu za kwanza, ikiwa ni pamoja na Tether’s USDt, sarafu ya sarafu inayojulikana zaidi na inayotumika sana.
+Stablecoins imekuwa mada maarufu katika ulimwengu wa sarafu-fiche, ikitoa njia mbadala isiyo na tete katika muda mfupi kwa fedha fiche kama vile Bitcoin. Kama ilivyofafanuliwa katika utangulizi wa sehemu hii, sarafu za sarafu ni mali ya kidijitali ambayo imewekwa kwenye mali dhabiti kama vile sarafu ya serikali au madini ya thamani, iliyoundwa ili kudumisha thamani thabiti. Kwa hivyo, hebu tuchunguze historia ya sarafu za sarafu na tuangalie kwa karibu baadhi ya sarafu za kwanza, ikiwa ni pamoja na Tether’s USDt, sarafu ya sarafu inayojulikana zaidi na inayotumika sana.
 
 _**Ukweli wa Kufurahisha:** Wakati wa kuandika, USDt ya Tether ina wastani wa $20 bilioni katika kiasi cha malipo ya kila siku. Hii inapita kiasi cha hivi majuzi cha kila siku cha Bitcoin cha \ $15 bilioni. Zaidi ya hayo, USDt imekaa katika nafasi ya tatu kwa soko kubwa zaidi nyuma ya Bitcoin na Ethereum._
 
 Wazo la stablecoins lilianza siku za mwanzo za cryptocurrency, na dhana ya sarafu ya kipengee inayoungwa mkono na mali ikipendekezwa mwaka wa 2012 na mradi wa Mastercoin. Walakini, haikuwa hadi miaka michache baadaye ambapo stablecoins zilipata kasi, na miradi kama Bitshares na NuBits ilizinduliwa mnamo 2014.
 
-Bitshares ilianzisha stablecoin ya kwanza inayoitwa "bitUSD," ambayo iliundwa kuunganishwa kwa dola ya Marekani, na thamani ya bitUSD moja daima ni sawa na dola moja ya Marekani. Hii ilimaanisha kuwa bitUSD iliungwa mkono na dola za Marekani zilizowekwa akiba, kuhakikisha kwamba thamani yake ilisalia imara wakati wa kuyumba kwa soko. NuBits, kwa upande mwingine, ilitumia Supply na mahitaji ya mechanics kudumisha kigingi chake kwa dola ya Amerika. Lakini zaidi juu ya hilo katika sura inayofuata.
+Bitshares ilianzisha stablecoin ya kwanza inayoitwa "bitUSD," ambayo iliundwa kuunganishwa kwa dola ya Marekani, na thamani ya bitUSD moja daima ni sawa na dola moja ya Marekani. Hii ilimaanisha kuwa bitUSD iliungwa mkono na dola za Marekani zilizowekwa akiba, kuhakikisha kwamba thamani yake ilisalia imara wakati wa kuyumba kwa soko. NuBits, kwa upande mwingine, ilitumia usambazaji na mahitaji ya mechanics kudumisha kigingi chake kwa dola ya Amerika. Lakini zaidi juu ya hilo katika sura inayofuata.
 
-Licha ya majaribio haya ya mapema, haikuwa hadi USDt ya Tether ilipozinduliwa mwaka wa 2014 ambapo stablecoins zilipata uangalizi wa kawaida. USDt, kama tu bitUSD, ni sarafu ya sarafu ambayo imeundwa kuambatanishwa na dola ya Marekani, yenye thamani ya USDt moja sawa na dola moja ya Marekani. USDt iliundwa na kampuni inayoitwa Tether Limited, ambayo kampuni mama pia inamiliki cryptocurrency Exchange Bitfinex.
+Licha ya majaribio haya ya mapema, haikuwa hadi USDt ya Tether ilipozinduliwa mwaka wa 2014 ambapo stablecoins zilipata uangalizi wa kawaida. USDt, kama tu bitUSD, ni sarafu ya sarafu ambayo imeundwa kuambatanishwa na dola ya Marekani, yenye thamani ya USDt moja sawa na dola moja ya Marekani. USDt iliundwa na kampuni inayoitwa Tether Limited, ambayo kampuni mama pia inamiliki ubadilishanaji wa cryptocurrency Bitfinex.
 
-Hapo awali, Tether ilitumiwa kimsingi na wafanyabiashara kuhamisha fedha kati ya kubadilishana bila hitaji la ubadilishaji kuwa sarafu ya fiat. Walakini, watu zaidi walipoanza kutumia Tether, ilipata kasi na umaarufu wake. Leo, Tether ndiyo stablecoin inayotumika zaidi duniani, inasindika zaidi ya \ $30 bilioni kila siku. Ili kuweka nambari hii katika mtazamo sahihi, [MasterCard](https://www.cardrates.com/advice/number-of-credit-card-transactions-per-day-year/#:~:text=4%20billion%20transactions%20were%20processed,a%20Japanese%20credit%20card%20company) [Visa](https://blog.unibulmerchantservices.com/processing-24000-visa-transactions-per-second-how-its-done/#:~:text=VisaNet%2C%20the%20card%20network's%20payment,24%2C000%2000%20transaction%20transaction%20percenta) mchakato, kwa [wastani](https://www.statista.com/statistics/279249/purchase-transactions-on-general-purpose-cards-worldwide/), \$8.1 bilioni na \$12 bilioni kwa siku, mtawalia. Kwa hakika, dola za Marekani 50% zaidi hutumika kila siku kwa USDt kuliko Visa na Mastercard zikiwa zimeunganishwa.
+Hapo awali, Tether ilitumiwa kimsingi na wafanyabiashara kuhamisha fedha kati ya kubadilishana bila hitaji la ubadilishaji kuwa sarafu ya serikali. Walakini, watu zaidi walipoanza kutumia Tether, ilipata kasi na umaarufu wake. Leo, Tether ndiyo stablecoin inayotumika zaidi duniani, inasindika zaidi ya \ $30 bilioni kila siku. Ili kuweka nambari hii katika mtazamo sahihi, [MasterCard](https://www.cardrates.com/advice/number-of-credit-card-transactions-per-day-year/#:~:text=4%20billion%20transactions%20were%20processed,a%20Japanese%20credit%20card%20company) [Visa](https://blog.unibulmerchantservices.com/processing-24000-visa-transactions-per-second-how-its-done/#:~:text=VisaNet%2C%20the%20card%20network's%20payment,24%2C000%2000%20transaction%20transaction%20percenta) mchakato, kwa [wastani](https://www.statista.com/statistics/279249/purchase-transactions-on-general-purpose-cards-worldwide/), \$8.1 bilioni na \$12 bilioni kwa siku, mtawalia. Kwa hakika, dola za Marekani 50% zaidi hutumika kila siku kwa USDt kuliko Visa na Mastercard zikiwa zimeunganishwa.
 
-Licha ya matumizi yake mengi, Tether haijazuiliwa na mabishano. Mnamo 2017, Tether na BitFinex, zote zinazomilikiwa na iFinex Inc, zilishutumiwa kwa kupandisha bei ya Bitcoin kwa njia isiyo halali. Mashtaka haya yalihusiana na madai kwamba Tether na BitFinex zilikuwa zikitoa tokeni mpya za USDt bila kuwa na kiasi kinacholingana cha dola za Marekani ili kuzihifadhi. Hii ingeongeza Supply ya USDt, ambayo kwa upande wake ilidaiwa kutumika kupandisha bei ya Bitcoin kwa njia ya bandia.
+Licha ya matumizi yake mengi, Tether haijazuiliwa na mabishano. Mnamo 2017, Tether na BitFinex, zote zinazomilikiwa na iFinex Inc, zilishutumiwa kwa kupandisha bei ya Bitcoin kwa njia isiyo halali. Mashtaka haya yalihusiana na madai kwamba Tether na BitFinex zilikuwa zikitoa tokeni mpya za USDt bila kuwa na kiasi kinacholingana cha dola za Marekani ili kuzihifadhi. Hii ingeongeza Usambazaji wa USDt, ambayo kwa upande wake ilidaiwa kutumika kupandisha bei ya Bitcoin kwa njia ya bandia.
 
 Tether amekuwa akikana madai kama hayo mara kwa mara. Kwa kweli, ukaguzi wa kujitegemea uliofanywa mwaka wa 2017 haukupata ushahidi wa majaribio ya kudanganywa kwa bei. Zaidi ya hayo, zingatia hili: ikiwa Bitfinex ilinuia kushawishi USD ionekane kutoka popote pale ili kuongeza thamani ya Bitcoin kwa njia ya bandia na kuongeza thamani yake yenyewe, je, haingekuwa rahisi zaidi kufanya hivyo kwa faragha na kwa kukanushwa ndani ya akaunti zake za ndani za USD, na kufanya ugunduzi kuwa changamoto zaidi ikilinganishwa na kutekeleza vitendo hivyo kwenye GWt-324 ya umma kama USD-324?
 
@@ -1039,7 +1039,7 @@ Kwa kumalizia, stablecoins zimekuja kwa muda mrefu tangu kuanzishwa kwao. Kuanzi
 
 <chapterId>21765df7-53fd-58af-9df6-7208027a0c3a</chapterId>
 
-Kama inavyopaswa kuwa dhahiri kwa sasa, stablecoin ni aina ya tokeni ya dijiti iliyoundwa ili kudumisha thamani thabiti kulingana na pegged asset ya msingi. Vipengee hivi vinaweza kujumuisha sarafu ya fiat, madini ya thamani, bidhaa, au mchanganyiko wa hizi (k.m. kikapu cha sarafu za fiat).
+Kama inavyopaswa kuwa dhahiri kwa sasa, stablecoin ni aina ya tokeni ya dijiti iliyoundwa ili kudumisha thamani thabiti kulingana na pegged asset ya msingi. Vipengee hivi vinaweza kujumuisha sarafu ya serikali, madini ya thamani, bidhaa, au mchanganyiko wa hizi (k.m. kikapu cha sarafu za serikali).
 
 Madhumuni ya stablecoin, kama USDt, ni kutoa hifadhi ya dijiti iliyo thabiti kwa kiasi ikilinganishwa na tete inayoletwa na si tu sarafu nyinginezo za siri bali na sarafu nyinginezo kama vile peso ya Argentina, ambayo ilipoteza [97%](https://www.statista.com/statistics/316750/inflation-rate-in-argentina/ kati ya 20202 power of its20cha22/)
 
@@ -1047,19 +1047,19 @@ Kimsingi, stablecoin hufanya kazi kama daraja kati ya mali ya jadi na Bitcoin, i
 
 Kuhusu jinsi wanavyodumisha utulivu huu wa bei, wacha tuangalie…
 
-Nyingi za sarafu za stable mara nyingi huchagua kutumia sarafu ya fiat kama kigingi chao, huku dola ya Marekani ikiwa mojawapo ya sarafu maarufu zaidi za kutumia. Kwa sababu hii, tutaingia kwenye sarafu za sarafu zinazoungwa mkono na fiat kwanza. Hata hivyo, kuna aina nyingi za sarafu za sarafu, kama vile zinazoungwa mkono na bidhaa na algoriti, ambazo pia tutachunguza.
+Nyingi za sarafu za stable mara nyingi huchagua kutumia sarafu ya serikali kama kigingi chao, huku dola ya Marekani ikiwa mojawapo ya sarafu maarufu zaidi za kutumia. Kwa sababu hii, tutaingia kwenye sarafu za sarafu zinazoungwa mkono na pesa za serikali kwanza. Hata hivyo, kuna aina nyingi za sarafu za sarafu, kama vile zinazoungwa mkono na bidhaa na algoriti, ambazo pia tutachunguza.
 
 ### Fiat-Backed
 
-Stablecoins imeundwa ili kudumisha thamani imara kuhusiana na pegged asset. Inapokuja kwa sarafu za sarafu zinazoungwa mkono na fiat, kama vile USDt, njia rahisi zaidi ya tokeni kudumisha thamani yake ni kwa mtoaji wa tokeni kushikilia sarafu ambayo tokeni imebashiriwa kwa uwiano wa 1:1.
+Stablecoins imeundwa ili kudumisha thamani imara kuhusiana na pegged asset. Inapokuja kwa sarafu za sarafu zinazoungwa mkono na pesa za serikali, kama vile USDt, njia rahisi zaidi ya tokeni kudumisha thamani yake ni kwa mtoaji wa tokeni kushikilia sarafu ambayo tokeni imebashiriwa kwa uwiano wa 1:1.
 
 Inaonekana kuchanganyikiwa kidogo? Usijali. Hapa kuna mfano:
 
-Tuseme una $50 za Marekani na ungependa kutuma pesa hizi kwa marafiki na familia yako kwa kutumia USDt. Ili kuanzisha mchakato huu, unaingia kwenye Exchange yako ya mtandaoni na ubadilishe \$50 dola za Marekani kwa \$50 USDt. Hata hivyo, Exchange hii haihusishi tu \$50 ya USDt safi. Badala yake, mara kwa mara, akiba ya USDt ya Exchange inapopungua, mtoaji, katika hali hii, Tether, hutoa USDt mpya kwa Exchange kwa malipo ya USD. USD inaunga mkono tokeni hizi mpya za USDt zilizoundwa. Hii inahakikisha kuwa kila \$1 USDt inayozunguka inathibitishwa na pesa taslimu sawa au vitu sawa na pesa taslimu.
+Tuseme una $50 za Marekani na ungependa kutuma pesa hizi kwa marafiki na familia yako kwa kutumia USDt. Ili kuanzisha mchakato huu, unaingia kwenye Ubadilishanaji wako wa mtandaoni na ubadilishe \$50 dola za Marekani kwa \$50 USDt. Hata hivyo, Ubadilishanaji huu haihusishi tu \$50 ya USDt safi. Badala yake, mara kwa mara, akiba ya USDt ya Unadilishanaji unapopungua, mtoaji, katika hali hii, Tether, hutoa USDt mpya kwa Ubadilishanaji kwa malipo ya USD. USD inaunga mkono tokeni hizi mpya za USDt zilizoundwa. Hii inahakikisha kuwa kila \$1 USDt inayozunguka inathibitishwa na pesa taslimu sawa au vitu sawa na pesa taslimu.
 
-Kwa kuzingatia hili, unaponunua USDt, si toleo jipya. Badala yake, hapo awali, Exchange ilibadilisha USD kwa USDt, ambayo sasa unaipata kutoka kwa Exchange. Kadiri muda unavyosonga na watumiaji zaidi wananunua USDt, akiba ya Exchange inapungua huku hisa zake za USD zikipanuka. Hii inahimiza Exchange kuwasiliana tena na Tether kwa generate USDt ya ziada katika Exchange kwa USD.
+Kwa kuzingatia hili, unaponunua USDt, si toleo jipya. Badala yake, hapo awali, Ubadilishanaji ulibadilisha USD kwa USDt, ambayo sasa unaipata kutoka kwa Ubadilishanaji. Kadiri muda unavyosonga na watumiaji zaidi wananunua USDt, akiba ya Ubadilishanaji inapungua huku hisa zake za USD zikipanuka. Hii inahimiza Ubadilishanaji kuwasiliana tena na Tether kwa kuzalisha USDt ya ziada katika Ubadilishanaji kwa USD.
 
-Mfumo huu wa "kuunga mkono" sarafu za sarafu zilizo na akiba ya mali umeundwa ili kutoa utulivu na imani kwa watumiaji, kwani inahakikisha kuwa thamani ya stablecoin inahusishwa na mali inayoonekana. Katika tukio ambalo kila mtu aliye na USDt ataamua Exchange tokeni zake kwa dola za Marekani, akiba inayoshikiliwa na Tether inapaswa kutosha kufidia mahitaji na kuzuia hasara katika thamani ya USDt.
+Mfumo huu wa "kuunga mkono" sarafu za sarafu zilizo na akiba ya mali umeundwa ili kutoa utulivu na imani kwa watumiaji, kwani inahakikisha kuwa thamani ya stablecoin inahusishwa na mali inayoonekana. Katika tukio ambalo kila mtu aliye na USDt ataamua ubadilishanaji tokeni zake kwa dola za Marekani, akiba inayoshikiliwa na Tether inapaswa kutosha kufidia mahitaji na kuzuia hasara katika thamani ya USDt.
 
 Sasa, ni muhimu kuzingatia kwamba sio stablecoins zote zinaundwa sawa. Baadhi, kwa mtazamo wa utendakazi, hufanya kazi kwa njia tofauti, ilhali wengine wanaweza kuwa na viwango tofauti vya udhamini au ugatuaji, jambo ambalo linaweza kuathiri uthabiti na kutegemewa kwao kama hifadhi ya thamani. Bila kujali, wote wanajaribu kufikia matokeo sawa: bei imara.
 
@@ -1081,17 +1081,17 @@ Kama vile sarafu za sarafu zinazoungwa mkono na fiat, stablecoins zinazoungwa mk
 
 Hata hivyo, tofauti na sarafu za sarafu za fiat-backed stablecoins, ambazo zinategemea sarafu zinazotolewa na serikali kama msaada wao, sarafu za sarafu zinazoungwa mkono na bidhaa hutumia mali kama vile madini ya thamani, hisa, au hata mali isiyohamishika.
 
-Kwa upande wa stablecoin inayoungwa mkono na bidhaa, mtoaji, kwa kawaida kwa ushirikiano na taasisi ya fedha, angeweza kupata mali halisi, akiziweka kama akiba huku akitoa stablecoins zinazolingana na thamani ya mali hizi. Mmiliki wa stablecoin basi anaweza kufanya biashara ya ishara zao bila kuhitaji kushughulikia mali ya msingi au, katika hali nyingine, Exchange tokeni zao kwa bidhaa halisi ikiwa inahitajika.
+Kwa upande wa stablecoin inayoungwa mkono na bidhaa, mtoaji, kwa kawaida kwa ushirikiano na taasisi ya fedha, angeweza kupata mali halisi, akiziweka kama akiba huku akitoa stablecoins zinazolingana na thamani ya mali hizi. Mmiliki wa stablecoin basi anaweza kufanya biashara ya ishara zao bila kuhitaji kushughulikia mali ya msingi au, katika hali nyingine, ubadilishanaji wa tokeni zao kwa bidhaa halisi ikiwa inahitajika.
 
 [Tether Gold](https://gold.tether.to/) (XAUt) ni mfano wa sarafu ya stable inayoungwa mkono na bidhaa ambapo Tether hushikilia wakia moja ya dhahabu kwa kila tokeni inayotolewa. Hii inahakikisha bei yake inasonga kwa usawa na bei ya bidhaa ya msingi, katika hali hii… dhahabu.
 
 Kinachovutia kutambua kuhusu XAUt ni kwamba wamiliki wa tokeni wanaweza kufuatilia umiliki wa dhahabu wa kampuni ili kuhakikisha uwazi, na kupunguza utovu wowote wa nidhamu. Zaidi ya hayo, wanaweza Redeem tokeni zao za dhahabu wakati wowote, kutoa usalama wa ziada na kubadilika.
 
-Kwa kuzingatia hili, katika Exchange kwa ongezeko la hatari ya wenzao, XAUt inatoa manufaa kadhaa juu ya dhahabu halisi.
+Kwa kuzingatia hili, katika ubadilishanaji kwa ongezeko la hatari ya wenzao, XAUt inatoa manufaa kadhaa juu ya dhahabu halisi.
 
 Kwanza, XAUt hutoa njia rahisi zaidi na inayoweza kufikiwa ya kuwekeza katika dhahabu, kwa kuwa ni ya dijitali na inaweza kuuzwa kwa urahisi na kuhifadhiwa katika pochi za kidijitali. Hii inaondoa hitaji la uhifadhi wa kimwili na gharama za usafiri zinazohusiana na dhahabu halisi.
 
-Pili, inaruhusu sehemu ya Ownership, na kurahisisha wawekezaji kununua kiasi kidogo cha dhahabu.
+Pili, inaruhusu sehemu ya Umiliki, na kurahisisha wawekezaji kununua kiasi kidogo cha dhahabu.
 
 **Kwa nini mtu anaweza kutaka hii?** Katika ulimwengu wa kimwili, kununua aunzi nzima ya dhahabu kwa \$1900 itakuwa vigumu kwa wengi. Lakini 1/1000 ya wakia moja ya dhahabu sasa inaweza kufikiwa kwa kugawanya ishara. Katika ulimwengu wa kidijitali, dai la aina fulani ya dhahabu ya Dust linaweza kufikiwa—jambo lisilowezekana katika ulimwengu wa kimwili.
 
@@ -1105,23 +1105,23 @@ Hebu sasa tuangalie aina ya tatu ya stablecoin...
 
 Stablecoin ya algoriti ni aina ya mwisho ya stablecoin tutakayojadili na, kama zile zingine, imeundwa ili kudumisha thamani thabiti.
 
-Tofauti na sarafu zingine za sarafu zinazoungwa mkono na mali halisi, sarafu za algorithmic stablecoins hutumia fomula za hisabati au algoriti-mara nyingi kwa kushirikiana na baadhi ya mali-kudhibiti Supply yao kuhusiana na mahitaji ya kudumisha utulivu wa bei.
+Tofauti na sarafu zingine za sarafu zinazoungwa mkono na mali halisi, sarafu za algorithmic stablecoins hutumia fomula za hisabati au algoriti-mara nyingi kwa kushirikiana na baadhi ya mali-kudhibiti usambazaji wao kuhusiana na mahitaji ya kudumisha utulivu wa bei.
 
-Kwa wale wasiofahamu neno algorithm, unaweza kufikiria algoriti kama seti ya sheria zinazopaswa kufuatwa. Hii inaweza kuonekana kuwa ya kutatanisha, kwa hivyo, hebu tuangalie aina moja ya utaratibu wa uthabiti wa algorithmic, inayoitwa njia ya kurejesha tena, kama mfano.
+Kwa wale wasiofahamu neno algorithm, unaweza kufikiria algoriti kama seti ya sheria zinazopaswa kufuatwa. Hii inaweza kuonekana kuwa ya kutatanisha, kwa hivyo, hebu tuangalie aina moja ya utaratibu wa uthabiti wa algorithmic, inayoitwa njia ya kurejesha tena, kwa mfano.
 
-Wacha tuseme tunatoa stablecoin mpya ya algoriti inayoitwa AlgoCoin ambayo hutumia njia ya kuweka upya ili kuhakikisha bei ya \$1. Katika hali kama hiyo, AlgoCoin ingerekebisha kiotomatiki Supply ya tokeni ili kudumisha bei thabiti. Hili litafikiwa kwa kuongeza au kupunguza Supply ya tokeni kulingana na mabadiliko ya bei ya tokeni.
+Wacha tuseme tunatoa stablecoin mpya ya algoriti inayoitwa AlgoCoin ambayo hutumia njia ya kuweka upya ili kuhakikisha bei ya \$1. Katika hali kama hiyo, AlgoCoin ingerekebisha kiotomatiki usambazaji wa tokeni ili kudumisha bei thabiti. Hili litafikiwa kwa kuongeza au kupunguza usambazaji wa tokeni kulingana na mabadiliko ya bei ya tokeni.
 
-Ikiwa bei ya AlgoCoin ilikuwa juu ya $ 1, algorithm ingeongeza Supply ya ishara, kwa ufanisi kupunguza bei ya kila ishara. Kinyume chake, ikiwa bei ya AlgoCoin ilikuwa chini ya $ 1, itifaki inaweza kwa namna fulani kupunguza Supply ya ishara ili kuongeza bei ya kila ishara.
+Ikiwa bei ya AlgoCoin ilikuwa juu ya $ 1, algorithm ingeongeza usambazaji wa ishara, kwa ufanisi kupunguza bei ya kila ishara. Kinyume chake, ikiwa bei ya AlgoCoin ilikuwa chini ya $ 1, itifaki inaweza kwa namna fulani kupunguza usambazaji wa ishara ili kuongeza bei ya kila ishara.
 
 Njia hii ingehakikisha kuwa bei ya AlgoCoin inabaki kuwa thabiti kwa wakati huku ikiruhusu kushuka kwa mahitaji ya soko.
 
-Sasa, ni muhimu kutambua kwamba kupunguza mzunguko wa Supply wa ishara, kwa mfano, kwa kununua moja kwa moja kwa bei ya soko au kwa kuharibu baadhi ya Supply na ada au gharama za kuhifadhi, yote bila kuumiza matumizi yake na hivyo mahitaji yake, si rahisi kama inaweza kuonekana. Wakati stablecoins za algorithmic zinategemea kanuni changamano kudumisha uthabiti wa bei zao, hii huwafanya kukabiliwa na udhaifu wa kiufundi na kifedha. Ambayo, ukifuata nafasi, hutumiwa mara kwa mara.
+Sasa, ni muhimu kutambua kwamba kupunguza mzunguko wa Usambazaji wa ishara, kwa mfano, kwa kununua moja kwa moja kwa bei ya soko au kwa kuharibu baadhi ya usambazaji na ada au gharama za kuhifadhi, yote bila kuumiza matumizi yake na hivyo mahitaji yake, si rahisi kama inaweza kuonekana. Wakati stablecoins za algorithmic zinategemea kanuni changamano kudumisha uthabiti wa bei zao, hii huwafanya kukabiliwa na udhaifu wa kiufundi na kifedha. Ambao, ukifuata nafasi, hutumiwa mara kwa mara.
 
 Mnamo Mei 2022, baadhi ya wafanyabiashara walitumia uwezekano wa kuathiriwa katika TerraUSD (UST), mojawapo ya sarafu kuu za algoriti. Kwa hivyo, thamani ya UST ilishuka kutoka \$18.7 bilioni hadi chini ya \$100 milioni ndani ya mwezi mmoja, ikiwakilisha kushuka kwa kiwango cha kushangaza [99.5%](https://www.coingecko.com/en/coins/terraclassicusd).
 
 Kwa kuzingatia hili, ingawa sarafu za algorithmic stablecoins zimepata uangalizi kwa uwezo wao wa kubadilisha jinsi tunavyofikiri kuhusu thamani thabiti katika ulimwengu wa kidijitali, ni muhimu kutambua kwamba bado ni dhana mpya na zimekuwa zikikabiliwa na hitilafu na udhaifu. Kwa kuwa haziungwi mkono na mali halisi na hutegemea sana wasanidi programu na usimbaji, na pia majaribio maridadi ya uhandisi wa kifedha, tunapendekeza kuwa waangalifu na kutafiti kwa kina kabla ya kutumia sarafu zozote za algoriti.
 
-Kwa kumalizia, stablecoins hutoa daraja kati ya ulimwengu wa jadi na Bitcoin, kuwezesha biashara tofauti kati ya uhuru na vitendo. Ingawa kuna aina tatu kuu za sarafu za sarafu - zile zinazoungwa mkono na sarafu ya fiat, madini ya thamani, au algoriti - sarafu za sarafu zinazoungwa mkono na fiat ndizo maarufu zaidi.
+Kwa kumalizia, stablecoins hutoa daraja kati ya ulimwengu wa jadi na Bitcoin, kuwezesha biashara tofauti kati ya uhuru na vitendo. Ingawa kuna aina tatu kuu za sarafu za sarafu - zile zinazoungwa mkono na sarafu ya serikali, madini ya thamani, au algoriti - sarafu za sarafu zinazoungwa mkono na fiat ndizo maarufu zaidi.
 
 Ingawa stablecoins mara nyingi huchukuliwa kuwa salama kutokana na asili yao "imara", ni muhimu kukumbuka kuwa hazina hatari kabisa. Kwa kuwa stablecoins hutegemea watoaji wa kati, yaani, Tether, na taasisi za fedha, kuna uwezekano wa kupoteza. Ili kupunguza hatari hizi, ni muhimu kufanya utafiti wa kina wa sarafu tofauti kabla ya kuwekeza. Kwa kufanya hivyo, unaweza kufanya maamuzi sahihi na kupunguza uwezekano wa hasara zisizotarajiwa.
 
@@ -1155,11 +1155,11 @@ Hebu fikiria kwamba ulizaliwa na kukulia huko Tonga. Lakini kwa kadiri unavyoipe
 
 Ingawa hali hii inaweza kuonekana kuwa isiyowezekana, kwa kweli, ni ukweli kwa mabilioni ya watu ulimwenguni kote, haswa wale wa Tonga. Kufikia 2021, pesa zinazotumwa kutoka nje—kitendo cha kutuma pesa kwa wapendwa wako ili kupata usaidizi—zilisababisha hali ya kushangaza. [45.5%](https://www.theglobaleconomy.com/Tonga/remittances_percent_GDP/#:~:text=Remittances%20as%20percent%20of%20GDP&text=The%20wastani%20value%20kwa%20Tonga,171%20%20%20%20Tonga%20%20Tonga%20% Pato la Taifa (GDP).
 
-Pengine unajiuliza: Tatizo ni nini hapa?
+Pengine unajiuliza: Tatizo ni lipi hapa?
 
 Kutuma pesa ng'ambo kupitia huduma ya kuhamisha pesa kama vile Western Union si bure. Inagharimu pesa, na sio kidogo tu, kiasi kikubwa.
 
-Kutuma \$100 za Marekani kurudi Tonga kuna gharama ya [\$12.61](https://www.westernunion.com/content/dam/wu/EU/EN/feeTableRetailEN-ES.PDF) pamoja na hasara ya ziada ya \$8.60 kutokana na kiwango kisichofaa cha Exchange. Hii ina maana zaidi ya 21% ya jumla ya kiasi kinachotumwa huenda kwa Western Union, shirika la kimataifa. Matokeo yake, kiasi kikubwa ambacho kingeweza kuwa mikononi mwa familia zinazostahili za Kitonga kinaishia kwenye mifuko ya mtoa huduma wa uhawilishaji fedha.
+Kutuma \$100 za Marekani kurudi Tonga kuna gharama ya [\$12.61](https://www.westernunion.com/content/dam/wu/EU/EN/feeTableRetailEN-ES.PDF) pamoja na hasara ya ziada ya \$8.60 kutokana na kiwango kisichofaa cha Ubadilishanaji. Hii ina maana zaidi ya 21% ya jumla ya kiasi kinachotumwa huenda kwa Western Union, shirika la kimataifa. Matokeo yake, kiasi kikubwa ambacho kingeweza kuwa mikononi mwa familia zinazostahili za Kitonga kinaishia kwenye mifuko ya mtoa huduma wa uhawilishaji fedha.
 
 Je, unaweza kufikiria faida za kuongeza 21% kwenye mapato yako?
 
@@ -1170,10 +1170,10 @@ Na kama ulifikiri Tonga ilikuwa peke yake katika hili, fikiria tena.
 Hapa kuna sampuli ya [charges] za Western Union(https://www.westernunion.com/content/dam/wu/EU/EN/feeTableRetailEN-ES.PDF) kwa kutuma \$100 ya dola za Marekani kwa baadhi ya mataifa mashuhuri:
 
 
-- Uchina:** \ ada ya $21.21 + \$2.60 Exchange ya kiwango cha hasara (hasara 23.81%)
-- Kanada, Marekani, Meksiko:** \ ada ya $16.86 + \$1.20 Exchange hasara ya kiwango (hasara 18.06%)
-- Uingereza, Albania, Bosnia, Serbia, Slovenia:** \ ada ya $17.92 + \$3.10 Exchange hasara ya kiwango (hasara 21.02%)
-- Oceania na Asia ya Kusini-mashariki:** \ ada ya $12.61 + \$8.60 Exchange hasara ya kiwango (hasara 21.21%)
+- **Uchina:** \ ada ya $21.21 + \$2.60 ubadilishanaji ya kiwango cha hasara (hasara 23.81%)
+- **Kanada, Marekani, Meksiko:** \ ada ya $16.86 + \$1.20 ubadilishanaji hasara ya kiwango (hasara 18.06%)
+- **Uingereza, Albania, Bosnia, Serbia, Slovenia:** \ ada ya $17.92 + \$3.10 Ubadilishanaji hasara ya kiwango (hasara 21.02%)
+- **Oceania na Asia ya Kusini-mashariki:** \ ada ya $12.61 + \$8.60 ubalishanaji hasara ya kiwango (hasara 21.21%)
 
 Hiki ni kiasi kikubwa cha pesa ambacho sasa kiko mikononi mwa mashirika makubwa ya Marekani. Na hapa ndipo USDt inapokuja, kwani hutoa suluhisho kwa suala la ada za juu za kutuma pesa.
 
@@ -1201,11 +1201,11 @@ Kwa mara nyingine tena, hapa ndipo matoleo ya stablecoin ya Tether yanaweza kule
 
 Kwa vile sarafu zao za sarafu zimeainishwa kwenye thamani ya mali ya msingi, kama vile dola ya Marekani au dhahabu, bei yake ni tulivu ikilinganishwa na sarafu nyinginezo zinazokumbana na mfumuko wa bei. Kwa hivyo, wanatoa njia mbadala inayofaa kwa watu wanaoishi katika nchi zilizo na sarafu zisizo thabiti. Huwapa watu hawa njia ya kuhamisha pesa zao hadi katika sarafu ambayo haiko chini ya viwango sawa vya mfumuko wa bei kama sarafu ya nchi yao. Hii inaweza kuwasaidia kudumisha thamani ya akiba zao na kujilinda kutokana na mmomonyoko wa uwezo wa kununua unaosababishwa na mfumuko wa bei.
 
-Hata hivyo, hili linazua swali: Vipi kuhusu wakati sarafu kama Marekani zinakabiliwa na mfumuko wa bei?
+Hata hivyo, hili linazua swali: Vipi kuhusu wakati sarafu kama Marekani zinazokabiliwa na mfumuko wa bei?
 
 Pamoja na USDt inayotegemewa na USD, Tether inatoa XAUt—inayoungwa mkono na dhahabu—inayotoa njia mbadala thabiti zaidi kwa watu wanaotaka kuepuka viwango vya juu vya mfumuko wa bei.
 
-Dhahabu imekuwa hifadhi inayoaminika ya thamani kwa karne nyingi, kutokana na uhaba wake na uthabiti wa bei. Hata hivyo, hadi hivi karibuni, haikuwezekana kutumia dhahabu kama njia ya malipo ya digital. XAUt, inayoungwa mkono na dhahabu, hutatua tatizo hili kwa kutoa njia ya kufanya shughuli kwa dhahabu bila hitaji la Ownership ya kimwili. Kwa hivyo, watu wanaweza kulinda uwezo wao wa kununua bila kujali kama ni sarafu yao au USD inakumbwa na mfumuko wa bei.
+Dhahabu imekuwa hifadhi inayoaminika ya thamani kwa karne nyingi, kutokana na uhaba wake na uthabiti wa bei. Hata hivyo, hadi hivi karibuni, haikuwezekana kutumia dhahabu kama njia ya malipo ya digitali. XAUt, inayoungwa mkono na dhahabu, hutatua tatizo hili kwa kutoa njia ya kufanya shughuli kwa dhahabu bila hitaji la Umiliki wa kimwili. Kwa hivyo, watu wanaweza kulinda uwezo wao wa kununua bila kujali kama ni sarafu yao au USD inakumbwa na mfumuko wa bei.
 
 Unaweza kusema: Lakini vipi kuhusu e-dhahabu katika miaka ya 90?
 
@@ -1213,7 +1213,7 @@ Kwanza, miundo ya uendeshaji na hifadhi ya eGold iliwekwa kati sana na ilikosa u
 
 Pili, eGold ilifanya kazi yake ya kwanza katika kipindi ambacho soko la cryptocurrency lilikuwa chini ya maendeleo. Kwa hivyo, ilipambana na kufikia kutambuliwa kote. Changamoto hizi zilizounganishwa zilisababisha eGold kukumbana na vikwazo vikubwa vya udhibiti na matatizo ya kisheria, na hatimaye kusababisha kuanguka kwake.
 
-Kinyume chake, bidhaa kama XAUt tangu wakati huo zimevuka vizuizi hivi, zikinufaika na mifumo iliyoimarishwa ya udhibiti wa sarafu-fiche, hekima iliyopatikana kutokana na kushindwa huko nyuma, na Commitment kwa kuongeza uwazi.
+Kinyume chake, bidhaa kama XAUt tangu wakati huo zimevuka vizuizi hivi, zikinufaika na mifumo iliyoimarishwa ya udhibiti wa sarafu-fiche, hekima iliyopatikana kutokana na kushindwa huko nyuma, na kujitolea kwa kuongeza uwazi.
 
 Hii hufanya sarafu za sarafu za dhahabu ziwe chaguo salama na la kutegemewa kwa wale wanaotaka kulinda utajiri wao kutokana na mfumuko wa bei au wakati wa kutokuwa na uhakika wa kiuchumi.
 
@@ -1225,9 +1225,9 @@ Kwa kuzingatia kila kitu ambacho tumegusia kufikia sasa, ninahisi unaanza kuelew
 
 Matoleo ya stablecoin ya Tether yameleta mapinduzi makubwa katika ulimwengu wa fedha kwa kutoa kiwango cha utumizi ambacho sarafu za jadi haziwezi kulingana.
 
-Ninamaanisha nini kwa kuongezeka kwa utumiaji? Hebu tuzame kwenye baadhi ya manufaa ya msingi na tuchunguze ni kwa nini utumiaji wao wa sarafu za stablecoins unakua kwa kasi.
+Ninamaanisha nini kwa kuongezeka kwa matumizi? Hebu tuzame kwenye baadhi ya manufaa ya msingi na tuchunguze ni kwa nini utumiaji wao wa sarafu za stablecoins unakua kwa kasi.
 
-Kwanza, **kujitunza** huturuhusu kuchukua Ownership ya pesa zetu bila kutegemea huduma za benki kuu. Hii inamaanisha kuwa tuna udhibiti kamili juu ya pesa zetu na tunaweza kuzifikia wakati wowote tunapohitaji, bila hitaji la mtu wa kati. Hakuna tena kungoja benki yetu ifute muamala au kuwa na wasiwasi kuhusu akaunti yetu kufungiwa bila sababu— kwa stablecoins, sisi tunasimamia. Hiyo ilisema, hatujaondoa kabisa uangalizi wa serikali kuu kwa kujitunza. Stablecoins nyingi, ikiwa ni pamoja na Tether's, hutolewa na makampuni ya serikali kuu yaliyojengwa juu ya minyororo ya kati kama vile Ethereum na Tron. Kwa hivyo, tunaweka kiwango cha asili cha uaminifu katika kampuni na mifumo hii.
+Kwanza, **kujitunza** huturuhusu kuchukua umiliki wa pesa zetu bila kutegemea huduma za benki kuu. Hii inamaanisha kuwa tuna udhibiti kamili juu ya pesa zetu na tunaweza kuzifikia wakati wowote tunapohitaji, bila hitaji la mtu wa kati. Hakuna tena kungoja benki yetu ifute muamala au kuwa na wasiwasi kuhusu akaunti yetu kufungiwa bila sababu— kwa stablecoins, sisi tunasimamia. Hiyo ilisema, hatujaondoa kabisa uangalizi wa serikali kuu kwa kujitunza. Stablecoins nyingi, ikiwa ni pamoja na Tether's, hutolewa na makampuni ya serikali kuu yaliyojengwa juu ya minyororo ya kati kama vile Ethereum na Tron. Kwa hivyo, tunaweka kiwango cha asili cha uaminifu katika kampuni na mifumo hii.
 
 Pili, kwa kuzingatia kwamba sarafu za sarafu, kama vile USDt na XAUt, ni **asili ya dijitali**, tunaweza kufanya miamala kidijitali, 24/7. Hakuna tena wasiwasi kuhusu saa za kufungua benki au ucheleweshaji unaosababishwa na maeneo tofauti ya saa— kwa stablecoins, tunaweza kufanya miamala wakati wowote inapotufaa, kutoka popote tulipo duniani.
 
@@ -1235,17 +1235,17 @@ Ada zilizopunguzwa, kama ilivyojadiliwa hapo juu, ni faida nyingine kuu ya stabl
 
 Hatimaye, stablecoins hutoa **usimamizi uliopunguzwa**, ambayo ina maana kwamba tuna uhuru zaidi wa kuelekeza pesa zetu pale tunapoona inafaa. Tofauti na sarafu za kitamaduni, ambazo ziko chini ya kila aina ya kanuni na vikwazo, stablecoins ni kama pesa taslimu, ikimaanisha kuwa wapatanishi wachache sana wanahusika katika shughuli. Hii inatupa uhuru zaidi wa kusogeza pesa zetu kwa urahisi zaidi bila kuwa na wasiwasi kuhusu uangalizi wa serikali au mkandarasi.
 
-Kwa ujumla, sarafu mbalimbali za stablecoins za Tether hutoa kiwango cha kubadilika na uhuru ambacho sarafu za jadi za fiat haziwezi kufanana. Kwa kujitunza, miamala ya kidijitali, ada zilizopunguzwa, na uangalizi uliopunguzwa, haishangazi kwamba watu wengi zaidi wanageukia sarafu zao kama njia salama na ya kutegemewa ya kufanya miamala na kuhifadhi mali.
+Kwa ujumla, sarafu mbalimbali za stablecoins za Tether hutoa kiwango cha kubadilika na uhuru ambacho sarafu za jadi za serikali haziwezi kufanana. Kwa kujitunza, miamala ya kidijitali, ada zilizopunguzwa, na uangalizi uliopunguzwa, haishangazi kwamba watu wengi zaidi wanageukia sarafu zao kama njia salama na ya kutegemewa ya kufanya miamala na kuhifadhi mali.
 
 #### Kuongezeka kwa Uasili wa Bitcoin
 
 Mwisho kabisa, Tether ina jukumu muhimu katika kuongeza kupitishwa kwa Bitcoin kwa kufanya kazi kama daraja kati ya benki za kitamaduni na reli zilizogatuliwa, Trustless na reli zisizo na ruhusa za Bitcoin.
 
-Kabla ya ujio wa stablecoins, kama USDt, kufanya miamala ndani na nje ya Bitcoin ilikuwa mchakato mgumu na hatari. Ilitubidi kupata mtu aliye tayari kubadilisha Bitcoin yake kwa pesa zetu au kutafuta benki ambayo ni rafiki wa Bitcoin au Exchange. Hii ilifanya iwe vigumu kununua na kuuza Bitcoin, hasa ikiwa tuliishi katika eneo ambalo lilikuwa chuki dhidi ya pesa hizi za ajabu za mtandao. Na hata kama tungepata njia ya kuingia na kutoka, ilitubidi kutegemea zaidi sekta ya benki ya kitamaduni na kuamini kwamba hawatafunga akaunti yetu au kuathiri uwezo wetu wa kununua au kuuza Bitcoin.
+Kabla ya ujio wa stablecoins, kama USDt, kufanya miamala ndani na nje ya Bitcoin ilikuwa mchakato mgumu na hatari. Ilitubidi kupata mtu aliye tayari kubadilisha Bitcoin yake kwa pesa zetu au kutafuta benki ambayo ni rafiki wa Bitcoin au ubadilishanaji. Hii ilifanya iwe vigumu kununua na kuuza Bitcoin, hasa ikiwa tuliishi katika eneo ambalo lilikuwa chuki dhidi ya pesa hizi za ajabu za mtandao. Na hata kama tungepata njia ya kuingia na kutoka, ilitubidi kutegemea zaidi sekta ya benki ya kitamaduni na kuamini kwamba hawatafunga akaunti yetu au kuathiri uwezo wetu wa kununua au kuuza Bitcoin.
 
-Pamoja na kupanda kwa stablecoins mbalimbali za Tether, hali imebadilika. USDt na XAUt sasa zinatoa njia ya kidijitali inayotegemewa ya Exchange inayounganisha reli za jadi za benki kwa reli zilizogatuliwa na Trustless za Bitcoin. Kwa kutumia sarafu hizi za sarafu, watu binafsi sasa wanaweza kufanya miamala ya kuingia na kutoka kwa Bitcoin kwa urahisi na bila kulazimika kurudi kwenye njia za kawaida za benki. Hii imesababisha kuongezeka kwa matumizi ya Bitcoin, kwani watu sasa wanaweza kufanya miamala ndani na nje bila kuwa na wasiwasi kuhusu vizuizi vilivyowekwa na mfumo wa jadi wa kifedha.
+Pamoja na kupanda kwa stablecoins mbalimbali za Tether, hali imebadilika. USDt na XAUt sasa zinatoa njia ya kidijitali inayotegemewa ya ubadilishanaji inayounganisha reli za jadi za benki kwa reli zilizogatuliwa na Trustless za Bitcoin. Kwa kutumia sarafu hizi za sarafu, watu binafsi sasa wanaweza kufanya miamala ya kuingia na kutoka kwa Bitcoin kwa urahisi na bila kulazimika kurudi kwenye njia za kawaida za benki. Hii imesababisha kuongezeka kwa matumizi ya Bitcoin, kwani watu sasa wanaweza kufanya miamala ndani na nje bila kuwa na wasiwasi kuhusu vizuizi vilivyowekwa na mfumo wa jadi wa kifedha.
 
-Kwa mfano, tuseme mtumiaji anataka kununua Bitcoin. Katika kesi hiyo, wanaweza kununua tu USDt kwenye Exchange na kisha kutumia stablecoin kununua Bitcoin moja kwa moja, kuondoa hitaji la kuhamisha fedha kupitia benki. Vinginevyo, ikiwa wanahitaji kuuza Bitcoin, wanaweza Exchange kwa USDt bila kulazimika kuirudisha kwa sarafu yao ya ndani.
+Kwa mfano, tuseme mtumiaji anataka kununua Bitcoin. Katika kesi hiyo, wanaweza kununua tu USDt kwenye ubadilishanaji na kisha kutumia stablecoin kununua Bitcoin moja kwa moja, kuondoa hitaji la kuhamisha fedha kupitia benki. Vinginevyo, ikiwa wanahitaji kuuza Bitcoin, wanaweza kubadilishana kwa USDt bila kulazimika kuirudisha kwa sarafu yao ya ndani.
 
 Kwa kuzingatia hili, stablecoins zinabadilisha jinsi tunavyofanya kazi na mali huru, kama vile Bitcoin, kwa kutoa daraja lisilo na mshono na rahisi kutumia kati ya benki za kitamaduni na ulimwengu wa kidijitali uliogatuliwa. Uidhinishaji wa stablecoins unavyoendelea kukua, tunaweza kutarajia kuona matumizi makubwa zaidi ya Bitcoin kwani watu wengi zaidi wanatambua kuwa hakuna haja ya kuingia tena katika ulimwengu wa kitamaduni wa benki, kwa kuzingatia utumiaji na asili ya dijiti ya stablecoins.
 
@@ -1315,17 +1315,17 @@ Hili linazua swali: Je, Bitcoin inawapa watu hisia kwamba ni Bubble inayosubiri 
 
 Katika historia, wakati kitu kimepata ongezeko kubwa la bei, pia huwa na mporomoko wa janga, kwani bei hii haiwezi kudumu na mara nyingi huchochewa na uvumi na uchoyo. Kwa hivyo, ni nini hufanya Bitcoin kuwa tofauti?
 
-Kwanza, Bitcoin ina Supply mdogo wa sarafu milioni 21, ambayo ina maana kwamba, tofauti na sarafu ya jadi ya fiat, haiwezi kupunguzwa kwa upanuzi wa fedha. Uhaba huu, pamoja na kuongezeka kwa upitishaji wa kimataifa wa Bitcoin, umesababisha ongezeko thabiti lakini tete la thamani yake kwa wakati. Hii ni tofauti na mali nyingine yoyote, ambapo bei zinapopanda, ndivyo Supply inavyoongezeka. Hii inamaanisha kuwa Supply itazidi mahitaji wakati fulani, na bei italazimika kuporomoka.
+Kwanza, Bitcoin ina usambazaji mdogo wa sarafu milioni 21, ambayo ina maana kwamba, tofauti na sarafu ya jadi ya fiat, haiwezi kupunguzwa kwa upanuzi wa fedha. Uhaba huu, pamoja na kuongezeka kwa upitishaji wa kimataifa wa Bitcoin, umesababisha ongezeko thabiti lakini tete la thamani yake kwa wakati. Hii ni tofauti na mali nyingine yoyote, ambapo bei zinapopanda, ndivyo usambazaji unavyoongezeka. Hii inamaanisha kuwa Usambazaji utazidi mahitaji wakati fulani, na bei italazimika kuporomoka.
 
 Pili, iliyojengwa katika msimbo wa Bitcoin ni kipengele kinachoitwa Halving. Takriban kila baada ya miaka minne, tukio hili hupunguza tuzo ya Mining kwa nusu, na kuathiri mapato ya wachimbaji. Isipokuwa bei ya Bitcoin inaongezeka maradufu, wachimbaji hupata upungufu mkubwa wa mapato yao. Kipengele hiki kimesababisha Bitcoin kuainishwa kama teknolojia ya "nambari ya kupanda", kwani kipengele hiki hutoa shinikizo la juu kwa bei kila baada ya miaka minne ili kuhakikisha wachimbaji wanapata fidia ya kutosha kwa ajili ya kupata Blockchain. Kwa hivyo, tunashuhudia mabadiliko haya ya bei tete takriban kila baada ya miaka minne.
 
 _**Dokezo la kando:** Ikiwa umesoma masuala ya fedha, huenda umesikia kuhusu "nadharia bora ya soko," iliyojengwa kwa dhana kwamba masoko ni bora kabisa kutokana na tabia ya kimantiki. Kwa hivyo, inasisitiza kwamba bei za mali katika masoko ya fedha ziakisi taarifa zote zinazopatikana, na hivyo kufanya isiwezekane kupata mapato ya juu ya wastani kwa kuchanganua data ya kihistoria au taarifa nyingine za soko._
 
-_Hata hivyo, nadharia hii inasahau kuwa masoko yanaundwa na watu binafsi, na asili ya mwanadamu kwa asili haina mantiki na inasukumwa na mihemko. Kutokuwa na akili huku kunasababisha upendeleo, tabia ya mifugo, na makosa ya utambuzi, na kusababisha bei kupotoka kutoka kwa thamani yao halisi. Kwa mfano, katika muktadha wa matukio ya Bitcoin ya Halving, masoko ya kimantiki yanapaswa kutarajia na kuakisi Supply iliyopunguzwa siku zijazo katika bei ya sasa ya Bitcoin. Hata hivyo, kupanda kwa bei mara kwa mara kunaonyesha kuwa washiriki hawajatoa taarifa kama hizo. Ukosefu huu wa busara umethibitisha kutoa thawabu kubwa za kifedha kwa wagonjwa wa muda mrefu._
+_Hata hivyo, nadharia hii inasahau kuwa masoko yanaundwa na watu binafsi, na asili ya mwanadamu kwa asili haina mantiki na inasukumwa na mihemko. Kutokuwa na akili huku kunasababisha upendeleo, tabia ya mifugo, na makosa ya utambuzi, na kusababisha bei kupotoka kutoka kwa thamani yao halisi. Kwa mfano, katika muktadha wa matukio ya Bitcoin ya Halving, masoko ya kimantiki yanapaswa kutarajia na kuakisi Usambazaji uliopunguzwa siku zijazo katika bei ya sasa ya Bitcoin. Hata hivyo, kupanda kwa bei mara kwa mara kunaonyesha kuwa washiriki hawajatoa taarifa kama hizo. Ukosefu huu wa busara umethibitisha kutoa thawabu kubwa za kifedha kwa wagonjwa wa muda mrefu._
 
-Tatu, Bitcoin ina uwezo wa kuleta mapinduzi ya kimataifa ya Exchange. Kwa mara ya kwanza katika historia, tuna mbinu ya kufanya miamala kwa njia ya Trustless, isiyo na ruhusa na ya kugatua. Kama ilivyojadiliwa hapo awali katika kozi hii, hii haina kifani na inatoa faida kubwa kwa nchi zilizoendelea na zinazoendelea sawa.
+Tatu, Bitcoin ina uwezo wa kuleta mapinduzi ya kimataifa ya ubadilishanaji. Kwa mara ya kwanza katika historia, tuna mbinu ya kufanya miamala kwa njia ya Trustless, isiyo na ruhusa na ya kugatua. Kama ilivyojadiliwa hapo awali katika kozi hii, hii haina kifani na inatoa faida kubwa kwa nchi zilizoendelea na zinazoendelea sawa.
 
-Hatimaye, thamani ya jumla ya soko ya Bitcoin iko chini ya \ $550 bilioni dola za Kimarekani. Hii inaweza kuonekana kama kiasi cha astronomia hadi utambue kwamba dhahabu, kulingana na hesabu ya mtu, ni popote kutoka \ $ 10 trilioni hadi \ $ 20 trilioni. Hiyo inamaanisha kuwa ingawa Bitcoin inatoa faida nyingi sawa na dhahabu, inafanya biashara kwa 1/40 ya thamani. Na tunapoangalia mali nyingine, tofauti hiyo ni kubwa zaidi.
+Hatimaye, thamani ya jumla ya soko la Bitcoin iko chini ya \ $550 bilioni dola za Kimarekani. Hii inaweza kuonekana kama kiasi cha astronomia hadi utambue kwamba dhahabu, kulingana na hesabu ya mtu, ni popote kutoka \ $ 10 trilioni hadi \ $ 20 trilioni. Hiyo inamaanisha kuwa ingawa Bitcoin inatoa faida nyingi sawa na dhahabu, inafanya biashara kwa 1/40 ya thamani. Na tunapoangalia mali nyingine, tofauti hiyo ni kubwa zaidi.
 
 
 - Soko la hisa la kimataifa: [\$124.4 trilioni](https://www.sifma.org/resources/research/fact-book/)
@@ -1349,9 +1349,9 @@ Pili, tete ni jambo la asili linapokuja suala la kupitishwa kwa teknolojia. Waka
 
 Zaidi ya hayo, tete ya Bitcoin sio ya kipekee. Masoko ya kiasili ya fedha pia hupata mabadiliko ya bei ya mali, kama vile soko la hisa, soko la bidhaa, na hata sarafu. Kwa kweli, tete ya Bitcoin ina ubishani kidogo kuliko mali nyingine nyingi.
 
-Hatimaye, hoja kwamba Bitcoin ina tete kupindukia inashindwa kuzingatia kipengele muhimu: hesabu yake kwa sasa inahusishwa na sarafu ya fiat. Mabadiliko yaliyoonekana katika thamani ya Bitcoin yanatokana kimsingi na ukosefu wa uthabiti wa sehemu ya msingi ya kipimo, kama vile dola au sarafu nyinginezo. Kama Lawrence White anavyodokeza ipasavyo katika kitabu chake [Better Money](https://amzn.to/3NZnCTm), mabadiliko haya ya bei kwa kiasi kikubwa yanatokana na watu wanaotafuta kuzuia mfumuko wa bei. Kwa njia tofauti, katika mfumo wetu wa hifadhi ya sehemu inayotawaliwa na benki kuu, wale walio katika nafasi za madaraka wana uwezo wa kubadilisha Supply ya pesa katika mzunguko. Matokeo yake, wanapotekeleza sera za fedha, kama vile kupunguza kiasi, bei ya mali kupanda, na inapobana, bei hushuka. Athari hii ya whipsaw ni matokeo ya mfumo mkuu wa fedha, na kusababisha kutokuwa na uhakika na kutokuwa na utulivu katika masoko ya fedha. Kwa hivyo, kutathmini hali tete ya Bitcoin kulingana na tabia yake chini ya kiwango cha fiat ni ya kupotosha. Kimsingi, inaangazia tu tete ya asili ya sarafu ya fiat.
+Hatimaye, hoja kwamba Bitcoin ina tete kupindukia inashindwa kuzingatia kipengele muhimu: hesabu yake kwa sasa inahusishwa na sarafu ya serikali. Mabadiliko yaliyoonekana katika thamani ya Bitcoin yanatokana kimsingi na ukosefu wa uthabiti wa sehemu ya msingi ya kipimo, kama vile dola au sarafu nyinginezo. Kama Lawrence White anavyodokeza ipasavyo katika kitabu chake [Better Money](https://amzn.to/3NZnCTm), mabadiliko haya ya bei kwa kiasi kikubwa yanatokana na watu wanaotafuta kuzuia mfumuko wa bei. Kwa njia tofauti, katika mfumo wetu wa hifadhi ya sehemu inayotawaliwa na benki kuu, wale walio katika nafasi za madaraka wana uwezo wa kubadilisha usambazaji wa pesa katika mzunguko. Matokeo yake, wanapotekeleza sera za fedha, kama vile kupunguza kiasi, bei ya mali kupanda, na inapobana, bei hushuka. Athari hii ya whipsaw ni matokeo ya mfumo mkuu wa fedha, na kusababisha kutokuwa na uhakika na kutokuwa na utulivu katika masoko ya fedha. Kwa hivyo, kutathmini hali tete ya Bitcoin kulingana na tabia yake chini ya kiwango cha fiat ni ya kupotosha. Kimsingi, inaangazia tu tete ya asili ya sarafu ya serikali.
 
-Kinyume chake, Bitcoin inafanya kazi kwenye mtandao uliogatuliwa, ambapo Supply imewekwa na haiwezi kubadilishwa na mamlaka kuu. Ingawa hii inamaanisha kunaweza kuwa na tete ya muda mfupi, uhaba na kutabirika kwa Bitcoin's Supply kuna uwezekano mkubwa wa kupunguza tete na kuongeza utulivu katika muda mrefu.
+Kinyume chake, Bitcoin inafanya kazi kwenye mtandao uliogatuliwa, ambapo usambazaji umewekwa na hauwezi kubadilishwa na mamlaka kuu. Ingawa hii inamaanisha kunaweza kuwa na tete ya muda mfupi, uhaba na kutabirika kwa Bitcoin's Supply kuna uwezekano mkubwa wa kupunguza tete na kuongeza utulivu katika muda mrefu.
 
 Ili kuelezea hili:
 
@@ -1361,7 +1361,7 @@ Ili kuelezea hili:
 
 3. Utafiti uliochapishwa na Coin Metrics mwaka wa 2020 uligundua kuwa hali tete ya Bitcoin ilipungua kwa kiasi kikubwa katika miaka miwili iliyopita.
 
-Kwa kuzingatia hili, ni muhimu kutazama hali tete ya Bitcoin katika muktadha wa mfumo mpana wa kiuchumi na sio kuupuuza tu kama dosari. Uwezo wa Bitcoin kama hifadhi ya thamani na njia za Exchange haupaswi kupunguzwa kulingana na mabadiliko ya bei ya muda mfupi.
+Kwa kuzingatia hili, ni muhimu kutazama hali tete ya Bitcoin katika muktadha wa mfumo mpana wa kiuchumi na sio kuupuuza tu kama dosari. Uwezo wa Bitcoin kama hifadhi ya thamani na njia za ubadilishanaji haupaswi kupunguzwa kulingana na mabadiliko ya bei ya muda mfupi.
 
 #### Dhana Potofu ya Tatu: Bitcoin haina thamani kwani haiungwi mkono na chochote
 
@@ -1371,11 +1371,11 @@ Thamani ni ya kibinafsi na iko machoni pa mtazamaji. Kitu ni cha thamani kwa sab
 
 Chukua mfano wa sanaa. Mchoro ni turubai na rangi tu, lakini vipande vingine vina thamani ya mamilioni ya dola. Kwa nini? Kwa sababu watu wa kutosha wanawathamini sana. Bila kujali wengine wanafikiri nini, uchoraji hutoa thamani kwa mmiliki, ndiyo sababu waliinunua.
 
-Vile vile kwa Bitcoin. Watu wanaithamini kwa sababu ni sarafu iliyogatuliwa ambayo haidhibitiwi na serikali au benki yoyote. Ni adimu, ikiwa na kikomo cha Supply, na ni salama kutokana na teknolojia iliyo nyuma yake. Huenda baadhi ya watu wasione sifa hizi kama zinazotoa thamani, na hiyo ni sawa. Lakini hiyo haina maana kwamba haina thamani.
+Vile vile kwa Bitcoin. Watu wanaithamini kwa sababu ni sarafu iliyogatuliwa ambayo haidhibitiwi na serikali au benki yoyote. Ni adimu, ikiwa na kikomo cha usambazaji, na ni salama kutokana na teknolojia iliyo nyuma yake. Huenda baadhi ya watu wasione sifa hizi kama zinazotoa thamani, na hiyo ni sawa. Lakini hiyo haina maana kwamba haina thamani.
 
-Bei ni onyesho la kile ambacho watu wako tayari kulipia kitu fulani. Iwapo Bitcoin isingekuwa na thamani yoyote, kwa vile haikuungwa mkono na chochote, basi ingekuwa inauzwa kwa \$0, kwani hakuna mtu ambaye angekuwa tayari kuipatia Exchange pesa zao walizochuma kwa Hard.
+Bei ni onyesho la kile ambacho watu wako tayari kulipia kitu fulani. Iwapo Bitcoin isingekuwa na thamani yoyote, kwa vile haikuungwa mkono na chochote, basi ingekuwa inauzwa kwa \$0, kwani hakuna mtu ambaye angekuwa tayari kuipatia ubadilishanaji wa pesa zao walizochuma kwa ugumu.
 
-Zaidi ya hayo, wazo kwamba sarafu lazima iungwe mkono na kitu cha thamani si sahihi. Fedha za Fiat, kama dola ya Marekani, haziungwi mkono na dhahabu au kitu chochote kinachoonekana. Badala yake, thamani yao inatokana na imani kwa serikali inayowatoa na imani kwamba wanaweza kubadilishana kwa bidhaa na huduma. Kwa upande wa Bitcoin, thamani yake inategemea imani katika teknolojia inayoitegemeza na imani kwamba inaweza kutumika kuhifadhi thamani au bidhaa na huduma za Exchange.
+Zaidi ya hayo, wazo kwamba sarafu lazima iungwe mkono na kitu cha thamani si sahihi. Fedha za serikali, kama dola ya Marekani, haziungwi mkono na dhahabu au kitu chochote kinachoonekana. Badala yake, thamani yao inatokana na imani kwa serikali inayowatoa na imani kwamba wanaweza kubadilishana kwa bidhaa na huduma. Kwa upande wa Bitcoin, thamani yake inategemea imani katika teknolojia inayoitegemeza na imani kwamba inaweza kutumika kuhifadhi thamani au bidhaa na huduma za ubadilishanaji.
 
 Hatimaye, wazo la kwamba kitu lazima kiungwa mkono na kitu kingine cha thamani ili kiwe na thamani ni jina potofu. Thamani ni ya kibinafsi na inategemea uzoefu na imani za watu. Kwa sababu mtu mmoja anaona kitu kisicho na thamani haimaanishi kila mtu anafanya, na kinyume chake.
 
@@ -1393,7 +1393,7 @@ Kwanza, katika ulimwengu wa fedha za siri, kuna wazo hili linaloitwa Blockchain 
 
 Bila kupiga mbizi kwenye magugu, katika ulimwengu wa sarafu-fiche, trilemma hujitokeza wakati sarafu ya siri lazima iamue trajectory na maadili yake. Cryptocurrency inaweza tu kuweka kipaumbele sifa mbili kati ya tatu zilizotajwa hapo juu, na kulazimisha maamuzi magumu na mabadilishano ya biashara kufanywa.
 
-Bitcoin inachagua kutanguliza ugatuaji na usalama badala ya upanuzi. Walakini, uboreshaji huu bado unapatikana. Inafanya hivyo kupitia njia mbadala (Imejadiliwa katika dhana potofu inayofuata). Fedha nyinginezo za siri, hata hivyo, mara nyingi hutanguliza scalability, lakini kwa kufanya hivyo, hutoa sadaka ya ugatuaji, na kuwafanya kuwa katika hatari ya kushambuliwa au kutokuwa tofauti na sarafu ya fiat au usalama.
+Bitcoin inachagua kutanguliza ugatuaji na usalama badala ya upanuzi. Walakini, uboreshaji huu bado unapatikana. Inafanya hivyo kupitia njia mbadala (Imejadiliwa katika dhana potofu inayofuata). Fedha nyinginezo za siri, hata hivyo, mara nyingi hutanguliza scalability, lakini kwa kufanya hivyo, hutoa sadaka ya ugatuaji, na kuwafanya kuwa katika hatari ya kushambuliwa au kutokuwa tofauti na sarafu ya serikali au usalama.
 
 Pili, Bitcoin imejengwa juu ya makubaliano, ambayo ina maana bila kujali wewe ni nani au unaishi wapi duniani, kwa kuendesha kipande cha programu, unaweza kuwa na sauti katika mwelekeo wa Bitcoin. Hii ina maana kwamba jinsi ulimwengu unavyoendelea, Bitcoin inaweza kukabiliana na mabadiliko ya mazingira yake. Hii inaonyeshwa na maboresho mengi ambayo yamefanywa kwa Bitcoin kwa miaka mingi, kama vile SegWit, ambayo iliboresha uboreshaji wake, na Lightning Network, ambayo huwezesha miamala ya haraka na ya bei nafuu.
 
