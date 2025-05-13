@@ -1,4 +1,4 @@
----silvia
+---
 name: Utangulizi wa Bitcoin & Stablecoin
 goal: Mtazamo wa Kina wa Bitcoin, Stablecoins, na Ukuu Unaokuja nazo.
 objectives: 
