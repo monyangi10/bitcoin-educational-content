@@ -153,7 +153,7 @@ tags:
 ![book](assets/20.webp)
 
 
-- Katika folda hii ya `asethi`, unda faili inayoitwa `.gitkeep`:
+- Katika folda hii ya `asethi`, unda faili iitwayo `.gitkeep`:
 
 ![book](assets/21.webp)
 
