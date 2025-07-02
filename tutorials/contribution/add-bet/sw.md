@@ -11,7 +11,7 @@ Dhamira ya PlanB ni kutoa nyenzo kuu za elimu kwenye Bitcoin, katika lugha nying
 Zaidi ya mafunzo na mafunzo, PlanB Network pia inatoa maktaba kubwa ya maudhui mbalimbali ya elimu kwenye Bitcoin, yanayofikiwa na kila mtu, [katika sehemu ya "BET" (_Bitcoin Educational Toolkit_)](https://planb.network/resources/bet). Hifadhidata hii inajumuisha mabango ya elimu, meme, mabango ya ucheshi ya propaganda, michoro ya kiufundi, nembo na zana zingine za watumiaji. Lengo la mpango huu ni kusaidia watu binafsi na jumuiya zinazofundisha Bitcoin duniani kote kwa kuwapa nyenzo muhimu za kuona.
 
 
-Je, unataka kushiriki katika kuimarisha hifadhidata hii, lakini hujui jinsi gani? Mafunzo haya ni kwa ajili yako!
+Je, unataka kushiriki katika kuimarisha hifadhi data hii, lakini hujui jinsi gani? Mafunzo haya ni kwa ajili yako!
 
 
 *Ni muhimu kwamba maudhui yote yaliyounganishwa kwenye tovuti hayana haki au yaheshimu leseni ya faili chanzo. Pia, taswira zote zilizochapishwa kwenye PlanB Network zinapatikana chini ya [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) leseni.*
