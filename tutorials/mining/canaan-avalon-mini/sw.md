@@ -25,7 +25,7 @@ Vifaa hivi vinauzwa kama hita kisaidizi katika hali ya **Avalon Nano 3S (140W)**
 
 https://planb.network/tutorials/mining/hardware/canaan-avalon-nano-3f6ac96e-ea8a-4dee-9b9b-13875824c9a6
 
-Tafadhali kumbuka kuwa tofauti ya bei na hita za jadi za nguvu sawa hazikuruhusu kupata faida ya kifedha katika hali nyingi. Satoshi zinazozalishwa na shughuli za Mining hazitawahi kufidia tofauti hii ya bei, isipokuwa kama unaweza kupata umeme wa bure (ziada) au nafuu sana.
+Tafadhali kumbuka kuwa tofauti ya bei na hita za jadi za nguvu sawa hazikuruhusu kupata faida ya kifedha katika hali nyingi. Satoshi zinazozalishwa na shughuli za uchimbaji hazitawahi kufidia tofauti hii ya bei, isipokuwa kama unaweza kupata umeme wa bure (ziada) au nafuu sana.
 
 
 
@@ -57,7 +57,7 @@ Unapofungua sanduku, maelekezo ya uendeshaji ni moja kwa moja mbele yako, lakini
 
 
 
-Chini ya kuzuia povu ni kifaa, kisha kuondolewa mara moja kutoka kwenye sanduku, kitengo cha nguvu cha Supply.
+Chini ya kuzuia povu ni kifaa, kisha kuondolewa mara moja kutoka kwenye sanduku, kitengo cha nguvu cha usambazaji.
 
 
 
@@ -74,7 +74,7 @@ Chini ya kuzuia povu ni kifaa, kisha kuondolewa mara moja kutoka kwenye sanduku,
 
 
 
-Baada ya kufunguliwa, weka Avalon Mini 3 yako katika eneo lisilo wazi, ikiwezekana, ili kuruhusu joto kuzunguka vizuri. Kisha anza kwa kuingiza moduli ndogo ya mpokeaji wa WIFI kwenye bandari ya USB kwenye sehemu ya chini ya kifaa, kuunganisha nguvu ya Supply na kuhakikisha kuwa kifungo cha nguvu kiko kwenye nafasi ya "1".
+Baada ya kufunguliwa, weka Avalon Mini 3 yako katika eneo lisilo wazi, ikiwezekana, ili kuruhusu joto kuzunguka vizuri. Kisha anza kwa kuingiza moduli ndogo ya mpokeaji wa WIFI kwenye bandari ya USB kwenye sehemu ya chini ya kifaa, kuunganisha nguvu ya usambazaji na kuhakikisha kuwa kifungo cha nguvu kiko kwenye nafasi ya "1".
 
 
 
@@ -137,7 +137,7 @@ Ifuatayo ni jedwali la muhtasari wa maelezo ya jumla ya kiufundi ya Mini 3:
 
 
 
-**Sehemu hii ni ya kawaida kwa vifaa vya Nano 3s na Mini 3, kwani michakato inafanana kabisa **
+**Sehemu hii ni ya kawaida kwa vifaa vya Nano 3s na Mini 3, kwani michakato inafanana kabisa**
 
 
 
@@ -350,7 +350,7 @@ Mara nyingine tena, chujio chini ya kitengo kinaweza kusafishwa na kisafishaji c
 
 
 
-Tumefika mwisho wa mafunzo haya, ambayo yametufundisha jinsi ya kuunganisha Avalon Mini 3 yetu kwenye mtandao wetu wa karibu, jinsi ya kuelekeza Hashrate yetu kwenye mabwawa ya Mining, na jinsi ya kupitia chaguo na mipangilio kwa kutumia programu ya Avalon Family.
+Tumefika mwisho wa mafunzo haya, ambayo yametufundisha jinsi ya kuunganisha Avalon Mini 3 yetu kwenye mtandao wetu wa karibu, jinsi ya kuelekeza Hashrate yetu kwenye mabwawa ya uchimbaji, na jinsi ya kupitia chaguo na mipangilio kwa kutumia programu ya Avalon Family.
 
 
 
