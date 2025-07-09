@@ -38,7 +38,7 @@ feni kwa upande wa juu
 
 
 
-wakati upande wa nyuma tuna: shimo la nguvu, nafasi ya kadi ya SD (ambayo inaweza kuhitajika kwa masasisho yoyote), kitufe kidogo kinachosema `RIPOTI YA IP` ambayo inakuwezesha kujua IP Address ya mini Miner, ambayo Address inahitajika ili kufikia dashibodi ya kifaa. Mara tu kifungo kinaposisitizwa, IP Address inaonyeshwa kwa sekunde 5, kisha hupotea na skrini iliyowekwa inaonekana tena. Hata hivyo, ikiwa unahitaji kubadilisha baadhi ya mipangilio, ponda tu kitufe kilicho katika swali na IP Address itatokea tena kwenye skrini. Kuendelea na orodha tunapata bandari ya Ethernet na ufikiaji wa kurejesha kifaa, ambacho utahitaji kunyakua pini na kushikilia kwa sekunde 10 ili kuweka upya mipangilio yote ya mini Miner. Hatimaye tunapata taa mbili za kiashiria, moja ya Green na moja nyekundu, ambayo inatuonyesha hali ya Miner.
+wakati upande wa nyuma tuna: shimo la nguvu, nafasi ya kadi ya SD (ambayo inaweza kuhitajika kwa masasisho yoyote), kitufe kidogo kinachosema `RIPOTI YA IP` ambayo inakuwezesha kujua IP Address ya mini Miner, ambayo Anwani inahitajika ili kufikia dashibodi ya kifaa. Mara tu kifungo kinaposisitizwa, IP Address inaonyeshwa kwa sekunde 5, kisha hupotea na skrini iliyowekwa inaonekana tena. Hata hivyo, ikiwa unahitaji kubadilisha baadhi ya mipangilio, ponda tu kitufe kilicho katika swali na IP Address itatokea tena kwenye skrini. Kuendelea na orodha tunapata bandari ya Ethernet na ufikiaji wa kurejesha kifaa, ambacho utahitaji kunyakua pini na kushikilia kwa sekunde 10 ili kuweka upya mipangilio yote ya mini Miner. Hatimaye tunapata taa mbili za kiashiria, moja ya Green na moja nyekundu, ambayo inatuonyesha hali ya Miner.
 
 
 
@@ -114,7 +114,7 @@ Mara tu umefanya mabadiliko, bofya kwenye `Hifadhi Mabadiliko` na utaona mabadil
 
 
 
-Sasa bado hatujafanya kazi, kwa sababu inabidi tuunganishe kwenye bwawa ili kuanza Mining, kwa hivyo tunapaswa kwenda kwa "Configuration"
+Sasa bado hatujafanya kazi, kwa sababu inabidi tuunganishe kwenye bwawa ili kuanza Uchimbaji, kwa hivyo tunapaswa kwenda kwa "Configuration"
 
 
 
@@ -146,7 +146,7 @@ https://planb.network/it/tutorials/mining/pool/public-pool-42b9e1b5-722d-471d-b1
 
 
 
-Ili kuunganishwa na bwawa hili tunahitaji kuunda akaunti. bwawa hili pia hufanya malipo kwa kutumia Lightning Network, kwa hivyo tutaweza kupokea Sats chache kwa siku. Ili kufanya hivyo tunahitaji kusanidi umeme wa Address ili kupokea thawabu. Ikiwa hujui jinsi ya kuunda akaunti kwenye kundi la wabongo au jinsi ya kusanidi umeme wako wa Address unaweza kufuata mwongozo huu:
+Ili kuunganishwa na bwawa hili tunahitaji kuunda akaunti. bwawa hili pia hufanya malipo kwa kutumia Lightning Network, kwa hivyo tutaweza kupokea Sats chache kwa siku. Ili kufanya hivyo tunahitaji kusanidi umeme wa Anwani ili kupokea thawabu. Ikiwa hujui jinsi ya kuunda akaunti kwenye kundi la wabongo au jinsi ya kusanidi umeme wako wa Anwani unaweza kufuata mwongozo huu:
 
 
 
@@ -192,7 +192,7 @@ na ubandike kamba tuliyonakili kwenye nafasi iliyo chini ya URL ya Dimbwi.
 
 
 
-Sasa tunahitaji kuongeza jina la mtumiaji na nenosiri. Hebu turudi kwenye dashibodi ya bwawa. Chini pia tunayo kitambulisho cha mtumiaji na nenosiri. Kitambulisho cha mtumiaji na jina letu la mtumiaji, lile tulilotoa wakati wa kuunda akaunti, pamoja na jina la Miner tunalotaka kuweka. unaweza kuamua kutoa au kutotoa jina kwa kifaa unachounganisha kwenye bwawa, ni hiari, lakini ni vyema kukiweka, kwa hivyo ukiunganisha vifaa vingi itakuwa rahisi kuvitambua mara moja. Ikiwa hutaki kuweka chochote badala yake unaweza kuondoka `Jina la mfanyakazi`.
+Sasa tunahitaji kuongeza jina la mtumiaji na nenosiri. Hebu turudi kwenye dashibodi ya bwawa. Chini pia tunacho kitambulisho cha mtumiaji na nenosiri. Kitambulisho cha mtumiaji na jina letu la mtumiaji, lile tulilotoa wakati wa kuunda akaunti, pamoja na jina la Miner tunalotaka kuweka. unaweza kuamua kutoa au kutotoa jina kwa kifaa unachounganisha kwenye bwawa, ni hiari, lakini ni vyema kukiweka, kwa hivyo ukiunganisha vifaa vingi itakuwa rahisi kuvitambua mara moja. Ikiwa hutaki kuweka chochote badala yake unaweza kuondoka `Jina la mfanyakazi`.
 
 
 
@@ -240,7 +240,7 @@ ukirudi kwenye dashibodi unapaswa kuanza kuona harakati kwenye grafu na kuona Ha
 
 
 
-Kupitia bwawa hili mtu anaweza kujaribu bahati yake na solo yangu, akiegemea kwenye dimbwi. Katika kesi hii hatutapokea thawabu, lakini tutapokea thawabu kamili ikiwa tutawahi kuchimba kizuizi. Kisha tutaunganisha kwenye bwawa la kuogelea la umma, bwawa la Mining pekee ambalo ni chanzo wazi kabisa. Tunafungua dirisha jipya kwenye kivinjari na kwenda kwenye [web.public-pool.io](https://web.public-pool.io/#/).
+Kupitia bwawa hili mtu anaweza kujaribu bahati yake na solo yangu, akiegemea kwenye dimbwi. Katika kesi hii hatutapokea thawabu, lakini tutapokea thawabu kamili ikiwa tutawahi kuchimba kizuizi. Kisha tutaunganisha kwenye bwawa la kuogelea la umma, bwawa la Uchimbaji pekee ambalo ni chanzo wazi kabisa. Tunafungua dirisha jipya kwenye kivinjari na kwenda kwenye [web.public-pool.io](https://web.public-pool.io/#/).
 
 
 
@@ -248,7 +248,7 @@ Kupitia bwawa hili mtu anaweza kujaribu bahati yake na solo yangu, akiegemea kwe
 
 
 
-kuna ukurasa ambao una habari zote tunazohitaji. Kisha tunakili pale tabaka Address
+kuna ukurasa ambao una habari zote tunazohitaji. Kisha tunakili pale anwani ya tabaka 
 
 
 
@@ -264,7 +264,7 @@ kisha tunarudi kwenye dashibodi ya mini Miner yetu, nenda kwa usanidi na kwenye 
 
 
 
-Sasa hebu turudi kwenye ukurasa wa pool na tuone kwamba kama jina la mtumiaji tunapaswa kuingiza Bitcoin Address, ambayo itakuwa moja ambayo tutapokea thawabu ikiwa tutadhoofisha kizuizi, kisha dot na kisha jina la kifaa chetu, kama tulivyofanya hapo awali na Braiins Pool, wakati nenosiri tunaweza kuchagua wenyewe.
+Sasa hebu turudi kwenye ukurasa wa pool na tuone kwamba kama jina la mtumiaji tunapaswa kuingiza Anwani ya Bitcoin, ambayo itakuwa moja ambayo tutapokea thawabu ikiwa tutadhoofisha kizuizi, kisha dot na kisha jina la kifaa chetu, kama tulivyofanya hapo awali na Braiins Pool, wakati nenosiri tunaweza kuchagua wenyewe.
 
 
 
@@ -288,7 +288,7 @@ Sasa tunahifadhi mipangilio na kuzima kikundi cha Braiins.
 
 
 
-Nzuri! Sasa tuko Mining kwenye bwawa la umma!
+Nzuri! Sasa tuko katika uchimbaji kwenye bwawa la umma!
 
 
 
