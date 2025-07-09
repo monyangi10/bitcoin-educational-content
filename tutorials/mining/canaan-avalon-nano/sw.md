@@ -25,7 +25,7 @@ Vifaa hivi vinauzwa kama hita kisaidizi katika hali ya **Avalon Nano 3S (140W)**
 
 https://planb.network/tutorials/mining/hardware/canaan-avalon-mini-f2185435-10a3-4d7b-b88f-f1a489babab7
 
-Tafadhali kumbuka kuwa tofauti ya bei na hita za jadi za nguvu sawa, katika hali nyingi, hukuruhusu kupata faida ya kifedha. Satoshi zinazozalishwa na shughuli za Mining hazitawahi kufidia tofauti hii ya bei, isipokuwa unaweza kufikia umeme wa bure (ziada) au nafuu sana.
+Tafadhali kumbuka kuwa tofauti ya bei na hita za jadi za nguvu sawa, katika hali nyingi, hukuruhusu kupata faida ya kifedha. Satoshi zinazozalishwa na shughuli za uchimbaji hazitawahi kufidia tofauti hii ya bei, isipokuwa unaweza kufikia umeme wa bure (ziada) au nafuu sana.
 
 
 
@@ -71,7 +71,7 @@ Mara tu kila kitu kikiwa nje ya boksi, hapa ndio kilichopo: mashine yenyewe bila
 
 
 
-Ifuatayo ni jedwali linalofupisha maelezo ya jumla ya kiufundi ya Nano 3S:
+Lifuatalo ni jedwali linalofupisha maelezo ya jumla ya kiufundi ya Nano 3S:
 
 
 
@@ -98,7 +98,7 @@ Baada ya kufunguliwa, weka Avalon Nano 3 S yako ikiwezekana katika eneo lililo w
 ![image](assets/fr/06.webp)
 
 
-Kisha chomeka plagi ya USB-C ya Supply ya kuwasha umeme kwenye mlango wa USB-C wa kifaa ili kuiwasha.
+Kisha chomeka plagi ya USB-C ya usambazaji ya kuwasha umeme kwenye mlango wa USB-C wa kifaa ili kuiwasha.
 
 
 
