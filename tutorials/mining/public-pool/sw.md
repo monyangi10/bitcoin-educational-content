@@ -30,13 +30,13 @@ Katika mistari michache ya kwanza, tunaweza kuona **Bitaxe** yenye 1323 **Bitaxe
 ![signup](assets/cover.webp)
 
 
-Katika sehemu ya juu ya ukurasa, unaweza kunakili bwawa la Address **stratum+tcp://public-pool.io:21496**.
+Katika sehemu ya juu ya ukurasa, unaweza kunakili bwawa la Anwani **stratum+tcp://public-pool.io:21496**.
 
 
-Ifuatayo, kwa uga wa **mtumiaji**, weka **Bitcoin** Address unayomiliki.
+Ifuatayo, kwa uga wa **mtumiaji**, weka Anwani ya **Bitcoin** unayomiliki.
 
 
-Ikiwa una wachimba migodi wengi, unaweza kuingiza Address sawa kwa wote ili **hashrati** zao ziunganishwe na kuonekana kama Miner moja. Unaweza pia kuwatofautisha kwa kuongeza jina tofauti kwa kila moja. Ili kufanya hivyo, ongeza tu **.jina la mfanyakazi** baada ya **Bitcoin** Address.
+Ikiwa una wachimba migodi wengi, unaweza kuingiza Anwani sawa kwa wote ili **hashrati** zao ziunganishwe na kuonekana kama Miner moja. Unaweza pia kuwatofautisha kwa kuongeza jina tofauti kwa kila moja. Ili kufanya hivyo, ongeza tu **.jina la mfanyakazi** baada ya Anwani ya **Bitcoin**.
 
 
 Hatimaye, kwa sehemu ya **nenosiri**, tumia **‘x’**.
@@ -62,7 +62,7 @@ Ikiwa Miner yako ni **Bitaxe**, sehemu ni tofauti kidogo, lakini maelezo yanasal
 ![signup](assets/3.webp)
 
 
-Dakika chache baada ya kuanza Mining, utaweza kuona data yako kwenye tovuti ya **Public Pool** kwa kutafuta Address yako.
+Dakika chache baada ya kuanza Uchimbaji, utaweza kuona data yako kwenye tovuti ya **Public Pool** kwa kutafuta Anwani yako.
 
 
 ## Dashibodi
@@ -71,7 +71,7 @@ Dakika chache baada ya kuanza Mining, utaweza kuona data yako kwenye tovuti ya *
 ![signup](assets/4.webp)
 
 
-Mara tu unapounganishwa kwenye **Pool** ya Umma, unaweza kufikia **Dashibodi** yako kwa kutafuta na **Bitcoin** Address yako uliyoweka katika sehemu ya **Mtumiaji**. Kwa upande wetu hapa, ni **‘bc1q2ed8zxq8njqsznkp7gj84n0xwl9dp224uha2fv’**.
+Mara tu unapounganishwa kwenye **Pool** ya Umma, unaweza kufikia **Dashibodi** yako kwa kutafuta na **Bitcoin** Anwani yako uliyoweka katika sehemu ya **Mtumiaji**. Kwa upande wetu hapa, ni **‘bc1q2ed8zxq8njqsznkp7gj84n0xwl9dp224uha2fv’**.
 
 
 Kwenye **Dashibodi**, taarifa tofauti huonyeshwa kuhusu data yako na kuhusu mtandao.
@@ -92,4 +92,4 @@ Na **Ugumu Wako Bora** ndio ugumu wa hali ya juu ambao umefikia. Ikiwa, kwa baha
 Pia unayo **Urefu wa Kuzuia** ambayo ni nambari ya kizuizi cha mwisho kilichochimbwa pamoja na uzito wake ulioonyeshwa katika WU, kiwango cha juu kikiwa 4,000,000.
 
 
-Hapa chini, unaweza kuona takwimu zote za kila kifaa chako kibinafsi ikiwa umekipa jina tofauti kwa kuongeza **.jina** nyuma ya **Bitcoin** Address yako katika sehemu ya **Mtumiaji**.
+Hapa chini, unaweza kuona takwimu zote za kila kifaa chako kibinafsi ikiwa umekipa jina tofauti kwa kuongeza **.jina** nyuma ya **Bitcoin** Anwani yako katika sehemu ya **Mtumiaji**.
