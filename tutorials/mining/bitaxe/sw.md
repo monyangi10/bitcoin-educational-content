@@ -23,7 +23,7 @@ Kuna matoleo kadhaa ya BitAxe, yenye chips tofauti na maonyesho:
 | Bitaxe Hex (Series 300)  | 6 x BM1366| Antminer S19k Pro and S19 XP| 3.0 TH/s (up to 3.3 TH/s)   | Miners seeking scalability and high performance without sacrificing efficiency.                             |
 | Bitaxe Supra (Series 400)| 1 x BM1368| Antminer S21                | 600 GH/s (up to 700 GH/s)   | Serious enthusiasts seeking the highest hash rates and efficiency.                                         |
 
-Katika somo hili, tutakuwa tukitumia BitAxe Ultra 204 iliyo na chipu ya BM1366, inayotumika kwa Antminer S19XP. Hii tayari imekusanywa na kuangaza na muuzaji.
+Katika somo hili, tutakuwa tukitumia BitAxe Ultra 204 iliyo na chipu ya BM1366, inayotumika kwa Antminer S19XP. Hii tayari imekusanywa na kuangazwa na muuzaji.
 
 
 ### [Orodha ya wauzaji reja reja inapatikana kwenye ukurasa huu](https://bitaxe.org/legit.html)
@@ -32,7 +32,7 @@ Katika somo hili, tutakuwa tukitumia BitAxe Ultra 204 iliyo na chipu ya BM1366, 
 ![signup](assets/2.webp)
 
 
-Kwa ujumla, nguvu ya Supply inauzwa nayo. Ikiwa sivyo, utahitaji kununua nguvu ya Supply na kebo ya jack ya 5V na angalau 4A.
+Kwa ujumla, nguvu ya usambazaji inauzwa nayo. Ikiwa sivyo, utahitaji kununua nguvu ya usambazaji na kebo ya jack ya 5V na angalau 4A.
 
 
 ![signup](assets/1.webp)
@@ -88,13 +88,13 @@ Ikiwa umeingiza maelezo yako kwa usahihi, kifaa kinapaswa kuunganisha haraka kwe
 ### Dashibodi na Skrini
 
 
-Maonyesho matatu tofauti yatapitia. Kwenye ukurasa wa tatu, utaona maelezo ya `IP`, ambayo ni IP Address inayokuruhusu kuunganisha kwenye dashibodi. Hapa, Address ni `192.168.1.19`.
+Maonyesho matatu tofauti yatapitia. Kwenye ukurasa wa tatu, utaona maelezo ya `IP`, ambayo ni IP Address inayokuruhusu kuunganisha kwenye dashibodi. Hapa, Anwani ni `192.168.1.19`.
 
 
 ![signup](assets/8.webp) ![signup](assets/9.webp) ![signup](assets/10.webp)
 
 
-Ili kufikia dashibodi, ingiza tu Address hii kwenye kivinjari chako cha intaneti.
+Ili kufikia dashibodi, ingiza tu Anwani hii kwenye kivinjari chako cha intaneti.
 
 
 Kwenye dashibodi, utapata taarifa zote zilizoonyeshwa kwenye skrini ndogo, ambayo sasa tutaangalia kwa undani.
