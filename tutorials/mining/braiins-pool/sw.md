@@ -7,7 +7,7 @@ description: Utangulizi wa Dimbwi la Wabongo
 ![signup](assets/cover.webp)
 
 
-Braiins Pool, ambayo zamani ilijulikana kama Slush Pool, ndiyo Bitcoin Mining pool ya kwanza kabisa. Ilianzishwa mnamo Novemba 2010, ilichimba kizuizi chake cha kwanza mnamo Desemba 16, 2010, block 97834.
+Braiins Pool, ambayo zamani ilijulikana kama Slush Pool, ndiyo uchimbaji wa Bitcoin pool wa kwanza kabisa. Ilianzishwa mnamo Novemba 2010, ilichimba kizuizi chake cha kwanza mnamo Desemba 16, 2010, block 97834.
 
 
 Kufikia Mei 2024, Braiins Pool ina uwezo wa kompyuta wa 13 EH/s, ikiwakilisha takriban 1.8% ya jumla ya Bitcoin Hashrate. Imechimba jumla ya bitcoins 1,307,188, ambayo ni takriban 6% ya kiwango cha juu cha bitcoins milioni 21 ambazo zitawahi kuwepo.
@@ -35,10 +35,10 @@ Ada za Braiins Pool ni 2.5%, hata hivyo, ukitumia BraiinsOS kwenye mashine zako 
 
 Uondoaji wa umeme hukuruhusu kuondoa zawadi zako bila kiwango cha chini mara moja kwa siku kupitia Lightning Address.
 
-Ili kutumia njia hii, lazima uwe na Wallet inayoendana na anwani za Umeme.
+Ili kutumia njia hii, lazima uwe na pochi inayoendana na anwani za Umeme.
 
 
-**On-Chain zilizotolewa **
+**On-Chain zilizotolewa**
 
 Utoaji wa On-Chain ni mdogo kwa kiasi cha chini kabisa na huenda ukatozwa ada.
 
@@ -99,7 +99,7 @@ Hapa, **"stratum+tcp://eu.stratum.braiins.com:3333"** ndio URL ya mkusanyiko.
 Na nenosiri daima ni sawa **"chochote123"**
 
 
-Ukishaingiza maelezo haya kwenye ukurasa wako wa wavuti wa Miner na imeanza Mining, utayaona yakionekana baada ya dakika chache kwenye Dashibodi ya Braiins Pool.
+Ukishaingiza maelezo haya kwenye ukurasa wako wa wavuti wa Miner na imeanza uchimbaji, utayaona yakionekana baada ya dakika chache kwenye Dashibodi ya Braiins Pool.
 
 
 ## Muhtasari wa Dashibodi
@@ -134,14 +134,14 @@ Chini ya chati hii, una maelezo kadhaa kuhusu zawadi zako katika Sats.
 **"Mpango wa Zawadi"** Kiwango cha ada kinachotumika na bwawa
 
 
-**"Malipo Yanayofuata ETA"** Kadirio la muda utachukua kabla ya kuondoa Sats kwenye jukwaa. Hapa, makadirio hayaonyeshi chochote kwa sababu Mining imekuwa ikiendelea kwa dakika chache tu.
+**"Malipo Yanayofuata ETA"** Kadirio la muda utachukua kabla ya kuondoa Sats kwenye jukwaa. Hapa, makadirio hayaonyeshi chochote kwa sababu uchimbaji umekuwa ukiendelea kwa dakika chache tu.
 
 
 **"Salio la Akaunti"** Nambari ya Sats inayopatikana katika akaunti yako, ambayo unaweza kuiondoa.
 
 ## Kuweka Uondoaji
 
-Unaweza kuondoa zawadi zako ama On-Chain au kupitia umeme na Address.
+Unaweza kuondoa zawadi zako ama On-Chain au kupitia umeme na Anwani.
 
 
 Hapo juu, bonyeza "Fedha". Kwa chaguo-msingi, una "Akaunti ya Bitcoin". Unaweza kuunda wengine ili kushiriki zawadi. Tutarudi kwa hili katika sehemu inayofuata.
@@ -156,7 +156,7 @@ Kwa sasa, bofya "Weka".
 Katika dirisha hili jipya, unaweza kuchagua "Malipo ya Onchain".
 
 
-Taja Wallet hii, toa BTC Address, na uchague aina ya kichochezi unachotaka. "Kizingiti" inamaanisha kuwa malipo yataanzishwa unapokuwa umekusanya kiasi kilichobainishwa cha BTC, na kwa "Muda wa muda", malipo yataanzishwa kwa vipindi vya kawaida (siku/wiki/miezi).
+Taja pochi hii, toa Anwani ya BTC, na uchague aina ya kichochezi unachotaka. "Kizingiti" inamaanisha kuwa malipo yataanzishwa unapokuwa umekusanya kiasi kilichobainishwa cha BTC, na kwa "Muda wa muda", malipo yataanzishwa kwa vipindi vya kawaida (siku/wiki/miezi).
 
 
 Kumbuka kwamba kiasi cha chini ni 0.0002 BTC na kwamba chini ya 0.005 BTC, ada ya 0.0001 BTC itatumika.
@@ -165,7 +165,7 @@ Kumbuka kwamba kiasi cha chini ni 0.0002 BTC na kwamba chini ya 0.005 BTC, ada y
 ![signup](assets/18.webp)
 
 
-Ikiwa ungependa kutumia uondoaji wa umeme, utahitaji Wallet ambayo hutoa Umeme Address. Kwa mfano, unaweza kutumia getAlby.
+Ikiwa ungependa kutumia uondoaji wa umeme, utahitaji pochi ambayo hutoa Umeme Address. Kwa mfano, unaweza kutumia getAlby.
 
 
 Bofya juu ya dirisha kwenye "Malipo ya umeme".
@@ -174,7 +174,7 @@ Bofya juu ya dirisha kwenye "Malipo ya umeme".
 Ingiza Umeme Address yako na uteue kisanduku "Ninaelewa..." kisha uthibitishe.
 
 
-Kwa njia hii ya kujiondoa, zawadi zako zitatumwa kwa Wallet yako kila siku.
+Kwa njia hii ya kujiondoa, zawadi zako zitatumwa kwa pochi lako kila siku.
 
 
 ![signup](assets/14.webp)
