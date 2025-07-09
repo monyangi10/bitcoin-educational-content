@@ -63,7 +63,7 @@ Mara tu ukifungua kisanduku, utapata mkono wa kadibodi ulio na kipokezi cha WIFI
 
 
 
-Mara tu kila kitu kikiwa nje ya boksi, hapa ndio kilichopo: mashine yenyewe bila shaka, mwongozo wa mtumiaji, mpokeaji wa WIFI, ncha ya chuma iliyotajwa hapo juu, na nguvu ya kifaa Supply. Kadi ya mkopo iliyotolewa haifai kutajwa kwa maoni yetu.
+Mara tu kila kitu kikiwa nje ya boksi, hapa ndio kilichopo: mashine yenyewe bila shaka, mwongozo wa mtumiaji, mpokeaji wa WIFI, ncha ya chuma iliyotajwa hapo juu, na nguvu ya kifaa cha usambazaji. Kadi ya mkopo iliyotolewa haifai kutajwa kwa maoni yetu.
 
 
 
