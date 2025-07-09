@@ -1,5 +1,5 @@
 ---
-name: Bahari ya Mining
+name: Bahari ya Uchimbaji
 
 description: Utangulizi wa Ocean Mining
 ---
@@ -16,7 +16,7 @@ Ocean Mining ni Mining pool ya kipekee. Hapa, hakuna akaunti, hakuna barua pepe,
 ### Mfumo wa Fidia
 
 
-Mfumo wa fidia wa Bahari unaitwa TIDES, "Transparent Index of Distinct Extended Shares". Mfumo huu unarekodi kazi iliyotolewa na wachimbaji, inayojulikana kama "hisa". Bwawa hukokotoa asilimia ya "hisa" kwa kila mchangiaji, kisha huongeza Bitcoin Address yao kwenye kiolezo cha block ya bwawa kama mnufaika wa asilimia hii ya Block reward.
+Mfumo wa fidia wa Bahari unaitwa TIDES, "Transparent Index of Distinct Extended Shares". Mfumo huu unarekodi kazi iliyotolewa na wachimbaji, inayojulikana kama "hisa". Bwawa hukokotoa asilimia ya "hisa" kwa kila mchangiaji, kisha huongeza Anwani ya Bitcoin yao kwenye kiolezo cha block ya bwawa kama mnufaika wa asilimia hii ya Block reward.
 
 
 Kiolezo cha kuzuia husasishwa takriban kila sekunde 10 ili kutoa hesabu kwa miamala mipya yenye faida kubwa zaidi na kubadilisha usambazaji wa Block reward ikiwa ni lazima.
@@ -86,7 +86,7 @@ Tutazingatia sehemu ya "Wachangiaji". Unaweza kuona orodha ya wachangiaji wote w
 ![signup](assets/2.webp)
 
 
-Utagundua kuwa "Wachangiaji" wanatambuliwa na Bitcoin Address. Unaweza kubofya mojawapo ya anwani hizi kwa maelezo zaidi.
+Utagundua kuwa "Wachangiaji" wanatambuliwa na Anwani ya Bitcoin. Unaweza kubofya mojawapo ya anwani hizi kwa maelezo zaidi.
 
 
 Tukichukua ya kwanza, ile iliyo na Hashrate ya juu zaidi [1GRfspGGx4Ne66YotWuosUc4WeJLfGE3dZ](https://ocean.xyz/stats/1GRfspGGx4Ne66YotWuosUc4WeJLfGE3dZ), unaweza kuona maelezo yote kuhusu bitcoins, nambari ya 4 iliyomzuia, na nambari ya GW2: maelezo ya kila moja ya mashine zao (ASICs). Walakini, bado hawajajulikana, kama kwenye Bitcoin.
@@ -131,7 +131,7 @@ Ili kuongeza mfanyakazi, anza kwa kuchagua kiolezo chako cha kuzuia. Chaguo hili
 - BILA DATA**: `stratum+tcp://datafree.mine.ocean.xyz:3404`
 
 
-Ifuatayo, kwa uwanja wa mtumiaji, ingiza Bitcoin Address unayomiliki. Hapa kuna orodha ya aina zinazolingana za Address:
+Ifuatayo, kwa uwanja wa mtumiaji, ingiza Anwani ya Bitcoin unayomiliki. Hapa kuna orodha ya aina zinazolingana za Address:
 
 
 - P2PKH** (Aina Halisi ya Address. Inaanza na “1”)
@@ -140,7 +140,7 @@ Ifuatayo, kwa uwanja wa mtumiaji, ingiza Bitcoin Address unayomiliki. Hapa kuna 
 - Bech32m** (Taproot. Inaanza na “bc”. Mrefu kuliko Bech32.)
 
 
-Ikiwa una wachimba migodi wengi, unaweza kuingiza Address sawa kwa wote ili viwango vyao vya Hash viunganishwe na kuonekana kama Miner moja. Unaweza pia kuwatofautisha kwa kuongeza jina tofauti kwa kila moja. Ili kufanya hivyo, ongeza tu ".jina la mfanyakazi" baada ya Bitcoin Address.
+Ikiwa una wachimba migodi wengi, unaweza kuingiza Anwami sawa kwa wote ili viwango vyao vya Hash viunganishwe na kuonekana kama Miner moja. Unaweza pia kuwatofautisha kwa kuongeza jina tofauti kwa kila moja. Ili kufanya hivyo, ongeza tu ".jina la mfanyakazi" baada ya Anwani ya Bitcoin.
 
 
 Hatimaye, kwa uga wa nenosiri, tumia `x`.
@@ -157,15 +157,15 @@ Ukichagua kiolezo cha **OCEAN**, Bitcoin Address yako ni `bc1q2ed8zxq8njqsznkp7g
 - NENOSIRI**: `x`
 
 
-Dakika chache baada ya kuanza Mining, utaweza kuona data yako kwenye tovuti ya Ocean kwa kutafuta Address yako.
+Dakika chache baada ya kuanza uchimbaji, utaweza kuona data yako kwenye tovuti ya Ocean kwa kutafuta Address yako.
 
 
 ### Muhtasari wa Dashibodi
 
 
-- Hisa katika Dirisha la Zawadi**: Data hii inaonyesha idadi ya hisa, kazi uliyotuma kwenye bwawa kwenye dirisha la vitalu 8 vya mwisho vilivyochimbwa na bwawa.
-- Kadirio la Zawadi katika Windows**: Kadirio la idadi ya Sats utakayopata kwa kazi ambayo tayari imefanywa. Hii haizingatii ada za manunuzi, lakini tu coinbase, bitcoins mpya iliyotolewa na mtandao.
-- Makadirio ya Mapato Kizuizi Kinachofuata**: Kadirio la idadi ya Sats iliyopatikana ikiwa kizuizi kitachimbwa sasa. Kumbuka, ikiwa thamani hii ni chini ya 1,048,576 Sats, hutapokea moja kwa moja Sats kwa Address yako. Yatatumwa kwa Address ya Ocean hadi mapato yako yatakapovuka kiwango hiki.
+- **Hisa katika Dirisha la Zawadi**: Data hii inaonyesha idadi ya hisa, kazi uliyotuma kwenye bwawa kwenye dirisha la vitalu 8 vya mwisho vilivyochimbwa na bwawa.
+- **Kadirio la Zawadi katika Windows**: Kadirio la idadi ya Sats utakayopata kwa kazi ambayo tayari imefanywa. Hii haizingatii ada za manunuzi, lakini tu coinbase, bitcoins mpya iliyotolewa na mtandao.
+- **Makadirio ya Mapato Kizuizi Kinachofuata**: Kadirio la idadi ya Sats iliyopatikana ikiwa kizuizi kitachimbwa sasa. Kumbuka, ikiwa thamani hii ni chini ya 1,048,576 Sats, hutapokea moja kwa moja Sats kwa Anwani yako. Yatatumwa kwa Address ya Ocean hadi mapato yako yatakapovuka kiwango hiki.
 
 
 Hapo chini, una grafu inayoonyesha historia yako ya Hashrate hadi miezi 6.
@@ -186,7 +186,7 @@ Una chaguo la kuhamisha faili ya CSV ya historia hii kwa kitufe cha **Pakua CSV*
 ![signup](assets/6.webp)
 
 
-Katika sehemu ifuatayo, una orodha ya wachimbaji wote ambao umeunganisha kwenye bwawa na hii Address. Una, bila shaka, Hashrate yao binafsi, lakini pia idadi ya Sats ambayo wamepokea kibinafsi kwa kazi yao.
+Katika sehemu ifuatayo, una orodha ya wachimbaji wote ambao umeunganisha kwenye bwawa na hii Anwani. Una, bila shaka, Hashrate yao binafsi, lakini pia idadi ya Sats ambayo wamepokea kibinafsi kwa kazi yao.
 
 
 ![signup](assets/7.webp)
@@ -195,7 +195,7 @@ Katika sehemu ifuatayo, una orodha ya wachimbaji wote ambao umeunganisha kwenye 
 Unaweza kubofya **Jina la Utani** la Miner yoyote. Kisha utakuwa na taarifa zote ambazo tumeona hivi punde, lakini haswa kwa hiyo Miner.
 
 
-Na chini ya ukurasa, maelezo mengine ya ziada ambapo unaweza kuona historia ya malipo kwenye Address yako, Sats uliyochimba lakini bado haujalipwa, na jumla ya Sats uliyochimba.
+Na chini ya ukurasa, maelezo mengine ya ziada ambapo unaweza kuona historia ya malipo kwenye Anwani yako, Sats uliyochimba lakini bado haujalipwa, na jumla ya Sats uliyochimba.
 
 
 ![signup](assets/8.webp)
@@ -217,7 +217,7 @@ Ndiyo sababu, kwa uondoaji wa Umeme, ni muhimu kutumia matoleo ya **BOLT12 **. H
 - Pia ni njia ya malipo ambayo hutoa uthibitisho kwamba malipo yalifanywa, jambo ambalo sivyo kwa LNURLs.
 - Muhimu sana, inaweza kutumika kwa kushirikiana na saini ya Bitcoin ili kuthibitisha kwamba wewe ni mmiliki wa BTC Address na toleo la BOLT12.
 
-Kufikia leo (Mei 2024), masuluhisho machache yapo ya kutumia njia hii. Katika mfano huu, tutatumia seva ya Start9 na Umeme wa Core. Wakati zana zingine, kama vile Phoenix Wallet kwa mfano, zimeunganisha matoleo ya BOLT12, mafunzo haya yataendelea kutumika. Hakikisha una chaneli wazi zenye ukwasi unaoingia, vinginevyo malipo hayatafanya kazi.
+Kufikia leo (Mei 2024), suluhisho chache yapo za kutumia njia hii. Katika mfano huu, tutatumia seva ya Start9 na Umeme wa Core. Wakati zana zingine, kama vile Phoenix Wallet kwa mfano, zimeunganisha matoleo ya BOLT12, mafunzo haya yataendelea kutumika. Hakikisha una chaneli wazi zenye ukwasi unaoingia, vinginevyo malipo hayatafanya kazi.
 
 
 Anza kwa kwenda kwenye dashibodi yako kwenye tovuti ya Ocean kwa kuingiza BTC Address yako, kisha ubofye kichupo cha **Usanidi**.
@@ -261,7 +261,7 @@ Katika sehemu ya **Umeme BOLT12 Ofa**, bandika kiungo cha malipo na uache sehemu
 ![signup](assets/13.webp)
 
 
-Ili Ocean kuhakikisha kwamba kiungo hiki cha malipo ni chako bila kutumia mfumo wa akaunti, utahitaji kutia sahihi kwenye ujumbe ambao umetolewa kwa ufunguo wako wa faragha unaolingana na Bitcoin Address unayotumia. Kuna suluhisho nyingi za kusaini ujumbe kwa kutumia ufunguo wako wa faragha. Katika somo hili, tutachukua mfano wa BlueWallet, lakini njia ni sawa kwa pochi zote.
+Ili Ocean kuhakikisha kwamba kiungo hiki cha malipo ni chako bila kutumia mfumo wa akaunti, utahitaji kutia sahihi kwenye ujumbe ambao umetolewa kwa ufunguo wako wa faragha unaolingana na Anwani ya Bitcoin unayotumia. Kuna suluhisho nyingi za kusaini ujumbe kwa kutumia ufunguo wako wa faragha. Katika somo hili, tutachukua mfano wa BlueWallet, lakini njia ni sawa kwa pochi zote.
 
 
 ![signup](assets/14.webp)
@@ -298,7 +298,7 @@ Na ubandike ujumbe uliotolewa kwenye uwanja wa **Ujumbe** kwenye ukurasa wa Ocea
 Bofya kwenye **Ishara**.
 
 
-Hii itaifanya generate saini ya kriptografia ambayo inathibitisha kuwa wewe ni mmiliki wa Address `bc1q2ed8zxq8njqsznkp7gj84n0xwl9dp224uha2fv`, na sahihi hii ni shukrani ya kipekee kwa ujumbe uliotolewa na Ocean, unaotokana na kiungo cha malipo cha BOLT12.
+Hii itaifanya kuzalisha saini ya kriptografia ambayo inathibitisha kuwa wewe ni mmiliki wa Address `bc1q2ed8zxq8njqsznkp7gj84n0xwl9dp224uha2fv`, na sahihi hii ni shukrani ya kipekee kwa ujumbe uliotolewa na Ocean, unaotokana na kiungo cha malipo cha BOLT12.
 
 
 ![signup](assets/17.webp)
