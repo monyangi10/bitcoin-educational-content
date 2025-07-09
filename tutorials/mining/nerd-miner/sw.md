@@ -10,7 +10,7 @@ description: Anzisha Mining Bitcoin ukiwa na nafasi ya kushinda karibu na 0
 
 Katika somo hili, tutakuongoza kupitia hatua zinazohitajika ili kusanidi NerdMiner_v2, ambayo ni kifaa cha maunzi (ESP-32 S3) kinachotolewa kwa Bitcoin Mining.
 
-Kwa wazi, nguvu ya kompyuta ya kifaa kama hicho haiwezi kushindana na ASICs ya wachimbaji amateur au wataalamu. Hata hivyo, NerdMiner ni zana bora ya kielimu ya kufanya Bitcoin Mining ionekane. Na ni nani anayejua, kwa bahati (nyingi), unaweza kupata kizuizi na thawabu inayoendana nayo. Kwa wanaodadisi, tutaona katika [Kadirio la uwezekano wa kushinda](#estimation-de-la-probabilite-de-gain) sehemu. Kwa upande wa matumizi ya nguvu, NerdMiner hutumia 0.5W; kwa kulinganisha, taa ya LED hutumia wastani wa mara 20 zaidi.
+Kwa wazi, nguvu ya kompyuta ya kifaa kama hicho haiwezi kushindana na ASICs ya wachimbaji amateur au wataalamu. Hata hivyo, NerdMiner ni zana bora ya kielimu ya kufanya Uchimbaji wa Bitcoin uonekane. Na ni nani anayejua, kwa bahati (nyingi), unaweza kupata kizuizi na thawabu inayoendana nayo. Kwa wanaodadisi, tutaona katika [Kadirio la uwezekano wa kushinda](#estimation-de-la-probabilite-de-gain) sehemu. Kwa upande wa matumizi ya nguvu, NerdMiner hutumia 0.5W; kwa kulinganisha, taa ya LED hutumia wastani wa mara 20 zaidi.
 
 
 Kabla ya kupitia hatua tofauti, hebu tuorodhe vifaa muhimu vya kuifanya:
@@ -22,7 +22,7 @@ Kabla ya kupitia hatua tofauti, hebu tuorodhe vifaa muhimu vya kuifanya:
 - kipochi cha 3D: ikiwa una kichapishi cha 3D, unaweza kupakua [faili ya 3D](https://www.printables.com/model/501547-nerdminer-v2-click-case-w-buttons) vinginevyo unaweza kuinunua kwenye [Duka la mtandaoni la Silexperience](https://silexperience.company.4747/29/NerdMiner57/29/NerdMiner577).
 - Kompyuta iliyo na Kivinjari cha Chrome kilichosakinishwa
 - muunganisho wa mtandao
-- Bitcoin Address
+- Anwani ya Bitcoin
 
 
 Unaweza pia kununua vifaa vya NerdMiner vilivyokusanywa mapema kutoka kwa wauzaji kadhaa kama vile:
@@ -86,7 +86,7 @@ Sasa unaweza kusanidi NerdMiner yako.
 Kwanza, anza kwa kuunganisha kwenye mtandao wako wa WiFi kwa kuchagua jina la mtandao wako na kuingiza nenosiri linalohusika.
 
 
-Kisha unaweza kuchagua Mining pool unayotaka kushiriki. Hakika, ni kawaida katika sekta ya Bitcoin Mining kuunganisha nguvu za kompyuta ili kuongeza nafasi za kupata kizuizi katika Exchange kwa kushiriki zawadi sawia na Hashrate iliyotolewa.
+Kisha unaweza kuchagua Mining pool unayotaka kushiriki. Hakika, ni kawaida katika sekta ya Bitcoin Mining kuunganisha nguvu za kompyuta ili kuongeza nafasi za kupata kizuizi katika Ubadilishanaji kwa kushiriki zawadi sawia na Hashrate iliyotolewa.
 
 Kwa NerdMiners, unaweza kuchagua kuunganisha kwenye moja ya mabwawa haya:
 
@@ -108,7 +108,7 @@ Sasa unaweza kubofya "Hifadhi".
 ![image](assets/wifi-configuration.webp)
 
 
-Hongera, sasa wewe ni sehemu ya mtandao wa Bitcoin Mining!
+Hongera, sasa wewe ni sehemu ya mtandao wa uchimbaji wa Bitcoin!
 
 
 ## Operesheni ya NerdMiner
@@ -167,7 +167,7 @@ Kwa vile sasa ESP-32 yako inatambuliwa na mfumo wako, unaweza kurudi kwenye [hat
 Na hapo unayo! NerdMiner_v2 yako sasa imesanidiwa na iko tayari kutumika.
 
 
-Furaha Mining na bahati nzuri iwe upande wako!
+Furaha uchimbaji na bahati nzuri iwe upande wako!
 
 
 ### Kukadiria uwezekano wa kushinda
