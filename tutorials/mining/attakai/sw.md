@@ -7,16 +7,16 @@ description: kubadilisha S9 kuwa mfumo wa kupokanzwa nyumba
 ![cover](assets/cover.webp)
 
 
-# Attakai - kufanya uchimbaji nyumbani iwezekanavyo na kupatikana!
+# Attakai - kufanya miner nyumbani iwezekanavyo na kupatikana!
 
 
-Mpango wa "Attakaï" unachunguza Uchimbaji wa Bitcoin kwa kutumia joto linalozalishwa. Mwongozo huo unatoa suluhu za kuwafanya wachimba migodi wanafaa kutumika kama radiators majumbani, kutoa faraja zaidi na kuokoa nishati. Bitcoin hurekebisha kiotomatiki ugumu wa Mining na kuwatuza wachimba migodi kwa kazi yao. Hata hivyo, mkusanyiko wa Hashrate unaweza kusababisha hatari kwa kutoegemea upande wowote wa mtandao. "Attakaï" hutoa mwongozo wa vitendo kwa ajili ya kurejesha wachimbaji kiuchumi, kuruhusu washiriki kupunguza bili zao za umeme na kutuzwa Sats bila KYC.
+Mpango wa "Attakaï" unachunguza mining ya Bitcoin kwa kutumia joto linalozalishwa. Mwongozo huo unatoa suluhu za kuwafanya wachimba migodi wanafaa kutumika kama radiators majumbani, kutoa faraja zaidi na kuokoa nishati. Bitcoin hurekebisha kiotomatiki ugumu wa Mining na kuwatuza wachimba migodi kwa kazi yao. Hata hivyo, mkusanyiko wa Hashrate unaweza kusababisha hatari kwa kutoegemea upande wowote wa mtandao. "Attakaï" hutoa mwongozo wa vitendo kwa ajili ya kurejesha wachimbaji kiuchumi, kuruhusu washiriki kupunguza bili zao za umeme na kutuzwa Sats bila KYC.
 
 
 ## Utangulizi
 
 
-"Attakaï," ambalo linamaanisha "joto linalofaa" kwa Kijapani, ndilo jina la mpango unaolenga kugundua Uchimbaji wa Bitcoin kupitia utumiaji tena wa joto uliozinduliwa na @ajelexBTC na @BlobOnChain na Découvre Bitcoin. Mwongozo huu wa urekebishaji wa ASIC utatumika kama msingi wa kujifunza zaidi kuhusu uchimbaji, uendeshaji wake, historia ya hivi majuzi, na uchumi msingi.
+"Attakaï," ambalo linamaanisha "joto linalofaa" kwa Kijapani, ndilo jina la mpango unaolenga kugundua mining ya Bitcoin kupitia utumiaji tena wa joto uliozinduliwa na @ajelexBTC na @BlobOnChain na Découvre Bitcoin. Mwongozo huu wa urekebishaji wa ASIC utatumika kama msingi wa kujifunza zaidi kuhusu mining, uendeshaji wake, historia ya hivi majuzi, na uchumi msingi.
 
 
 ### Kwa nini utumie tena joto kutoka kwa ASIC?
@@ -39,10 +39,10 @@ Kampuni zingine zimekuja na wazo la kujumuisha hitaji la nguvu ya kompyuta na ma
 _Kama Satoshi Nakamoto alivyosema mnamo Agosti 8, 2010._
 
 
-Bitcoin na Proof of Work yake inajitokeza kwa sababu wao hurekebisha kiotomati ugumu wa Uchimbaji kulingana na kiasi cha kompyuta kinachofanywa na mtandao mzima, kiasi hiki kinaitwa Hashrate na kinaonyeshwa kwa kasi kwa sekunde. Leo inakadiriwa kuwa Exahashe 280 kwa sekunde, au heshi bilioni 280 kwa sekunde. Hashrate hii inawakilisha kazi na kwa hivyo kiasi cha nishati kinachotumika. Ya juu ya Hashrate, juu ya ugumu huongezeka, na kinyume chake. Kwa hivyo,Mchimbaji Bitcoin anaweza kuwasha au kuzima wakati wowote bila athari yoyote kwenye mtandao, tofauti na radiator / seva ambazo zitahitaji kubaki imara ili kutoa huduma zao. Miner inatuzwa kwa kazi iliyofanywa kulingana na kazi ya wengine, haijalishi ushiriki huu unaweza kuwa mdogo kiasi gani.
+Bitcoin na Proof of Work yake inajitokeza kwa sababu wao hurekebisha kiotomati ugumu wa mining kulingana na kiasi cha kompyuta kinachofanywa na mtandao mzima, kiasi hiki kinaitwa Hashrate na kinaonyeshwa kwa kasi kwa sekunde. Leo inakadiriwa kuwa Exahashe 280 kwa sekunde, au heshi bilioni 280 kwa sekunde. Hashrate hii inawakilisha kazi na kwa hivyo kiasi cha nishati kinachotumika. Ya juu ya Hashrate, juu ya ugumu huongezeka, na kinyume chake. Kwa hivyo, Bitcoin miner inaweza kuwashwa au kuzimwa wakati wowote bila athari yoyote kwenye mtandao, tofauti na radiator / seva ambazo zitahitaji kubaki imara ili kutoa huduma zao. Miner inatuzwa kwa kazi iliyofanywa kulingana na kazi ya wengine, haijalishi ushiriki huu unaweza kuwa mdogo kiasi gani.
 
 
-Kwa muhtasari, radiator ya umeme na Bitcoin Miner wote huzalisha 1 kW ya joto kwa 1 kW ya umeme inayotumiwa. Walakini, Miner pia inapokea bitcoins kama tuzo. Bila kujali bei ya umeme, bei ya Bitcoin, au ushindani wa shughuli za Uchimbaji kwenye mtandao wa Bitcoin, ni faida zaidi ya kiuchumi kwa joto na Miner badala ya radiator ya umeme.
+Kwa muhtasari, radiator ya umeme na Bitcoin Miner zote huzalisha 1 kW ya joto kwa 1 kW ya umeme inayotumiwa. Walakini, Miner pia inapokea bitcoins kama tuzo. Bila kujali bei ya umeme, bei ya Bitcoin, au ushindani wa shughuli za mining kwenye mtandao wa Bitcoin, ni faida zaidi ya kiuchumi kwa joto na Miner badala ya radiator ya umeme.
 
 
 ![Video presentation](https://youtu.be/gKoh44UCSnE)
@@ -51,7 +51,7 @@ Kwa muhtasari, radiator ya umeme na Bitcoin Miner wote huzalisha 1 kW ya joto kw
 ### Thamani iliyoongezwa ya Bitcoin
 
 
-Hatutaingia katika maelezo ya uendeshaji wa Uchimbaji hapa (rasilimali zinazopatikana kwenye chuo ikihitajika). Kilicho muhimu kuelewa ni jinsi Mining inavyochangia katika ugatuaji wa Bitcoin. Teknolojia kadhaa zilizopo zimeunganishwa kwa ustadi kuleta mwafaka wa Nakamoto. Makubaliano haya ya kiuchumi yanawazawadia watendaji waaminifu kwa ushiriki wao katika uendeshaji wa mtandao wa Bitcoin, huku wakiwakatisha tamaa watendaji wasio waaminifu. Hii ni moja ya mambo muhimu ambayo yanaruhusu mtandao kuwepo kwa uendelevu.
+Hatutaingia katika maelezo ya uendeshaji wa mining hapa (rasilimali zinazopatikana kwenye chuo ikihitajika). Kilicho muhimu kuelewa ni jinsi Mining inavyochangia katika ugatuaji wa Bitcoin. Teknolojia kadhaa zilizopo zimeunganishwa kwa ustadi kuleta mwafaka wa Nakamoto. Makubaliano haya ya kiuchumi yanawazawadia watendaji waaminifu kwa ushiriki wao katika uendeshaji wa mtandao wa Bitcoin, huku wakiwakatisha tamaa watendaji wasio waaminifu. Hii ni moja ya mambo muhimu ambayo yanaruhusu mtandao kuwepo kwa uendelevu.
 
 
 Waigizaji waaminifu, wale wanaochimba madini kwa mujibu wa sheria, wote wanashindana ili kupata mgao mkubwa zaidi wa zawadi ya kutengeneza vitalu vipya. Motisha hii ya kiuchumi kwa kawaida inaongoza kwa aina ya ujumuishaji huku kampuni zikichagua utaalam katika shughuli hii ya faida kubwa kwa kupunguza gharama zao kupitia uchumi wa kiwango. Watendaji hawa wa viwanda wana nafasi nzuri ya kununua na kudumisha mashine, pamoja na kujadili viwango vya umeme kwa wingi.
@@ -71,7 +71,7 @@ Suala hili linaweza kuwa tatizo na kusababisha hatari kubwa kwa kutoegemea upand
 **Ikiwa wachimbaji madini wameenea katika maelfu, au hata mamilioni, ya kaya kote ulimwenguni, inakuwa ngumu sana kwa serikali kuchukua udhibiti wao.**
 
 
-'Katika kiwanda, Mchimbaji hafai kutumika kama radiator katika nyumba, kutokana na matatizo mawili kuu: kelele nyingi na ukosefu wa marekebisho. Hata hivyo, matatizo haya yanaweza kutatuliwa kwa urahisi kupitia marekebisho rahisi yaliyofanywa kwa maunzi na programu, kuruhusu Mchimbaji tulivu zaidi ambayo inaweza kusanidiwa na kujiendesha kama hita za kisasa za umeme.
+'Katika kiwanda, Miner haifai kutumika kama radiator katika nyumba, kutokana na matatizo mawili kuu: kelele nyingi na ukosefu wa marekebisho. Hata hivyo, matatizo haya yanaweza kutatuliwa kwa urahisi kupitia marekebisho rahisi yaliyofanywa kwa maunzi na programu, kuruhusu Miner tulivu zaidi ambayo inaweza kusanidiwa na kujiendesha kama hita za kisasa za umeme.
 
 
 **Attakaï ni mpango wa elimu unaokufundisha jinsi ya kurejesha Antminer S9 kwa njia ya gharama nafuu zaidi.**
@@ -86,7 +86,7 @@ Hii ni fursa nzuri ya kujifunza kwa kufanya mazoezi. Mbali na kupunguza bili yak
 Katika sehemu hii, tutajadili mbinu bora za ununuzi wa Bitmain Antminer S9 iliyotumika, mashine ambayo mafunzo haya ya kurekebisha radiator yatategemea. Mwongozo huu pia unatumika kwa miundo mingine ya ASIC kwani ni mwongozo wa jumla wa ununuzi wa maunzi yaliyotumika ya uchimbaji.
 
 
-Antminer S9 ni kifaa kilichotolewa na Bitmain tangu Mei 2016. Inatumia 1323W ya umeme na inazalisha 13.5 TH / s. Ingawa inachukuliwa kuwa ya zamani, inabaki chaguo bora kwa kuanza uchimbaji. Kwa kuwa imetolewa kwa wingi, ni rahisi kupata vipuri kwa wingi katika maeneo mengi ya dunia. Kwa ujumla inaweza kununuliwa kutoka kwa rika-kwa-rika kwenye tovuti kama vile Ebay au LeBonCoin, kwa vile wauzaji wa kitaalamu hawatoi tena kutokana na ushindani wake wa chini ikilinganishwa na mashine mpya zaidi. Haifanyi kazi vizuri kuliko ASIC kama vile Antminer S19, iliyoanzishwa tangu Machi 2020, lakini hii inafanya kuwa maunzi yanayotumika kwa bei nafuu na yanafaa zaidi kwa marekebisho tutakayofanya.
+Antminer S9 ni kifaa kilichotolewa na Bitmain tangu Mei 2016. Inatumia 1323W ya umeme na inazalisha 13.5 TH / s. Ingawa inachukuliwa kuwa ya zamani, inabaki chaguo bora kwa kuanza mining. Kwa kuwa imetolewa kwa wingi, ni rahisi kupata vipuri kwa wingi katika maeneo mengi ya dunia. Kwa ujumla inaweza kununuliwa kutoka kwa rika-kwa-rika kwenye tovuti kama vile Ebay au LeBonCoin, kwa vile wauzaji wa kitaalamu hawatoi tena kutokana na ushindani wake wa chini ikilinganishwa na mashine mpya zaidi. Haifanyi kazi vizuri kuliko ASIC kama vile Antminer S19, iliyoanzishwa tangu Machi 2020, lakini hii inafanya kuwa maunzi yanayotumika kwa bei nafuu na yanafaa zaidi kwa marekebisho tutakayofanya.
 
 
 Antminer S9 inakuja katika tofauti kadhaa (i, j) ambazo huleta marekebisho madogo kwa maunzi ya kizazi cha kwanza. Hatuamini kwamba hii inapaswa kuathiri uamuzi wako wa ununuzi, na mwongozo huu utafanya kazi kwa tofauti hizi zote.
@@ -154,7 +154,7 @@ Pia, angalia kwamba vitambulisho chaguo-msingi vinafanya kazi (jina la mtumiaji:
 ![image](assets/guide-achat/9.webp)
 
 
-Baada ya kuunganishwa, unapaswa kuwa na uwezo wa kuona hali ya kila hashibodi kwenye dashibodi. Ikiwa Miner imeunganishwa kwenye bwawa, unapaswa kuona hashibodi zote zikifanya kazi. Ni muhimu kutambua kwamba wachimbaji hufanya kelele nyingi, ambayo ni ya kawaida. Pia, hakikisha mashabiki wanafanya kazi ipasavyo.
+Baada ya kuunganishwa, unapaswa kuwa na uwezo wa kuona hali ya kila hashibodi kwenye dashibodi. Ikiwa Miner imeunganishwa kwenye bwawa, unapaswa kuona hashibodi zote zikifanya kazi. Ni muhimu kutambua kwamba miner hufanya kelele nyingi, ambayo ni ya kawaida. Pia, hakikisha mashabiki wanafanya kazi ipasavyo.
 
 
 Kisha unaweza kuondoa Mining pool ya mmiliki wa awali ili kusanidi yako baadaye. Ikiwa inataka, unaweza pia kukagua bodi za hashi kwa kutenganisha mashine. Hata hivyo, hatua hii ni ngumu zaidi na inahitaji muda zaidi na zana fulani. Ikiwa ungependa kuendelea na disassembly hii, unaweza kurejelea sehemu inayofuata ya mafunzo haya ambayo ina maelezo zaidi jinsi ya kuifanya. Ni muhimu kutambua kwamba wachimbaji hukusanya mengi ya Dust na wanahitaji matengenezo ya mara kwa mara. Unaweza kuona mkusanyiko huu wa Dust na ubora wa matengenezo kwa kutenganisha mashine.
@@ -401,7 +401,7 @@ Unaposubiri kuweza kutoa kifuko cha kuvutia zaidi kwa hita yako mpya, unaweza ku
 ![image](assets/hardware/28.webp)
 
 
-Na kwa kugusa kumaliza, unganisha daraja la Vonet kwenye bandari ya Ethernet kwa nguvu yake ya usambazaji. Ikiwa bado hujafanya hivyo, unaweza kufuata mafunzo haya ili kusanidi daraja lako.
+Na kwa kugusa kumaliza, unganisha daraja la Vonet kwenye bandari ya Ethernet kwa nguvu yake ya supply. Ikiwa bado hujafanya hivyo, unaweza kufuata mafunzo haya ili kusanidi daraja lako.
 
 
 ![image](assets/hardware/29.webp)
