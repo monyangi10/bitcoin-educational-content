@@ -7,7 +7,7 @@ description: Biashara ya satoshi na XOF kila mahali nchini Senegali
 
 
 
-Ujio wa Lightning Network uliashiria mwanzo wa mfumo mkuu wa Bitcoin, ukitoa uwezekano wa papo hapo na wa gharama nafuu kuliko mtandao mkuu wa itifaki ya Bitcoin (Mainnet).
+Ujio wa Lightning Network uliashiria mwanzo wa mfumo mkuu wa Bitcoin, ukitoa uwezekano wa papo hapo na kwa gharama nafuu kuliko mtandao mkuu wa itifaki ya Bitcoin (Mainnet).
 
 
 Leo, ufikiaji wa Bitcoin ni changamoto ya kiubunifu katika nchi ambazo hazijaendelea na/au nchi zinazoibuka, ili kufidia kushindwa kwa mfumo wa fedha wa ndani.
@@ -20,12 +20,12 @@ Katika somo hili, tunagundua **Banxaas**, jukwaa la kubadilishana vitu ambalo hu
 
 
 
-Banxaas linatokana na lahaja ya Senegali (Wolof) ikimaanisha tawi. Kiitikadi, tunaweza kuona Banxaas kama tawi linalounganisha watu wa Senegal na matumizi ya Bitcoin. Tawi unaloweza kutegemea kulinda akiba yako dhidi ya mfumuko wa bei na udhibiti. Imetengenezwa na kampuni iliyoanzishwa ya Senegali (Yité Technologies), [Banxaas](https://banxaas.com) inatoa huduma ya papo hapo ya Exchange kati ya Bitcoin na Faranga za CFA (XOF) kinyume chake, shukrani kwa nguvu ya Lightning Network. Banxaas inakuja na mbinu isiyo ya kawaida kwa majukwaa ya Exchange katika kanda ndogo ya Afrika Magharibi.
+Banxaas linatokana na lahaja ya Senegali (Wolof) ikimaanisha tawi. Kiitikadi, tunaweza kuona Banxaas kama tawi linalounganisha watu wa Senegal na matumizi ya Bitcoin. Tawi unaloweza kutegemea kulinda akiba yako dhidi ya mfumuko wa bei na udhibiti. Limetengenezwa na kampuni iliyoanzishwa ya Senegali (Yité Technologies), [Banxaas](https://banxaas.com) inatoa huduma ya papo hapo ya Exchange kati ya Bitcoin na Faranga za CFA (XOF) kinyume chake, shukrani kwa nguvu ya Lightning Network. Banxaas inakuja na mbinu isiyo ya kawaida kwa majukwaa ya Exchange katika kanda ndogo ya Afrika Magharibi.
 
 
 
 
-- Banxaas ni jukwaa lisilo la ulinzi: huhitaji kufungua akaunti au kumiliki Wallet kwenye jukwaa. Unabaki katika udhibiti wa pesa zako, na kutokujulikana kwako kunaimarishwa.
+- Banxaas ni jukwaa lisilo la ulinzi: hauhitaji kufungua akaunti au kumiliki Wallet kwenye jukwaa. Unabaki katika udhibiti wa pesa zako, na kutokujulikana kwako kunaimarishwa.
 
 
 
@@ -73,7 +73,7 @@ Mfumo wa wavuti wa Banxaas ni rahisi na angavu, hukuruhusu kukamilisha ununuzi w
 
 
 
-- Kutoka faranga za CFA hadi satoshi** :
+- **Kutoka faranga za CFA hadi satoshi** :
 
 
 
@@ -88,7 +88,7 @@ Banxaas inashughulikia eneo lote la Senegal na waendeshaji wakuu wawili wa simu.
 
 
 
-Unapoanzisha ubadilishaji kutoka faranga za CFA hadi Bitcoin, utaongeza Umeme wako Address au Invoice bila kiasi kilichoundwa kutoka kwa Lightning Wallet yako katika uga lengwa.
+Unapoanzisha ubadilishaji kutoka faranga za CFA hadi Bitcoin, utaongeza Umeme wako wa Address au Invoice bila kiasi kilichoundwa kutoka kwa Lightning Wallet yako katika uga lengwa.
 
 
 
@@ -114,7 +114,7 @@ Thibitisha muamala wako kwa kubofya kitufe cha **Troc** ili kununua bitcoins kut
 
 
 
-- Kutoka Satoshis hadi CFA faranga**
+- **Kutoka Satoshis hadi CFA faranga**
 
 
 
@@ -182,7 +182,7 @@ Timu ya Banxaas iko tayari kukusaidia kwa matatizo yoyote ambayo unaweza kukutan
 ![support](assets/fr/09.webp)
 
 
-Sasa umepata jukwaa la Banxaas kwa Exchange bitcoins zako na unaweza kutuma pesa Senegal kwa kutumia satoshi zako.
+Sasa umepata jukwaa la Banxaas kwa Exchange ya bitcoins zako na unaweza kutuma pesa Senegal kwa kutumia satoshi zako.
 
 
 
