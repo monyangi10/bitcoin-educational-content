@@ -23,6 +23,8 @@ Le cours établit ensuite les parallèles fascinants entre cette révolution cop
 ## Introduction du cours
 <chapterId>99af4992-fd6c-5142-b168-d927b251574b</chapterId>
 
+![lecture](https://www.youtube.com/watch?v=EAYq0npEeUw)
+
 Je suis heureux de vous présenter dans ce cours la philosophie de Baruch de Spinoza (1632-1677), célèbre philosophe du 17e siècle considéré comme le père de la philosophie rationnelle des Lumières. 
 
 ![image](./assets/fr/1.1.1.webp)
@@ -76,6 +78,8 @@ Même si, vous le savez, les choses sont actuellement en train d’évoluer dans
 ## Présentation de Baruch de Spinoza
 <chapterId>f53a9cfd-326e-5b73-a766-3ef2f07c5a49</chapterId>
 
+![lecture](https://www.youtube.com/watch?v=s4BZacdcGrE)
+
 Qui est donc Baruch de Spinoza ? Eh bien il s’agit d’un philosophe hollandais né en 1632 et mort à l’âge de 45 ans, en 1677. 
 
 De confession juive, il était membre de la communauté portugaise séfarade descendant des marranes chassés d’Espagne par les catholiques au 15e siècle et il fut donc élevé dans un milieu religieux et intellectuel, conscient de ce que signifie être persécuté. 
@@ -124,8 +128,11 @@ Que ces moyens soient d’ordre philosophiques ou technologiques, comme l’est 
 
 # Les œuvres majeures, Éthique et politique
 <partId>d7d7e9a1-005b-519c-b587-137435e46344</partId>
+
 ## L’Éthique et la recherche de la liberté
 <chapterId>4cc66e25-335c-591d-9b78-83e5664bbbbc</chapterId>
+
+![lecture](https://www.youtube.com/watch?v=ZvllQm2d6yA)
 
 
 Je vous propose dans ce chapitre de découvrir à présent l’œuvre majeure de Spinoza, intitulée Éthique, publiée à titre posthume, en 1677.
@@ -178,6 +185,8 @@ Autrement dit, « à lutter pour leur servitude comme s’ils luttaient pour l
 
 ## Le Traité Théologico-politique
 <chapterId>84b0187e-1050-5d44-a536-80554896e828</chapterId>
+
+![lecture](https://www.youtube.com/watch?v=yLB6xxnOm3Y)
 
 
 Après l’Éthique, je souhaite dans ce chapitre vous présenter une autre œuvre majeure pour comprendre toute l’influence philosophique et politique de Spinoza, notamment sur les Lumières à venir et sur les courants libéraux et, pour ce qui nous concerne, libertariens. 
@@ -232,6 +241,8 @@ C’est pourquoi le 18e siècle des Lumières, grâce à l’exercice de la rais
 ## Une nouvelle définition de la Nature et de l’être humain
 <chapterId>3e6599e3-5b29-50a8-a67d-d0386da5d65d</chapterId>
 
+![lecture](https://www.youtube.com/watch?v=vVyVBZ2icy8)
+
 
 Je vous propose à présent dans ce chapitre de faire un peu d’histoire des idées et de comprendre pourquoi le spinozisme est considéré comme une véritable révolution copernicienne des idées.
 
@@ -276,6 +287,8 @@ Autrement dit qu’ils seraient doués du libre arbitre, une croyance illusoire 
 
 ## L’illusion du Libre arbitre
 <chapterId>f147a914-cb64-5927-b305-26691930bca3</chapterId>
+
+![lecture](https://www.youtube.com/watch?v=JxrEs53ZDX4)
 
 
 Dans ce cours, nous allons à présent évoquer la question délicate du libre arbitre afin de mieux saisir ce qu’est la liberté pour Spinoza, pour les Lumières et les premiers philosophes libéraux.
@@ -339,6 +352,8 @@ Enfin, si la croyance au libre arbitre est  une illusion dont il est extrêmemen
 ## L’illusion des causes finales
 <chapterId>da2a7fb1-f1e9-5b56-822d-c73770de749d</chapterId>
 
+![lecture](https://www.youtube.com/watch?v=yF5N3tlibuk)
+
 Nous avons vu dans le précédant chapitre que l’illusion du libre arbitre consiste à croire que l’on pourrait donc commencer quelque chose à partir de rien, que seule notre volonté nous permettrait de diriger notre vie et que nous disposerions d’un pouvoir de décision indéterminé. C’est l’idée que l’homme serait en mesure de troubler l’ordre de la Nature plus qu’il ne le subit.
 
 Mais pour Spinoza (1632-1677), l’homme n’est pas « un empire dans un empire », c’est-à-dire qu’il n’est pas, contrairement à ce qu’établissait Descartes (1596-1650), une exception dans la nature et qu’il n’est jamais exonéré du prolongement de l’enchaînement déterministe des causes et des effets. 
@@ -390,6 +405,8 @@ Merci de votre attention et je vous retrouve dans le prochain chapitre.
 
 ## L’illusion théologique
 <chapterId>93554156-5e62-526d-9b71-49c47be916af</chapterId>
+
+![lecture](https://www.youtube.com/watch?v=ssv0871xYFg)
 
 
 Dans ce dernier chapitre sur la nouvelle vision copernicienne des idées que nous offre le spinozisme, nous allons enfin évoquer la troisième illusion que présente Spinoza (1632-1677) dans son œuvre, l’Éthique.
@@ -451,6 +468,8 @@ Pour Spinoza, un État démocratique qui permet la liberté de penser est donc l
 ## La question du mal chez Spinoza
 <chapterId>1ce64576-2688-5757-a119-57cc3a1076c0</chapterId>
 
+![lecture](https://www.youtube.com/watch?v=ssv0871xYFg)
+
 Je souhaite à présent évoquer avec vous la question du mal, tel que Spinoza (1632-1677) l’expose dans ses œuvres et dans sa correspondance.
 Mais attention, c’est un sujet complexe et controversé et il ne s’agit ici que de comprendre, encore une fois, sa manière de réfléchir afin de mieux saisir ce qui le guide, c’est-à-dire la recherche de la liberté.
 
@@ -491,6 +510,8 @@ Merci de votre attention et je vous retrouve dans la prochaine vidéo.
 
 ## La théorie des affects
 <chapterId>3bb011ce-6f0c-51a6-b41f-25a3b5b7768e</chapterId>
+
+![lecture](https://www.youtube.com/watch?v=UNyYDKtJcmY)
 
 Selon Spinoza, la liberté est donc un concept à découvrir, un chemin pour nous mener vers une vie meilleure, plus puissante. Plus libre. Un chemin qui passe par la reconnaissance du déterminisme absolu et du lien de causalité rationnelle des choses.
 
@@ -548,6 +569,8 @@ Et c’est la raison pour laquelle on dit souvent du spinozisme qu’elle est «
 ## La liberté, l’école autrichienne d’économie et la philosophie des cypherpunks 
 
 <chapterId>b54f2532-460c-11f0-a248-93ff24ef1d57</chapterId>
+
+![lecture](https://www.youtube.com/watch?v=pgm-1nVCDJg)
 
 
 Vous le savez maintenant, la liberté selon Spinoza est donc une prise de conscience de notre déterminisme. Sous la conduite de la raison et grâce à notre capacité d’agir, nous pouvons ainsi comprendre le mécanisme causal des servitudes afin de lutter contre elles, ne plus les subir, et ne plus agir contre nos propres intérêts. 
