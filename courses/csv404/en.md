@@ -534,7 +534,7 @@ The verification process serves multiple purposes: providing a clear audit trail
 
 
 # Diving deeper into Taproot Assets 
-<partId>f9c3a7d5-8e2b-4d6f-7a9c-3b5e8d1f2c43</partId>
+<partId>863d9c88-870c-11f0-a2de-430d32152c27</partId>
 
 ## Update Tapd
 <chapterId>a5b8f9c3-6d7e-4a2b-8c9f-2e3d7b1a5f54</chapterId>
@@ -677,7 +677,7 @@ The RFQ system's flexibility in supporting both individual asset IDs and group k
 
 
 # Final Section
-<partId>e7b5f8c9-4d3a-4e8b-9c6f-2a8d5b3e1c87</partId>
+<partId>9469342a-870c-11f0-88da-ff4cff486fe3</partId>
 
 # Evaluate this course
 <chapterId>c9a8e3d7-5b6c-4f2d-8e9a-7d3b6c1f5a98</chapterId>
