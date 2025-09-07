@@ -16,7 +16,7 @@ Ce cours captivant vous emmènera explorer l'évolution fascinante de la monnaie
 
 +++
 # Introduction 
-<partId>05f9ec93-6f06-5190-b679-5126b66d8953</partId>
+<partId>c7590b12-8be9-11f0-a621-033b3d5b0bd4</partId>
 
 ## Introduction à l'Histoire de la monnaie
 <chapterId>71159b01-39ff-5a7d-acdd-b353e5c2af53</chapterId>
