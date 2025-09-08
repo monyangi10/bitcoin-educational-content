@@ -1,6 +1,6 @@
 ---
-name: Kampuni ya Bitcoin
-description: Ninawezaje kununua bidhaa na huduma katika BTC na Kampuni ya Bitcoin?
+name: The Bitcoin company
+description: Ninawezaje kununua bidhaa na huduma katika BTC na The Bitcoin company?
 ---
 ![cover](assets/cover.webp)
 
@@ -8,7 +8,7 @@ description: Ninawezaje kununua bidhaa na huduma katika BTC na Kampuni ya Bitcoi
 
 > Bitcoin: Mfumo wa Pesa wa Kielektroniki wa Peer-to-Rika
 
-Hiyo ndiyo maana ya Bitcoin, kutumiwa rika-kwa-rika bila kuhitaji ruhusa ya mtu yeyote. Leo, wafanyabiashara wachache sana wanakubali Bitcoin katika Exchange kwa bidhaa na huduma zao (tuko mapema sana), na kufanya iwe vigumu kwa sisi ambao tunahitaji kutumia satoshi zetu. **Kampuni ya Bitcoin** iko hapa kusaidia kutatua tatizo hili, huku kuruhusu kutumia bitcoins zako **kununua kadi za zawadi**
+Hiyo ndiyo maana ya Bitcoin, kutumiwa rika-kwa-rika bila kuhitaji ruhusa ya mtu yeyote. Leo, wafanyabiashara wachache sana wanakubali Bitcoin katika Exchange kwa bidhaa na huduma zao (tuko mapema sana), na kufanya iwe vigumu kwa sisi ambao tunahitaji kutumia satoshi zetu. **The Bitcoin company** iko hapa kusaidia kutatua tatizo hili, huku kuruhusu kutumia bitcoins zako **kununua kadi za zawadi**
 
 
 
@@ -32,11 +32,11 @@ Kwa kifupi, "tumia" & "badala" inaonekana kuwa njia ya mbele. Shiriki katika mae
 
 
 
-## Je! Kampuni ya Bitcoin ni nini?
+## Je! The Bitcoin company ni nini?
 
 
 
-**Kampuni ya Bitcoin** ni kama mshindani wake Bitrefill: ni njia ya kubadilishana bitcoins kwa kadi za zawadi za rejareja. Unaweza kuishi kwa "standard Bitcoin" shukrani kwa aina hii ya suluhisho, kwa kuunda akaunti rahisi.
+**The Bitcoin company** ni kama mshindani wake Bitrefill: ni njia ya kubadilishana bitcoins kwa kadi za zawadi za rejareja. Unaweza kuishi kwa "standard Bitcoin" shukrani kwa aina hii ya suluhisho, kwa kuunda akaunti rahisi.
 
 
 
@@ -54,7 +54,7 @@ Utapata uteuzi mpana wa wauzaji reja reja, kulingana na nchi unayotaka kununua.
 
 
 
-**Kampuni ya Bitcoin** inatoa anuwai ya bidhaa, kutoka kwa rejareja na vyakula vya haraka hadi mifumo ya utiririshaji, michezo ya mtandaoni, tovuti za biashara ya mtandaoni na nyongeza za simu.
+**The Bitcoin company** inatoa anuwai ya bidhaa, kutoka kwa rejareja na vyakula vya haraka hadi mifumo ya utiririshaji, michezo ya mtandaoni, tovuti za biashara ya mtandaoni na nyongeza za simu.
 
 
 
@@ -66,7 +66,7 @@ Ifuatayo ni uteuzi wa ishara kwa USA kama mfano:
 
 
 
-## Je, nitafunguaje akaunti ya Kampuni ya Bitcoin?
+## Je, nitafunguaje akaunti ya The Bitcoin company?
 
 
 
@@ -184,7 +184,7 @@ Hatimaye, hebu turudi kwenye ukurasa wa nyumbani kwa kubofya "Kadi za Zawadi" kw
 
 
 
-## Jinsi ya kununua kadi ya zawadi ya BTC kwenye Kampuni ya Bitcoin?
+## Jinsi ya kununua kadi ya zawadi ya BTC kwenye The Bitcoin company?
 
 
 
@@ -279,7 +279,7 @@ Hatimaye, unaweza kuona kadi zote za zawadi zilizonunuliwa kupitia akaunti hii w
 
 
 
-Hatimaye, ikiwa ungependa kutumia **kwenye simu ya mkononi** njia ya Uthibitishaji wa LNURL ambayo tumeona katika mafunzo haya, utahitaji kufikia tovuti ya Kampuni ya Bitcoin kupitia kivinjari chako cha simu, kisha uongeze njia ya mkato kwenye skrini yako ya nyumbani. Programu rasmi inaruhusu tu uthibitishaji kwa barua pepe/nenosiri.
+Hatimaye, ikiwa ungependa kutumia **kwenye simu ya mkononi** njia ya Uthibitishaji wa LNURL ambayo tumeona katika mafunzo haya, utahitaji kufikia tovuti ya The Bitcoin company kupitia kivinjari chako cha simu, kisha uongeze njia ya mkato kwenye skrini yako ya nyumbani. Programu rasmi inaruhusu tu uthibitishaji kwa barua pepe/nenosiri.
 
 
 
