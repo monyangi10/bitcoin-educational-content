@@ -182,7 +182,7 @@ Timu ya Banxaas iko tayari kukusaidia kwa matatizo yoyote ambayo unaweza kukutan
 ![support](assets/fr/09.webp)
 
 
-Sasa umepata jukwaa la Banxaas kwa Exchange bitcoins zako na unaweza kutuma pesa Senegal kwa kutumia satoshi zako.
+Sasa umepata jukwaa la Banxaas kwa kuExchange bitcoins zako na unaweza kutuma pesa Senegal kwa kutumia satoshi zako.
 
 
 
