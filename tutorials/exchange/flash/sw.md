@@ -1,5 +1,5 @@
 ---
-name: Mwako
+name: Flash
 description: Nunua bitcoins kutoka faranga 100 za CFA shukrani kwa nguvu ya Umeme.
 ---
 
