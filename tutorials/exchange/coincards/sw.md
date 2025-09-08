@@ -1,5 +1,5 @@
 ---
-name: Kadi za sarafu
+name: Coincards
 description: Ninawezaje kununua bidhaa na huduma katika BTC na Coincards?
 ---
 ![cover](assets/cover.webp)
