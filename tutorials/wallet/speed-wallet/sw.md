@@ -6,7 +6,7 @@ description: Lipa na Exchange katika bitcoins na USDT papo hapo
 
 
 
-Kuna suluhisho za kutosha siku hizi kusaidia bitcoiners kupata, kuhifadhi na Exchange bitcoins zao. Leo, tutaangalia Kasi ya Wallet, Bitcoin na Umeme Wallet ambayo inakuruhusu kufanya miamala kwa urahisi.
+Kuna suluhisho za kutosha siku hizi kusaidia bitcoiners kupata, kuhifadhi na Exchange bitcoins zao. Leo, tutaangalia Kasi ya Wallet, Bitcoin na Lightning Wallet ambayo inakuruhusu kufanya miamala kwa urahisi.
 
 
 
@@ -19,7 +19,7 @@ Kuna suluhisho za kutosha siku hizi kusaidia bitcoiners kupata, kuhifadhi na Exc
 
 
 
-Kwa bitcoiners mpya, chaguo la Wallet ambalo litatumika kuhifadhi na Exchange bitcoins zako ni muhimu na linaweza kuathiri usalama wa mali yako.
+Kwa bitcoiner mpya, chaguo la Wallet ambalo litatumika kuhifadhi na Exchange bitcoins zako ni muhimu na linaweza kuathiri usalama wa mali yako.
 
 
 
@@ -85,7 +85,7 @@ https://planb.network/tutorials/computer-security/authentication/bitwarden-0532f
 
 
 
-Baada ya kufungua akaunti yako, tunapendekeza uweke mfumo wa uthibitishaji wa aina mbili au uthibitishaji wa PIN/bayometriki kwa alama ya vidole. Mipangilio hii huongeza kiwango cha ziada cha usalama, huku kuruhusu kujithibitisha kabla ya kufikia Wallet na wakati wa shughuli za Bitcoin kutoka Kasi ya Wallet.
+Baada ya kufungua akaunti yako, tunapendekeza uweke mfumo wa uthibitishaji wa aina mbili au uthibitishaji wa PIN/bayometriki kwa alama ya vidole. Mipangilio hii huongeza kiwango cha ziada cha usalama, huku ikikuruhusu kujithibitisha kabla ya kufikia Wallet na wakati wa miamala ya Bitcoin kutoka kasi ya Wallet.
 
 
 
@@ -107,7 +107,7 @@ Kutoka kwa Mipangilio, unaweza pia kubinafsisha jinsi salio lako linavyoonyeshwa
 
 
 
-Ikiwa tayari una uzoefu na pochi za Bitcoin, hutakosa hatua hata kidogo. Kasi ya Wallet inakupa Interface angavu ili kukusaidia kuanza.
+Ikiwa tayari una uzoefu na wallet za Bitcoin, hutakosa hatua hata kidogo. Kasi ya Wallet inakupa Interface angavu ili kukusaidia kuanza.
 
 
 
@@ -129,7 +129,7 @@ Kwenye ukurasa wa nyumbani wa **Wallet**, utapata :
 
 
 
-- Chaguo la kuunda na kubinafsisha Lightning Address yako ili kupokea malipo ya Radi.
+- Chaguo la kuunda na kubinafsisha Lightning Address yako ili kupokea malipo ya Lightning.
 
 
 
@@ -137,13 +137,13 @@ Kwenye ukurasa wa nyumbani wa **Wallet**, utapata :
 
 
 
-⚠️ **KUMBUKA**: Lightning Address ni lakabu ya kipekee ya barua pepe ambayo hurahisisha usomaji wa URL yako ya Umeme. Hakikisha umetoa umeme sahihi wa Address unapotaka kupokea malipo ya Radi.
+⚠️ **KUMBUKA**: Lightning Address ni lakabu ya kipekee ya barua pepe ambayo hurahisisha usomaji wa URL yako ya Lightning. Hakikisha umetoa Lightning sahihi wa Address unapotaka kupokea malipo ya Radi.
 
 
 
 
 
-- Kupokea malipo kwa Kasi ya Wallet :**
+- **Kupokea malipo kwa Kasi ya Wallet :**
 
 
 
@@ -161,7 +161,7 @@ Unaweza pia kutumia Lightning Address yako unapotaka kumpa mtumaji wako wepesi w
 
 
 
-- Tuma bitcoins kwa Kasi ya Wallet** :
+- **Tuma bitcoins kwa Kasi ya Wallet** :
 
 
 
@@ -181,17 +181,17 @@ Kasi ya Wallet itatambua, kulingana na umbizo lako la Address, mtandao ambao ina
 
 
 
-Moja ya vipengele vya kwanza vya Speed ​​Wallet ni kwamba hukuruhusu kununua na sarafu za Exchange bila kuacha programu. Kwa njia hii, unaweza kupata bitcoins kutoka kwa salio la sarafu nyingine katika Wallet yako. Kwa mfano, unaweza kununua Bitcoin kwa USDT ambayo tayari unayo katika Wallet yako, kwa ada za chini za Exchange.
+Moja ya vipengele vya kwanza vya Speed Wallet ni kwamba hukuruhusu kununua na kuuza sarafu za Exchange bila kuacha programu. Kwa njia hii, unaweza kupata Bitcoin kutoka kwa salio la sarafu nyingine katika Wallet yako. Kwa mfano, unaweza kununua Bitcoin kwa USDT ambayo tayari unayo katika Wallet yako, kwa ada za chini za Exchange.
 
 
 
-Chaguo za **Nunua** na **Badilisha** hukuwezesha bitcoins za Exchange kwa sarafu nyingine zinazopatikana katika Kasi.
+Chaguo za **Nunua** na **Exchange** hukuwezesha bitcoins za Exchange kwa sarafu nyingine zinazopatikana katika Kasi.
 
 
 
 
 
-- Nunua Bitcoin ukitumia kadi yako ya mkopo**: Kasi ya Wallet hurahisisha kupata Bitcoin kutoka kwa sarafu za malipo unazotumia kila siku. Inajumuisha kijumlishi cha malipo ambacho hukuruhusu kulipa bitcoins kwa kadi yako ya mkopo.
+- **Nunua Bitcoin ukitumia kadi yako ya mkopo**: Kasi ya Wallet hurahisisha kupata Bitcoin kutoka kwa sarafu za malipo unazotumia kila siku. Inajumuisha kijumlishi cha malipo ambacho hukuruhusu kulipa bitcoins kwa kadi yako ya mkopo.
 
 
 
@@ -201,7 +201,7 @@ Chaguo za **Nunua** na **Badilisha** hukuwezesha bitcoins za Exchange kwa sarafu
 
 
 
-- Nunua Bitcoin kutoka kwa fedha zingine za siri**: Unaweza Exchange USDT yako, USDC kwa bitcoins katika Wallet yako na kinyume chake. Kupitia chaguo hili, Speed ​​Wallet hurahisisha mchakato wa kununua na kuuza Bitcoin bila kurejelea majukwaa ya nje ya Exchange. Kwa hivyo unaweza kufanya biashara kwa kiasi kidogo cha satoshi 20,000, karibu $20 kwa kiwango cha sasa, bila kuacha Kasi yako ya Wallet.
+-**Nunua Bitcoin kutoka kwa fedha zingine za cryptography**: Unaweza Exchange USDT yako, USDC kwa bitcoins katika Wallet yako na kinyume chake. Kupitia chaguo hili, Speed ​​Wallet hurahisisha mchakato wa kununua na kuuza Bitcoin bila kurejelea majukwaa ya nje ya Exchange. Kwa hivyo unaweza kufanya biashara kwa kiasi kidogo cha satoshi 20,000, karibu $20 kwa kiwango cha sasa, bila kuacha Kasi yako ya Wallet.
 
 
 
@@ -213,7 +213,7 @@ https://planb.network/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d
 
 
 
-## Nunua bidhaa na huduma katika Kasi ya Wallet
+## Nunua bidhaa na huduma katika Speed Wallet
 
 
 
@@ -375,25 +375,25 @@ Kwa kulenga malipo, utapata chaguzi zifuatazo:
 
 
 
-- Malipo ya mtandaoni**: Kwa chaguo hili, unaweza kukubali Bitcoin kama njia ya malipo ya bidhaa zako za kidijitali, kupitia viungo vya malipo, ankara na usajili.
+- **Malipo ya mtandaoni**: Kwa chaguo hili, unaweza kukubali Bitcoin kama njia ya malipo ya bidhaa zako za kidijitali, kupitia viungo vya malipo, ankara na usajili.
 
 
 
 
 
-- Malipo kwenye tovuti**: Kukusanya malipo kwenye duka lako.
+- **Malipo kwenye tovuti**: Kukusanya malipo kwenye duka lako.
 
 
 
 
 
-- Malipo ya papo hapo**: Chaguo linalokuruhusu kudhibiti urejeshaji, uondoaji, gharama na hati za malipo ya mfanyakazi moja kwa moja kutoka kwa Speed ​​Business Interface.
+- **Malipo ya papo hapo**: Chaguo linalokuruhusu kudhibiti urejeshaji, uondoaji, gharama na hati za malipo ya mfanyakazi moja kwa moja kutoka kwa Speed ​​Business Interface.
 
 
 
 
 
-- Malipo ya mfumo**: Unganisha akaunti yako ya Kasi ya Biashara kwa zana za nje unazotumia kufanya uhamisho na malipo kwenye mifumo hii.
+- **Malipo ya mfumo**: Unganisha akaunti yako ya Kasi ya Biashara kwa zana za nje unazotumia kufanya uhamisho na malipo kwenye mifumo hii.
 
 
 
