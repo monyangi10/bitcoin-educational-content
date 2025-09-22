@@ -1,5 +1,5 @@
 ---
-name: Programu ya Blockstream - Liquid
+name: blockstream-app-liquid
 description: Jinsi ya kusanidi Programu ya Blockstream na kutumia Liquid Network
 ---
 ![cover](assets/cover.webp)
@@ -26,8 +26,8 @@ description: Jinsi ya kusanidi Programu ya Blockstream na kutumia Liquid Network
 
 
 
-- Wanaoanza**: Watumiaji wanaotaka kudhibiti bitcoins zao kwa kutumia programu angavu ya simu, inayounganisha Liquid Network.
-- Watumiaji wa kati**: Watu wanaotafuta kuelewa utendakazi wa onchain na chaguo za faragha kama vile Tor au SPV.
+- **Wanaoanza**: Watumiaji wanaotaka kudhibiti bitcoins zao kwa kutumia programu angavu ya simu, inayounganisha Liquid Network.
+- **Watumiaji wa kati**: Watu wanaotafuta kuelewa utendakazi wa onchain na chaguo za faragha kama vile Tor au SPV.
 
 
 
@@ -50,13 +50,13 @@ Sidechain ni Blockchain inayojitegemea inayofanya kazi sambamba na Bitcoin, kwa 
 
 
 
-- (1) Peg-in**: Bitcoins (BTC) zimefungwa kwenye Blockchain kuu na shirikisho la Liquid. Kwa kurudi, kiasi sawa cha Liquid-Bitcoins (L-BTC), kuhakikisha usawa kati ya minyororo miwili, hutolewa kwenye Blockchain Liquid na kutumwa kwa mtumiaji.
+- **(1) Peg-in**: Bitcoins (BTC) zimefungwa kwenye Blockchain kuu na shirikisho la Liquid. Kwa kurudi, kiasi sawa cha Liquid-Bitcoins (L-BTC), kuhakikisha usawa kati ya minyororo miwili, hutolewa kwenye Blockchain Liquid na kutumwa kwa mtumiaji.
 
 
 
 
 
-- (2) Miamala inayojitegemea** : Shughuli za malipo zinaweza kuendeshwa kwa wakati mmoja na kwa kujitegemea kwenye Blockchain (BTC) kuu na Sidechain Liquid (L-BTC), kulingana na mahitaji ya mtumiaji.
+- **(2) Miamala inayojitegemea** : Shughuli za malipo zinaweza kuendeshwa kwa wakati mmoja na kwa kujitegemea kwenye Blockchain (BTC) kuu na Sidechain Liquid (L-BTC), kulingana na mahitaji ya mtumiaji.
 
 
 
@@ -80,11 +80,11 @@ Liquid inategemea **shirikisho** la washiriki wanaoaminika (mabadilishano, makam
 
 
 
-- Kasi**: Miamala kwenye Liquid inathibitishwa katika muda wa **dakika 1**, ikilinganishwa na dakika 10 au zaidi kwa miamala ya mtandaoni, kutokana na vizuizi vinavyotolewa kila dakika na shirikisho la wathibitishaji.
-- Usiri ulioimarishwa**: Liquid hutumia **Confidential Transactions**, ambayo huficha kiasi na aina ya mali iliyohamishwa, na kufanya miamala kuwa ya faragha zaidi (ingawa anwani zinaendelea kuonekana).
-- Ada za chini** : Miamala kwenye Liquid kwa ujumla ni ya bei nafuu, na kuifanya kuwa bora kwa uhamisho wa mara kwa mara au kiasi kidogo.
-- Vipengee vingi**: Kando na L-BTCs, Liquid inasaidia utoaji wa vipengee vingine vya kidijitali, kama vile sarafu za sarafu au tokeni, kwa matumizi katika programu mahususi.
-- Kesi za matumizi**: Liquid inafaa haswa kwa ubadilishanaji wa mifumo tofauti, malipo ya haraka, au programu zinazohitaji kandarasi mahiri, huku zikisalia kuhusishwa na usalama wa Bitcoin.
+- **Kasi**: Miamala kwenye Liquid inathibitishwa katika muda wa **dakika 1**, ikilinganishwa na dakika 10 au zaidi kwa miamala ya mtandaoni, kutokana na vizuizi vinavyotolewa kila dakika na shirikisho la wathibitishaji.
+- **Usiri ulioimarishwa**: Liquid hutumia **Confidential Transactions**, ambayo huficha kiasi na aina ya mali iliyohamishwa, na kufanya miamala kuwa ya faragha zaidi (ingawa anwani zinaendelea kuonekana).
+- **Ada za chini** : Miamala kwenye Liquid kwa ujumla ni ya bei nafuu, na kuifanya kuwa bora kwa uhamisho wa mara kwa mara au kiasi kidogo.
+- **Vipengee vingi**: Kando na L-BTCs, Liquid inasaidia utoaji wa vipengee vingine vya kidijitali, kama vile sarafu za sarafu au tokeni, kwa matumizi katika programu mahususi.
+- **Kesi za matumizi**: Liquid inafaa haswa kwa ubadilishanaji wa mifumo tofauti, malipo ya haraka, au programu zinazohitaji kandarasi mahiri, huku zikisalia kuhusishwa na usalama wa Bitcoin.
 
 
 
@@ -98,14 +98,14 @@ Liquid inategemea **shirikisho** la washiriki wanaoaminika (mabadilishano, makam
 
 
 
-- Hot Wallet**, **Software Wallet**, **Wallet simu**, **Software Wallet**: majina yote ya programu iliyosakinishwa kwenye simu mahiri, kompyuta au kifaa chochote kilichounganishwa kwenye Mtandao, kuwezesha funguo za kibinafsi kutoka kwa Bitcoin Wallet kudhibitiwa na kulindwa.
-- Tofauti na **pochi za maunzi**, pia hujulikana kama **Cold wallet**, ambazo hutenga funguo nje ya mtandao, pochi za programu hufanya kazi katika mazingira yaliyounganishwa, na kuzifanya ziwe hatarini zaidi kwa mashambulizi ya mtandaoni.
+- **Hot Wallet**, **Software Wallet**, **Wallet simu**, **Software Wallet**: majina yote ya programu iliyosakinishwa kwenye simu mahiri, kompyuta au kifaa chochote kilichounganishwa kwenye Mtandao, kuwezesha funguo za kibinafsi kutoka kwa Bitcoin Wallet kudhibitiwa na kulindwa.
+- **Tofauti na **pochi za maunzi**, pia hujulikana kama **Cold wallet**, ambazo hutenga funguo nje ya mtandao, pochi za programu hufanya kazi katika mazingira yaliyounganishwa, na kuzifanya ziwe hatarini zaidi kwa mashambulizi ya mtandaoni.
 
 
 
 
 
-- Matumizi yanayopendekezwa** :
+- **Matumizi yanayopendekezwa** :
     - Inafaa kwa ajili ya kudhibiti kiasi cha wastani cha Bitcoin, hasa kwa shughuli za kila siku.
     - Inafaa kwa wanaoanza au watumiaji walio na mali ndogo, ambao Hardware Wallet inaweza kuonekana kuwa ya juu sana.
 
@@ -113,7 +113,7 @@ Liquid inategemea **shirikisho** la washiriki wanaoaminika (mabadilishano, makam
 
 
 
-- Vizuizi**: Usalama mdogo kwa kuhifadhi pesa nyingi au akiba ya muda mrefu. Katika kesi hii, chagua Hardware Wallet.
+- **Blocks**: Usalama mdogo kwa kuhifadhi pesa nyingi au akiba ya muda mrefu. Katika kesi hii, chagua Hardware Wallet.
 
 
 
@@ -124,7 +124,7 @@ Liquid inategemea **shirikisho** la washiriki wanaoaminika (mabadilishano, makam
 
 
 
-- Blockstream App** ni programu ya simu (iOS, Android) na kompyuta ya mezani ya kudhibiti pochi na mali za Bitcoin kwenye Liquid Network. Ilinunuliwa na [Blockstream](https://blockstream.com/) mwaka wa 2016, awali ilipewa jina *Green Address* na kisha *Blockstream Green*.
+- **Blockstream App** ni programu ya simu (iOS, Android) na kompyuta ya mezani ya kudhibiti pochi na mali za Bitcoin kwenye Liquid Network. Ilinunuliwa na [Blockstream](https://blockstream.com/) mwaka wa 2016, awali ilipewa jina *Green Address* na kisha *Blockstream Green*.
 - Vipengele muhimu ** :
     - Shughuli za Onchain** kwenye Blockchain Bitcoin.
     - Shughuli kwenye mtandao wa **Liquid** (Sidechain kwa ubadilishanaji wa haraka na wa siri).
