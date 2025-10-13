@@ -164,12 +164,16 @@ videos:
       - en: pveSNZ9UnOs
       - es: _tYpNVBahBc
     peertube:
-      - en: niBqDBua3Ba5eqw8fg7PTh
-      - es: i7BybCHBTYLJ9wAQSVH5u5
-      - it: 2nHSdg7Yk8Va8RRsF18RFm
+      - en: tAp5xa5D6z6e8dtEbycv8M
+      - es: 93qyTqRCcDCfe2kXEXbRfn
+      - it: sMnjNbBaUoxDDnvYzGQ4nu
   - id: 29e42254-63d4-4a23-94a7-284e70f20515
     youtube:
       - fr: buPg-IPqwmU
+    peertube:
+      - it: 52N391vHSfrT6mZDsfp2TV
+      - es: fHeyM3qTx1DRFkh1duk2HS
+      - en: wWCdqX5xymQ5ckoALsndfn
   - id: db69aa73-75a9-44af-a77b-eceb3bc185f3
     youtube:
       - fr: SbCbtAYwqBM
@@ -351,3 +355,4 @@ videos:
       - it: hxJtzYNPvgAZfHRVUXNN3c
       - en: u7mDpBPPNgykNCE5fEW6ch
       - es: 3DnD2zw977rqnq8QPioArh
+
