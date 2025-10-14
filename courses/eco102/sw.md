@@ -82,6 +82,8 @@ Je, uko tayari kugundua jinsi mawazo ya Frédéric Bastiat yangali yanatumika le
 
 <chapterId>7f21b617-9810-5484-ad1c-befc61432126</chapterId>
 
+:::video id=0f388c57-8767-49a7-942c-01af703598b3:::
+
 
 Kozi hii ni utangulizi wa Frédéric Bastiat, gwiji asiyetambulika na kinara wa nyakati zetu. Katika utangulizi huu mfupi, nitajaribu kukusaidia kugundua Frédéric Bastiat alikuwa nani na ni mada gani kuu tutakazoshughulikia katika mfululizo huu.
 
@@ -142,6 +144,8 @@ Katika kozi hii, tutasafiri pamoja kupitia mawazo ya Frédéric Bastiat, kuanzia
 
 
 <chapterId>e9d92b63-83dd-552c-84e1-dd535608c109</chapterId>
+
+:::video id=29e42254-63d4-4a23-94a7-284e70f20515:::
 
 
 Mnamo 1844, Frédéric Bastiat alifunga safari ya kibiashara hadi Uhispania. Baada ya kukaa Madrid, Seville, Cadiz, na Lisbon, aliamua kupanda Southampton, na kutembelea Uingereza. Huko London, alipata fursa ya kuhudhuria mikutano ya Ligi ya Sheria ya Kupambana na Nafaka, ambayo kazi yake alikuwa ameifuata kwa mbali. Alikutana na viongozi wakuu wa Chama hiki, akiwemo Richard Cobden, ambaye angekuwa rafiki yake.
@@ -218,6 +222,8 @@ Alikufa huko Roma mnamo 1850, kutokana na kifua kikuu. Amezikwa katika Kanisa la
 
 
 <chapterId>bcc7a12a-6cc4-5061-85e3-0e31fb1f0a49</chapterId>
+
+:::video id=db69aa73-75a9-44af-a77b-eceb3bc185f3:::
 
 
 Katika uchumi, Bastiat daima alikubali deni lake kwa Adam Smith na Jean-Baptiste Say. Akiwa na umri wa miaka 26, alimwandikia mmoja wa marafiki zake, "Sijawahi kusoma juu ya masomo haya lakini kazi hizi nne, Smith, Say, Destutt, na Censor."
@@ -302,13 +308,14 @@ Watayarishaji hutumia ushawishi, mazungumzo na mkataba, huku waporaji wakitumia 
 
 <chapterId>ddf64e9f-2ce0-5651-8eb8-bae578eb0b9b</chapterId>
 
+:::video id=727e10b7-9255-4f63-8b57-be59d2501f23:::
+
 
 Haijulikani sana, lakini Destutt de Tracy alikuwa na ushawishi mkubwa kwa Rais wa baadaye wa Marekani, Thomas Jefferson, alipokuwa balozi wa Paris katika miaka ya 1780.
 
 
 > Kwa kila mtu, nchi yake ya kwanza ni nchi yake, na ya pili ni Ufaransa" & "Udhalimu ni wakati watu wanaiogopa serikali yao; uhuru ni pale serikali inapowaogopa watu.
 >
-
 > Thomas Jefferson
 
 ![image](assets/en/021.webp)
@@ -371,6 +378,8 @@ Kwa kumalizia, Wanaitikadi walikuwa na intuition ya kina, ambayo ni kwamba uzali
 
 <chapterId>80bc5c4e-ac07-52c8-9dd7-e224ac291bda</chapterId>
 
+:::video id=6f8e4713-5b9e-49bb-85b1-e9e8a44cd75e:::
+
 
 Historia ya ustaarabu wote ni hadithi ya mapambano kati ya tabaka za uporaji na tabaka za uzalishaji. Hii ndiyo imani ya waandishi wawili tunaokwenda kujadili. Wao ndio waanzilishi wa nadharia ya kiliberali ya mapambano ya kitabaka ambayo ilimtia moyo Frédéric Bastiat sawa na Karl Marx, ingawa wa pili aliipotosha.
 
@@ -393,7 +402,6 @@ Tathmini hii (1814-1819), iliyopewa jina la Le Censeur européen baada ya Siku M
 ![image](assets/en/031.webp)
 
 
-![image](assets/en/032.webp)
 
 
 Charles Comte, binamu wa Auguste Comte na mkwe wa Say, ndiye mwanzilishi wa ukaguzi huo. Muda si muda alijiunga na Charles Dunoyer, mwanasheria kama yeye, na kisha mwanahistoria kijana, Augustin Thierry, katibu wa zamani wa Saint Simon. Kauli mbiu yao kwenye ukurasa wa mbele wa kila toleo la mapitio ilikuwa "Amani na Uhuru".
@@ -449,6 +457,8 @@ Mawazo yao, yenye ubunifu wa hali ya juu, yangemtia alama Frédéric Bastiat, am
 
 <chapterId>7181435c-5eae-56e4-8e55-02a24273fdd6</chapterId>
 
+:::video id=633e542a-7217-4e63-bb6f-4a716fde3023:::
+
 
 Ni mwaka 1838, huko Manchester, idadi ndogo ya wanaume, ambao hawakujulikana sana hadi wakati huo, wanakusanyika kutafuta njia ya kupindua ukiritimba wa wamiliki wa ardhi wa ngano kwa njia za kisheria na kutimiza, kama Bastiat angesimulia baadaye.
 
@@ -490,7 +500,6 @@ Akiwa mzungumzaji wa kuvutia na mwenye kutisha, alikuwa na kipawa cha ajabu cha 
 Mnamo 1845, Bastiat alichapisha huko Paris kitabu chake Cobden and the League, na tafsiri zake zikiambatana na maoni. Kitabu hiki kinaanza na utangulizi wa hali ya kiuchumi ya Uingereza, juu ya historia ya asili na maendeleo ya Ligi. Tangu 1815, ulinzi uliendelezwa sana nchini Uingereza. Kulikuwa na, haswa, sheria zinazozuia uagizaji wa nafaka kutoka nje ambayo ilikuwa na matokeo mabaya sana kwa watu. Kwa kweli, ngano ilikuwa muhimu kwa kutengeneza mkate, bidhaa muhimu wakati huo. Zaidi ya hayo, mfumo huu ulipendelea utawala wa aristocracy, yaani, wamiliki wa ardhi wakubwa, ambao walipata kodi kutoka kwao.
 
 
-![image](assets/en/042.webp)
 
 
 > Kinachoishi Uingereza, Bastiat aliandika, ni idadi ndogo ya waporaji na idadi kubwa ya walioporwa, na hakuna haja ya kuwa mwanauchumi mkubwa ili kuhitimisha utajiri wa zamani na masaibu ya mwisho.
@@ -542,6 +551,8 @@ Swali la biashara huria linaendelea kuwa muhimu leo. Vitabu vya masomo ya jiogra
 
 
 <chapterId>c3926110-e0b2-503c-96d9-5d3a6a661484</chapterId>
+
+:::video id=499239ae-df43-489e-8d1f-bf3ea01e4e6b:::
 
 
 Frédéric Bastiat, ambaye alijieleza katika miaka ya 1840, ndiye mrithi wa kizazi cha wanafalsafa wa Kutaalamika ambao walipigana dhidi ya udhibiti na uhuru wa kujadili. Fikiria Montesquieu, Diderot, Voltaire, Condorcet, lakini pia Rousseau.
@@ -613,6 +624,8 @@ Kulingana na Bastiat, jamii, watu na mali zipo kabla ya sheria, na ana msemo huu
 
 <chapterId>87d9a8c9-2352-5cb2-8b93-678118a8145c</chapterId>
 
+:::video id=4b24a6e8-969f-4058-a409-8942913fca4b:::
+
 Mnamo Februari 24, 1848, baada ya siku tatu za ghasia huko Paris, Mfalme Louis-Philippe wa Kwanza aliondoa mamlaka yake. Hii iliashiria kuzaliwa kwa Jamhuri ya Pili.
 
 
@@ -674,6 +687,8 @@ Hata hivyo, kama Bastiat anavyotukumbusha, ukiritimba haujumuishi maendeleo.
 
 <chapterId>ce6cb8a8-7dc9-5ef7-939d-9a559b4d2c74</chapterId>
 
+:::video id=4ef9f07f-aeb1-4626-b9ee-91060fd75803:::
+
 
 ![image](assets/en/057.webp)
 
@@ -708,7 +723,6 @@ Hebu fikiria kisu cha Kiingereza ambacho kinauzwa katika nchi yetu kwa euro 2, n
 Ikiwa tutapiga marufuku bidhaa ya Kiingereza, mtumiaji atalipa kitengo kimoja zaidi kwa kisu chake. Ulinzi kwa hivyo husababisha faida kwa tasnia ya kitaifa na hasara mbili, moja kwa tasnia nyingine (ile ya penseli) na nyingine kwa watumiaji. Kinyume chake, biashara huria huwafanya washindi wawili wenye furaha.
 
 
-![image](assets/en/059.webp)
 
 
 Ulinzi pia ni aina ya mapambano ya kitabaka. Kulingana na Bastiat, ni mfumo unaozingatia ubinafsi na uchoyo wa wazalishaji. Ili kuongeza ujira wao, wakulima au wenye viwanda hudai kodi ili kufunga soko kwa bidhaa za nje, hivyo kuwalazimu walaji kulipia zaidi bidhaa zao.
@@ -772,13 +786,14 @@ Kwa kuhitimisha, watetezi na wanajamii wanashiriki jambo moja, kulingana na Bast
 
 <chapterId>96902abd-6915-5b25-a187-a4790162b86c</chapterId>
 
+:::video id=6ede1de0-b034-4c48-845d-a2c415de6af2:::
+
 
 Pierre-Joseph Proudhon ni mmoja wa wawakilishi wakuu wa ujamaa wa Ufaransa katikati ya karne ya 19. Yeye ni maarufu sana kwa kauli hii: "Mali ni wizi" katika "Mali ni nini?" mwaka 1840.
 
 
 ![image](assets/en/064.webp)
 
-![image](assets/en/065.webp)
 
 
 Kuna jambo la kipuuzi kimantiki katika madai haya. Kwani kama kusingekuwa na mali iliyopatikana kihalali, kimantiki kusingeweza kuwa na kitendo kama vile wizi. Ndio maana Proudhon baadaye angefafanua kuwa ni mgawanyo halisi wa mali anaouona wizi, sio mali yenyewe, ambayo anaelezea kama msingi wa nguvu ya mapinduzi kwa jamii ya wanarchist.
@@ -790,7 +805,6 @@ Kuna jambo la kipuuzi kimantiki katika madai haya. Kwani kama kusingekuwa na mal
 Lakini Proudhon ni anarchist binafsi. Yeye haoni proletariat, wala serikali, kama vyanzo halali vya madaraka. Anakosoa vikali ukomunisti na kutetea kuheshimiana kwa wafanyakazi, aina ya mshikamano uliopangwa wa vyama vya ushirika, ambao ungetegemea kukusanya rasilimali kwa hiari kwa ajili ya kusaidiana. Haijulikani sana lakini Bastiat hakuwa kinyume kabisa na wazo hili kimsingi. Aliogopa tu kwamba serikali ingeigeuza kuwa utumishi wa umma wa ukiritimba. Historia ingemthibitisha kuwa sawa.
 
 
-![image](assets/en/067.webp)
 
 
 Kwa upande mwingine, inajulikana vyema kwamba katika "Umaskini wa Falsafa," Marx angemshambulia kwa jeuri Proudhon na ujamaa wake, aliouita "utopian," akipendelea ujamaa unaoitwa "kisayansi".
@@ -857,6 +871,8 @@ Kwa kumalizia, wote wawili Proudhon na Bastiat walitambua umuhimu wa kukusanya m
 
 <chapterId>25fb02a9-5d68-5c58-bd0f-d4b8e1fd91f9</chapterId>
 
+:::video id=aff28a5b-3cf4-414b-9a6a-b70ffb1bf20c:::
+
 
 Katika sura hii, nitafunua teknolojia mpya kabisa, teknolojia ya kimapinduzi. Mtafiti ameunda jozi ya miwani ya kibayoniki yenye kamera ndogo yenye nguvu zaidi iliyopachikwa mbele. Teknolojia hii inaruhusu kuona maelezo ambayo hayawezi kuonekana kwa macho. Mikononi, kuna chip ya elektroniki inayotuma picha moja kwa moja kwenye wingu kupitia simu yangu mahiri.
 
@@ -916,6 +932,8 @@ Funzo kuu kutokana na mfululizo huu wa maandiko ni kwamba kuingilia kati hali ku
 
 <chapterId>f4e759ed-1cb2-55c7-885e-0a60244758a4</chapterId>
 
+:::video id=b1856cde-9156-4a16-99fa-a0e45edcc905:::
+
 
 Mnamo 1840, Baraza la Manaibu lilipiga kura kwa sheria ya kuongeza ushuru wa bidhaa ili kulinda tasnia ya Ufaransa. Huu ndio uzalendo maarufu wa kiuchumi, ambao bado tunakutana nao hadi leo.
 
@@ -924,7 +942,6 @@ Mnamo 1840, Baraza la Manaibu lilipiga kura kwa sheria ya kuongeza ushuru wa bid
 
 _juu: Marine Le Pen, mwanasiasa Mfaransa_
 
-![image](assets/en/078.webp)
 
 
 Bastiat kisha akatunga maandishi ya kejeli ambayo baadaye yalikuja kuwa moja ya kazi zake maarufu: "ombi la watengeneza mishumaa". Inaonyesha jinsi vikundi fulani vya shinikizo vilivyopangwa vyema vya wazalishaji hupata marupurupu yasiyofaa kutoka kwa serikali, kwa madhara ya wananchi. Wakati huo huo, inaonyesha hali ya upuuzi na ya uharibifu ya sheria ya ulinzi.
@@ -984,7 +1001,6 @@ Mkanganyiko huu wa njia na mwisho unapatikana katika kauli mbiu "fedha ni utajir
 Huu ndio mtazamo unaotawala sera ya fedha ya majimbo mengi. Hakika, ongezeko la bandia la kiasi cha fedha huruhusu mabenki kutoa mikopo kwa watu binafsi na mataifa kwa urahisi kulipa madeni yao, hii ndiyo "tunaona". Lakini "tusichokiona" ni kwamba uundaji huu wa pesa, sio msingi wa uundaji wa mali halisi, utasababisha mfumuko wa bei na uharibifu wa waokoaji.
 
 
-![image](assets/en/082.webp)
 
 
 Utajiri wa kweli, kulingana na Bastiat, kwa hivyo ni seti ya vitu muhimu ambavyo tunazalisha kupitia kazi ili kukidhi mahitaji yetu. Kwa hivyo pesa ni njia inayotumika tu ya Ubadilishanaji, ina jukumu la mpatanishi pekee.
@@ -994,6 +1010,8 @@ Utajiri wa kweli, kulingana na Bastiat, kwa hivyo ni seti ya vitu muhimu ambavyo
 
 
 <chapterId>551fc499-2119-5a52-9114-412d29434c22</chapterId>
+
+:::video id=a5fe6417-cd81-4c72-a7c7-59aabf9e1547:::
 
 
 > Tajiri akipungua uzito, maskini hufa.
@@ -1023,7 +1041,6 @@ Uchumi unaeleza athari nzuri au mbaya za maamuzi ya kisiasa katika maisha yetu. 
 
 > F.Bastiat
 
-![image](assets/en/084.webp)
 
 Tangu awali, anakanusha hoja ambayo bado imeenea kwamba matumizi ya umma yanayofadhiliwa na kodi hutengeneza ajira. Hakika, kodi haileti chochote kwani kile kinachotumiwa na serikali hakitumiwi tena na walipa kodi.
 
@@ -1031,7 +1048,6 @@ Tangu awali, anakanusha hoja ambayo bado imeenea kwamba matumizi ya umma yanayof
 Zaidi ya hayo, serikali inafuja zaidi kuliko watu binafsi. Hakika, anatukumbusha, serikali haimiliki kitu; haizai mali. Matumizi ya umma mara nyingi ni chanzo cha upotevu kwa sababu pesa nyingi zinazochukuliwa kutoka kwa watu binafsi huepuka wajibu wa wamiliki wao na hutumiwa badala yao na watendaji wa serikali, chini ya makundi ya shinikizo.
 
 
-![image](assets/en/085.webp)
 
 
 Bila shaka, kama malipo ya huduma sawa ya umma iliyopokelewa katika Ubadilishanaji, ushuru unaweza kulindwa kabisa. Lakini huko Ufaransa, serikali imetoa majukumu kadhaa kwa ushuru.
@@ -1043,7 +1059,6 @@ Hapo awali, ilitakiwa kufidia gharama za kawaida. Kisha, kodi pia zilipewa jukum
 Hatimaye, jukumu la kijamii lilipewa kodi. Walifanywa kuwa chombo cha haki ya kijamii. Kwa hivyo, ushuru haupaswi kugonga kila mtu kwa njia ile ile. Ushuru lazima ugawanywe tena, kutoka kwa "walio na zaidi" hadi wale "walio na kidogo."
 
 
-![image](assets/en/086.webp)
 
 
 Shida ni kwamba kodi, kama inavyotungwa, inakabiliwa na jeuri ya walio madarakani. Wanapendelea au hawapendi kategoria fulani za kijamii kulingana na kama mamlaka inatarajia kura kutoka kwao au la. Zaidi ya hayo, viwango vinavyoendelea vinazaa kidogo hazina ya umma. Hata hivyo, wanaruhusu walio wengi kuwanyang'anya wachache na kwa kawaida kuwa wanyang'anyi.
@@ -1084,6 +1099,8 @@ Na alisema hayo alipokuwa akiwahutubia wanajamii.
 
 
 <chapterId>c518e449-f638-553c-9a49-15da48023d41</chapterId>
+
+:::video id=e2037025-a4db-4980-91e7-a04da99514de:::
 
 
 Watu wengi wanajua "Tartuffe au Impostor", ucheshi wa Molière ambamo mja mwenye ujanja anajaribu kumtongoza Elmire na kumlaghai mumewe Orgon. Je, mtu anawezaje kujikinga na hadaa za mnafiki wa namna hii anayejifanya kukufanyia wema huku akikufanyia vitimbi?
@@ -1144,7 +1161,6 @@ Uchumi wa Kisiasa, kwa hivyo, una matumizi dhahiri ya vitendo. Inafunua uharibif
 Kwa mara nyingine tena, kungekuwa na Tartuffes chache ikiwa kungekuwa na Orgons chache za kuwasikiliza. Hivi ndivyo Bastiat anasema juu ya suala hili:
 
 
-![image](assets/en/094.webp)
 
 
 > Basi maadili ya kidini yaguse mioyo ya Tartuffes kama inaweza. Kazi ya uchumi wa kisiasa ni kuwaangazia wadanganyifu wao. Kati ya njia hizi mbili, ni ipi inafanya kazi kwa ufanisi zaidi kwa maendeleo ya kijamii? Je, ni lazima kusemwa? Naamini ni ya pili. Ninahofia kwamba ubinadamu hauwezi kuepuka umuhimu wa kwanza kujifunza maadili ya kujihami.
@@ -1165,6 +1181,8 @@ Jambo moja ni hakika, sio siasa ambayo inaweza kubadilisha mkondo wa mambo na mt
 
 
 <chapterId>895ccd1d-7b52-5a8b-8b2c-6ec0056cf632</chapterId>
+
+:::video id=ed6dc15c-b5e9-465c-9966-16c6737c0a68:::
 
 
 Je! Jamii yenye usawa inaweza kufanya bila sheria zilizoandikwa, kanuni, hatua kandamizi? Ikiwa wanaume wameachwa huru, si tutashuhudia machafuko, machafuko, uharibifu? Jinsi ya kuzuia kuunda mchanganyiko wa watu wanaoigiza nje ya tamasha lolote, ikiwa sio kupitia sheria na shirika kuu la kisiasa?
@@ -1220,6 +1238,7 @@ Inaangazia upya wazo la Bastiat la ushirikiano usioonekana kati ya mamilioni ya 
 
 Tuzo la Nobel la Uchumi la 1976, Milton Friedman, pia alipitia tena hadithi hii ya penseli ili kuelezea umma kwa ujumla jinsi uchumi wa soko unavyofanya kazi.
 
+:::video id=db48376a-64c9-48b8-a8fb-2640c9b5bf73:::
 
 Katika kipindi cha mfululizo wake wa televisheni Huru ya Kuchagua, yeye huchanganua vipengele mbalimbali vya vitu visicho vya kawaida na rahisi kama penseli na kuangazia muujiza wa mpangilio unaojitokeza, unaotokana na maelfu ya mwingiliano wa kiuchumi duniani kote. Watu ambao hawajui kila mmoja, ambao hawashiriki dini moja au mila, bado wanaweza kuratibu ili kuzalisha kitu hiki. Anahitimisha kuwa soko huria ni muhimu ili kuhakikisha sio tu ustawi bali pia utangamano na amani.
 
@@ -1240,6 +1259,8 @@ Mipango ya kiuchumi, ambayo inadai kufanya vizuri zaidi kuliko soko, inaongoza s
 
 
 <chapterId>78baa7ef-2c80-5fc7-8881-c1be4662b96f</chapterId>
+
+:::video id=a7e94133-d79a-47cf-b098-d1b15741235e:::
 
 
 Katika barua kwa Alphonse de Lamartine mnamo 1845, Bastiat aliandika kwamba falsafa yake yote iko katika kanuni moja:
@@ -1299,7 +1320,6 @@ _(Alan Greenspan, Mwenyekiti wa FED, benki kuu ya Marekani, kutoka 1987 hadi 200
 Kwa miaka mingi, viongozi wa sera za kifedha walieleza kwamba ikiwa faida itabinafsishwa wakati kila kitu kinakwenda vizuri, hasara itaunganishwa katika kesi ya kufilisika (bailouts, mipango ya uokoaji, udanganyifu wa kiwango cha riba, fedha za uchapishaji, nk). Kwa kufanya hivyo, waliunda hatari ya kimaadili, waliwezesha uchukuaji hatari usio na sababu, na walihimiza ulimwengu wa kifedha kuishi bila kuwajibika. Kwa hivyo waliingiza fedha katika mgogoro tuliopata.
 
 
-![image](assets/en/104.webp)
 
 
 Na jambo hilo litajirudia kwa muda usiojulikana mradi benki zitaendelea kuwa chini ya utawala wa mamlaka kuu zinazopaswa kuzilinda kwa kuondoa uhuru wote wa maamuzi na uendeshaji.
@@ -1334,6 +1354,8 @@ Kwa maneno mengine, uchaguzi wa pamoja si uchaguzi wa kuwajibika kwa vile, kwa u
 
 
 <chapterId>0c078806-6c58-53f9-a720-5fb62386e56b</chapterId>
+
+:::video id=0b2bc259-52c5-46c9-a904-254746d6972f:::
 
 
 Katika kozi iliyotangulia, tuliona kwa nini uhuru na wajibu ni muhimu kwa tatizo la kijamii. Sasa tutaingia ndani zaidi katika jambo hili kwa kuonyesha jinsi Frédéric Bastiat anavyoona maovu ambayo yanazikumba jamii na suluhisho lake.
@@ -1412,14 +1434,14 @@ Ni lazima ifafanuliwe kwamba maendeleo haya kwa njia ya uwajibikaji sio moja kwa
 
 <chapterId>fa2172e9-22fa-5c01-a3c8-1e8316c064a4</chapterId>
 
+:::video id=28c7b1d0-e32f-48dc-95ee-8459667b42ab:::
 
-![image](assets/en/113.webp)
+
 
 
 Frédéric Bastiat, katika kijitabu chake maarufu "Sheria," analaani upotoshaji wa sheria unaojumuisha kuhalalisha, chini ya jina la "mshikamano," kile ambacho lazima kiitwe uporaji. Hakika, kuna mkanganyiko katika kutaka kulazimisha udugu kupitia sheria, kile tunachoweza kuita leo "haki ya kijamii" au mshikamano.
 
 
-![image](assets/en/114.webp)
 
 
 Kwa maana maadili hufafanuliwa kama tabia ya hiari. Wakati mtu binafsi analazimishwa kutoa kitu ambacho hataki kutoa, yeye huwa mwathirika wa wizi.
@@ -1482,7 +1504,6 @@ Kwa hakika, mshikamano wa ndani ya familia, mshikamano wa ndani, au ufadhili uli
 Mara nyingi ni mtindo kuomboleza "ubinafsi" ambao ungetawala katika jamii huria. Lakini kinyume kabisa ni kweli. Wakati jamii inaelemewa na kodi na watu binafsi hawamiliki mali zao tena, hawahimizwa kutoa bali kujitoa wenyewe.
 
 
-![image](assets/en/119.webp)
 
 
 Kwa kweli, jumuiya huru ya kiraia haitegemei ubinafsi: uchumi wa soko unafanya kazi kwa misingi ya huduma kwa jirani na usawa. Mtu anaweza tu kutumikia maslahi yake mwenyewe kwa kutumikia maslahi ya mwingine, kwa kumpa mwenzake mwenzake ambayo inaongoza kwa manufaa ya Ubadilishanaji. Kwa maneno mengine, ni ubadilishanaji wa hiari ambao unaunda mshikamano wa kweli.
@@ -1506,6 +1527,8 @@ Sheria inaweza kumlazimisha mtu kuwa mwadilifu, lakini haiwezi kumlazimisha kuji
 
 
 <chapterId>a48a0616-2105-5520-8312-e21a0b6489c7</chapterId>
+
+:::video id=823bbc82-dfe6-4ed4-bb36-e5557dc5341a:::
 
 
 Kwa mali, hatupaswi kuelewa ardhi hapa. Inamaanisha "haki ya mfanyakazi juu ya thamani aliyounda kupitia kazi yake." Bastiat anabainisha:
@@ -1558,7 +1581,6 @@ Kwa Rousseau, mali sio kabla ya sheria; ni mkataba tu ulioanzishwa kwa utashi wa
 Kwa mfano: haki ya kufanya kazi au haki ya makazi.
 
 
-![image](assets/en/123.webp)
 
 
 Ili nipate kitu bila malipo, lazima mtu alipe kwa niaba yangu. Na ikiwa ni Serikali inayolipa, kwa kuwa haitoi utajiri, inaweza tu kufanya hivyo kwa kuchukua nyumba kutoka kwa mtu, au sawa na hiyo, ili kunipa mimi.
@@ -1575,7 +1597,6 @@ Katika mfumo wa uhuru wa asili, kuna sheria ya asili, isiyotegemea matakwa ya wa
 Hapa, Bastiat anajilinganisha na urithi wa Wanafiziokrati, na zaidi ya hapo, na mapokeo ya falsafa ya sheria ya Cicero na Aristotle. Sheria haileti haki. Dhamira yake ni kuwatetea na hivyo kutetea mali, mali ya mtu mwenyewe, uadilifu wa mtu, na mali ya matunda ya kazi ya mtu.
 
 
-![image](assets/en/124.webp)
 
 _(Cicero)_
 
@@ -1584,6 +1605,8 @@ _(Cicero)_
 
 
 <chapterId>b4122847-e477-578e-ba34-d35844ac4715</chapterId>
+
+:::video id=24b1ca72-c52a-4ff3-b6db-01e3807c5d8e:::
 
 
 Wazo kuu la Bastiat katika "Sheria", kijitabu chake maarufu cha 1850, ni kuonyesha kwa nini na jinsi sheria imekuwa uporaji, ambayo ni, chanzo cha marupurupu, kodi ya hali, na jeuri ya kifedha.
@@ -1664,6 +1687,8 @@ Karne moja baada ya kifo cha Frédéric Bastiat, uporaji wa kisheria unaonekana 
 
 <chapterId>52258229-7c7c-592b-aa27-203b03aa41c9</chapterId>
 
+:::video id=43c0db1d-1063-45d7-bce3-4d9d18382a2d:::
+
 
 Mnamo 1848, Bastiat alikuwa naibu. Aliteuliwa kuwa makamu wa rais wa tume ya fedha. Kwa hivyo, alikuwa na nafasi nzuri ya kujibu swali hili: Jimbo ni nini? Tunageukia Jimbo ili kuhakikisha ustawi wetu. Lakini Bastiat anatukumbusha kuwa Serikali haiwezi kuwapa raia chochote ambacho haijachukua kutoka kwao kwanza.
 
@@ -1692,7 +1717,6 @@ Kwa hivyo Bastiat anatarajia, karne moja kabla, uchambuzi wa utendakazi wa soko 
 
 ![image](assets/en/135.webp)
 
-![image](assets/en/136.webp)
 
 
 Zaidi ya hayo, Bastiat anadai, Serikali haina haki ambazo hazipo kwanza kwa mtu binafsi. Kwa nini Serikali ina haki ya kudhamini, hata kwa nguvu, mali ya kila mtu binafsi? Kwa sababu tu haki hii ipo kwa mtu binafsi. Mtu hawezi kuwanyima watu haki ya kujilinda, haki ya kutumia nguvu ikiwa ni lazima kurudisha mashambulizi dhidi ya watu wao, uwezo wao na mali zao. Haki hii ya asili ya kujilinda, ambayo inakaa kwa wananchi wote, inaweza kuchukua fomu ya pamoja na kuhalalisha nguvu ya kawaida.
@@ -1731,13 +1755,14 @@ Kwa muhtasari, serikali inapovuka dhamira yake ya kutetea watu na mali, inahimiz
 Aliandika Frédéric Bastiat katika kijitabu kifupi kiitwacho Jimbo.
 
 
-![image](assets/en/138.webp)
 
 
 ## Urithi wa Frédéric Bastiat
 
 
 <chapterId>2a2a181a-e477-5be1-ba1f-af59490c364e</chapterId>
+
+:::video id=de892e2c-14a5-45cc-848f-ec934eaba615:::
 
 
 Ushawishi wa Bastiat ulianza kupungua kuelekea mwisho wa karne ya 19, kwa kuongezeka kwa ujamaa na hasa Umaksi ndani ya vyuo vikuu na taasisi za utafiti, zinazofadhiliwa na fedha za umma.
@@ -1783,7 +1808,6 @@ Lakini kama Bastiat alivyoonyesha ipasavyo, uingiliaji kati wa serikali una atha
 Ikiwa tunaangalia mambo kutoka kwa pembe hii, Reagan alielezea wafanyakazi wa GE, miujiza inayoitwa ya matumizi ya serikali inaonekana kwa mwanga tofauti kabisa. Kwa sababu ushuru hukatisha tamaa uzalishaji, na utajiri unaotokana na matumizi ya umma hauwezi kufidia kikamilifu wale ambao walizuiwa kuzaliwa na ushuru unaotozwa kulipia gharama hizi.
 
 
-![image](assets/en/138.webp)
 
 Kimsingi, Reagan alichukua kutoka kwa Bastiat kadhaa muhimu vipengele vya maono huria ya jamii na mwanadamu: ukuu wa asasi za kiraia juu ya serikali, thamani ya uchaguzi na uwajibikaji wa mtu binafsi, umuhimu wa mfanyabiashara katika kuunda utajiri, umuhimu wa mfumo wa kisheria unaobadilika na mdogo, ambao unaruhusu uaminifu na heshima kwa mikataba, sheria ya msingi kwamba utajiri lazima uundwe kabla ya kugawanywa kwa kila mtu.
 
