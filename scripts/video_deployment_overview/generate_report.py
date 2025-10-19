@@ -19,6 +19,18 @@ from datetime import datetime
 # Languages to check
 LANGUAGES = ['en', 'fr', 'es', 'it', 'de', 'ru', 'zh-Hant']
 
+# Courses that should have NO VIDEOS (0 is green for all languages)
+NO_VIDEO_COURSES = {
+    'btc202', 'btc302', 'cyp302', 'dev103', 'eco104',
+    'net302', 'phi302', 'pos305', 'scu202'
+}
+
+# Courses that should have ENGLISH ONLY VIDEOS (0 is green for non-English)
+ENGLISH_ONLY_VIDEO_COURSES = {
+    'btc401', 'csv404', 'csv402', 'dev203', 'min306',
+    'pro202', 'sid202', 'sid302'
+}
+
 def get_courses_directory():
     """Get the courses directory path relative to this script."""
     script_dir = Path(__file__).parent.resolve()
@@ -306,6 +318,12 @@ def generate_html_report(all_deployments, output_file):
                 <span class="provider-badge both-badge">B</span>
                 <span>Both providers</span>
             </div>
+            <br><br>
+            <div style="font-size: 12px; color: #666; margin-top: 10px;">
+                <strong>Special course types:</strong><br>
+                📝 <strong>No-video courses</strong> (0 videos = ✅ green): {", ".join(sorted(NO_VIDEO_COURSES))}<br>
+                🇬🇧 <strong>English-only courses</strong> (non-English 0 videos = ✅ green): {", ".join(sorted(ENGLISH_ONLY_VIDEO_COURSES))}
+            </div>
         </div>
 
         <table>
@@ -347,8 +365,18 @@ def generate_html_report(all_deployments, output_file):
             else:
                 coverage_pct = 0
 
-            # Determine color class
-            if coverage_pct == 100:
+            # Determine color class based on course type
+            is_no_video_course = course_id in NO_VIDEO_COURSES
+            is_english_only_course = course_id in ENGLISH_ONLY_VIDEO_COURSES
+            is_non_english = lang != 'en'
+
+            if is_no_video_course and total_covered == 0:
+                # No video courses: 0 videos = green for all languages
+                color_class = 'coverage-complete'
+            elif is_english_only_course and is_non_english and total_covered == 0:
+                # English-only courses: 0 videos = green for non-English
+                color_class = 'coverage-complete'
+            elif coverage_pct == 100:
                 color_class = 'coverage-complete'
             elif coverage_pct >= 50:
                 color_class = 'coverage-partial'
