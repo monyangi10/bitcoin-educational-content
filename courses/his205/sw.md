@@ -6,8 +6,8 @@ objectives:
 
   - Kuelewa kuibuka na mageuzi ya aina mbalimbali za fedha katika historia
   - Kuchambua mifumo ya fedha ya ustaarabu mkubwa na himaya
-  - Soma mpito kutoka kwa pesa za chuma hadi karatasi na mfumo wa fiat
-  - Kuchunguza nafasi ya benki na benki kuu katika maendeleo ya fedha
+  - Soma mpito kutoka kwa pesa za chuma hadi kwa karatasi na mfumo wa fiat
+  - Kuchunguza nafasi ya benki na benki kuu katika maendeleo ya kifedha
   - Anzisha uhusiano kati ya historia ya fedha na migogoro ya kiuchumi ya kisasa
 
 
@@ -17,7 +17,7 @@ objectives:
 
 
 
-Kozi hii ya kuvutia itakupeleka kwenye uchunguzi wa mageuzi ya kuvutia ya pesa kutoka kwa ustaarabu wa awali hadi mfumo wetu wa sasa wa fedha. Tutavuka enzi, kutoka Neolithic hadi nyakati za kisasa, tukigundua jinsi pesa imeundwa na kutengenezwa na ustaarabu mkuu wa wanadamu. Kutoka kwa proto-pesa ya Mesopotamia hadi sarafu ya siri, sarafu za Lydia, florin ya Renaissance, na ujio wa benki kuu - kozi hii inatoa mtazamo wa kina juu ya mojawapo ya nguzo za msingi za jamii zetu.
+Kozi hii ya kuvutia itakupeleka kwenye uchunguzi wa mageuzi ya kuvutia ya pesa kutoka kwa ustaarabu wa awali hadi mfumo wetu wa sasa wa fedha. Tutavuka enzi, kutoka Neolithic hadi nyakati za kisasa, tukigundua jinsi pesa zimeundwa na kutengenezwa kwa ustaarabu mkuu wa wanadamu. Kutoka kwa proto-pesa ya Mesopotamia hadi sarafu ya siri, sarafu za Lydia, florin ya Renaissance, na ujio wa benki kuu - kozi hii inatoa mtazamo wa kina juu ya mojawapo ya nguzo za msingi za jamii zetu.
 
 
 
@@ -39,7 +39,7 @@ Kozi hii ya kuvutia itakupeleka kwenye uchunguzi wa mageuzi ya kuvutia ya pesa k
 :::video id=08ff35ca-8a40-4286-abaf-71283faf6e78:::
 
 
-Karibu kwenye kozi hii ya historia ya pesa. Kama kichwa kinapendekeza, tutachunguza mabadiliko ya kihistoria ya sarafu pamoja. Kuanzia enzi ya Neolithic hadi leo, tutaangalia milki kuu na ustaarabu wa zamani.
+Karibu kwenye kozi hii ya historia ya pesa. Kama kichwa kilivyopendekezwa, tutachunguza mabadiliko ya kihistoria ya sarafu pamoja. Kuanzia enzi ya Neolithic hadi leo, tutaangalia milki kuu na ustaarabu wa zamani.
 
 
 
@@ -59,7 +59,7 @@ Tunaanza safari yetu ya kutumia sarafu za proto kwa kuibuka kwa pesa za deni na 
 
 
 
-Kisha tunaendelea na kuonekana kwa sarafu za kwanza huko Lydia, wakati muhimu ambao mara nyingi huzingatiwa kama mwanzo wa kweli wa pesa kulingana na vitabu vya kiada vya uchumi. Tutachunguza jinsi sarafu hizi ziliweza kueneza shukrani kwa Waajemi, Alexander Mkuu, kisha Roma, kabla ya hatimaye kujilazimisha, kutawala na kuanguka.
+Kisha tunaendelea na kuonekana kwa sarafu za kwanza huko Lydia, wakati muhimu ambao mara nyingi huzingatiwa kama mwanzo wa kweli wa pesa kulingana na vitabu vya kiada vya uchumi. Tutachunguza jinsi sarafu hizi ziliweza kueneza shukrani kwa Waajemi, Alexander Mkuu, kisha Roma, kabla na hatimaye kujilazimisha, kutawala na kuanguka.
 
 
 
@@ -75,7 +75,7 @@ Kisha tunageukia kipindi cha shida, kilichoonyeshwa na kukosekana kwa utulivu ka
 
 
 
-Tutaangalia pia jinsi Vita vya Msalaba viliona kuibuka kwa mifumo ya kwanza ya uhamishaji pesa ya mbali. Kisha ni wakati wa kuangalia athari za Florin, sarafu iliyoambatana na Renaissance, na kuwasili kwa madini ya thamani kutoka Amerika, ambayo ilikuwa na athari kubwa kwa bei za Ulaya.
+Tutaangalia pia jinsi Vita vya Msalaba viliweza kuibuka kwa mifumo ya kwanza ya uhamishaji pesa wa mbali. Kisha ni wakati wa kuangalia athari za Florin, sarafu iliyoambatana na Renaissance, na kuwasili kwa madini ya thamani kutoka Amerika, ambayo ilikuwa na athari kubwa kwa bei za Ulaya.
 
 
 
@@ -99,11 +99,11 @@ Kozi hii imegawanywa katika sehemu kuu tatu.
 
 
 
-Sehemu ya I inaangalia kuibuka kwa pesa, Sehemu ya II katika ufufuaji upya wa pesa na anguko lake, na Sehemu ya Tatu inaonyesha jinsi taasisi za serikali au serikali zilichukua udhibiti wa pesa, na kusababisha mfumo wa sasa wa fiat.
+Sehemu ya I inaangalia kuibuka kwa pesa, Sehemu ya II katika ufufuaji mpya wa pesa na anguko lake, na Sehemu ya Tatu inaonyesha jinsi taasisi za serikali au serikali zilichukua udhibiti wa pesa, na kusababisha mfumo wa sasa wa fiat.
 
 
 
-Asante na kufurahia!
+Asante na furahia!
 
 
 
@@ -172,35 +172,35 @@ Muhtasari wa mageuzi ya binadamu kutoka Australopithecus hadi mwanadamu wa kisas
 
 
 
-- Miaka milioni 3 iliyopita** - Mwonekano wa *Australopithecus*.
-- Miaka milioni 2 iliyopita** - Hominins huanza kuondoka Afrika.
-- Miaka milioni 1.6 iliyopita** - Hominins hufika kusini mwa Ulaya na Asia.
-- Miaka milioni 1 iliyopita** - Ushahidi wa kwanza wa kupikia nyumbani kwa moto (mifupa iliyochomwa na mmea imesalia katika Pango la Wonderwerk, Afrika Kusini).
-- Karibu 400,000 BC** - Neanderthals wanaishi Ulaya na Asia.
-- Karibu 300,000 KK** - Mwonekano wa *Homo sapiens*.
-- Miaka 80,000 iliyopita** - *Homo sapiens* inaanza kuhamia sehemu zote za dunia.
-- Miaka 73,000 iliyopita** - Mapango ya Blombos nchini Afrika Kusini (aina za sanaa kongwe zaidi zinazojulikana).
-- Miaka 50,000 iliyopita** - *Homo sapiens* ilifika Ulaya.
-- Miaka 30,000 iliyopita** - Picha za pango kutoka kwenye pango la Chauvet huko Ufaransa.
-- Miaka 15,000 iliyopita** - michoro ya mapango ya Lascaux nchini Ufaransa na sanaa ya miamba ya Australia.
-- Karibu 9000 BC** - Umiliki wa shayiri katika Hilali yenye Rutuba.
-- Karibu 9000 BC** - Kilimo cha mahindi huko Mexico.
-- Karibu 8000 BC** - Ufugaji wa mbuzi na kondoo katika Hilali yenye Rutuba.
-- Karibu 7250 BC** - Ain Ghazal (Jordan) inaonyesha kijiji cha wakazi mia chache.
-- Takriban 7000 KK** - Çatalhöyük (Uturuki) ina hadi wakazi 8,000.
-- Karibu 6500 BC** - Maisha ya kukaa huanza Ugiriki.
-- Miaka 6000 iliyopita** - Mwanzo wa umwagiliaji wa mto huko Misri na Mesopotamia.
-- Karibu 5000 BC ** - Kuonekana kwa "dada watatu" mchanganyiko wa kilimo (mahindi, boga, maharagwe).
-- Karibu 4000 BC** - Ufugaji wa ngamia katika Asia ya Kati. (Familia ya ngamia ilianzia Amerika Kaskazini wakati wa Eocene miaka milioni 45 iliyopita. Ngamia hawa wakati huo wangehamia Asia kupitia ukanda mwembamba wa ardhi uliounganisha mabara mawili wakati huo katika Mlango-Bahari wa Bering. Sehemu nyingine ya familia hiyo ingeelekea Amerika Kusini, ambako wazao wake bado wanaishi leo: llamas, alpacas, na vicuñas).
-- Karibu 3500-3000 BC** - Watu wa Botai wanaanza kufuga na kuzaliana farasi.
-- Karibu na mwanzo wa Enzi ya Shaba** - Wasumeri walikuwa tayari wamevumbua gurudumu na mashua, na kuendeleza hesabu, unajimu, na aina ya kwanza ya uandishi.
-- Karibu 2800 BC** - Uruk, katika kilele chake, ilifikia idadi ya hadi 80,000.
-- 2600-2200 BC ** - Ishara za kwanza za maendeleo ya mijini katika ulimwengu wa Kigiriki. Upanuzi wa mazao ya Mediterranean (ngano, mizabibu, mizeituni).
-- 2560 KK** - Ujenzi wa Piramidi Kuu ya Giza.
-- Karibu 1500 BC** - ustaarabu wa Minoan.
-- Karibu 1300 BC** - ustaarabu wa Mycenaean.
-- Takriban 1250 hadi 1150 KK** - Kuporomoka kwa ustaarabu wa Enzi ya Shaba.
-- Karne ya 1 BK** - Waberber wa Afrika Kaskazini wanafuga ngamia.
+- **Miaka milioni 3 iliyopita** - Mwonekano wa *Australopithecus*.
+- **Miaka milioni 2 iliyopita** - Hominins huanza kuondoka Afrika.
+- **Miaka milioni 1.6 iliyopita** - Hominins hufika kusini mwa Ulaya na Asia.
+- **Miaka milioni 1 iliyopita** - Ushahidi wa kwanza wa kupikia nyumbani kwa moto (mifupa iliyochomwa na mmea imesalia katika Pango la Wonderwerk, Afrika Kusini).
+- **Karibu 400,000 BC** - Neanderthals wanaishi Ulaya na Asia.
+- **Karibu 300,000 KK** - Mwonekano wa *Homo sapiens*.
+- **Miaka 80,000 iliyopita** - *Homo sapiens* inaanza kuhamia sehemu zote za dunia.
+- **Miaka 73,000 iliyopita** - Mapango ya Blombos nchini Afrika Kusini (aina za sanaa kongwe zaidi zinazojulikana).
+- **Miaka 50,000 iliyopita** - *Homo sapiens* ilifika Ulaya.
+- **Miaka 30,000 iliyopita** - Picha za pango kutoka kwenye pango la Chauvet huko Ufaransa.
+- **Miaka 15,000 iliyopita** - michoro ya mapango ya Lascaux nchini Ufaransa na sanaa ya miamba ya Australia.
+- **Karibu 9000 BC** - Umiliki wa shayiri katika Hilali yenye Rutuba.
+- **Karibu 9000 BC** - Kilimo cha mahindi huko Mexico.
+- **Karibu 8000 BC** - Ufugaji wa mbuzi na kondoo katika Hilali yenye Rutuba.
+- **Karibu 7250 BC** - Ain Ghazal (Jordan) inaonyesha kijiji cha wakazi mia chache.
+- **Takriban 7000 KK** - Çatalhöyük (Uturuki) ina hadi wakazi 8,000.
+- **Karibu 6500 BC** - Maisha ya kukaa huanza Ugiriki.
+- **Miaka 6000 iliyopita** - Mwanzo wa umwagiliaji wa mto huko Misri na Mesopotamia.
+- **Karibu 5000 BC ** - Kuonekana kwa "dada watatu" mchanganyiko wa kilimo (mahindi, boga, maharagwe).
+- **Karibu 4000 BC** - Ufugaji wa ngamia katika Asia ya Kati. (Familia ya ngamia ilianzia Amerika Kaskazini wakati wa Eocene miaka milioni 45 iliyopita. Ngamia hawa wakati huo wangehamia Asia kupitia ukanda mwembamba wa ardhi uliounganisha mabara mawili wakati huo katika Mlango-Bahari wa Bering. Sehemu nyingine ya familia hiyo ingeelekea Amerika Kusini, ambako wazao wake bado wanaishi leo: llamas, alpacas, na vicuñas).
+- **Karibu 3500-3000 BC** - Watu wa Botai wanaanza kufuga na kuzaliana farasi.
+- **Karibu na mwanzo wa Enzi ya Shaba** - Wasumeri walikuwa tayari wamevumbua gurudumu na mashua, na kuendeleza hesabu, unajimu, na aina ya kwanza ya uandishi.
+- **Karibu 2800 BC** - Uruk, katika kilele chake, ilifikia idadi ya hadi 80,000.
+- **2600-2200 BC** - Ishara za kwanza za maendeleo ya mijini katika ulimwengu wa Kigiriki. Upanuzi wa mazao ya Mediterranean (ngano, mizabibu, mizeituni).
+- **2560 KK** - Ujenzi wa Piramidi Kuu ya Giza.
+- **Karibu 1500 BC** - ustaarabu wa Minoan.
+- **Karibu 1300 BC** - ustaarabu wa Mycenaean.
+- **Takriban 1250 hadi 1150 KK** - Kuporomoka kwa ustaarabu wa Enzi ya Shaba.
+- **Karne ya 1 BK** - Waberber wa Afrika Kaskazini wanafuga ngamia.
 
 
 
@@ -236,7 +236,7 @@ Kilimo cha kwanza kilionekana karibu miaka 10,500 iliyopita katika Mashariki ya 
 
 
 
-**Vijiji vya kwanza vilijengwa wazi kabla ya ufugaji wa mimea na wanyama.** Watu hawakutulia kwa sababu kilimo kiliwaruhusu; kinyume chake, walikaa kwanza na baadaye tu, miaka 3,000 hivi baadaye, walianza kulima.
+**Vijiji vya kwanza vilijengwa wazi kabla ya ufugaji wa mimea na wanyama.** Watu hawakutulia kwa sababu kilimo kiliwaruhusu; kinyume chake, walikaa kwanza na baadaye, miaka 3,000 hivi baadaye, walianza kulima.
 
 
 
@@ -260,7 +260,7 @@ Wale wanaofuata lishe ya "keto" watakubali: kula mkate mwingi labda sio sawa na 
 
 
 
-Kutokana na hasara hizi zote, ni nani angechagua kuwa mkulima wakati huo? Naam, baadhi ya nadharia maarufu zinaonyesha kwamba wanadamu walilazimishwa kufuata kilimo na kwamba haikuwa chaguo. Hata na nafaka pori, kulikuwa na tatizo kubwa. Kiasi kikubwa cha nafaka haikuweza kusafirishwa kwa urahisi. Ilibidi zihifadhiwe mahali fulani. Mara tu nafaka ilipohifadhiwa, ilikuwa na maana kukaa karibu. Kwa hiyo, ulikuza nafaka za mwitu, ambazo hazikuwa za kilimo, na ulipokua kwa wingi, ulipaswa kuzihifadhi mahali fulani, na kufanya iwe vigumu kusafirisha. Labda hii ilichangia awamu za kwanza za kukaa chini. Huenda ikawa ndiyo sababu ya kwanza kwa nini watu kukaa mahali fulani. Ikiwa mahali hapa palitoa chakula mwaka mzima, hakukuwa na haja ya kufuata mifugo au kusafiri kila wakati.
+Kutokana na hasara hizi zote, ni nani angechagua kuwa mkulima wakati huo? Naam, baadhi ya nadharia maarufu zinaonyesha kwamba wanadamu walilazimishwa kufuata kilimo na kwamba haikuwa chaguo. Hata na nafaka pori, kulikuwa na tatizo kubwa. Kiasi kikubwa cha nafaka haikuweza kusafirishwa kwa urahisi. Ilibidi zihifadhiwe mahali fulani. Mara tu nafaka zilipohifadhiwa, ilikuwa na maana kukaa karibu. Kwa hiyo, ulikuza nafaka za mwitu, ambazo hazikuwa za kilimo, na zilipokua kwa wingi, ulipaswa kuzihifadhi mahali fulani, na kufanya iwe vigumu kusafirisha. Labda hii ilichangia awamu za kwanza za kukaa chini. Huenda ikawa ndiyo sababu ya kwanza kwa nini watu kukaa mahali fulani. Ikiwa mahali hapa palitoa chakula mwaka mzima, hakukuwa na haja ya kufuata mifugo au kusafiri kila wakati.
 
 
 
@@ -297,7 +297,7 @@ Ongezeko la joto duniani mwishoni mwa Enzi ya Barafu kulibadilisha kwa kiasi kik
 
 
 
-Kukaa huku kwa taratibu kulisababisha mabadiliko makubwa ya kijamii. **Kilimo cha Neolithic kilizua dhana ya kisasa ya kazi **: kushikamana na eneo maalum kulimaanisha kutunza mali ya mtu, kuhifadhi matunda ya kazi yake na kupanga mavuno ya baadaye. Uhusiano huu mpya na wakati - kuahirisha matumizi ya sasa kwa manufaa ya baadaye - ulileta mapinduzi ya shirika la kijamii.
+Kukaa huku kwa taratibu kulisababisha mabadiliko makubwa ya kijamii. **Kilimo cha Neolithic kilizua dhana ya kisasa ya kazi**: kushikamana na eneo maalum kulimaanisha kutunza mali ya mtu, kuhifadhi matunda ya kazi yake na kupanga mavuno ya baadaye. Uhusiano huu mpya na wakati - kuahirisha matumizi ya sasa kwa manufaa ya baadaye - ulileta mapinduzi ya shirika la kijamii.
 
 
 
@@ -305,7 +305,7 @@ Ufinyanzi ni kielelezo kamili cha mageuzi haya: awali ilitengenezwa kuhifadhi na
 
 
 
-** Mali ya kibinafsi iliibuka kama taasisi kuu ** ya jamii hizi mpya. Wakati mali ya mtu binafsi tayari ilikuwepo katika Paleolithic (mikuki ya uwindaji wa kibinafsi), katika Neolithic ilichukua mwelekeo wa eneo ambao haujawahi kutokea. Ugawaji huu wa ardhi ulizalisha mizozo ya kwanza kati ya binadamu iliyoandikwa kiakiolojia, na hivyo kulazimisha kuibuka kwa kazi ya usalama wa eneo.
+**Mali ya kibinafsi iliibuka kama taasisi kuu** ya jamii hizi mpya. Wakati mali ya mtu binafsi tayari ilikuwepo katika Paleolithic (mikuki ya uwindaji wa kibinafsi), katika Neolithic ilichukua mwelekeo wa eneo ambao haujawahi kutokea. Ugawaji huu wa ardhi ulizalisha mizozo ya kwanza kati ya binadamu iliyoandikwa kiakiolojia, na hivyo kulazimisha kuibuka kwa kazi ya usalama wa eneo.
 
 
 
@@ -401,7 +401,7 @@ Mfumo uliotengenezwa uliitwa "cuneiform", kutoka kwa Kilatini "cuneus" ikimaanis
 
 
 
-Hapa chini, unaweza kupendeza nakala yangu ya kompyuta kibao iliyo na maandishi ya kikabari. Ili kuandika kwenye vidonge hivi, naamini walitumia aina ya kalamu iliyofanywa kutoka kwa mwanzi, ili kufuatilia udongo wa mvua na kuunda maumbo, maandishi ya cuneiform.
+Hapa chini, unaweza kupendezwa na nakala yangu ya kompyuta kibao iliyo na maandishi ya kikabari. Ili kuandika kwenye vidonge hivi, naamini walitumia aina ya kalamu iliyofanywa kutoka kwa mwanzi, ili kufuatilia udongo wa mvua na kuunda maumbo, maandishi ya cuneiform.
 
 
 
@@ -481,14 +481,14 @@ Ili kukidhi mahitaji ya kiutawala na kiuchumi haswa ndipo maandishi ya kikabari 
 
 
 
-Inafaa pia kutaja kuwa baadhi ya vidonge hivi vilisambazwa kama vifungo vya kubeba, kubadilisha mikono kwa uhuru.
+Inafaa pia kutaja kuwa baadhi ya vidonge hivi vilisambazwa kama vifungo vya kubeba na kubadilisha mikono kwa uhuru.
 
 
 
-Kwa mfano, kulikuwa na aina ya mpira wa udongo na mawe madogo ndani.
+Kwa mfano, kulikuwa na aina ya mpira wa udongo na mawe kidogo ndani.
 
 
-Kwenye nje ya mpira wa udongo, nambari iliandikwa na kusainiwa, inayowakilisha idadi ya vitengo. Ndani, kulikuwa na miamba hii na mtu ambaye alitaka kuthibitisha, ili kuthibitisha kweli kwamba chombo hiki kiliwakilisha idadi ya X ya vitengo.
+Kwenye nje ya mpira wa udongo, nambari iliandikwa na kusainiwa, inayowakilisha idadi ya vitengo. Ndani, kulikuwa na miamba hii na mtu ambaye alitaka kuthibitisha, ili kuthibitisha ukweli kwamba chombo hiki kiliwakilisha idadi ya X ya vitengo.
 
 
 
@@ -601,7 +601,7 @@ Mahekalu ya Wasumeri yalidhihirisha mvutano huu: walitumia ubunifu maarufu wa fe
 
 
 
-Uzoefu wa Mesopotamia huanzisha mifano ya kudumu ya mabadiliko ya mifumo ya kifedha. Inaonyesha kuwa **ubora wa kifedha mara nyingi hutangulia uvumbuzi wa kiteknolojia kwa milenia kadhaa**, ambayo kwa kawaida huhusishwa nayo. Dhana za riba, mikopo, vyombo vinavyoweza kujadiliwa na dhamana ya rehani hazikungoja uvumbuzi wa pesa za metali kuendeleza.
+Uzoefu wa Mesopotamia huanzisha mifano ya kudumu ya mabadiliko ya mifumo ya kifedha. Inaonyesha kuwa **ubora wa kifedha mara nyingi hutangulia uvumbuzi wa kiteknolojia kwa milenia kadhaa**, ambayo kwa kawaida uhusishwa nayo. Dhana za riba, mikopo, vyombo vinavyoweza kujadiliwa na dhamana ya rehani hazikungoja uvumbuzi wa pesa za metali kuendeleza.
 
 
 
@@ -666,7 +666,7 @@ Alikuwa mtawala wa kwanza wa Milki ya Akkadian, ambayo ni ustaarabu mwingine uli
 
 
 
-Hebu fikiria kwamba kweli kulikuwa na bahasha za udongo. Vidonge hivyo vinaweza kuvikwa kwenye bahasha za udongo na saini ya mtu huyo kwa nje ili kuhakikisha usiri. Kwa hivyo watu wangefungua bahasha ili kupata kompyuta kibao. Tuna deni kwa mfumo huu wa posta kwa Sargon wa Akkad.
+Hebu fikiria kwamba kweli kulikuwa na bahasha za udongo. Vidonge hivyo vinaweza kuvikwa kwenye bahasha za udongo na sahihi ya mtu huyo kwa nje ili kuhakikisha usiri. Kwa hivyo watu wangefungua bahasha ili kupata kompyuta kibao. Tuna deni kwa mfumo huu wa posta kwa Sargon wa Akkad.
 
 
 
