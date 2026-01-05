@@ -4,11 +4,11 @@ goal: Elewa ugumu wa wigo wa kisiasa wa kisasa ili kutambua mwelekeo wako mwenye
 objectives: 
   - Kuelewa kwamba aina ya kisiasa ina maelezo zaidi kuliko mhimili rahisi wa kushoto/kulia
   - Tambua vipimo viwili vikuu vinavyounda wigo wa kisiasa
-  - Taja familia nne kuu za kisiasa
+  - Elezea familia nne kuu za kisiasa
   - Kuchunguza nafasi ya wafanyabiashara wa bitcoin katika wigo wa kisiasa
 ---
 
-Je, msimamo wako wa kisiasa unaanzia kulia au kushoto? Kozi hii inatoa mbinu ya mapinduzi ya kuelewa wigo wa kisiasa kupitia mhimili wa msingi wa Uhuru na Ushuru. Kwa kutumia Mchoro wa Nolan, tunachambua familia za kisiasa - wasoshalisti, wahafidhina, wa katikati na waliberali - si kulingana na nia zao zilizotajwa, bali kulingana na kiwango chao cha kujiamini katika udhibiti wa serikali. Gundua mantiki ya mpangilio wa hiari, chunguza masuala halisi ya kifalsafa (ubinafsi dhidi ya ujumuishaji) na ujifunze kufafanua maadili yako mwenyewe bila kuanguka katika mitego ya lebo za kitamaduni.
+Je, msimamo wako wa kisiasa unaegemea kulia au kushoto? Kozi hii inatoa mbinu ya mapinduzi ya kuelewa wigo wa kisiasa kupitia mhimili wa msingi wa Uhuru na Ushuru. Kwa kutumia Mchoro wa Nolan, tunachambua familia za kisiasa - wasoshalisti, wahafidhina, wa katikati na waliberali - si kulingana na nia zao zilizotajwa, bali kulingana na kiwango chao cha kujiamini katika udhibiti wa serikali. Gundua mantiki ya mpangilio wa hiari, chunguza masuala halisi ya kifalsafa (ubinafsi dhidi ya ujumuishaji) na ujifunze kufafanua maadili yako mwenyewe bila kuanguka katika mitego ya lebo za kitamaduni.
 
 
 
@@ -43,7 +43,7 @@ Wengi wanaamini kwamba mgawanyiko mkubwa zaidi katika nchi za Magharibi leo ni k
 
 
 
-Kwa hivyo, ili kutambua mwelekeo wa kisiasa wa mtu binafsi, tunaupanga kwenye mstari rahisi wa mlalo. Tunajiweka upande wa kushoto, kushoto, katikati, kulia na kulia kabisa wa mstari, kulingana na mielekeo tofauti.
+Kwa hivyo, ili kutambua mwelekeo wa kisiasa wa mtu binafsi, tunaupanga kwenye mstari rahisi wa mlalo. Tunajiweka upande wa kushoto kabisa, kushoto, katikati, kulia na kulia kabisa wa mstari, kulingana na mielekeo tofauti.
 
 
 
@@ -59,7 +59,7 @@ Hata hivyo, uainishaji huu mara nyingi ni rahisi sana na hauna ufanisi. Kwa kawa
 
 
 
-Watu wengi wanaoanguka kati ya pande mbili kali mara nyingi hujulikana kama wasimamizi wa kati, lakini lebo hii pia hurahisisha msimamo wao.
+Watu wengi ambao wako kati ya pande mbili kali mara nyingi hujulikana kama wasimamizi wa kati, lakini lebo hii pia hurahisisha msimamo wao.
 
 
 
@@ -67,7 +67,7 @@ Tuchukue mfano: kama mtu anatetea uhuru wa kiuchumi lakini pia anatetea haki ya 
 
 
 
-Watu wengi hawakubaliani nao, wakifikiri kwamba kushoto au kulia, kijamaa au kihafidhina, hakuelezi maoni yao kwa usahihi.
+Watu wengi hawakubaliani nao, wakidhani kwamba kushoto au kulia, kijamaa au kihafidhina, hakuelezi maoni yao kwa usahihi.
 
 
 
@@ -83,7 +83,7 @@ Tatizo la mhimili wa kushoto-kulia ni kwamba hauachi nafasi kwa mawazo ya kilibe
 
 
 
-Hakika, ni wapi tunapowaweka watu kama Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul, Elon Musk, Javier Milei katika wigo wa kushoto-kulia?
+Hakika, tunawaweka wapi watu kama Thomas Jefferson, Alexis de Tocqueville, Frédéric Bastiat, Ron Paul, Elon Musk, Javier Milei katika wigo wa kushoto-kulia?
 
 
 
@@ -111,7 +111,7 @@ Tuchukue mfano mwingine: **Je, Bitcoin iko kulia au kushoto?
 
 
 
-Bila shaka, Bitcoin ni mradi unaokiuka sera ya sasa ya fedha. Kwa hivyo ni mradi wa kisiasa. Lakini ni vigumu kuiweka Bitcoin kwenye mhimili rahisi wa mstari unaoanzia upande wa kushoto hadi upande wa kulia.
+Bila shaka, Bitcoin ni mradi unaokiuka sera ya sasa ya fedha. Kwa hivyo ni mradi wa kisiasa. Lakini ni vigumu kuiweka Bitcoin kwenye mhimili rahisi wa mstari unaoanzia upande wa kushoto kabisa hadi upande wa kulia kabisa.
 
 
 
@@ -122,7 +122,7 @@ Kwa kuanzia, ufafanuzi wa kulia na kushoto ni mgumu na hubadilika baada ya muda,
 
 
 - Watu mashuhuri wa mrengo wa kulia wanaweza kuona Bitcoin kama njia mbadala ya sera za fedha za benki kuu.
-- Watu mashuhuri wa mrengo wa kushoto pia wapo, haswa kwa sababu ya uwezo wa Bitcoin wa kuingizwa kifedha na kama chombo dhidi ya udhibiti.
+- Watu mashuhuri wa mrengo wa kushoto pia wapo, haswa kwa sababu ya uwezo wa Bitcoin katika kuingiza watu kifedha na kama chombo dhidi ya udhibiti.
 
 
 
@@ -138,7 +138,7 @@ Zaidi ya hayo, mhimili rahisi wa mstari unaoanzia kushoto kwenda kulia haufanyi 
 
 
 
-Zaidi ya hayo, ingawa haki bila shaka ina uhuru zaidi kiuchumi kuliko kushoto, kambi zote mbili zinashiriki kutoamini soko huria, uhuru wa mkataba na mali binafsi, na mvuto wa uingiliaji kati wa serikali. Kwa wale walio madarakani, iwe upande wa kulia au kushoto, kila tatizo hutatuliwa kwa kanuni mpya au kodi, badala ya kujidhibiti kwa mwingiliano wa mtu binafsi.
+Zaidi ya hayo, ingawa kulia bila shaka ina uhuru zaidi kiuchumi kuliko kushoto, kambi zote mbili zinashiriki kutoamini soko huria, uhuru wa mkataba na mali binafsi, na mvuto wa uingiliaji kati wa serikali. Kwa wale walio madarakani, iwe upande wa kulia au kushoto, kila tatizo hutatuliwa kwa kanuni mpya au kodi, badala ya kujidhibiti kwa mwingiliano wa mtu binafsi.
 
 
 
@@ -263,7 +263,7 @@ Kwa hivyo, je, mfumo wa kisiasa wa jadi wa mrengo wa kushoto dhidi ya kulia unap
 
 
 
-Badala ya kugawanya mafundisho ya kisiasa kwa mhimili wa kulia/kushoto, ingekuwa na maana zaidi kuangalia mambo kupitia prism ya uhuru. Kisha tungekuwa na mhimili wa uhuru-nguvu, ili mawazo ya kiliberali ya kitamaduni hatimaye yapate nafasi yake kwenye ubao wa chess wa kisiasa.
+Badala ya kugawanya mafundisho ya kisiasa kwa mhimili wa kulia/kushoto, ingekuwa na maana zaidi kuangalia mambo kupitia prism ya uhuru. Kisha tungekuwa na mhimili wa uhuru-nguvu, ili mawazo ya kiliberali ya kitamaduni hatimaye yapate nafasi yake kwenye bodi ya chess wa kisiasa.
 
 
 
