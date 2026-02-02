@@ -30,7 +30,7 @@ Blue Wallet is een open source, self-custodial Bitcoin-wallet waarmee je control
 
 
 
-⚠️ Zorg ervoor dat je de Blue Wallet bitcoin-wallet applicatie downloadt op een officieel platform om de echtheid ervan te garanderen en je bitcoins te beschermen tegen mogelijke lekken en hacks.
+⚠️ Zorg ervoor dat je de Blue Wallet Bitcoin-wallet app downloadt op een officieel platform om de echtheid ervan te garanderen en je bitcoins te beschermen tegen mogelijke lekken en hacks.
 
 
 
@@ -40,7 +40,7 @@ Eenmaal geïnstalleerd, kun je een nieuwe wallet aanmaken en de 12 herstelwoorde
 
 https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
 
-Met Blue Wallet kun je aparte, speciale bitcoin-wallets aanmaken. Je kunt bijvoorbeeld een wallet hebben voor je spaargeld en een andere voor je dagelijkse uitgaven, allemaal binnen dezelfde applicatie.
+Met Blue Wallet kun je aparte, speciale Bitcoin-wallets aanmaken. Je kunt bijvoorbeeld een wallet hebben voor je spaargeld en een andere voor je dagelijkse uitgaven, allemaal binnen dezelfde applicatie.
 
 
 
@@ -69,11 +69,11 @@ https://planb.academy/tutorials/wallet/mobile/phoenix-0f681345-abff-4bdc-819c-4a
 
 https://planb.academy/tutorials/wallet/mobile/aqua-8e6d7dd3-8c03-45cc-90dd-fe3899a7d125
 
-Blue Wallet's bitcoin-wallet vertegenwoordigt de standaard-wallet in het Bitcoin-ecosysteem. Je kunt bitcoins uitgeven zolang je in het bezit bent van de herstelwoorden die zorgen voor een geldige handtekening op het netwerk om te verifiëren dat je de bitcoins bezit.
+Blue Wallet's Bitcoin-wallet vertegenwoordigt de standaard-wallet in het Bitcoin-ecosysteem. Je kunt bitcoins uitgeven zolang je in het bezit bent van de herstelwoorden die zorgen voor een geldige handtekening op het netwerk om te verifiëren dat je de bitcoins bezit.
 
 
 
-Om een bitcoin-wallet aan te maken, klik je op de knop **Add now**, voer je de naam van je wallet in en kies je het Bitcoin-type.
+Om een Bitcoin-wallet aan te maken, klik je op de knop **Add now**, voer je de naam van je wallet in en kies je het Bitcoin-type.
 
 
 
@@ -85,17 +85,17 @@ Als je op de voorbeeldweergave van je Bitcoin-wallet klikt, kun je je transactie
 
 
 
-⚠️ Alle transacties in je bitcoin-wallet vinden plaats op de hoofdketen van het Bitcoin-protocol (Mainnet).
+⚠️ Alle transacties in je Bitcoin-wallet vinden plaats op de hoofdketen van het Bitcoin-protocol (Mainnet).
 
 
 
 
 
-- Bitcoins ontvangen met de Blue Wallet bitcoin-wallet is intuïtief. Klik onderaan op de knop **Receive**. Deel de QR-code of je Bitcoin-adres met je afzender, zodat hij je de bitcoins kan sturen.
+- Bitcoins ontvangen met de Blue Wallet Bitcoin-wallet is intuïtief. Klik onderaan op de knop **Receive**. Deel de QR-code of je Bitcoin-adres met je afzender, zodat hij je de bitcoins kan sturen.
 
 
 
-Je kunt ook een vooraf gedefinieerd bedrag instellen om het bitcoin bedrag te specificeren dat je wilt ontvangen.
+Je kunt ook een vooraf gedefinieerd bedrag instellen om het bitcoinbedrag te specificeren dat je wilt ontvangen.
 
 
 
@@ -163,7 +163,7 @@ Je kunt één of alle ontvangers verwijderen door respectievelijk op **Remove Re
 
 
 
-De Multisig (multi-handtekening) wallet vertegenwoordigt een wallet die is gecreëerd uit de groepering van een bepaald aantal (minimaal 2) bitcoin-wallets. Bij dit type wallet wordt, afhankelijk van de gekozen configuratie en methode, het uitgeven van bitcoins een collectieve en coöperatieve actie.
+De Multisig (multi-handtekening) wallet vertegenwoordigt een wallet die is gecreëerd uit de groepering van een bepaald aantal (minimaal 2) Bitcoin-wallets. Bij dit type wallet wordt, afhankelijk van de gekozen configuratie en methode, het uitgeven van bitcoins een collectieve en coöperatieve actie.
 
 
 
@@ -183,7 +183,7 @@ Definieer de m-van-n configuratie voor je multisig-organisatie door te klikken o
 
 
 
-⚠️ In een m-van-n configuratie staat **m** voor het minimum aantal handtekeningen dat nodig is om een transactie goed te keuren en **n** voor het aantal wallets in uw organisatie.
+⚠️ In een m-van-n configuratie staat **m** voor het minimum aantal handtekeningen dat nodig is om een transactie goed te keuren en **n** voor het aantal wallets in je organisatie.
 
 
 
@@ -241,7 +241,7 @@ Op je Multisig-wallet pagina vind je je transactiegeschiedenis en de knoppen Rec
 
 
 
-Bitcoins ontvangen in een mulitsi-wallet is hetzelfde proces als in een standaard Bitcoin-wallet.
+Bitcoins ontvangen in een mulitsig-wallet is hetzelfde proces als in een standaard Bitcoin-wallet.
 
 
 
@@ -251,19 +251,19 @@ Bitcoins ontvangen in een mulitsi-wallet is hetzelfde proces als in een standaar
 
 
 
-Door een multisig-wallet te beheren, wordt het uitgeven van bitcoins een samengestelde actie, of het nu met andere mensen is of met een tweede wallet van jezelf. De enkele handtekening van je wallet is niet langer voldoende. Dit voegt een veiligheidslaag toe aan je bitcoins, omdat een kwaadwillende persoon die bitcoins niet zal kunnen uitgeven wanneer hij slechts één van je privésleutels bezit.
+Door een multisig-wallet te beheren, wordt het uitgeven van bitcoins een samengestelde actie, of het nu met andere mensen is of met een tweede wallet van jezelf. De enkele handtekening van je wallet is niet langer voldoende. Dit voegt een beveiligingslaag toe aan je bitcoins, omdat een kwaadwillende persoon die bitcoins niet zal kunnen uitgeven wanneer hij slechts één van je privésleutels bezit.
 
 
 
-Net als bij de standaard Blue Wallet bitcoin-wallet, kun je meerdere ontvangers definiëren met de **Add Recipients** optie.
+Net als bij de standaard Blue Wallet Bitcoin-wallet, kun je meerdere ontvangers definiëren met de **Add Recipients** optie.
 
 
 
-Bij het valideren van je transactie heb je een tweede handtekening nodig om het uitgeven van de bitcoins goed te keuren. Onthoud dat we in een 2-de-3 multi-handtekening configuratie zitten.
+Bij het valideren van je transactie heb je een tweede handtekening nodig om het uitgeven van de bitcoins goed te keuren. Onthoud dat we in een 2-van-3 multisig-configuratie zitten.
 
 
 
-De tweede Wallet ondertekenaar, als hij of zij ook een gebruiker is, kan de transactie ondertekenen, zelfs als hij of zij geen internet heeft (geen Wi-Fi, geen mobiele data) door de QR-code te scannen van de [gedeeltelijk ondertekende transactie](https://planb.academy/resources/glossary/psbt) die je zojuist hebt aangemaakt.
+De tweede wallet-ondertekenaar kan, als hij of zij ook een gebruiker is, de transactie ondertekenen, zelfs zonder internetverbinding (geen Wi-Fi, geen mobiele data), door de QR-code te scannen van de [gedeeltelijk ondertekende transactie](https://planb.academy/resources/glossary/psbt) die je zojuist hebt aangemaakt.
 
 
 
@@ -273,15 +273,15 @@ De tweede Wallet ondertekenaar, als hij of zij ook een gebruiker is, kan de tran
 
 
 
-- Ga verder met de **Multi signature** portfolio:
+- Ga verder met de **Multisig**-wallet:
 
 
 
-Klik op de Interface van je multisig-wallet op de knop **Toetsen beheren**.
+Klik in de interface van je multisig-wallet op de knop **Manage keys**.
 
 
 
-Door één van de herstelwoorden van één van de ondertekenende portefeuilles te vergeten (**Vergeet deze seed...**), laat je Blue Wallet weten dat het de back-up van deze woorden uit zijn geheugen moet wissen. Je hebt dus een externe back-up gemaakt.
+Door één van de herstelwoorden van één van de ondertekenende wallets te vergeten (**Forget this seed...**), laat je Blue Wallet weten dat het de back-up van deze woorden uit zijn geheugen moet wissen. Je hebt dus een externe back-up gemaakt.
 
 
 
@@ -289,11 +289,11 @@ Door één van de herstelwoorden van één van de ondertekenende portefeuilles t
 
 
 
-Door deze actie uit te voeren, behoudt u alleen de openbare sleutel die aan deze herstelwoorden is gekoppeld.
+Door deze actie uit te voeren, behoudt je alleen de openbare sleutel (XPUB) die aan deze herstelwoorden is gekoppeld.
 
 
 
-⚠️ Door alleen openbare sleutels te bewaren (XPUB) kun je een extra beveiligingsniveau toevoegen aan je 2-van-3 configuratie met meerdere handtekeningen. Het kan inderdaad nadelig zijn om alle herstelwoorden op één plaats te bewaren als je telefoon wordt aangevallen. Aanvallers met toegang tot slechts één **VAULT** (sleutelwoord) die je gebruikt om je transacties te ondertekenen, zullen niet in staat zijn om je bitcoins te stelen (minimaal 02 handtekeningen vereist) omdat publieke sleutels niet kunnen worden gebruikt om transacties te ondertekenen.
+⚠️ Door alleen openbare sleutels te bewaren (XPUB) kun je een extra beveiligingsniveau toevoegen aan je 2-van-3 multisig-configuratie. Het kan inderdaad nadelig zijn om alle herstelwoorden op één plaats te bewaren als je telefoon wordt aangevallen. Aanvallers met toegang tot slechts één **VAULT** (sleutelwoord) die je gebruikt om je transacties te ondertekenen, zullen niet in staat zijn om je bitcoins te stelen (minimaal 2 handtekeningen vereist) omdat publieke sleutels niet kunnen worden gebruikt om transacties te ondertekenen.
 
 
 
@@ -333,7 +333,7 @@ https://planb.academy/tutorials/node/lightning-network/umbrel-lnd-b12e0b5b-12ff-
 
 https://planb.academy/tutorials/node/lightning-network/lightning-network-daemon-linux-59d777e9-72c8-4b32-8c50-e86cdae8f2f9
 
-Je hebt nu de Blue Wallet rondleiding voltooid en bent klaar om Bitcoin in al zijn eenvoud en kracht te gebruiken. Wij raden je aan de volgende stap te nemen en te ontdekken hoe je Bitcoin betalingen kan accepteren in je winkel, dankzij de kracht van Lightning.
+Je hebt nu de Blue Wallet rondleiding voltooid en bent klaar om Bitcoin in al zijn eenvoud en kracht te gebruiken. Wij raden je aan de volgende stap te nemen en te ontdekken hoe je Bitcoin betalingen kunt accepteren in je winkel, dankzij de kracht van Lightning.
 
 
 
