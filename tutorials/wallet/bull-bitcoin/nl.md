@@ -172,8 +172,8 @@ Tik op `Encrypted Vault` en vervolgens op `Continue` om het gebruik van de stand
 
 
 
-- `App Unlock PIN`**:** De optionele PIN die is ingesteld in `Settings > Security-PIN` om de app op je telefoon te vergrendelen.
-- `Recovery PIN`**:** De verplichte PIN die is aangemaakt tijdens het `Encrypted Vault` back-upproces en die wordt gebruikt om je back-upbestand te decoderen tijdens het herstel.
+- **`App Unlock PIN`:** De optionele PIN die is ingesteld in `Settings > Security-PIN` om de app op je telefoon te vergrendelen.
+- **`Recovery PIN`:** De verplichte PIN die is aangemaakt tijdens het `Encrypted Vault` back-upproces en die wordt gebruikt om je back-upbestand te decoderen tijdens het herstel.
 
 
 Dit zijn twee afzonderlijke PIN-codes. Vergeet je Recovery PIN niet, want deze is essentieel voor het herstellen van je wallet."
@@ -220,7 +220,7 @@ Nu je primaire back-up veilig is gesteld, gaan we de andere functies in de inste
 ### A - Toegang beveiligen
 
 
-Om de app te beveiligen, navigeer naar ` Settings ` en kies `Security PIN` om een PIN-code te selecteren. Maak een sterke PIN-code aan om de toegang tot je wallet te vergrendelen. Hoewel deze stap optioneel is, wordt het sterk aanbevolen om onbevoegde toegang te voorkomen als iemand anders je telefoon gebruikt.
+Om de app te beveiligen, navigeer naar `Settings` en kies `Security PIN` om een PIN-code te selecteren. Maak een sterke PIN-code aan om de toegang tot je wallet te vergrendelen. Hoewel deze stap optioneel is, wordt het sterk aanbevolen om onbevoegde toegang te voorkomen als iemand anders je telefoon gebruikt.
 
 
 ![image](assets/en/06.webp)
@@ -229,10 +229,10 @@ Om de app te beveiligen, navigeer naar ` Settings ` en kies `Security PIN` om ee
 ### B - Verbinding met een persoonlijke node (optioneel)
 
 
-De wallet BullBitcoin maakt standaard verbinding met Electrum servers: de eerste wordt beheerd door Bull Bitcoin en een secundaire server van Blockstream, die beide geen logs bijhouden, waardoor het risico op tracering kleiner is.
+De Bull Bitcoin-wallet maakt standaard verbinding met Electrum servers: de eerste wordt beheerd door Bull Bitcoin en een secundaire server van Blockstream, die beide geen logs bijhouden, waardoor het risico op tracering kleiner is.
 
 
-Voor meer vertrouwelijkheid kunt je de applicatie verbinden met je eigen Bitcoin knooppunt via een Electrum server. Tik hiervoor op ` Settings ` > `Bitcoin  Settings ` > `Electrum Server  Settings `, tik vervolgens op `+ Aangepaste server toevoegen` om het adres en de gegevens van je server in te voeren.
+Voor meer vertrouwelijkheid kunt je de applicatie verbinden met je eigen Bitcoin node via een Electrum server. Tik hiervoor op `Settings` > `Bitcoin Settings` > `Electrum Server Settings`, tik vervolgens op `+ Add Custom Server` om het adres en de gegevens van je server in te voeren.
 
 
 ![image](assets/en/07.webp)
@@ -241,57 +241,57 @@ Voor meer vertrouwelijkheid kunt je de applicatie verbinden met je eigen Bitcoin
 ### C - Valuta
 
 
-Het beschikbare saldo wordt op het hoofdscherm weergegeven in zowel `sats` als `USD`. Om dit te veranderen, ga je naar ` Settings ` > `Munteenheid`. Daar kun je wisselen tussen `sats/BTC` en je `standaard fiatvaluta` selecteren.
+Het beschikbare saldo wordt op het hoofdscherm weergegeven in zowel `sats` als `USD`. Om dit te veranderen, ga je naar `Settings` > `Currency`. Daar kun je wisselen tussen `sats/BTC` en je `standaard fiatvaluta` selecteren.
 
 
 ![image](assets/en/08.webp)
 
 
-### D - Bitcoin Instellingen
+### D - Bitcoin instellingen
 
 
-Het menu `Bitcoin  Settings ` biedt diepgaande toegang tot de kernconfiguraties en -gegevens van je wallet. Hier kun je de fundamentele details van je `Secure Bitcoin` en `Instant payments wallets` bekijken. Hier kunt je de fundamentele details van je `Secure Bitcoin` en `Instant payments wallets` bekijken, waardoor je volledige transparantie en controle heeft. De belangrijkste functies in dit menu zijn:
+Het menu `Bitcoin Settings` biedt diepgaande toegang tot de kernconfiguraties en -gegevens van je wallet. Hier kun je de fundamentele details van je `Secure Bitcoin` en `Instant payments wallets` bekijken. Hier kunt je de fundamentele details van je `Secure Bitcoin` en `Instant payments wallets` bekijken, waardoor je volledige transparantie en controle hebt. De belangrijkste functies in dit menu zijn:
 
 
 
-- Wallet Details:** Navigeer naar je Beveiligde Bitcoin of Directe betalingen wallet om specifieke informatie te bekijken.
-- Wallet vingerafdruk:** Een unieke identificatie voor je wallet.
+- **Wallet Details:** Navigeer naar je Beveiligde Bitcoin of Directe betalingen wallet om specifieke informatie te bekijken.
+- **Wallet vingerafdruk:** Een unieke identificatie voor je wallet.
 - Publieke sleutel (Pubkey):** De sleutel die gebruikt wordt om generate je Bitcoin ontvangstadressen te geven.
-- Descriptor:** Een technische samenvatting van de structuur van je wallet.
-- Afleidingspad:** Het specifieke pad dat wordt gebruikt om generate alle adressen van je privésleutel af te leiden.
-- Address bekijken:** Bekijk een lijst met je ongebruikte ontvangstadressen en wijzig adressen (verschijnt binnenkort)
+- **Descriptor:** Een technische samenvatting van de structuur van je wallet.
+- **Afleidingspad:** Het specifieke pad dat wordt gebruikt om generate alle adressen van je privésleutel af te leiden.
+- **Address bekijken:** Bekijk een lijst met je ongebruikte ontvangstadressen en wijzig adressen (verschijnt binnenkort)
 
 
 Bovendien heb je de optie om:
 
 
 
-- `Enable Auto Transfer` instellingen om een maximum direct wallet saldo in te stellen, dat vervolgens automatisch wordt overgeboekt naar de beveiligde bitcoin wallet.
-- Generieke wallets importeren via `Mnemonic` zin of `watch-only` importeren
-- Verbind `Hardware wallets`: momenteel worden ColdcardQ, SeedSigner, Specter, Krux, Blockstream Jade en Foundation Passport ondersteund
+- `Enable Auto Transfer` instellingen om een maximum wallet saldo in te stellen, dat vervolgens automatisch wordt overgeboekt naar de beveiligde bitcoin-wallet.
+- Generieke wallets via `Mnemonic` zin of `watch-only` importeren.
+- Verbind `Hardware wallets`: momenteel worden ColdcardQ, SeedSigner, Specter, Krux, Blockstream Jade en Foundation Passport ondersteund.
 
 
-## 7️⃣ Bull Bitcoin Exchange
+## 7️⃣ Bull Bitcoin exchange
 
 
-Direct vanuit de wallet heb je toegang tot de [Bull Bitcoin exchange](https://www.bullbitcoin.com/), zodat je Bitcoin kunt kopen, verkopen en betalen zonder de app te verlaten. Deze integratie biedt een handige oplossing voor het beheren van je Bitcoin behoeften. Houd er rekening mee dat de toegang tot de beurs en de diensten beperkt kan zijn, afhankelijk van je jurisdictie, en dat het voltooien van een KYC-verificatie (Know Your Customer) vereist kan zijn om te voldoen aan de wettelijke normen en gebruik te maken van alle functies van het platform.
+Direct vanuit de wallet heb je toegang tot de [Bull Bitcoin exchange](https://www.bullbitcoin.com/), zodat je bitcoin kunt kopen, verkopen en betalen zonder de app te verlaten. Deze integratie biedt een handige oplossing voor het beheren van je Bitcoin behoeften. Houd er rekening mee dat de toegang tot de exchange en de diensten beperkt kan zijn, afhankelijk van je jurisdictie, en dat het voltooien van een KYC-verificatie (Know Your Customer) vereist kan zijn om te voldoen aan de wettelijke normen en gebruik te maken van alle functies van het platform.
 
 
-Om te beginnen tikt je op `Exchange` in de rechterbenedenhoek en vervolgens op `Sign up` of `Login` voor je account.
+Om te beginnen tik je op `Exchange` in de rechterbenedenhoek en vervolgens op `Sign up` of `Login` voor je account.
 
 
-De beurs biedt de volgende [functies](https://www.bullbitcoin.com/):
+De exchange biedt de volgende [functies](https://www.bullbitcoin.com/):
 
 
 
-- Bitcoin kopen met zelfbehoud van je bankrekening
-- Niet-vrijheidsberovende
+- Bitcoin kopen met self-custody van je bankrekening
+- Non-custodial
 - Particulieren of bedrijven
 - Onmiddellijke opname
 - Geen verborgen kosten
 - Lightning Network beschikbaar
 - Geen transactielimieten
-- Terugkerende koopopties
+- Recurrente koopopties
 
 
 ![image](assets/en/09.webp)
@@ -317,26 +317,26 @@ Geld ontvangen met **Bull Bitcoin-wallet** is eenvoudig en flexibel, met onderst
 De app genereert automatisch het juiste adres of de juiste factuur op basis van je geselecteerde netwerk. Hier lees je hoe je te werk gaat voor elk netwerk.
 
 
-### Ontvangen via Onchain (Bitcoin netwerk)
+### Ontvangen via onchain (Bitcoin-netwerk)
 
 
-Om on-chain fondsen te ontvangen, kun je ofwel de `Veilig Bitcoin wallet` op het Beginscherm selecteren en op `Ontvangen` tikken, of op de hoofdknop `Ontvangen` tikken en dan het `Bitcoin netwerk` kiezen.
+Om on-chain fondsen te ontvangen, kun je ofwel de `Secure Bitcoin Wallet` op het beginscherm selecteren en op `Receive` tikken, of op de hoofdknop `Receive` tikken en dan het `Bitcoin netwerk` kiezen.
 
 
 Je hebt twee primaire modi voor het genereren van een ontvangstadres:
 
 
-**Standaardmodus (URI met extra invoerparameters)
+**Standaardmodus (URI met extra invoerparameters)**
 
 
 Standaard genereert de wallet een [BIP21 URI](https://bips.dev/21/). Dit is een gestandaardiseerd formaat dat meer informatie verpakt dan een eenvoudig adres, waaronder een bedrag, een persoonlijke notitie en PayJoin parameters om de privacy te verbeteren. Deze uitgebreide URI wordt gecodeerd in een QR-code en beschikbaar gesteld om te kopiëren. Het formaat ziet er als volgt uit: `bitcoin:<adres>?<parameter1>=<waarde1>&<parameter2>=<waarde2>`.
 
 
 
-- Extra invoerparameters:**
-    - Bedrag:** Geef een gevraagd bedrag op in BTC, sats of een fiatvaluta.
-    - Bericht:** Voeg een persoonlijke notitie toe die zichtbaar is voor de afzender.
-    - PayJoin:** Schakel deze optie in om de privacy te verbeteren door de input van zowel de verzender als de ontvanger te combineren in de transactie.
+- **Extra invoerparameters:**
+    - **Bedrag:** Geef een gevraagd bedrag op in BTC, sats of een fiatvaluta.
+    - **Bericht:** Voeg een persoonlijke notitie toe die zichtbaar is voor de afzender.
+    - **PayJoin:** Schakel deze optie in om de privacy te verbeteren door de input van zowel de verzender als de ontvanger te combineren in de transactie.
 
 
 Voorbeeld URI:
@@ -353,10 +353,10 @@ bitcoin:bc1q0vv86t2sj7daduvdc50njms6u6jzh2y54xxxxx?amount=0.0005&message=Tip+for
 ![image](assets/en/10.webp)
 
 
-**Kopieer of scan alleen Address optie ingeschakeld
+**Kopieer of scan adres alleen optie ingeschakeld**
 
 
-Met de `Kopieer of scan alleen Address optie` ingeschakeld, genereert de applicatie een eenvoudig Bitcoin adres in SegWit (bech32) formaat.
+Met de `Copy or scan Address only` optie ingeschakeld, genereert de applicatie een eenvoudig Bitcoin-adres in SegWit (bech32) formaat.
 
 
 Voorbeeld:
@@ -373,13 +373,13 @@ Zelfs als je een bedrag of een notitie invoert, worden deze niet opgenomen in de
 ![image](assets/en/11.webp)
 
 
-### Ontvangen via de Liquid Network
+### Ontvangen via het Liquid Network
 
 
-Je kunt een betaling ontvangen op de Liquid Network. Eenmaal op het `Ontvangen` scherm, heb je dezelfde twee opties om een betalingsverzoek te genereren:
+Je kunt een betaling ontvangen op het Liquid Network. Eenmaal op het `Receive` scherm, heb je dezelfde twee opties om een betalingsverzoek te genereren:
 
 
-**1. Eenvoudige Address:** Kopieer het standaard `Liquid adres`. Dit is een unieke identificatie voor je wallet op het Liquid netwerk en bevat geen specifiek bedrag of bericht.
+**1. Eenvoudig adres:** Kopieer het standaard `Liquid adres`. Dit is een unieke identificatie voor je wallet op het Liquid-netwerk en bevat geen specifiek bedrag of bericht.
 
 
 Voorbeeld Address:
@@ -394,8 +394,8 @@ lq1qq05k3vmnvbullbitcoinjujn6h04z9jtw53xuyktqf9mam2zpfz05j2fe2x8xhejgkga3nvmp4yy
 
 
 
-- Bedrag:** Je kunt het bedrag instellen in Bitcoin (BTC), Satoshis (Sats) of een fiatvaluta.
-- Opmerking:** Voeg een persoonlijk bericht toe om de transactie te identificeren.
+- **Bedrag:** Je kunt het bedrag instellen in Bitcoin (BTC), Satoshis (sats) of een fiatvaluta.
+- **Opmerking:** Voeg een persoonlijk bericht toe om de transactie te identificeren.
 
 
 **Voorbeeld URI:**
@@ -416,7 +416,7 @@ Om de transactie te voltooien, geef je de afzender het `adres` of de `URI`. Je k
 
 
 
-Met de Bull Bitcoin-wallet kun je ook betalingen verzenden en ontvangen via de Lightning Network. Een belangrijk kenmerk is dat geld dat je via Lightning ontvangt automatisch wordt omgewisseld en opgeslagen op de `Liquid Network` binnen je `Instant Payments wallet`. Deze dienst wordt aangedreven door de `Boltz`. Door dit ontwerp kunt je profiteren van de snelheid en lage kosten van Lightning zonder de complexiteit van het beheren van liquiditeitskanalen, terwijl je je fondsen volledig zelf bewaart. Hoewel deze hybride benadering self-custodial is en de complexiteit van het beheren van kanalen vermijdt, introduceert het een dienst van een derde partij (Boltz), een kleine swapvergoeding en afhankelijkheid van de Liquid Network federatie van functionarissen als keyholders, wat anders is dan een traditionele, niet-custodial Lightning wallet waar je je eigen kanalen beheert. Je kunt hier meer te weten komen over Liquid en hun bestuursmodel:
+Met de Bull Bitcoin-wallet kun je ook betalingen verzenden en ontvangen via het Lightning Network. Een belangrijk kenmerk is dat geld dat je via Lightning ontvangt automatisch wordt omgewisseld en opgeslagen op de `Liquid Network` binnen je `Instant Payments wallet`. Deze dienst wordt aangedreven door de `Boltz`. Door dit ontwerp kunt je profiteren van de snelheid en lage kosten van Lightning zonder de complexiteit van het beheren van liquiditeitskanalen, terwijl je je fondsen volledig zelf bewaart. Hoewel deze hybride benadering self-custodial is en de complexiteit van het beheren van kanalen vermijdt, introduceert het een dienst van een derde partij (Boltz), een kleine swapvergoeding en afhankelijkheid van de Liquid Network federatie van functionarissen als keyholders, wat anders is dan een traditionele, niet-custodial Lightning wallet waar je je eigen kanalen beheert. Je kunt hier meer te weten komen over Liquid en hun bestuursmodel:
 
 
 https://planb.academy/en/courses/e17ee350-41d4-49fa-b270-29e4d26d22f8/overview-of-liquid-architecture-and-governance-model-17650c4b-cd1f-4bc6-b490-708f92dc9306
@@ -498,7 +498,7 @@ Op het bevestigingsscherm voor een Liquid transactie bekijk je de details. De ko
 ![image](assets/en/16.webp)
 
 
-### Verzenden naar de Lightning Network
+### Verzenden naar het Lightning Network
 
 
 Je kunt een Lightning Address scannen (bijv. `runningbitcoin@rizful.com`) waarmee je het bedrag en een optionele notitie voor de ontvanger kunt instellen, of een factuur met een vooraf gedefinieerd bedrag scannen, waarmee je direct naar het bevestigingsscherm gaat.
@@ -577,7 +577,7 @@ Selecteer eerst in het hoofdmenu van je Coldcard Q `Export wallet` en kies dan `
 ![image](assets/en/20.webp)
 
 
-Open de Bull Bitcoin-wallet en navigeer naar ` Settings ` > `Bitcoin  Settings ` > `Import wallet` en selecteer `Coldcard Q` op je telefoon en tik op `Open de camera` om deze QR-code te scannen om de publieke sleutels van je hardware wallet te importeren.
+Open de Bull Bitcoin-wallet en navigeer naar `Settings` > `Bitcoin Settings` > `Import wallet` en selecteer `Coldcard Q` op je telefoon en tik op `Open de camera` om deze QR-code te scannen om de publieke sleutels van je hardware wallet te importeren.
 
 
 ![image](assets/en/21.webp)
