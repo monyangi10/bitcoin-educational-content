@@ -416,19 +416,19 @@ Om de transactie te voltooien, geef je de afzender het `adres` of de `URI`. Je k
 
 
 
-Met de Bull Bitcoin-wallet kun je ook betalingen verzenden en ontvangen via het Lightning Network. Een belangrijk kenmerk is dat geld dat je via Lightning ontvangt automatisch wordt omgewisseld en opgeslagen op de `Liquid Network` binnen je `Instant Payments wallet`. Deze dienst wordt aangedreven door de `Boltz`. Door dit ontwerp kunt je profiteren van de snelheid en lage kosten van Lightning zonder de complexiteit van het beheren van liquiditeitskanalen, terwijl je je fondsen volledig zelf bewaart. Hoewel deze hybride benadering self-custodial is en de complexiteit van het beheren van kanalen vermijdt, introduceert het een dienst van een derde partij (Boltz), een kleine swapvergoeding en afhankelijkheid van de Liquid Network federatie van functionarissen als keyholders, wat anders is dan een traditionele, niet-custodial Lightning wallet waar je je eigen kanalen beheert. Je kunt hier meer te weten komen over Liquid en hun bestuursmodel:
+Met de Bull Bitcoin-wallet kun je ook betalingen verzenden en ontvangen via het Lightning Network. Een belangrijk kenmerk is dat geld dat je via Lightning ontvangt automatisch wordt omgewisseld en opgeslagen op het `Liquid Network` binnen je `Instant Payments Wallet`. Deze dienst wordt aangedreven door de `Boltz`. Door dit ontwerp kan je profiteren van de snelheid en lage kosten van Lightning zonder de complexiteit van het beheren van liquiditeitskanalen, terwijl je je fondsen volledig zelf bewaart. Hoewel deze hybride benadering self-custodial is en de complexiteit van het beheren van kanalen vermijdt, introduceert het een dienst van een derde partij (Boltz), een kleine swapvergoeding en afhankelijkheid van de Liquid Network federatie van functionarissen als keyholders, wat anders is dan een traditionele, niet-custodial Lightning-wallet waar je je eigen kanalen beheert. Je kan hier meer te weten komen over Liquid en hun bestuursmodel:
 
 
 https://planb.academy/en/courses/e17ee350-41d4-49fa-b270-29e4d26d22f8/overview-of-liquid-architecture-and-governance-model-17650c4b-cd1f-4bc6-b490-708f92dc9306
 
 
-- Grenzen:**
-    - Minimumbedrag:** Een minimumfactuurbedrag is vereist. Controleer de app voor de huidige limiet
-    - Kosten:** Jij, de ontvanger, bent verantwoordelijk voor een kleine swapvergoeding. Deze kosten worden afgetrokken van het bedrag dat de verzender overmaakt en kunnen veranderen
+- **Grenzen:**
+    - **Minimumbedrag:** Een minimumfactuurbedrag is vereist. Controleer de app voor de huidige limiet
+    - **Kosten:** Jij, de ontvanger, bent verantwoordelijk voor een kleine swapvergoeding. Deze kosten worden afgetrokken van het bedrag dat de verzender overmaakt en kunnen veranderen
 - Voordelen:**
-    - Zelfbeheerd:** Uw geld is altijd onder je controle, beveiligd op het Liquid-netwerk.
-    - Vermijd hoge on-chain kosten:** Door Lightning te gebruiken en op te slaan op Liquid, omzeilt je de on-chain kosten die gepaard gaan met het openen van een traditioneel Lightning-kanaal. U kunt ervoor kiezen om later geld over te hevelen naar een on-chain-kanaal, wanneer het geaccumuleerde bedrag de kosten rechtvaardigt.
-    - Tip:** Voor de meest kosteneffectieve transactie tussen twee Bull Bitcoin gebruikers, gebruikt je het **Liquid netwerk rechtstreeks** om de Lightning swapkosten volledig te vermijden.
+    - **Zelfbeheerd:** Uw geld is altijd onder je controle, beveiligd op het Liquid-netwerk.
+    - **Vermijd hoge on-chain kosten:** Door Lightning te gebruiken en op te slaan op Liquid, omzeilt je de on-chain kosten die gepaard gaan met het openen van een traditioneel Lightning-kanaal. U kunt ervoor kiezen om later geld over te hevelen naar een on-chain-kanaal, wanneer het geaccumuleerde bedrag de kosten rechtvaardigt.
+    - **Tip:** Voor de meest kosteneffectieve transactie tussen twee Bull Bitcoin gebruikers, gebruikt je het **Liquid netwerk rechtstreeks** om de Lightning swapkosten volledig te vermijden.
 
 
 Om een betaling te ontvangen, moet je generate een `bliksemfactuur` hebben:
