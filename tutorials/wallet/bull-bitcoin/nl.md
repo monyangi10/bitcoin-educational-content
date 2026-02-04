@@ -156,7 +156,7 @@ https://planb.academy/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 Er is ook de optie van een versleutelde, anonieme back-up in de cloud. Maar zeiden we in de vorige paragraaf niet dat cloudback-ups riskant zijn en vermeden moeten worden? Het Bull Bitcoin-team heeft echter een slimme manier ontwikkeld om het proces veilig te maken. Dit is hoe het werkt:
 
 
-`Recoverbull` is een back-upprotocol dat het beveiligen van je Bitcoin-wallet vereenvoudigt door de back-up in twee delen op te splitsen. Ten eerste wordt het back-upbestand van je wallet versleuteld op je apparaat met behulp van een sterke versleutelingscode. Je kunt dit versleutelde bestand opslaan waar je maar wilt, zoals Google Drive of je apparaat. Ten tweede, de coderingssleutel die nodig is om het bestand te ontgrendelen is opgeslagen door de Recoverbull Key Server. Om je wallet te herstellen, heb je zowel het versleutelde back-up bestand als de sleutel nodig, die je opent met je PIN-code of wachtwoord. Dit ontwerp zorgt ervoor dat je cloud back-up alleen nutteloos is en dat de sleutel server (Key Server) alleen nutteloos is zonder je specifieke back-up bestand. Hierdoor blijven je fondsen veilig, zelfs als één onderdeel is gecompromitteerd.
+`Recoverbull` is een back-upprotocol dat het beveiligen van je Bitcoin-wallet vereenvoudigt door de back-up in twee delen op te splitsen. Ten eerste wordt het back-upbestand van je wallet versleuteld op je apparaat met behulp van een sterke versleutelingscode. Je kunt dit versleutelde bestand opslaan waar je maar wilt, zoals Google Drive of je apparaat. Ten tweede, de coderingssleutel die nodig is om het bestand te ontgrendelen is opgeslagen door de Recoverbull Key Server. Om je wallet te herstellen, heb je zowel het versleutelde back-upbestand als de sleutel nodig, die je opent met je PIN-code of wachtwoord. Dit ontwerp zorgt ervoor dat je cloud back-up alleen nutteloos is en dat de sleutel server (Key Server) alleen nutteloos is zonder je specifieke back-up bestand. Hierdoor blijven je fondsen veilig, zelfs als één onderdeel is gecompromitteerd.
 
 
 Zie het als een kluis. Het versleutelde back-up bestand is de *box*, die je overal kunt opslaan (zoals Google Drive). Je recovery PIN is de *sleutel*, die apart wordt opgeslagen door de Recoverbull Key Server. Een dief zou zowel je specifieke doos als je specifieke sleutel moeten hebben om het te openen. Dit ontwerp zorgt ervoor dat zelfs als iemand je back-up bestand krijgt, het nutteloos is zonder de sleutel van de server, en de sleutel van de server is nutteloos zonder je unieke back-up bestand.
@@ -192,7 +192,7 @@ Selecteer vervolgens een vault provider:
 
 
 
-- google Drive` of
+- Google Drive` of
 - een `gekozen locatie` (bijvoorbeeld je apparaat)
 
 
@@ -232,7 +232,7 @@ Om de app te beveiligen, navigeer naar `Settings` en kies `Security PIN` om een 
 De Bull Bitcoin-wallet maakt standaard verbinding met Electrum servers: de eerste wordt beheerd door Bull Bitcoin en een secundaire server van Blockstream, die beide geen logs bijhouden, waardoor het risico op tracering kleiner is.
 
 
-Voor meer vertrouwelijkheid kunt je de applicatie verbinden met je eigen Bitcoin node via een Electrum server. Tik hiervoor op `Settings` > `Bitcoin Settings` > `Electrum Server Settings`, tik vervolgens op `+ Add Custom Server` om het adres en de gegevens van je server in te voeren.
+Voor meer vertrouwelijkheid kun je de applicatie verbinden met je eigen Bitcoin node via een Electrum server. Tik hiervoor op `Settings` > `Bitcoin Settings` > `Electrum Server Settings`, tik vervolgens op `+ Add Custom Server` om het adres en de gegevens van je server in te voeren.
 
 
 ![image](assets/en/07.webp)
@@ -250,7 +250,7 @@ Het beschikbare saldo wordt op het hoofdscherm weergegeven in zowel `sats` als `
 ### D - Bitcoin instellingen
 
 
-Het menu `Bitcoin Settings` biedt diepgaande toegang tot de kernconfiguraties en -gegevens van je wallet. Hier kun je de fundamentele details van je `Secure Bitcoin` en `Instant payments wallets` bekijken. Hier kunt je de fundamentele details van je `Secure Bitcoin` en `Instant payments wallets` bekijken, waardoor je volledige transparantie en controle hebt. De belangrijkste functies in dit menu zijn:
+Het menu `Bitcoin Settings` biedt diepgaande toegang tot de kernconfiguraties en -gegevens van je wallet. Hier kun je de fundamentele details van je `Secure Bitcoin` en `Instant payments wallets` bekijken. Hier kun je de fundamentele details van je `Secure Bitcoin` en `Instant payments wallets` bekijken, waardoor je volledige transparantie en controle hebt. De belangrijkste functies in dit menu zijn:
 
 
 
@@ -423,25 +423,25 @@ https://planb.academy/en/courses/e17ee350-41d4-49fa-b270-29e4d26d22f8/overview-o
 
 
 - **Grenzen:**
-    - **Minimumbedrag:** Een minimumfactuurbedrag is vereist. Controleer de app voor de huidige limiet
-    - **Kosten:** Jij, de ontvanger, bent verantwoordelijk voor een kleine swapvergoeding. Deze kosten worden afgetrokken van het bedrag dat de verzender overmaakt en kunnen veranderen
-- Voordelen:**
-    - **Zelfbeheerd:** Uw geld is altijd onder je controle, beveiligd op het Liquid-netwerk.
-    - **Vermijd hoge on-chain kosten:** Door Lightning te gebruiken en op te slaan op Liquid, omzeilt je de on-chain kosten die gepaard gaan met het openen van een traditioneel Lightning-kanaal. U kunt ervoor kiezen om later geld over te hevelen naar een on-chain-kanaal, wanneer het geaccumuleerde bedrag de kosten rechtvaardigt.
-    - **Tip:** Voor de meest kosteneffectieve transactie tussen twee Bull Bitcoin gebruikers, gebruikt je het **Liquid netwerk rechtstreeks** om de Lightning swapkosten volledig te vermijden.
+    - **Minimumbedrag:** Een minimumfactuurbedrag is vereist. Controleer de app voor de huidige limiet.
+    - **Kosten:** Jij, de ontvanger, bent verantwoordelijk voor een kleine swapvergoeding. Deze kosten worden afgetrokken van het bedrag dat de verzender overmaakt en kunnen veranderen.
+- **Voordelen:**
+    - **Self-Custodial:** je geld is altijd onder jouw controle, beveiligd op het Liquid-netwerk.
+    - **Vermijd hoge on-chain kosten:** Door Lightning te gebruiken en op te slaan op Liquid, omzeil je de on-chain kosten die gepaard gaan met het openen van een traditioneel Lightning-kanaal. Je kan ervoor kiezen om later geld over te hevelen naar een on-chain-kanaal, wanneer het geaccumuleerde bedrag de kosten rechtvaardigt.
+    - **Tip:** Voor de meest kosteneffectieve transactie tussen twee Bull Bitcoin-gebruikers, gebruik je het **Liquid netwerk rechtstreeks** om de Lightning swapkosten volledig te vermijden.
 
 
-Om een betaling te ontvangen, moet je generate een `bliksemfactuur` hebben:
+Om een betaling te ontvangen, moet je een `Lightning-factuur` genereren:
 
 
-1. voer een bedrag in**:** Geef het bedrag op dat je wilt ontvangen in Bitcoin (BTC), Satoshis (Sats) of een fiatvaluta.
+1. **`Voer een bedrag in`:** Geef het bedrag op dat je wilt ontvangen in Bitcoin (BTC), Satoshis (Sats) of een fiatvaluta.
 
-2. notitie toevoegen` **(Optioneel):** Voeg een memo of notitie toe. Deze wordt opgenomen in de factuur en weergegeven in je transactiegeschiedenis zodra de betaling is voltooid, zodat je deze gemakkelijker kunt identificeren.
+2. **`Voeg een notitie toe` (optioneel):** Voeg een memo of notitie toe. Deze wordt opgenomen in de factuur en weergegeven in je transactiegeschiedenis zodra de betaling is voltooid, zodat je deze gemakkelijker kunt identificeren.
 
-3. `Invoice Geldigheid`**:** De Lightning-factuur is tijdsgevoelig en vervalt na **12 uur**. Als de factuur niet binnen deze periode wordt betaald, wordt deze ongeldig en moet je generate een nieuwe factuur maken.
+3. **`Geldigheid invoice`:** De Lightning-factuur is tijdsgevoelig en vervalt na **12 uur**. Als de factuur niet binnen deze periode wordt betaald, wordt deze ongeldig en moet je een nieuwe factuur genereren.
 
 
-Geef de factuur aan de verzender door hem naar je klembord te kopiëren of door hem de QR-code te laten scannen die op je scherm wordt weergegeven.
+Geef de factuur aan de verzender door deze te kopiëren naar je klembord of door de QR-code te laten scannen die op je scherm wordt weergegeven.
 
 
 ![image](assets/en/13.webp)
@@ -450,13 +450,13 @@ Geef de factuur aan de verzender door hem naar je klembord te kopiëren of door 
 ## 9️⃣ Geld versturen
 
 
-Je kunt het verzendscherm rechtstreeks openen vanaf de startpagina of vanuit een van je portemonnees. Bull Bitcoin-wallet vereenvoudigt het proces door automatisch het bestemmingsnetwerk te detecteren - `Bitcoin`, `Liquid` of `Lightning` op basis van het adres of de factuur die je invoert, geplakt of gescand via een QR-code.
+Je kunt het verzendscherm rechtstreeks openen vanaf de startpagina of vanuit een van je wallets. Bull Bitcoin-wallet vereenvoudigt het proces door automatisch het bestemmingsnetwerk te detecteren - `Bitcoin`, `Liquid` of `Lightning` op basis van het adres of de factuur die je invoert, geplakt of gescand via een QR-code.
 
 
-### on-chain Verzending via het Bitcoin Netwerk
+### on-chain verzending via het Bitcoin Netwerk
 
 
-Geld overmaken via on-chain betekent dat je transactie direct wordt geregistreerd op de Bitcoin blockchain. Deze methode is het beste voor grotere overschrijvingen of niet-tijdgevoelige overschrijvingen. Om te beginnen kun je rechtsonder op de `Verstuur Knop` tikken, en een `standaard Bitcoin adres` scannen of invoeren.
+Geld overmaken via on-chain betekent dat je transactie direct wordt geregistreerd op de Bitcoin-blockchain. Deze methode is het beste voor grotere overschrijvingen of niet-tijdgevoelige overschrijvingen. Om te beginnen kun je rechtsonder op de `Send` knop tikken, en een `standaard Bitcoin adres` scannen of invoeren.
 
 
 Als het adres dat je opgeeft geen specifiek bedrag bevat, wordt je gevraagd om de details in te vullen op het verzendscherm. Je kunt het bedrag opgeven in de eenheid van je voorkeur, zoals BTC, satoshis of een fiat equivalent. Je hebt ook de optie om een persoonlijke notitie toe te voegen, wat een privémemo is voor je eigen referentie om je te helpen de transactie later te identificeren. Deze notitie wordt niet gedeeld met de ontvanger.
@@ -474,25 +474,25 @@ Voordat je transactie wordt uitgezonden, krijg je een bevestigingsscherm te zien
 Je kunt de kosten op twee manieren regelen. De eerste methode is het selecteren van een gewenste transactiesnelheid, zoals laag, medium of hoog, en de wallet berekent automatisch de juiste vergoeding voor je. De tweede methode biedt een preciezere controle door je een specifieke vergoeding te laten instellen, hetzij als een absoluut totaal in satoshi's of als een relatief tarief per byte, dat vervolgens een geschatte bevestigingstijd oplevert.
 
 
-Voor geavanceerde gebruikers biedt de wallet verschillende instellingen om de transactie nauwkeurig af te stellen. standaard is `Replace-by-Fee` (RBF) ingeschakeld, wat een waardevolle functie is waarmee je een transactie kunt versnellen als deze vastloopt in de mempool door deze opnieuw uit te zenden met een hogere vergoeding. Je kunt ook handmatig kiezen uit welke `Unspent Transaction Outputs` (UTXOs) je wilt uitgeven. Dit is een krachtig hulpmiddel voor UTXO consolidatie, een strategie waarbij je meerdere kleine ingangen combineert tot één grotere. Hoewel dit meer kosten met zich meebrengt voor de huidige transactie, kan het de kosten voor toekomstige transacties aanzienlijk verlagen, vooral als de netwerkkosten naar verwachting zullen stijgen.
+Voor geavanceerde gebruikers biedt de wallet verschillende instellingen om de transactie nauwkeurig af te stellen. `Replace-by-Fee` (RBF) is standaard  ingeschakeld, wat een waardevolle functie is waarmee je een transactie kunt versnellen als deze vastloopt in de mempool door deze opnieuw uit te zenden met een hogere vergoeding. Je kunt ook handmatig kiezen uit welke `Unspent Transaction Outputs` (UTXOs) je wilt uitgeven. Dit is een krachtig hulpmiddel voor UTXO consolidatie, een strategie waarbij je meerdere kleine inputs combineert tot één grotere. Hoewel dit meer kosten met zich meebrengt voor de huidige transactie, kan het de kosten voor toekomstige transacties aanzienlijk verlagen, vooral als de netwerkkosten naar verwachting zullen stijgen.
 
 
 ![image](assets/en/15.webp)
 
 
-PayJoin wordt automatisch geprobeerd wanneer je een betalingsverzoek van een ontvanger scant (een BIP21 URI) dat een `pj=` parameter bevat. Als je gewoon een adres plakt zonder extra parameters, wordt deze functie niet geactiveerd. Deze collaboratieve methode verbetert de privacy door de input van zowel de verzender als de ontvanger te combineren, waardoor de heuristiek van gemeenschappelijk input-eigendom wordt doorbroken en er in sommige omstandigheden ook beter kan worden geschaald en kosten kunnen worden bespaard.
+PayJoin wordt automatisch geactiveerd als je een betalingsverzoek van een ontvanger scant (een BIP21 URI) met een `pj=` parameter. Als je gewoon een adres plakt zonder extra parameters, wordt deze functie niet geactiveerd. Deze collaboratieve methode verbetert de privacy door de input van zowel de verzender als de ontvanger te combineren, waardoor de heuristiek van gemeenschappelijk input-eigendom wordt doorbroken en er in sommige omstandigheden ook beter kan worden geschaald en kosten kunnen worden bespaard.
 
 
-### Verzenden naar de Liquid Network
+### Verzenden naar het Liquid Network
 
 
-De `Liquid Network` is ontworpen voor snelle, vertrouwelijke transacties met minimale kosten. Wanneer je geld verstuurt via de Liquid, wordt het opgenomen uit je `Instant Payments wallet`. Het proces is eenvoudig: je hoeft alleen maar het `Liquid` adres van de ontvanger in te voeren of te scannen.
+Het `Liquid Network` is ontworpen voor snelle, vertrouwelijke transacties met minimale kosten. Wanneer je geld verstuurt via Liquid, wordt het opgenomen uit je `Instant Payments Wallet`. Het proces is eenvoudig: je hoeft alleen maar het `Liquid` adres van de ontvanger in te voeren of te scannen.
 
 
-Als het adres geen bedrag opgeeft, wordt je gevraagd om er een op te geven op het verzendscherm. Je kunt het bedrag invoeren in BTC, satoshis of fiat. Een belangrijk voordeel van Liquid is de lage minimumdrempel. Net als bij on-chain transacties, kun je een optionele persoonlijke notitie toevoegen voor je eigen administratie. Als het betalingsverzoek al een bedrag bevat, gaat wallet direct door naar het bevestigingsscherm.
+Als het adres geen bedrag opgeeft, wordt je gevraagd om er een op te geven op het verzendscherm. Je kunt het bedrag invoeren in BTC, satoshis of fiat. Een belangrijk voordeel van Liquid is de lage minimumdrempel. Net als bij on-chain transacties, kun je een optionele persoonlijke notitie toevoegen voor je eigen administratie. Als het betalingsverzoek al een bedrag bevat, gaat de wallet direct door naar het bevestigingsscherm.
 
 
-Op het bevestigingsscherm voor een Liquid transactie bekijk je de details. De kosten zijn bijzonder laag en worden berekend op basis van de complexiteit van de transactie. Ze liggen meestal rond de 0,1 sat/vB, wat voor een eenvoudige transactie neerkomt op slechts 20-40 satoshis (bijvoorbeeld 26 satoshis per 21 december 2025).
+Bekijk de details van je Liquid-transactie op het bevestigingsscherm. De kosten zijn bijzonder laag en worden berekend op basis van de complexiteit van de transactie. Ze liggen meestal rond de 0,1 sat/vB, wat voor een eenvoudige transactie neerkomt op slechts 20-40 satoshis (bijvoorbeeld 26 satoshis op 21 december 2025).
 
 
 ![image](assets/en/16.webp)
@@ -501,64 +501,64 @@ Op het bevestigingsscherm voor een Liquid transactie bekijk je de details. De ko
 ### Verzenden naar het Lightning Network
 
 
-Je kunt een Lightning Address scannen (bijv. `runningbitcoin@rizful.com`) waarmee je het bedrag en een optionele notitie voor de ontvanger kunt instellen, of een factuur met een vooraf gedefinieerd bedrag scannen, waarmee je direct naar het bevestigingsscherm gaat.
+Je kunt een Lightning-adres scannen (bijv. `runningbitcoin@rizful.com`) waarmee je het bedrag en een optionele notitie voor de ontvanger kunt instellen, of een factuur met een vooraf gedefinieerd bedrag scannen, waarmee je direct naar het bevestigingsscherm gaat.
 
 
 *Houd er rekening mee dat er minimumbedragen en kosten van toepassing zijn.*
 
 
-De Bull Bitcoin-wallet verstuurt Lightning-betalingen door geld op te nemen uit je `Instant Payments wallet` (op Liquid) en dit om te wisselen via `Boltz`. Deze hybride benadering is volledig self-custodial en vermijdt de hoge on-chain kosten voor het beheren van een speciaal Lightning-kanaal, maar vereist wel het betalen van `swapkosten`. Stuur voor de laagste kosten rechtstreeks naar het Liquid adres van een ontvanger als deze ook een Bull Bitcoin-wallet gebruikt.
+De Bull Bitcoin-wallet neemt geld uit je `Instant Payments Wallet` (op Liquid) en wisselt dit via `Boltz` om Lightning-betalingen te versturen. Deze hybride benadering is volledig self-custodial en vermijdt de hoge on-chain kosten voor het beheren van een speciaal Lightning-kanaal, maar vereist wel het betalen van `swapkosten`. Stuur voor de laagste kosten rechtstreeks naar het Liquid-adres van een ontvanger als deze ook een Bull Bitcoin-wallet gebruikt.
 
 
-## geld overboeken tussen je portefeuilles
+## geld overboeken tussen je wallets
 
 
-Bull Bitcoin maakt het mogelijk om je Bitcoin te verplaatsen tussen je `Secure Bitcoin` wallet en je `Instant Payments wallet` op de Liquid Network of naar een `externe wallet`. Om een overschrijving uit te voeren, navigeer je gewoon naar de `Overschrijving` sectie, selecteer je de bron- en doelportemonnee, voer je het bedrag in dat je wilt verplaatsen en bevestig je de transactie.
+Bull Bitcoin maakt het mogelijk om je Bitcoin te verplaatsen tussen je `Secure Bitcoin Wallet` en je `Instant Payments Wallet` op het Liquid Network of naar een `externe wallet`. Om een overschrijving uit te voeren, navigeer je gewoon naar de `Transfer` sectie, selecteer je de bron- en doelwallet, voer je het bedrag in dat je wilt verplaatsen en bevestig je de transactie.
 
 
 ![image](assets/en/17.webp)
 
 
-## 1️⃣1️⃣ Uw Bull Bitcoin-wallet herstellen
+## 1️⃣1️⃣ Je Bull Bitcoin-wallet herstellen
 
 
 Dit hoofdstuk legt uit hoe je weer toegang krijgt tot je Bull Bitcoin-wallet fondsen als je je apparaat verliest, de app verwijdert, of gewoon naar een nieuw apparaat moet overschakelen. Zoals eerder uitgelegd, zijn er twee primaire methoden voor herstel: met de unieke `Recoverbull` methode en met een standaard `BIP39 seed zin`.
 
 
-### Methode 1: Herstelbull
+### Methode 1: Recoverbull
 
 
 Recapitulatie: wallet back-ups worden lokaal versleuteld. Het versleutelde bestand kan opgeslagen worden in een cloud opslag, of op een ander apparaat. De encryptie sleutel wordt opgeslagen door de Recoverbull Key Server. Beide worden apart gehouden en moeten gecombineerd worden om een wallet te herstellen.
 
 
-Om te beginnen wis ik de wallet met alle fondsen erop en installeer ik de wallet opnieuw. We komen weer op het `Welkom scherm`. Selecteer deze keer de optie `wallet herstellen`. Navigeer vervolgens naar de `Encrypted Vault` methode, bevestig het gebruik van de `Default Key server` en selecteer de locatie of `Vault provider` waar je het back-up bestand hebt opgeslagen.
+Om te beginnen wis ik de wallet met alle fondsen erop en installeer ik de wallet opnieuw. We komen weer op het welkomstscherm. Selecteer deze keer de optie `Recover Wallet`. Navigeer vervolgens naar de `Encrypted Vault` methode, bevestig het gebruik van de `Default Key server` en selecteer de locatie van de `Vault provider` waar je het back-up bestand hebt opgeslagen.
 
 
 ![image](assets/en/18.webp)
 
 
-Er staat dat de kluis met succes is geïmporteerd. Tik op de knop `Kluis ontsleutelen` en voer de `PIN` in. Het volgende scherm toont je `saldi` en het `aantal transacties` dat is hersteld.
+Er staat dat de kluis met succes is geïmporteerd. Tik op de knop `Decrypt Vault` en voer de `PIN` in. Het volgende scherm toont je `saldi` en het `aantal transacties` dat is hersteld.
 
 
 ![image](assets/en/19.webp)
 
 
-### Methode 2: Zaadzin
+### Methode 2: herstelzin (seed phrase)
 
 
-Deze methode gebruikt de master herstelzin van je wallet, een standaard lijst van 12 woorden die dient als ultieme back-up voor je fondsen. Het is de meest universele manier om een Bitcoin-wallet te herstellen, omdat het niet gebonden is aan een specifieke dienst of server. Zolang je deze zin hebt, kun je je wallet herstellen op elk compatibel apparaat, zelfs zonder toegang tot de Bull Bitcoin keyserver.
+Deze methode gebruikt de master herstelzin van je wallet, een standaard lijst van 12 woorden die dient als ultieme back-up voor je fondsen. Het is de meest universele manier om een Bitcoin-wallet te herstellen, omdat het niet gebonden is aan een specifieke dienst of server. Zolang je deze zin hebt, kun je je wallet herstellen op elk compatibel apparaat, zelfs zonder toegang tot de Bull Bitcoin Keyserver.
 
 
-Selecteer in het welkomstscherm `Recover wallet`. Kies deze keer de `Physical backup` methode. De app toont een raster van woorden. Selecteer zorgvuldig elk woord van je 12-woorden seed zin in de juiste volgorde. Wees nauwgezet, want één foutje resulteert in een onjuiste wallet.
+Selecteer in het welkomstscherm `Recover wallet`. Kies deze keer de `Physical backup` methode. De app toont een raster van woorden. Selecteer zorgvuldig elk woord van je 12-woorden herstelzin in de juiste volgorde. Wees nauwgezet, want één foutje resulteert in een onjuiste wallet.
 
 
 ## 1️⃣2️⃣ Een Hardware wallet aansluiten
 
 
-Voor het hoogste niveau van veiligheid kiezen veel Bitcoin gebruikers ervoor om hun geld op te slaan in `cold storage`. Dit betekent dat de `private sleutels` die je Bitcoin besturen op een apparaat bewaard worden dat nooit met het internet verbonden is. Een `hardware wallet` (of Signing device) is een gespecialiseerd fysiek apparaat dat precies voor dit doel is ontworpen. Het fungeert als een digitale kluis voor je sleutels en zorgt ervoor dat ze nooit worden blootgesteld aan de potentiële bedreigingen van een online computer of smartphone.
+Voor het hoogste niveau van veiligheid kiezen veel Bitcoin-gebruikers ervoor om hun geld op te slaan in `cold storage`. Dit betekent dat de `privésleutels` die je Bitcoin controleren op een apparaat bewaard worden dat nooit met het internet verbonden is. Een `hardware wallet` (of signing device) is een gespecialiseerd fysiek apparaat dat precies voor dit doel is ontworpen. Het fungeert als een digitale kluis voor je sleutels en zorgt ervoor dat ze nooit worden blootgesteld aan de potentiële bedreigingen van een online computer of smartphone.
 
 
-Door een hardware wallet aan te sluiten op de Bull Bitcoin app, krijgt je het beste van twee werelden: de compromisloze veiligheid van koude opslag voor je privésleutels, gecombineerd met de krachtige functies en gebruiksvriendelijke interface van de Bull Bitcoin-wallet voor het bekijken van saldi en het beheren van transacties. In dit laatste hoofdstuk laten we zien hoe je een hardware wallet, zoals een [Coldcard Q](https://coldcard.com/q), op je Bull Bitcoin-wallet aansluit. Deze tutorial gaat niet dieper in op het instellen van een Coldcard Q; dat kun je hier leren:
+Door een hardware wallet aan te sluiten op de Bull Bitcoin app, krijgt je het beste van twee werelden: de compromisloze veiligheid van cold storage voor je privésleutels, gecombineerd met de krachtige functies en gebruiksvriendelijke interface van de Bull Bitcoin-wallet voor het bekijken van saldi en het beheren van transacties. In dit laatste hoofdstuk laten we zien hoe je een hardware wallet, zoals een [Coldcard Q](https://coldcard.com/q), op je Bull Bitcoin-wallet aansluit. Deze tutorial gaat niet dieper in op het instellen van een Coldcard Q; dat kun je hier leren:
 
 
 https://planb.academy/en/tutorials/wallet/hardware/coldcard-q-73e86d1a-6fe6-4d8b-bb15-8690298020e3
@@ -571,13 +571,13 @@ https://planb.academy/en/tutorials/wallet/hardware/coldcard-q-advanced-b8cc3f29-
 ![image](assets/en/26.webp)
 
 
-Selecteer eerst in het hoofdmenu van je Coldcard Q `Export wallet` en kies dan `Bull wallet`. Je Coldcard zal generate een QR code krijgen.
+Selecteer eerst in het hoofdmenu van je Coldcard Q `Export wallet` en kies dan `Bull wallet`. Je Coldcard zal een QR code genereren.
 
 
 ![image](assets/en/20.webp)
 
 
-Open de Bull Bitcoin-wallet en navigeer naar `Settings` > `Bitcoin Settings` > `Import wallet` en selecteer `Coldcard Q` op je telefoon en tik op `Open de camera` om deze QR-code te scannen om de publieke sleutels van je hardware wallet te importeren.
+Open de Bull Bitcoin-wallet en navigeer naar `Settings` > `Bitcoin Settings` > `Import wallet` en selecteer `Coldcard Q` op je telefoon en tik op `Open the camera` om deze QR-code te scannen om de publieke sleutels van je hardware wallet te importeren.
 
 
 ![image](assets/en/21.webp)
@@ -586,10 +586,10 @@ Open de Bull Bitcoin-wallet en navigeer naar `Settings` > `Bitcoin Settings` > `
 ### Ontvangen met Coldcard Q
 
 
-Om Bitcoin te ontvangen via je aangesloten Coldcard Q, hoeft het apparaat niet fysiek verbonden te zijn met je telefoon. De Bull Bitcoin-wallet heeft de benodigde publieke sleutels al geïmporteerd, waardoor het zelfstandig generate adressen kan ontvangen.
+Om Bitcoin te ontvangen via je aangesloten Coldcard Q, hoeft het apparaat niet fysiek verbonden te zijn met je telefoon. De Bull Bitcoin-wallet heeft de benodigde publieke sleutels al geïmporteerd, waardoor het zelfstandig  ontvangstadressen kan genereren.
 
 
-1. Tik op je geïmporteerde Coldcard Q ondertekeningsapparaat en selecteer `Ontvangen`.
+1. Tik op je geïmporteerde Coldcard Q wallet en selecteer `Receive`.
 
 2. De app zal automatisch een vers Bitcoin adres weergeven van de wallet van je Coldcard.
 
@@ -605,34 +605,34 @@ Om Bitcoin te ontvangen via je aangesloten Coldcard Q, hoeft het apparaat niet f
 Het verzenden van Bitcoin met je Coldcard Q vereist je fysieke bevestiging om elke transactie te autoriseren. Hoewel de Bull wallet app wordt gebruikt om de transactie op te bouwen, kan de uiteindelijke handtekening alleen worden aangemaakt op de hardware wallet zelf.
 
 
-Open om te beginnen je `Coldcard Q` wallet en tik op `Versturen`. Open vervolgens de camera om de QR-code voor het ontvangende adres te scannen. Na het scannen voer je het `bedrag` in dat je wilt versturen en pas je de `kostenprioriteit` aan als dat nodig is.
+Open om te beginnen je `Coldcard Q` wallet en tik op `Versturen`. Open vervolgens de camera om de QR-code van het ontvangstadres te scannen. Na het scannen voer je het `bedrag` in dat je wilt versturen en pas je de `kostenprioriteit` aan als dat nodig is.
 
 
-Voor meer opties kun je kijken onder Geavanceerde instellingen. Hier vind je de optie `Vervangen door vergoeding` (RBF), die standaard geactiveerd is en waarmee je een vastgelopen transactie later kunt versnellen. Je hebt ook de `Coin Control` optie, waarmee je handmatig de specifieke UTXO's kunt selecteren die je wilt uitgeven.
+Voor meer opties kun je kijken onder Advanced Settings. Hier vind je de optie `Replace by Fee` (RBF), die standaard geactiveerd is en waarmee je een vastgelopen transactie later kunt versnellen. Je hebt ook de `Coin Control` optie, waarmee je handmatig de specifieke UTXO's kunt selecteren die je wilt uitgeven.
 
 
-Zodra je alle details hebt bekeken, tik je op `Toon PSBT` om de transactie voor te bereiden.
+Zodra je alle details hebt bekeken, tik je op `Show PSBT` om de transactie voor te bereiden.
 
 
 ![image](assets/en/23.webp)
 
 
-Tik op de `Scan` knop op je Coldcard Q en gebruik de camera om de QR code op je telefoon te scannen. Het Coldcard scherm toont je vervolgens alle transactie details. Controleer zorgvuldig het bedrag, het adres van de ontvanger en je wijzigingsadres. Als alles correct is, druk dan op de `Enter` knop op de Coldcard Q om de transactie te ondertekenen. Vervolgens verschijnt er een QR code van de ondertekende transactie op het scherm.
+Tik op de `Scan` knop op je Coldcard Q en gebruik de camera om de QR code op je telefoon te scannen. Het Coldcard scherm toont je vervolgens alle transactie details. Controleer zorgvuldig het bedrag, het adres van de ontvanger en je wisselgeldsadres. Als alles correct is, druk dan op de `Enter` knop op de Coldcard Q om de transactie te ondertekenen. Vervolgens verschijnt er een QR code van de ondertekende transactie op het scherm.
 
 
 ![image](assets/en/24.webp)
 
 
-Tik op de Bull wallet op `Ik ben klaar`, tik vervolgens op de `Camera` knop om de QR-code van de `ondertekende transactie` te scannen van je Coldcard Q. De Bull wallet toont nu een overzichtsscherm van de ondertekende transactie. Controleer het nog een laatste keer en tik dan op `Transactie verzenden`. Dit rondt het proces af door de transactie naar het Bitcoin netwerk te sturen, en je geld is onderweg.
+Tik op de Bull wallet op `I'm done`, tik vervolgens op de `Camera` knop om de QR-code van de `ondertekende transactie` te scannen van je Coldcard Q. De Bull wallet toont nu een overzichtsscherm van de ondertekende transactie. Controleer het nog een laatste keer en tik dan op `Broadcast Transactie`. Dit rondt het proces af door de transactie naar het Bitcoin-netwerk te sturen, en je geld is onderweg.
 
 
-## conclusie
+## 🎯 Conclusie
 
 
 Je hebt nu je reis door de Bull Bitcoin-wallet voltooid. De app brengt krachtige privacy- en beveiligingstools binnen handbereik, waardoor geavanceerde functies eenvoudig te gebruiken zijn. Het helpt je privé te blijven met functies zoals `PayJoin`, dat je transacties verbergt op de blockchain, en `Tor integratie`, dat je netwerkactiviteit maskeert voor nieuwsgierige ogen. Voor degenen die ultieme controle willen, kun je verbinding maken met je `eigen persoonlijke Bitcoin node` om niet meer afhankelijk te zijn van servers van derden, en een `Hardware wallet` gebruiken om je privésleutels volledig offline en veilig te bewaren. Met slimme back-upopties en naadloze ondersteuning voor Bitcoin, Liquid en Lightning is de Bull Bitcoin-wallet een sterke, alles-in-één keuze voor iedereen die zijn geld privé, veilig en volledig onder eigen controle wil houden.
 
 
-## bull wallet Hulpmiddelen
+## 📚 Bull Wallet tools
 
 
 [Github](https://github.com/SatoshiPortal/bullbitcoin-mobile) | [Website ](https://www.bullbitcoin.com/)| [Recoverbull](https://recoverbull.com/)
