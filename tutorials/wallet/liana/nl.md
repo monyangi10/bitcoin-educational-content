@@ -20,10 +20,10 @@ Als je geld wilt terugkrijgen van een bestaande Liana-wallet, lees dan de onders
 ## Introductie van Liana software
 
 
-Liana is een open-source softwarepakket ontworpen voor het maken en beheren van geavanceerde wallets, met name als onderdeel van een geautomatiseerd overervingssysteem of een robuust back-upmechanisme. Het project wordt sinds 2022 ontwikkeld door Wizardsardine, een bedrijf dat mede is opgericht door Kévin Loaec en Antoine Poinsot. Op de officiële website wordt Liana gepresenteerd als "een eenvoudige wallet voor persoonlijke curatie, met herstel- en overervingsfunctionaliteiten". De software draait op computers -- Linux, MacOS, Windows -- en de (open) broncode is beschikbaar [op GitHub](https://github.com/wizardsardine/Liana).
+Liana is een softwarepakket open-source broncode, ontworpen voor het maken en beheren van geavanceerde wallets, met name als onderdeel van een geautomatiseerd opvolgingsmechanisme (erfenis) of een robuust back-upmechanisme. Het project wordt sinds 2022 ontwikkeld door Wizardsardine, een bedrijf dat mede-opgericht is door Kévin Loaec en Antoine Poinsot. Op de officiële website wordt Liana gepresenteerd als "een eenvoudige wallet voor persoonlijke custody, met herstel- en overervingsfunctionaliteiten". De software draait op computers -- Linux, MacOS, Windows -- en de (open) broncode is beschikbaar [op GitHub](https://github.com/wizardsardine/Liana).
 
 
-Liana bouwt voort op de programmeerbaarheid van Bitcoin om een geavanceerde wallet te maken. In het bijzonder maakt het gebruik van tijdsloten (*timelocks*), die het mogelijk maken om geld pas uit te geven als een bepaalde tijd verstreken is, en die betrokken zijn bij het terughalen van Bitcoins. Een Liana wallet bestaat dus uit meerdere uitgavenpaden:
+Liana bouwt voort op de programmeerbaarheid van Bitcoin om een geavanceerde wallet te maken. Met name maakt het gebruik van tijdsloten (*timelocks*), die het mogelijk maken om geld pas uit te geven als een bepaalde tijd verstreken is, en die een rol spelen bij het terughalen van je bitcoins. Een Liana wallet bestaat dus uit meerdere uitgavepaden:
 
 
 
@@ -32,30 +32,30 @@ Liana bouwt voort op de programmeerbaarheid van Bitcoin om een geavanceerde wall
 - Ten minste één herstelpad, dat na een bepaalde tijd toegankelijk wordt.
 
 
-Het onderstaande diagram illustreert de werking van een wallet met twee uitgavenpaden:
+Het onderstaande diagram illustreert de werking van een wallet met twee uitgavepaden:
 
 
 ![Schéma explicatif](assets/fr/01.webp)
 
 
-Met deze handeling kunt u verschillende configuraties instellen, waaronder :
+Met deze functionaliteit kun je verschillende configuraties instellen, waaronder:
 
 
 
 
-- Een successieplan, dat de erfgenamen in staat stelt om geld terug te krijgen als de gebruiker overlijdt. Voor meer informatie over dit onderwerp raden we aan [deel 4](https://planb.academy/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f/233c88d3-2e8e-5eba-ac06-efe67a209038) van de BTC102-cursus te lezen.
-- Een versterkte back-up met een hersteltijd, zodat de gebruiker zijn wallet kan gebruiken zonder de bijbehorende geheime zin te hoeven bewaren en het risico te lopen dat deze wordt gestolen, bijvoorbeeld tijdens een inbraak.
-- Een vangnet voor mensen die beginnen met Bitcoin: ze beheren hun eigen Wallet, en hun "voogd" (een familielid, bijvoorbeeld) behoudt zich het recht voor om hun fondsen na een bepaalde periode terug te vorderen.
-- Een meerpartijen handtekeningschema (*Multisig*) met verminderde eisen in de tijd, om het verdwijnen van een of meer van de deelnemers op te vangen, zoals de partners van een bedrijf.
+- Een successieregeling, dat de erfgenamen in staat stelt om geld terug te krijgen als de gebruiker overlijdt. Voor meer informatie over dit onderwerp raden we aan [deel 4](https://planb.academy/courses/f3e3843d-1a1d-450c-96d6-d7232158b81f/233c88d3-2e8e-5eba-ac06-efe67a209038) van de BTC102-cursus te lezen.
+- Een versterkte back-up met een tijdslot, zodat de gebruiker zijn wallet kan gebruiken zonder de bijbehorende geheime zin te hoeven bewaren en het risico te lopen dat deze wordt gestolen, bijvoorbeeld tijdens een inbraak.
+- Een vangnet voor mensen die beginnen met Bitcoin: ze beheren hun eigen wallet, en hun "voogd" (een familielid, bijvoorbeeld) behoudt zich het recht voor om hun fondsen na een bepaalde periode terug te vorderen.
+- Een meerpartijen handtekeningschema (*multisig*) met verminderde handtekeningseisen in de tijd, om het verlies van een of meer van de deelnemers op te vangen, zoals de partners van een bedrijf.
 
 
-De grote kracht van Liana is dat het een gestandaardiseerde manier introduceert om het terugkrijgen van fondsen te garanderen in het geval van verlies van de hoofdsleutel, die gebruikt wordt voor lopende uitgaven. Dit is een enorme innovatie voor het schoon bewaren van fondsen, wat vol risico's zit, vooral als je niet goed geïnformeerd bent over het onderwerp. Liana zou daarom zelfs de meest risicomijdende gebruikers kunnen aanmoedigen om te stoppen met het gebruiken van een custodian (zoals een Exchange platform) om hun fondsen te bewaren en Ownership van hun geld terug te krijgen, in overeenstemming met Bitcoin's Cypherpunk ethos.
+De grote kracht van Liana is dat het een gestandaardiseerde manier introduceert om het terugkrijgen van fondsen te garanderen in het geval van verlies van de hoofdsleutel, die gebruikt wordt voor lopende uitgaven. Dit is een enorme innovatie voor het zelf beheren (self-custody) van fondsen, wat vol risico's zit, vooral als je niet goed geïnformeerd bent over het onderwerp. Liana kan daarom zelfs de meest risicomijdende gebruikers aanmoedigen om te stoppen met het gebruiken van een custodian (zoals een exchange-platform) om hun fondsen te bewaren en de controle (ownership) van hun geld terug te krijgen, in overeenstemming met Bitcoin's Cypherpunk ethos.
 
 
-Natuurlijk heeft Liana ook nadelen. Het eerste is dat je je wallet regelmatig moet bijwerken door een transactie uit te voeren op de Bitcoin Blockchain. Dit kan lastig zijn (afhankelijk van hoe vaak je de software gebruikt) en kostbaar (afhankelijk van de hoogte van de kosten op dat moment). Dit kan lastig zijn (afhankelijk van hoe vaak je de software gebruikt) en duur (afhankelijk van de hoogte van de kosten op dat moment), maar het is de prijs die je betaalt voor extra veiligheid.
+Natuurlijk heeft Liana ook nadelen. Het eerste is dat je je wallet regelmatig moet bijwerken door een transactie uit te voeren op de Bitcoin-blockchain. Dit kan lastig zijn (afhankelijk van hoe vaak je de software gebruikt) en duur (afhankelijk van de hoogte van de transactiekosten op dat moment), maar het is de prijs die je betaalt voor extra veiligheid.
 
 
-Een tweede negatief punt kan vertrouwelijkheid zijn. Als je iemand anders bij de configuratie betrekt, is hij of zij op de hoogte van al je adressen en kan hij of zij dus je activiteiten in de gaten houden. Dit is echter geen probleem als je kiest voor een versterkte back-up, of voor een opvolgingsplan waarbij je erfgenaam niet onmiddellijk op de hoogte is van de wallet gegevens.
+Een tweede negatief punt kan privacy zijn. Als je iemand anders bij de configuratie betrekt, is hij of zij op de hoogte van al je adressen en kan hij of zij dus je activiteiten in de gaten houden. Dit is echter geen probleem als je kiest voor een versterkte back-up, of voor een opvolgingsplan waarbij je erfgenaam niet onmiddellijk op de hoogte is van de walletgegevens.
 
 
 ## Voorbereiding
@@ -97,7 +97,7 @@ Als je wilt weten hoe je handmatig de authenticiteit en integriteit van software
 
 https://planb.academy/tutorials/computer-security/data/integrity-authenticity-21d0420a-be02-4663-94a3-8d487f23becc
 
-Installeer de software op uw machine en start het op. Kies de optie "*Maak een nieuwe Liana Wallet*" om uw wallet te configureren.
+Installeer de software op uw machine en start het op. Kies de optie "*Maak een nieuwe Liana wallet*" om uw wallet te configureren.
 
 
 ![Accueil Liana](assets/fr/03.webp)
@@ -148,7 +148,7 @@ Geef toestemming voor het delen van de uitgebreide openbare sleutel van het appa
 Stel vervolgens de terugbetalingsvertraging in, d.w.z. de tijd waarna het geld kan worden uitgegeven door de *erfgoedsleutel*. Deze vertraging wordt gedefinieerd in termen van blokken, waarbij elk blok wordt gescheiden door een gemiddelde van 10 minuten. Het kan variëren van 10 minuten (1 blok) tot ongeveer 15 maanden (65.535 blokken). Deze bovengrens is een beperking van het Bitcoin protocol, omdat de vergrendelingstijd gecodeerd is op 16 bits.
 
 
-Kies, behoudens speciale omstandigheden, voor de langste levertijd: 15 maanden of 65.535 blokken. Dit bespaart u kosten. We raden je echter aan om de updateprocedure (beschreven in het hoofdstuk "Updaten van Wallet") één keer per jaar uit te voeren, altijd op hetzelfde moment van het jaar, om deze praktijk te "ritualiseren" en te voorkomen dat je het vergeet.
+Kies, behoudens speciale omstandigheden, voor de langste levertijd: 15 maanden of 65.535 blokken. Dit bespaart u kosten. We raden je echter aan om de updateprocedure (beschreven in het hoofdstuk "Updaten van wallet") één keer per jaar uit te voeren, altijd op hetzelfde moment van het jaar, om deze praktijk te "ritualiseren" en te voorkomen dat je het vergeet.
 
 
 Hier hebben we een hersteltijd van een uur (6 blokken) ingesteld om onze tests uit te voeren.
@@ -201,7 +201,7 @@ Doe hetzelfde voor elk ondertekeningsapparaat. U moet controleren en bevestigen 
 ![Enregistrer descripteur Nano S Plus](assets/fr/14.webp)
 
 
-Je wallet informatie is nu geregistreerd en je hoeft alleen nog maar te configureren hoe je verbinding wilt maken met het Bitcoin netwerk. Je kunt ervoor kiezen om je eigen node te gebruiken (lokaal of op afstand) of om de infrastructuur van WizardSardine te gebruiken. In het laatste geval moet je een e-mail Address koppelen aan je Wallet, waarmee je de Descriptor kunt ophalen. WizardSardine heeft dan toegang tot al je transacties. De eerste optie wordt daarom aangeraden.
+Je wallet informatie is nu geregistreerd en je hoeft alleen nog maar te configureren hoe je verbinding wilt maken met het Bitcoin netwerk. Je kunt ervoor kiezen om je eigen node te gebruiken (lokaal of op afstand) of om de infrastructuur van WizardSardine te gebruiken. In het laatste geval moet je een e-mail Address koppelen aan je wallet, waarmee je de Descriptor kunt ophalen. WizardSardine heeft dan toegang tot al je transacties. De eerste optie wordt daarom aangeraden.
 
 
 ![Sélectionner connexion réseau](assets/fr/15.webp)
@@ -213,7 +213,7 @@ We hebben ervoor gekozen om ons eigen knooppunt te gebruiken. Je kunt een bestaa
 ![Choisir type de nœud](assets/fr/16.webp)
 
 
-Voor deze tutorial hebben we een bestaande (openbare) Electrum server gebruikt. Maar wees voorzichtig! Deze had toegang tot al onze activiteiten met de Liana Wallet. Gebruik dus je eigen node als je je privacy wilt beschermen.
+Voor deze tutorial hebben we een bestaande (openbare) Electrum server gebruikt. Maar wees voorzichtig! Deze had toegang tot al onze activiteiten met de Liana wallet. Gebruik dus je eigen node als je je privacy wilt beschermen.
 
 
 ![Connexion serveur Electrum public](assets/fr/17.webp)
@@ -277,7 +277,7 @@ Zodra het geld is overgemaakt, verschijnt de transactie op het hoofdscherm (eers
 ![Vérifier solde](assets/fr/23.webp)
 
 
-Je kunt de vervaldatum van je tegoeden controleren door naar het tabblad "*Munten*" te gaan. Dit tabblad toont je de verschillende munten (UTXO) in je Wallet. Hier kunnen we zien dat de 50.000 satoshis Coin, gecreëerd door onze transactie, op dezelfde dag verloopt (over een uur).
+Je kunt de vervaldatum van je tegoeden controleren door naar het tabblad "*Munten*" te gaan. Dit tabblad toont je de verschillende munten (UTXO) in je wallet. Hier kunnen we zien dat de 50.000 satoshis Coin, gecreëerd door onze transactie, op dezelfde dag verloopt (over een uur).
 
 
 ![Obtenir informations pièce](assets/fr/24.webp)
@@ -303,7 +303,7 @@ Liana biedt ook "Coin controle": je geeft aan welke Coin (UTXO) je wilt uitgeven
 ![Envoyer fonds clé principale](assets/fr/25.webp)
 
 
-Onderteken vervolgens de transactie met je handtekeningapparaat dat is gekoppeld aan de hoofdsleutel door op "*Teken*" te klikken. Je moet de transactie verifiëren en bevestigen op je Hardware Wallet. Hier hebben we de Nano S Plus gebruikt om de transactie te ondertekenen.
+Onderteken vervolgens de transactie met je handtekeningapparaat dat is gekoppeld aan de hoofdsleutel door op "*Teken*" te klikken. Je moet de transactie verifiëren en bevestigen op je hardware wallet. Hier hebben we de Nano S Plus gebruikt om de transactie te ondertekenen.
 
 
 ![Signer transaction clé principale](assets/fr/26.webp)
@@ -389,7 +389,7 @@ wsh(or_d(pk([3689a8e7/48'/0'/0'/2']xpub6FKYNH4XbbdADV98yTVxgZZrtB4eE2tiUPreEv5iJ
 ![Importer descripteur](assets/fr/36.webp)
 
 
-Liana vraagt u vervolgens een Mnemonic-zin in te voeren. Als je een werkend signatuurapparaat (Hardware Wallet) hebt, kun je dit deel overslaan. Als je apparaat ontbreekt of beschadigd is, maar je hebt wel de corresponderende 12 of 24 woorden, dan kun je deze optie nog steeds gebruiken. Om het zekere voor het onzekere te nemen (als het te herstellen aantal hoog is), raden we toch aan om een nieuwe Hardware wallet aan te schaffen en de Mnemonic te gebruiken om de sleutels erop te herstellen.
+Liana vraagt u vervolgens een Mnemonic-zin in te voeren. Als je een werkend signatuurapparaat (hardware wallet) hebt, kun je dit deel overslaan. Als je apparaat ontbreekt of beschadigd is, maar je hebt wel de corresponderende 12 of 24 woorden, dan kun je deze optie nog steeds gebruiken. Om het zekere voor het onzekere te nemen (als het te herstellen aantal hoog is), raden we toch aan om een nieuwe Hardware wallet aan te schaffen en de Mnemonic te gebruiken om de sleutels erop te herstellen.
 
 
 In ons geval gebruiken we de Blockstream Jade Hardware wallet als herstelapparaat en kiezen we ervoor om deze stap over te slaan ("*Skip*").
@@ -434,7 +434,7 @@ Geef de Coin uit in de wallet door het juiste vakje aan te vinken. Geef de BTC A
 ![Récupération des pièces](assets/fr/42.webp)
 
 
-Onderteken de transactie door op "*Teken*" te klikken en de transactie te valideren op je Hardware Wallet.
+Onderteken de transactie door op "*Teken*" te klikken en de transactie te valideren op je hardware wallet.
 
 
 ![Signer transaction clé de récupération](assets/fr/43.webp)
