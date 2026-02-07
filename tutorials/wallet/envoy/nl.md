@@ -368,12 +368,12 @@ Klik op de bevestigingsknop om je mnemonische zin te zien.
 ![Image](assets/fr/34.webp)
 
 
-Voor meer informatie over de juiste manier om je Mnemonic zin op te slaan en te beheren, raad ik je aan deze andere tutorial te volgen, vooral als je een beginner bent:
+Voor meer informatie over het veilig opslaan en beheren van je mnemonische zin, raad ik je aan deze aanvullende tutorial te volgen. Deze is vooral aan te raden als je een beginner bent:
 
 
 https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
 
-natuurlijk mag je deze woorden nooit delen op het Internet, zoals ik in deze tutorial doe. Dit voorbeeld wallet wordt alleen gebruikt op Testnet en wordt verwijderd aan het einde van de tutorial.
+_**Natuurlijk mag je deze woorden nooit delen op het Internet, zoals ik in deze tutorial doe. Deze voorbeeld wallet wordt alleen gebruikt op Testnet en wordt verwijderd aan het einde van de tutorial.**_
 
 
 Maak een fysieke back-up van deze zin.
@@ -388,10 +388,10 @@ Je Passport is succesvol geconfigureerd. Klik op de bevestigingsknop om verder t
 ![Image](assets/fr/36.webp)
 
 
-## De wallet instellen op Envoy
+## De wallet configureren op Envoy
 
 
-In deze tutorial laat ik je zien hoe je de Passport kunt gebruiken met de Envoy-toepassing. Deze hardware wallet is echter ook compatibel met Sparrow wallet, Keeper, BlueWallet, Nunchuk, Specter en vele andere...
+In deze tutorial laat ik je zien hoe je de Passport kunt gebruiken met de Envoy-toepassing. Deze hardware wallet is echter ook compatibel met Sparrow Wallet, Keeper, Blue Wallet, Nunchuk, Specter en vele andere...
 
 
 ![Image](assets/fr/66.webp)
@@ -403,19 +403,19 @@ Gebruik de Envoy-toepassing om de QR-code op je Passport te scannen.
 ![Image](assets/fr/67.webp)
 
 
-Je publieke sleutels zijn nu geïmporteerd in de applicatie. Klik op "*Validate receive Address*".
+Je publieke sleutels zijn nu geïmporteerd in de applicatie. Klik op "*Validate receive address*".
 
 
 ![Image](assets/fr/68.webp)
 
 
-Gebruik je Passport om de Address te scannen die op Envoy wordt weergegeven.
+Gebruik je Passport om het adres te scannen dat op Envoy wordt weergegeven.
 
 
 ![Image](assets/fr/69.webp)
 
 
-Je Passport zal bevestigen of het wallet geïmporteerd op Envoy geldig is. Bevestig dit in de aanvraag.
+Je Passport zal bevestigen of de wallet die in Envoy is geïmporteerd geldig is. Bevestig dit in de applicatie.
 
 
 ![Image](assets/fr/70.webp)
@@ -427,23 +427,23 @@ Je hebt nu toegang tot de openbare informatie van je wallet op Envoy, maar om bi
 ![Image](assets/fr/71.webp)
 
 
-## Ontdek Paspoort-menu's
+## Ontdek de menus in Passpoort
 
 
-Uw Passport Interface heeft drie hoofdmenu's:
+Je Passport-interface heeft drie hoofdmenu's:
 
 
 
 
 - "*Account*";
-- "*Meer*";
-- "*Instellingen*".
+- "*More*";
+- "*Settings*".
 
 
 Om tussen deze menu's te navigeren, gebruikt je de pijlen naar links en rechts op de richtingsknop.
 
 
-### *Account*" menu
+### "*Account*" menu
 
 
 In het menu "*Account*" vind je de belangrijkste functies van je Bitcoin wallet. Je kunt een transactie ondertekenen via de camera of via de MicroSD-poort.
@@ -452,22 +452,22 @@ In het menu "*Account*" vind je de belangrijkste functies van je Bitcoin wallet.
 ![Image](assets/fr/37.webp)
 
 
-Het submenu "*Account Tools*" biedt opties zoals het verifiëren van een Address, het ondertekenen van een bericht of het raadplegen van de adressen in je wallet.
+Het submenu "*Account Tools*" biedt opties zoals het verifiëren van een adres, het ondertekenen van een bericht of het raadplegen van de adressen in je wallet.
 
 
 ![Image](assets/fr/38.webp)
 
 
-In het submenu "*Manage Account*" kun je je Bitcoin-wallet verbinden met een wallet beheersoftware (die we in de volgende stappen van deze tutorial behandelen), of je account bekijken en hernoemen.
+In het submenu "*Manage Account*" kun je je Bitcoin-wallet koppelen aan walletbeheersoftware. Daarnaast kun je je account bekijken en hernoemen. We bahandelen de software in de volgende stappen van deze tutorial. 
 
 
 ![Image](assets/fr/39.webp)
 
 
-### Meer" menu
+### "More" menu
 
 
-In het menu "*Meer*" kun je een nieuw account aanmaken in je wallet, gekoppeld aan dezelfde Mnemonic-zin.
+In het menu "*More*" kun je een nieuw account aanmaken in je wallet, gekoppeld aan dezelfde mnemonische zin.
 
 
 ![Image](assets/fr/40.webp)
@@ -479,10 +479,10 @@ Je kunt ook een BIP39 passphrase invoeren of een tijdelijke seed gebruiken.
 ![Image](assets/fr/41.webp)
 
 
-### Menu "Instellingen
+### Menu "Settings"
 
 
-In het menu "*Instellingen*" vind je al je wallet en apparaatinstellingen.
+In het menu "*Settings*" vind je al je wallet en apparaatinstellingen.
 
 
 ![Image](assets/fr/42.webp)
@@ -506,25 +506,25 @@ In het submenu "*Firmware*" kun je de firmware van je Passport bijwerken. We rad
 ![Image](assets/fr/45.webp)
 
 
-In het submenu "*Bitcoin*" kun je de weergegeven eenheid (BTC of satoshis) wijzigen, een mogelijke Multisig wallet beheren of overschakelen naar de modus "*Testnet*".
+In het submenu "*Bitcoin*" kun je de weergegeven eenheid (BTC of satoshis) wijzigen, een mogelijke multisig wallet beheren of overschakelen naar de modus "*Testnet*".
 
 
 ![Image](assets/fr/46.webp)
 
 
-In "*Geavanceerd*" kunt je de woorden van je Mnemonic-zin bekijken, acties uitvoeren op de geplaatste MicroSD, je Passport resetten naar de fabrieksinstellingen of een echtheidscontrole uitvoeren, zoals eerder is uitgevoerd.
+In "*Advanced*" kunt je de woorden van je mnemonische zin bekijken, acties uitvoeren op de geplaatste MicroSD, je Passport resetten naar de fabrieksinstellingen of een echtheidscontrole uitvoeren, zoals eerder is uitgevoerd.
 
 
 ![Image](assets/fr/47.webp)
 
 
-U kunt "*Veiligheidswoorden*" activeren, een functie die een Layer beveiliging toevoegt door twee specifieke woorden weer te geven bij het ontgrendelen van het apparaat na het invoeren van de eerste vier cijfers van de PIN-code. Deze woorden, die tijdens de configuratie moeten worden opgeslagen, zorgen ervoor dat de Passport niet is vervangen of dat er niet mee is geknoeid. In het geval van een afwijking op een later tijdstip, adviseren wij je het apparaat niet te gebruiken. Ik adviseer je om deze optie te activeren om de meeste risico's van fysieke compromittering van het apparaat te voorkomen.
+Je kunt "*Security words*" activeren, een functie die een beveiligingslaag toevoegt door twee specifieke woorden weer te geven bij het ontgrendelen van het apparaat na het invoeren van de eerste vier cijfers van de PIN-code. Deze woorden, die tijdens de configuratie moeten worden opgeslagen, zorgen ervoor dat de Passport niet is vervangen of dat er niet mee is geknoeid. Mocht er later een afwijking optreden, raad ik je aan het apparaat niet te gebruiken. Ik adviseer je om deze optie te activeren om de risico's van fysieke compromittering van je apparaat zoveel mogelijk te beperken.
 
 
 ![Image](assets/fr/48.webp)
 
 
-Tenslotte kun je in het submenu "*Extensions*" functies activeren die specifiek zijn voor bepaalde toepassingen van het apparaat, zoals het Whirlpool CoinJoin protocol.
+Tenslotte kun je in het submenu "*Extensions*" functies activeren die specifiek zijn voor bepaalde toepassingen van het apparaat, zoals het Whirlpool CoinJoin-protocol.
 
 
 ![Image](assets/fr/49.webp)
@@ -533,31 +533,31 @@ Tenslotte kun je in het submenu "*Extensions*" functies activeren die specifiek 
 ## Bitcoins ontvangen
 
 
-Nu je Passport is ingesteld, ben je klaar om je eerste Sats te ontvangen op je nieuwe Bitcoin wallet. Klik hiervoor op Envoy op je "*Primary 0*" account.
+Nu je Passport is ingesteld, ben je klaar om je eerste sats te ontvangen op je nieuwe Bitcoin-wallet. Klik hiervoor op Envoy op je "*Primary 0*" account.
 
 
 ![Image](assets/fr/72.webp)
 
 
-Klik op de knop "*Ontvangen*".
+Klik op de knop "*Receive*".
 
 
 ![Image](assets/fr/73.webp)
 
 
-Uw Envoy-toepassing toont de eerste beschikbare lege Address op je wallet. Voordat we het gebruiken, controleren we de Address op het Passport-scherm om er zeker van te zijn dat het echt bij onze Bitcoin-wallet hoort. Selecteer in het "*Account*" menu van je Passport "*Account Tools*".
+Je Envoy-toepassing toont het eerste beschikbare lege adres op je wallet. Voordat we het gebruiken, controleren we het adres op het Passport-scherm om er zeker van te zijn dat het echt bij onze Bitcoin-wallet hoort. Selecteer in het "*Account*" menu van je Passport "*Account Tools*".
 
 
 ![Image](assets/fr/74.webp)
 
 
-Klik op "*Verifieer Address*" en scan dan de QR-code die op Envoy wordt weergegeven.
+Klik op "*Verify Address*" en scan dan de QR-code die op Envoy wordt weergegeven.
 
 
 ![Image](assets/fr/75.webp)
 
 
-Controleer of de Address op de Passport precies overeenkomt met de Sparrow en of "*Verified*" verschijnt.
+Controleer of het adres op de Passport precies overeenkomt met de Envoy en of "*Verified*" verschijnt.
 
 
 ![Image](assets/fr/76.webp)
@@ -572,25 +572,25 @@ Je kunt het nu gebruiken om bitcoins te ontvangen. Wanneer de transactie wordt u
 ## Bitcoins versturen
 
 
-Nu je een paar Sats in je wallet hebt, kun je er ook een paar versturen. Klik daarvoor op de knop "*Versturen*".
+Nu je een paar sats in je wallet hebt, kun je er ook een paar versturen. Klik daarvoor op de knop "*Send*".
 
 
 ![Image](assets/fr/78.webp)
 
 
-Voer de Address van de ontvanger in door deze direct in te plakken of door de QR-code te scannen met de camera van je smartphone.
+Voer het adres van de ontvanger in door deze direct in te plakken of door de QR-code te scannen met de camera van je smartphone.
 
 
 ![Image](assets/fr/79.webp)
 
 
-Bepaal het bedrag dat je wilt verzenden en klik vervolgens op "*Bevestigen*".
+Bepaal het bedrag dat je wilt verzenden en klik vervolgens op "*Confirm*".
 
 
 ![Image](assets/fr/80.webp)
 
 
-Selecteer de transactiekosten volgens de huidige marktsituatie en controleer vervolgens de transactiegegevens. Als alles correct is, klik je op "*Teken met Passport*".
+Selecteer de transactiekosten volgens de huidige marktsituatie en controleer vervolgens de transactiegegevens. Als alles correct is, klik je op "*Sign with Passport*".
 
 
 ![Image](assets/fr/81.webp)
@@ -608,7 +608,7 @@ Envoy geeft dan een PSBT (*Partially Signed Bitcoin Transaction*) weer. De appli
 ![Image](assets/fr/83.webp)
 
 
-Ga op je Passport naar het menu "*Account*" en klik op "*Teken met QR Code*".
+Ga op je Passport naar het menu "*Account*" en klik op "*Sign with QR Code*".
 
 
 ![Image](assets/fr/84.webp)
@@ -620,13 +620,13 @@ Scan de PSBT (*Partially Signed Bitcoin Transaction*) die wordt weergegeven op E
 ![Image](assets/fr/85.webp)
 
 
-Controleer of de ontvangen Address en het verzonden bedrag correct zijn en druk vervolgens op de bevestigingstoets.
+Controleer of het ontvangstadres en het verzonden bedrag correct zijn en druk vervolgens op de bevestigingstoets.
 
 
 ![Image](assets/fr/86.webp)
 
 
-Controleer de Exchange Address. In mijn voorbeeld is er geen, omdat de transactie een enkele uitvoer bevat.
+Controleer het wisselgeldadres. In mijn voorbeeld is er geen, omdat de transactie maar een enkele output bevat.
 
 
 ![Image](assets/fr/87.webp)
@@ -656,7 +656,7 @@ Klik in de Envoy-toepassing op het QR-codepictogram en scan vervolgens het PSBT 
 ![Image](assets/fr/91.webp)
 
 
-Controleer je transactiegegevens nog een laatste keer. Als alles correct is, druk dan op "*Verstuur Transactie*" om het uit te zenden op het Bitcoin netwerk.
+Controleer je transactiegegevens nog een laatste keer. Als alles correct is, druk dan op "*Send Transaction*" om het uit te zenden op het Bitcoin-netwerk.
 
 
 ![Image](assets/fr/92.webp)
@@ -668,10 +668,10 @@ Je transactie wacht nu op bevestiging. Je kunt de status direct vanuit je accoun
 ![Image](assets/fr/93.webp)
 
 
-Gefeliciteerd, je weet nu hoe je de Passport kunt instellen en gebruiken met de Envoy-toepassing. Als je deze tutorial nuttig vond, zou ik je dankbaar zijn als je hieronder een Green duim achterlaat. Voel je vrij om dit artikel te delen op je sociale netwerken. Bedankt voor het delen!
+Gefeliciteerd, je weet nu hoe je de Passport instelt en gebruikt met de Envoy-app. Als je deze tutorial nuttig vond, zou ik je dankbaar zijn als je hieronder een groene duim achterlaat. Deel dit artikel gerust via je sociale netwerken. Bedankt voor het delen!
 
 
-Voor meer informatie, zie onze handleiding over Liana software:
+Om verder te gaan, kun je ook onze tutorial over de Liana-software raadplegen:
 
 
 https://planb.academy/tutorials/wallet/desktop/liana-306ef457-700c-4fdd-b07a-8fb7a8a29f04
