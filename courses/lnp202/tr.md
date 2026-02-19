@@ -92,7 +92,7 @@ Bu LNP202 kursunu doğru sırayla takip ederseniz, sonunda Lightning düğümün
 
 
 
-Kendi düğümünüzü başlatmadan önce, bu bölüm Lightning Network'nın arkasındaki temel teoriyi kısaca gözden geçirmektedir. İlgili mekanizmaları anlamak gerçekten de önemlidir, çünkü bu sayede riskleri belirleyebilir ve bunları sınırlandırmak için iyi uygulamalar benimseyebilirsiniz. Ancak bu kursun ana amacı bu olmadığı için burada ayrıntıya girmeyeceğim. Konuyu daha derinlemesine incelemek isterseniz, Fanis Michalakis'in bu alanda bir referans olan LNP 201 kursuna başvurmanızı şiddetle tavsiye ederim:
+Kendi düğümünüzü başlatmadan önce, bu bölüm [Lightning Network](https://planb.academy/resources/glossary/lightning-network)'nın arkasındaki temel teoriyi kısaca gözden geçirmektedir. İlgili mekanizmaları anlamak gerçekten de önemlidir, çünkü bu sayede riskleri belirleyebilir ve bunları sınırlandırmak için iyi uygulamalar benimseyebilirsiniz. Ancak bu kursun ana amacı bu olmadığı için burada ayrıntıya girmeyeceğim. Konuyu daha derinlemesine incelemek isterseniz, Fanis Michalakis'in bu alanda bir referans olan LNP 201 kursuna başvurmanızı şiddetle tavsiye ederim:
 
 
 
@@ -616,7 +616,7 @@ Daha sonra Lightning düğümünüzün ana arayüzüne ulaşacaksınız. Sol tar
 
 
 
-Ortada, Lightning wallet'inizi bulacaksınız. Bu aslında giden paranızı, yani Lightning kanallarınızda sahip olduğunuz bitcoinleri temsil eder.
+Ortada, Lightning wallet'inizi bulacaksınız. Bu aslında [giden paranızı](https://planb.academy/resources/glossary/outbound-capacity), yani Lightning kanallarınızda sahip olduğunuz bitcoinleri temsil eder.
 
 
 
@@ -998,7 +998,7 @@ Burada giriş bilgilerine sahipsiniz:
 023bad37e5795654cecc69b43599da8bd5789ac633c098253f60494bde602b60bf@34.216.52.158:9911
 ```
 
-Bu ücretsiz gözetleme kulesi hizmetini sağladıkları için onlara teşekkür etmek amacıyla [Lightning üzerinden bağış yapabilirsiniz] (https://lightningnetwork.plus/donation).
+Bu ücretsiz gözetleme kulesi hizmetini sağladıkları için onlara teşekkür etmek amacıyla [Lightning üzerinden bağış yapabilirsiniz](https://lightningnetwork.plus/donation).
 
 
 Artık özgeci bir gözetleme kulesi hizmeti kullandığımıza göre, bunu Umbrel altındaki LND düğümümüzde nasıl yapılandıracağımızı görelim.
@@ -1165,7 +1165,7 @@ https://planb.academy/tutorials/node/lightning-network/amboss-37044cad-0f85-41eb
 
 https://planb.academy/tutorials/node/lightning-network/1ml-37ada2ab-7a24-4473-87fd-007cb7640e7b
 
-Ancak burada, bir kanal açmak için en uygun olduğu düşünülen Lightning düğümlerinin bir sıralamasını (kuşkusuz kısmen öznel kriterlere dayalı) sağlayan [Lightning Labs'ın Lightning Terminal aracını] (https://terminal.lightning.engineering/) kullanmanızı öneririm.
+Ancak burada, bir kanal açmak için en uygun olduğu düşünülen Lightning düğümlerinin bir sıralamasını (kuşkusuz kısmen öznel kriterlere dayalı) sağlayan [Lightning Labs'ın Lightning Terminal aracını](https://terminal.lightning.engineering/) kullanmanızı öneririm.
 
 
 
@@ -1577,7 +1577,7 @@ Bir işletme veya perakendeciyseniz, bu yaklaşım müşterilerinizden sürtünm
 
 
 
-Gelen likidite satın almanın birçok yolu vardır. Şahsen kullandığım ve tavsiye ettiğim Amboss'in [Magma] (https://magma.amboss.tech/) platformudur. Kullanımı çok kolaydır, bir kanal açmak hızlıdır ve oranlar genellikle makuldür. Magma, yapanlar ve alanlar olan bir pazar yeri gibi çalışıyor, ancak sürüm 2 deneyimi büyük ölçüde basitleştirdi: sadece bir talep oluşturun, Lightning aracılığıyla fiyatı ödeyin ve Magma otomatik olarak mevcut en iyi teklifle eşleştirin. Altı onchain onayından sonra, gelen likiditeye sahip kanalınız çalışmaya başlar. İşte nasıl çalıştığı:
+Gelen likidite satın almanın birçok yolu vardır. Şahsen kullandığım ve tavsiye ettiğim Amboss'in [Magma](https://magma.amboss.tech/) platformudur. Kullanımı çok kolaydır, bir kanal açmak hızlıdır ve oranlar genellikle makuldür. Magma, yapanlar ve alanlar olan bir pazar yeri gibi çalışıyor, ancak sürüm 2 deneyimi büyük ölçüde basitleştirdi: sadece bir talep oluşturun, Lightning aracılığıyla fiyatı ödeyin ve Magma otomatik olarak mevcut en iyi teklifle eşleştirin. Altı onchain onayından sonra, gelen likiditeye sahip kanalınız çalışmaya başlar. İşte nasıl çalıştığı:
 
 
 
@@ -2050,7 +2050,7 @@ Tailscale bağlantısı sizi ikna etmediyse veya ikili VPN'i yönetmek çok zahm
 
 
 
-Bu örnek için, çok iyi tasarlanmış ve öğrenmesi özellikle kolay olan Alby Go mobil uygulamasını kullanacağız. Bununla birlikte, Zeus veya başka bir NWC uyumlu mobil uygulamayı da kullanabilirsiniz. Uyumlu uygulamaların bir listesini [the `awesome-nwc` GitHub repository] (https://github.com/getAlby/awesome-nwc) adresinde bulabilirsiniz.
+Bu örnek için, çok iyi tasarlanmış ve öğrenmesi özellikle kolay olan Alby Go mobil uygulamasını kullanacağız. Bununla birlikte, Zeus veya başka bir NWC uyumlu mobil uygulamayı da kullanabilirsiniz. Uyumlu uygulamaların bir listesini [the `awesome-nwc` GitHub repository](https://github.com/getAlby/awesome-nwc) adresinde bulabilirsiniz.
 
 
 

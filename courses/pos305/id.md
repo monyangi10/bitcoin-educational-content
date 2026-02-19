@@ -74,7 +74,7 @@ Setelah kata-kata yang diucapkan oleh Nicolas, tibalah saatnya untuk mulai memba
 Apa yang dimaksud dengan open source, dan apa saja yang ada di dalam proyek semacam itu?
 
 
-FOSS adalah singkatan dari Perangkat Lunak Bebas & Sumber Terbuka. Yang pertama mengacu pada istilah yang mengizinkan siapa saja untuk menyalin, memodifikasi, dan bahkan mendistribusikan versi perangkat lunak (bahkan untuk mendapatkan keuntungan). Yang terakhir mengacu pada pembagian kode sumber secara terbuka, mendorong publik untuk berkontribusi dan memperbaikinya.
+[FOSS](https://planb.academy/resources/glossary/foss) adalah singkatan dari Perangkat Lunak Bebas & Sumber Terbuka. Yang pertama mengacu pada istilah yang mengizinkan siapa saja untuk menyalin, memodifikasi, dan bahkan mendistribusikan versi perangkat lunak (bahkan untuk mendapatkan keuntungan). Yang terakhir mengacu pada pembagian kode sumber secara terbuka, mendorong publik untuk berkontribusi dan memperbaikinya.
 
 Hal ini menarik pengguna berpengalaman yang antusias untuk berkontribusi pada perangkat lunak yang telah mereka gunakan dan mendapatkan nilai dari perangkat lunak tersebut, yang pada akhirnya terbukti lebih berhasil dalam pengadopsiannya daripada perangkat lunak berpemilik. Hal ini sesuai dengan etos Bitcoin bahwa "informasi ingin bebas." FOSS menyatukan orang-orang yang bersemangat yang membentuk sebuah komunitas dan lebih menyenangkan. Seperti Bitcoin, FOSS tidak bisa dihindari.
 
@@ -122,13 +122,13 @@ BTCPay Server Foundation, yang memungkinkan Alekos dan Bas menulis kursus ini, b
 Ini adalah latihan di kelas, jadi jika Anda mengambil kursus ini sendiri, Anda tidak dapat melakukannya, tetapi Anda masih dapat mengerjakan latihan ini. Untuk menyelesaikan tugas ini, diperlukan minimal 9 hingga 11 orang.
 
 
-Latihan dimulai setelah menonton pengantar "Cara kerja Bitcoin dan Blockchain" oleh BBC.
+Latihan dimulai setelah menonton pengantar "Cara kerja Bitcoin dan [Blockchain](https://planb.academy/resources/glossary/blockchain)" oleh BBC.
 
 
 :::video id=c20b6df7-0c3a-4785-94b9-42ef59093acc:::
 
 
-Latihan ini membutuhkan minimal sembilan peserta. Latihan ini bertujuan untuk memberikan pemahaman fisik tentang cara kerja Bitcoin. Dengan memainkan setiap peran dalam jaringan, Anda akan mendapatkan cara belajar yang interaktif dan menyenangkan. Latihan ini tidak melibatkan Lightning Network.
+Latihan ini membutuhkan minimal sembilan peserta. Latihan ini bertujuan untuk memberikan pemahaman fisik tentang cara kerja Bitcoin. Dengan memainkan setiap peran dalam jaringan, Anda akan mendapatkan cara belajar yang interaktif dan menyenangkan. Latihan ini tidak melibatkan [Lightning Network](https://planb.academy/resources/glossary/lightning-network).
 
 
 ### Contoh: Membutuhkan 9 / 11 orang
@@ -140,7 +140,7 @@ Perannya adalah:
 
 - 1 Pelanggan
 - 1 Pedagang
-- 7 hingga 9 node Bitcoin
+- 7 hingga 9 [node](https://planb.academy/resources/glossary/node) Bitcoin
 
 
 **Pengaturannya adalah sebagai berikut:**
@@ -181,7 +181,7 @@ Pelanggan membeli produk dari toko dengan Bitcoin.
 - Masing-masing dari 9 Komputer memiliki catatan historis lengkap tentang semua transaksi masa lalu yang pernah dilakukan (sehingga saldo yang akurat tanpa pemalsuan), serta seperangkat aturan:
   - Verifikasi transaksi telah ditandatangani dengan benar (thekeyfitsthelock)
   - Menyiarkan dan menerima transaksi yang valid ke rekan-rekan dalam jaringan, membuang transaksi yang tidak valid (termasuk transaksi yang mencoba membelanjakan dana yang sama dua kali)
-- Perbarui/Tambahkan catatan secara berkala dengan transaksi baru yang diterima dari komputer "acak" asalkan semua isinya valid (catatan: untuk saat ini, kami mengabaikan komponen Proof of Work untuk semua ini, untuk mempermudah), jika tidak, tolak dan lanjutkan seperti sebelumnya sampai komputer "acak" berikutnya mengirimkan pembaruan
+- Perbarui/Tambahkan catatan secara berkala dengan transaksi baru yang diterima dari komputer "acak" asalkan semua isinya valid (catatan: untuk saat ini, kami mengabaikan komponen [Proof of Work](https://planb.academy/resources/glossary/proof-of-work) untuk semua ini, untuk mempermudah), jika tidak, tolak dan lanjutkan seperti sebelumnya sampai komputer "acak" berikutnya mengirimkan pembaruan
   - Jumlah yang tepat diberikan jika isinya valid.
 - Peragakan urutan kejadian:
   - Pelanggan- menjelajahi toko secara online dan menemukan barang seharga $25 yang mereka inginkan, dan memberi tahu Penjual bahwa mereka ingin membeli
@@ -192,7 +192,7 @@ Pelanggan membeli produk dari toko dengan Bitcoin.
   - Transaksi ditandatangani dengan benar ("dibuka" oleh pelanggan)
   - Jika tidak demikian, maka transaksi tidak akan disebarkan melalui jaringan, dan jika demikian, maka transaksi akan disebarkan dan ditahan.
   - Pedagang dapat memeriksa apakah transaksi sedang tertunda dan menunggu.
-- Satu komputer dipilih secara "acak" untuk mengusulkan penyelesaian transaksi yang diusulkan dengan menyiarkan "blok" yang berisi transaksi tersebut; jika disetujui, mereka akan menerima hadiah BTC.
+- Satu komputer dipilih secara "acak" untuk mengusulkan penyelesaian transaksi yang diusulkan dengan menyiarkan "[blok](https://planb.academy/resources/glossary/block)" yang berisi transaksi tersebut; jika disetujui, mereka akan menerima hadiah BTC.
   - PILIHAN/ LANJUTAN - alih-alih memilih Komputer secara acak, simulasikan Mining dengan meminta Komputer melempar dadu hingga beberapa hasil yang telah ditentukan sebelumnya muncul (misalnya, yang pertama melempar angka enam ganda yang dipilih)
   - Ini juga dapat menggambarkan apa yang akan terjadi jika dua Komputer menang secara bersamaan, yang mengakibatkan perpecahan rantai.
   - Komputer memeriksa validitas, memperbarui/menambahkan catatan ke buku besar mereka jika aturan terpenuhi, dan menyiarkan blok transaksi ke rekan-rekannya.
@@ -234,15 +234,15 @@ Definisikan istilah-istilah kunci berikut yang diperkenalkan di bagian sebelumny
 
 
 - Node
-- Mempool
-- Target Kesulitan
+- [Mempool](https://planb.academy/resources/glossary/mempool)
+- Target [Kesulitan](https://planb.academy/resources/glossary/difficulty)
 - Blokir
 
 
 **Diskusikan arti dari beberapa istilah tambahan sebagai sebuah kelompok:**
 
 
-Blockchain, Transaksi, Pengeluaran Ganda, Masalah Jenderal Bizantium, Mining, Proof of Work (PoW), Fungsi Hash, Block reward, Blockchain, Rantai Terpanjang, Serangan 51%, Keluaran, Kunci Keluaran, Perubahan, Satoshi, Kunci Publik/Privat, Address, Kriptografi Kunci Publik, Tanda Tangan Digital, Wallet
+Blockchain, Transaksi, Pengeluaran Ganda, Masalah Jenderal Bizantium, Mining, Proof of Work (PoW), [Fungsi Hash](https://planb.academy/resources/glossary/hash-function), Block reward, Blockchain, Rantai Terpanjang, Serangan 51%, Keluaran, Kunci Keluaran, Perubahan, [Satoshi](https://planb.academy/resources/glossary/satoshi-sat), [Kunci Publik](https://planb.academy/resources/glossary/public-key)/Privat, Address, [Kriptografi](https://planb.academy/resources/glossary/cryptography) Kunci Publik, [Tanda Tangan Digital](https://planb.academy/resources/glossary/digital-signature), Wallet
 
 
 # Memperkenalkan Server BTCPay
@@ -573,7 +573,7 @@ Di bagian ini, Anda sudah belajar:
 ### Apa saja yang terlibat dalam pembuatan kunci Bitcoin?
 
 
-Dompet Bitcoin, ketika dibuat, menciptakan apa yang disebut "seed". Pada tujuan terakhir, Anda membuat "seed", Rangkaian kata yang dibuat sebelumnya juga dikenal sebagai frasa Mnemonic. seed digunakan untuk mendapatkan Kunci Bitcoin individual dan digunakan untuk mengirim atau menerima Bitcoin. Frasa seed tidak boleh dibagikan dengan pihak ketiga atau rekan yang tidak dipercaya.
+Dompet Bitcoin, ketika dibuat, menciptakan apa yang disebut "[seed](https://planb.academy/resources/glossary/seed)". Pada tujuan terakhir, Anda membuat "seed", Rangkaian kata yang dibuat sebelumnya juga dikenal sebagai frasa Mnemonic. seed digunakan untuk mendapatkan Kunci Bitcoin individual dan digunakan untuk mengirim atau menerima Bitcoin. Frasa seed tidak boleh dibagikan dengan pihak ketiga atau rekan yang tidak dipercaya.
 
 
 Generasi seed dilakukan sesuai dengan standar industri yang dikenal sebagai kerangka kerja "Hierarchical Deterministic" (HD).
@@ -596,11 +596,11 @@ Sebuah Address didapatkan dari kunci Publik melalui sebuah "algoritma hashing" A
 
 
 
-- Alamat yang dimulai dengan `bc1... ` secara perlahan bergerak ke alamat yang sangat umum. Alamat ini dikenal sebagai Alamat SegWit (asli). Alamat ini menawarkan struktur biaya yang lebih baik daripada Alamat yang disebutkan sebelumnya. Alamat SegWit asli menggunakan pengkodean Bech32 dan hanya mengizinkan huruf kecil.
+- Alamat yang dimulai dengan `bc1... ` secara perlahan bergerak ke alamat yang sangat umum. Alamat ini dikenal sebagai Alamat [SegWit](https://planb.academy/resources/glossary/segwit) (asli). Alamat ini menawarkan struktur biaya yang lebih baik daripada Alamat yang disebutkan sebelumnya. Alamat SegWit asli menggunakan pengkodean Bech32 dan hanya mengizinkan huruf kecil.
 
 
 
-- Alamat yang dimulai dengan `3...` biasanya masih digunakan oleh bursa untuk alamat penyimpanan. Alamat-alamat ini disebutkan dalam bab "Membuat toko baru," alamat SegWit yang dibungkus atau bersarang. Namun, alamat-alamat ini juga dapat berfungsi sebagai "Multisig Address". Ketika digunakan sebagai SegWit Address, ada beberapa penghematan biaya transaksi, sekali lagi, lebih sedikit dibandingkan dengan SegWit asli. Alamat P2SH menggunakan pengodean Base58. Hal ini membuatnya menjadi case Sensitive, seperti Address yang lama.
+- Alamat yang dimulai dengan `3...` biasanya masih digunakan oleh bursa untuk alamat penyimpanan. Alamat-alamat ini disebutkan dalam bab "Membuat toko baru," alamat SegWit yang dibungkus atau bersarang. Namun, alamat-alamat ini juga dapat berfungsi sebagai "Multisig Address". Ketika digunakan sebagai SegWit Address, ada beberapa penghematan [biaya transaksi](https://planb.academy/resources/glossary/transaction-fees), sekali lagi, lebih sedikit dibandingkan dengan SegWit asli. Alamat P2SH menggunakan pengodean Base58. Hal ini membuatnya menjadi case Sensitive, seperti Address yang lama.
 
 
 
@@ -618,7 +618,7 @@ Kunci publik sudah jarang digunakan dalam praktiknya saat ini. Seiring berjalann
 
 
 
-- Akan tetapi, dompet HD menggunakan struktur yang berbeda. `xpub... `, `ypub... ` atau `zpub... ` disebut sebagai kunci publik yang diperluas, atau xpub. Kunci-kunci ini digunakan untuk mendapatkan banyak kunci publik sebagai bagian dari HD Wallet. Karena xpub Anda menyimpan catatan seluruh riwayat Anda, yang berarti transaksi di masa lalu dan masa depan, jangan pernah membagikannya kepada pihak yang tidak dipercaya.
+- Akan tetapi, dompet HD menggunakan struktur yang berbeda. `xpub... `, `ypub... ` atau `zpub... ` disebut sebagai kunci publik yang diperluas, atau [xpub](https://planb.academy/resources/glossary/xpub). Kunci-kunci ini digunakan untuk mendapatkan banyak kunci publik sebagai bagian dari HD Wallet. Karena xpub Anda menyimpan catatan seluruh riwayat Anda, yang berarti transaksi di masa lalu dan masa depan, jangan pernah membagikannya kepada pihak yang tidak dipercaya.
 
 
 ### Ringkasan Keterampilan
@@ -655,7 +655,7 @@ Jaga agar frasa pemulihan Anda tetap aman. Jika diakses oleh seseorang, khususny
 ### Penyimpanan kunci Hot dan Cold untuk kunci Bitcoin
 
 
-Biasanya, dompet Bitcoin didenominasi dalam Hot Wallet atau Cold Wallet. Sebagian besar trade-off terletak pada kenyamanan, kemudahan penggunaan, dan risiko keamanan. Masing-masing metode ini juga dapat dilihat dalam solusi kustodian. Namun, pertukaran di sini sebagian besar berbasis keamanan dan privasi dan melampaui cakupan kursus ini.
+Biasanya, dompet Bitcoin didenominasi dalam Hot Wallet atau [Cold Wallet](https://planb.academy/resources/glossary/cold-wallet). Sebagian besar trade-off terletak pada kenyamanan, kemudahan penggunaan, dan risiko keamanan. Masing-masing metode ini juga dapat dilihat dalam solusi kustodian. Namun, pertukaran di sini sebagian besar berbasis keamanan dan privasi dan melampaui cakupan kursus ini.
 
 
 ### Hot Wallet
@@ -667,10 +667,10 @@ Dompet Hot adalah cara yang paling nyaman untuk berinteraksi dengan Bitcoin mela
 ### Cold Wallet
 
 
-Individu memindahkan Bitcoin mereka ke dalam Cold Wallet karena dapat mengisolasi kunci privat dari internet, sehingga melindungi mereka dari potensi ancaman online. Menghapus koneksi internet dari persamaan akan mengurangi risiko malware, spyware, dan pertukaran SIM. Penyimpanan Cold diyakini lebih unggul daripada penyimpanan Hot untuk keamanan dan otonomi, asalkan tindakan pencegahan yang memadai diambil untuk mencegah kehilangan kunci pribadi Bitcoin. Penyimpanan Cold paling cocok untuk Bitcoin dalam jumlah besar, yang tidak dimaksudkan untuk sering digunakan karena kerumitan pengaturan Wallet.
+Individu memindahkan Bitcoin mereka ke dalam Cold Wallet karena dapat mengisolasi kunci privat dari internet, sehingga melindungi mereka dari potensi ancaman online. Menghapus koneksi internet dari persamaan akan mengurangi risiko malware, spyware, dan pertukaran SIM. Penyimpanan Cold diyakini lebih unggul daripada penyimpanan Hot untuk keamanan dan otonomi, asalkan tindakan pencegahan yang memadai diambil untuk mencegah kehilangan [kunci pribadi](https://planb.academy/resources/glossary/private-key) Bitcoin. Penyimpanan Cold paling cocok untuk Bitcoin dalam jumlah besar, yang tidak dimaksudkan untuk sering digunakan karena kerumitan pengaturan Wallet.
 
 
-Ada berbagai metode untuk menyimpan kunci Bitcoin dalam penyimpanan Cold, mulai dari dompet kertas hingga dompet otak, dompet perangkat keras, atau, dari awal, file Wallet. Kebanyakan dompet menggunakan BIP 39 hingga generate frasa seed. Namun, dalam perangkat lunak Bitcoin core, belum ada konsensus mengenai penggunaannya. Perangkat lunak Bitcoin core masih akan generate file Wallet.dat, yang perlu Anda simpan di lokasi offline yang aman.
+Ada berbagai metode untuk menyimpan kunci Bitcoin dalam penyimpanan Cold, mulai dari dompet kertas hingga dompet otak, dompet perangkat keras, atau, dari awal, file Wallet. Kebanyakan dompet menggunakan [BIP](https://planb.academy/resources/glossary/bip) 39 hingga generate frasa seed. Namun, dalam perangkat lunak Bitcoin core, belum ada konsensus mengenai penggunaannya. Perangkat lunak Bitcoin core masih akan generate file Wallet.dat, yang perlu Anda simpan di lokasi offline yang aman.
 
 
 ### Ringkasan Keterampilan
@@ -717,24 +717,25 @@ BTCPay Server terdiri dari fitur-fitur standar Wallet berikut ini:
 - Pindai ulang
 - Tarik Pembayaran
 - Pembayaran
-- PSBT
+- [PSBT](https://planb.academy/resources/glossary/psbt)
 - Pengaturan umum
 
 
 ### Transaksi
 
 
-Administrator dapat melihat transaksi masuk dan keluar untuk On-Chain Wallet yang terhubung ke toko khusus ini dalam tampilan transaksi. Setiap transaksi memiliki perbedaan antara jumlah yang diterima dan jumlah yang dikirim. Transaksi yang diterima akan berwarna Green, dan transaksi yang dikirim akan berwarna merah. Dalam tampilan transaksi BTCPay Server, administrator juga akan melihat serangkaian label standar.
+Administrator dapat melihat transaksi masuk dan keluar untuk On-Chain Wallet yang terhubung ke toko khusus ini dalam tampilan transaksi. Setiap transaksi memiliki perbedaan antara jumlah yang diterima dan jumlah yang dikirim. Transaksi yang diterima akan berwarna Green, dan transaksi yang dikirim akan berwarna merah. Dalam tampilan transaksi BTCPay Server, administrator juga akan melihat serangkaian [label](https://planb.academy/resources/glossary/label) standar.
 
 
-| Transaction Type | Description                                          |
-| ---------------- | ---------------------------------------------------- |
-| App              | Payment was received through an app-created invoice  |
-| invoice          | Payment was received through an invoice              |
-| payjoin          | Not paid, invoice timer still has not expired        |
-| payjoin-exposed  | UTXO was exposed through an invoice payjoin proposal |
-| payment-request  | Payment was received through a payment request       |
-| payout           | Payment was sent through a payout or refund          |
+
+| Jenis Transaksi | Deskripsi                                         |
+| ---------------- | ------------------------------------------------- |
+| Aplikasi         | Pembayaran diterima melalui faktur yang dibuat oleh aplikasi |
+| Faktur           | Pembayaran diterima melalui faktur                |
+| [Payjoin](https://planb.academy/resources/glossary/payjoin)          | Belum dibayar, pengatur waktu faktur belum kedaluwarsa |
+| Payjoin-terekspos | [UTXO](https://planb.academy/resources/glossary/utxo) terekspos melalui proposal payjoin pada faktur |
+| Permintaan pembayaran | Pembayaran diterima melalui permintaan pembayaran |
+| Pembayaran       | Pembayaran dikirim melalui pembayaran atau pengembalian dana |
 
 ### Bagaimana cara mengirim
 
@@ -1130,7 +1131,7 @@ Dalam opsi Lightning Wallet di bilah menu sebelah kiri, administrator server aka
 #### Info simpul internal
 
 
-Administrator server dapat mengklik info node internal untuk melihat status server mereka (Online/Offline) dan string koneksi untuk Clearnet atau Tor.
+Administrator server dapat mengklik info node internal untuk melihat status server mereka (Online/Offline) dan string koneksi untuk Clearnet atau [Tor](https://planb.academy/resources/glossary/tor).
 
 
 ![image](assets/en/033.webp)
@@ -1805,28 +1806,30 @@ Setiap jenis dilengkapi dengan parameter yang harus diisi. Pemilik toko dapat me
 BTCPay Server juga memungkinkan Anda untuk membuat Formulir dalam kode. JSON, khususnya. Alih-alih melihat editor, pemilik toko dapat mengklik tombol KODE tepat di sebelah editor dan masuk ke kode Formulir mereka. Dalam definisi bidang, hanya bidang berikut yang dapat diatur; nilai bidang disimpan dalam metadata Invoice:
 
 
-| Field                 | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+| Bidang | Deskripsi |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| .fields.constant      | If true, the .value must be set in the form definition, and the user will not be able to change the field's value. ( example: the form definition's version)                                                                                                                                                                                                                                                                                                       |
-| .fields.type          | The HTML input type text, radio, checkbox, password, hidden, button, color, date, datetime-local, month, week, time, email, number, range, search, url, select, tel                                                                                                                                                                                                                                                                                                |
-| .fields.options       | If .fields.type is select, the list of selectable values                                                                                                                                                                                                                                                                                                                                                                                                           |
-| .fields.options.text  | The text displayed for this option                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| .fields.options.value | The value of the field if this option is selected                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| .fields.type=fieldset | Create a HTML fieldset around the children .fields.fields (see below)                                                                                                                                                                                                                                                                                                                                                                                              |
-| .fields.name          | The JSON property name of the field as it will appear in the invoice's metadata                                                                                                                                                                                                                                                                                                                                                                                    |
-| .fields.value         | The default value of the field                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| .fields.required      | if true, the field will be required                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| .fields.label         | The label of the field                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| .fields.helpText      | Additional text to provide an explanation for the field.                                                                                                                                                                                                                                                                                                                                                                                                           |
-| .fields.fields        | You can organize your fields in a hierarchy, allowing child fields to be nested within the invoice’s metadata. This structure can help you better organize and manage the collected information, making it easier to access and interpret. For example, if you have a form that collects customer information, you can group the fields under a parent field called customer. Within this parent field, you might have child fields like name, Email, and address. |
+| .fields.constant | Jika true, .value harus diatur dalam definisi formulir, dan pengguna tidak akan dapat mengubah nilai bidang tersebut. (contoh: versi definisi formulir) |
+| .fields.type | Jenis input HTML: text, radio, checkbox, password, hidden, button, color, date, datetime-local, month, week, time, email, number, range, search, url, select, tel |
+| .fields.options | Jika .fields.type adalah select, daftar nilai yang dapat dipilih |
+| .fields.options.text | Teks yang ditampilkan untuk opsi ini |
+| .fields.options.value | Nilai bidang jika opsi ini dipilih |
+| .fields.type=fieldset | Buat HTML fieldset di sekitar anak .fields.fields (lihat di bawah) |
+| .fields.name | Nama properti JSON dari bidang seperti yang akan muncul di metadata faktur |
+| .fields.value | Nilai default dari bidang |
+| .fields.required | jika true, bidang tersebut wajib diisi |
+| .fields.label | Label dari bidang |
+| .fields.helpText | Teks tambahan untuk memberikan penjelasan bagi bidang tersebut. |
+| .fields.fields | Anda dapat menyusun bidang Anda dalam sebuah hierarki, yang memungkinkan bidang turunan disarangkan di dalam metadata faktur. Struktur ini dapat membantu Anda mengatur dan mengelola informasi yang dikumpulkan dengan lebih baik, sehingga lebih mudah diakses dan diinterpretasikan. Misalnya, jika Anda memiliki formulir yang mengumpulkan informasi pelanggan, Anda dapat mengelompokkan bidang-bidang tersebut di bawah bidang induk yang disebut customer. Di dalam bidang induk ini, Anda mungkin memiliki bidang turunan seperti name, Email, dan address. |
 
 Nama bidang mewakili nama properti JSON yang menyimpan nilai yang diberikan pengguna dalam metadata Invoice. Beberapa nama yang terkenal dapat ditafsirkan dan dimodifikasi untuk menyesuaikan pengaturan Invoice.
 
 
-| Field name       | Description            |
+
+| Nama bidang      | Deskripsi             |
 | ---------------- | ---------------------- |
-| invoice_amount   | The invoice's amount   |
-| invoice_currency | The invoice's currency |
+| invoice_amount   | Jumlah faktur         |
+| invoice_currency | Mata uang faktur      |
 
 Anda dapat mengisi bidang Invoice secara otomatis dengan menambahkan string kueri ke URL formulir, seperti "?your_field=value".
 
@@ -2276,7 +2279,8 @@ docker logs --tail 100 generated_btcpayserver_1
 ```
 
 
-| Logs for     | Container Name                    |
+
+| Catatan untuk | Nama Kontainer                     |
 | ------------ | --------------------------------- |
 | BTCPayServer | generated_btcpayserver_1          |
 | NBXplorer    | generated_nbxplorer_1             |
@@ -2467,21 +2471,22 @@ Kecuali jika Anda menggunakan [Wallet](https://docs.btcpayserver.org/Wallet/) ya
 Tabel di bawah ini mencantumkan dan menjelaskan status Invoice standar di BTCPay, bersama dengan tindakan umum yang disarankan. Tindakan hanyalah rekomendasi. Terserah kepada pengguna untuk menentukan tindakan terbaik untuk kasus penggunaan dan bisnis mereka.
 
 
-| Invoice Status             | Description                                                                                                                             | Action                                                                                                                      |
+
+| Status Faktur | Deskripsi | Tindakan |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| New                        | Not paid, invoice timer still has not expired                                                                                           | None                                                                                                                        |
-| New (paidPartial)          | Paid, not in full, invoice timer still has not expired                                                                                  | None                                                                                                                        |
-| Expired                    | Not paid, invoice timer expired                                                                                                         | None                                                                                                                        |
-| Expired (paidPartial) \*\* | Paid, not in full amount, and expired                                                                                                   | Contact buyer to arrange a refund or ask for them to pay their due. Optionally mark the invoice as settled or invalid           |
-| Expired (paidLate)         | Paid, in full amount, after the invoice timer has expired                                                                               | Contact buyer to arrange a refund or process order if late confirmations are acceptable.                                    |
-| Settled (paidOver)         | Paid more than the invoice amount, settled, received sufficient amount of confirmations                                                 | Contact buyer to arrange a refund for the extra amount, or optionally wait for buyer to contact you                         |
-| Processing                 | Paid in full, but has not received sufficient amount of confirmations specified in the store settings                                   | Contact buyer to arrange a refund for the extra amount, or optionally wait for buyer to contact you                         |
-| Processing (paidOver)      | Paid more than the invoice amount, not received sufficient amount of confirmations                                                      | Wait to be settled, then contact the  buyer to arrange a refund for the extra amount, or optionally wait for buyer to contact you |
-| Settled                    | Paid, in full, received sufficient amount of confirmations in store                                                                     | Fulfil the order                                                                                                            |
-| Settled (marked)           | Status was manually changed to settled from a processing or invalid status                                                             | Store admin has marked the payment as settled                                                                               |
-| Invalid\*                  | Paid, but failed to receive sufficient amount of confirmations within the time specified in store settings                              | Check the transaction on a blockchain explorer, if it received sufficient confirmations, mark as settled                    |
-| Invalid (marked)           | Status was manually changed to invalid from a settled or expired status                                                                 | Store admin has marked the payment as invalid                                                                               |
-| Invalid (paidOver)         | Paid more than the invoice amount, but failed to receive sufficient amount of confirmations within the time specified in store settings | Check the transaction on a blockchain explorer, if it received sufficient confirmations, mark as settled                    |
+| New | Belum dibayar, timer faktur belum kedaluwarsa | Tidak ada |
+| New (paidPartial) | Dibayar, tidak lunas, timer faktur belum kedaluwarsa | Tidak ada |
+| Expired | Belum dibayar, timer faktur sudah kedaluwarsa | Tidak ada |
+| Expired (paidPartial) ** | Dibayar, tidak lunas, dan sudah kedaluwarsa | Hubungi pembeli untuk pengembalian dana atau minta pelunasan. Opsional: tandai faktur sebagai settled atau invalid |
+| Expired (paidLate) | Dibayar lunas setelah timer faktur kedaluwarsa | Hubungi pembeli untuk pengembalian dana atau proses pesanan jika konfirmasi terlambat dapat diterima. |
+| Settled (paidOver) | Dibayar melebihi jumlah faktur, lunas, menerima konfirmasi yang cukup | Hubungi pembeli untuk pengembalian dana kelebihan, atau opsional tunggu pembeli menghubungi Anda |
+| Processing | Dibayar lunas, tetapi belum menerima konfirmasi yang cukup sesuai pengaturan toko | Hubungi pembeli untuk pengembalian dana kelebihan, atau opsional tunggu pembeli menghubungi Anda |
+| Processing (paidOver) | Dibayar melebihi jumlah faktur, belum menerima konfirmasi yang cukup | Tunggu hingga settled, lalu hubungi pembeli untuk pengembalian dana kelebihan, atau tunggu dihubungi |
+| Settled | Dibayar lunas, menerima konfirmasi yang cukup di toko | Penuhi pesanan |
+| Settled (marked) | Status diubah secara manual menjadi settled dari status processing atau invalid | Admin toko telah menandai pembayaran sebagai settled |
+| Invalid* | Dibayar, tetapi gagal menerima konfirmasi yang cukup dalam waktu yang ditentukan di pengaturan toko | Periksa transaksi di blockchain explorer; jika konfirmasi sudah cukup, tandai sebagai settled |
+| Invalid (marked) | Status diubah secara manual menjadi invalid dari status settled atau expired | Admin toko telah menandai pembayaran sebagai invalid |
+| Invalid (paidOver) | Dibayar lebih dari jumlah faktur, tetapi gagal menerima konfirmasi yang cukup dalam waktu yang ditentukan | Periksa transaksi di blockchain explorer; jika konfirmasi sudah cukup, tandai sebagai settled |
 
 #### Detail Invoice
 

@@ -40,7 +40,6 @@ Pronto para descobrir porque é que a liberdade não é apenas um ideal moral, m
 
 
 
-![video](https://www.youtube.com/watch?v=md-rDzJX0Ws)
 
 
 
@@ -96,7 +95,6 @@ Para além disso, as sensações são inerentemente individuais. Não se pode se
 
 
 
-![video](https://www.youtube.com/watch?v=w9DUtXbOYEg)
 
 
 
@@ -152,7 +150,6 @@ A história francesa ilustra as consequências da ausência desta liberdade. Ape
 
 
 
-![video](https://www.youtube.com/watch?v=Vjm91Lve_SA)
 
 
 
@@ -238,7 +235,6 @@ No seu conjunto, estas observações não constituem uma teoria abstrata, mas um
 
 
 
-![video](https://www.youtube.com/watch?v=Wlc3WLYFjXo)
 
 
 
@@ -306,7 +302,6 @@ A questão do casamento ilustra estes princípios: a escolha do cônjuge deve se
 
 
 
-![video](https://www.youtube.com/watch?v=8Ib5M-6Rr8M)
 
 
 
@@ -383,7 +378,6 @@ Por fim, a abolição dos juros sobre o dinheiro e a regulação dos lucros são
 
 
 
-![video](https://www.youtube.com/watch?v=eS_LZr9iKto)
 
 
 
@@ -452,7 +446,6 @@ A análise histórica mostra que a liberdade não é um estado natural perdido a
 
 
 
-![video](https://www.youtube.com/watch?v=v7blehzJCr8)
 
 
 
@@ -511,7 +504,6 @@ A análise das razões históricas da falta de liberdade revela uma tendência f
 
 
 
-![video](https://www.youtube.com/watch?v=X4Htu6xM4Qk)
 
 
 
@@ -571,7 +563,6 @@ A análise das diferentes fases de desenvolvimento revela uma profunda correlaç
 
 
 
-![video](https://www.youtube.com/watch?v=Uzns3FT688k)
 
 
 
@@ -630,7 +621,6 @@ As revoluções têm inconvenientes importantes: são muito violentas e tendem a
 
 
 
-![video](https://www.youtube.com/watch?v=0q_m3KIoq-U)
 
 
 
@@ -684,7 +674,6 @@ Esta reflexão leva a uma conclusão essencial: as circunstâncias actuais são 
 
 
 
-![video](https://www.youtube.com/watch?v=aEoerhy6ERU)
 
 
 
@@ -745,7 +734,6 @@ Estabelecidas estas condições prévias, é agora possível examinar os element
 
 
 
-![video](https://www.youtube.com/watch?v=xcaV6Kb21O0)
 
 
 
@@ -801,7 +789,6 @@ Desta análise resulta uma conclusão fundamental: o aumento do comércio entre 
 
 
 
-![video](https://www.youtube.com/watch?v=qrE5GJWNwGE)
 
 
 
@@ -860,7 +847,6 @@ A vantagem decisiva da liberdade económica é que a produção nunca é demasia
 
 
 
-![video](https://www.youtube.com/watch?v=tfH8FapqqsE)
 
 
 
@@ -920,7 +906,6 @@ Numa sociedade livre, o interesse próprio conduz à inovação e ao progresso. 
 
 
 
-![video](https://www.youtube.com/watch?v=hS1_Nkd_H9M)
 
 
 
@@ -976,7 +961,6 @@ A transição para uma sociedade pacífica é um longo processo de aprendizagem.
 
 
 
-![video](https://www.youtube.com/watch?v=DzE_iGRP5Z0)
 
 
 
@@ -1035,7 +1019,6 @@ Os sistemas de não-liberdade caracterizam-se precisamente pela desigualdade: al
 
 
 
-![video](https://www.youtube.com/watch?v=LDMCs9wCTQc)
 
 
 
@@ -1095,7 +1078,6 @@ Pelo contrário, as relações baseadas no poder político funcionam de forma tr
 
 
 
-![video](https://www.youtube.com/watch?v=mfvPE1fO3-E)
 
 
 
@@ -1135,7 +1117,7 @@ Na lógica da dominação política, o dinheiro deixa de ser uma mercadoria ou u
 
 
 
-Já na Idade Média, Nicolas Oresme analisou os efeitos nocivos da manipulação monetária no comércio. As diminuições monetárias produzem inflação e desestabilizam os preços, uma vez que o sinal monetário se torna incerto quando o mestre das medidas de valor pode alterar arbitrariamente o seu conteúdo. O próprio dinheiro metálico não passava muitas vezes de uma ilusão, com moedas contendo ligas de baixo valor a que alguns escritores liberais do século XIX se referiam como assignats de cobre.
+Já na Idade Média, Nicolas Oresme analisou os efeitos nocivos da manipulação monetária no comércio. As diminuições monetárias produzem [inflação](https://planb.academy/resources/glossary/inflation) e desestabilizam os preços, uma vez que o sinal monetário se torna incerto quando o mestre das medidas de valor pode alterar arbitrariamente o seu conteúdo. O próprio dinheiro metálico não passava muitas vezes de uma ilusão, com moedas contendo ligas de baixo valor a que alguns escritores liberais do século XIX se referiam como assignats de cobre.
 
 
 
@@ -1167,7 +1149,6 @@ A doutrina da liberdade opõe-se a esta lógica com o princípio da secessão in
 
 
 
-![video](https://www.youtube.com/watch?v=VT3w2BjiD8E)
 
 
 
@@ -1227,7 +1208,6 @@ Estes autores identificaram o protecionismo laboral como a futura forma dominant
 
 
 
-![video](https://www.youtube.com/watch?v=MRcLZ1SpAo8)
 
 
 
@@ -1297,7 +1277,6 @@ Esta história intelectual e factual do fracasso da falta de liberdade é uma li
 
 
 
-![video](https://www.youtube.com/watch?v=asOEZJRQuOw)
 
 
 
@@ -1341,7 +1320,6 @@ Uma distinção crucial é entre liberdade negativa e positiva. A liberdade nega
 
 
 
-![video](https://www.youtube.com/watch?v=mkzE0SfSl1Q)
 
 
 
@@ -1396,7 +1374,6 @@ Perante estes perigos, o pensamento liberal, nomeadamente o de Benjamin Constant
 
 
 
-![video](https://www.youtube.com/watch?v=K1e39vtOoCc)
 
 
 
@@ -1456,7 +1433,6 @@ As falácias económicas são, no entanto, apenas uma categoria entre muitas. A 
 
 
 
-![video](https://www.youtube.com/watch?v=zJhhcxwXpRI)
 
 
 
@@ -1515,7 +1491,6 @@ No entanto, os escritores liberais têm uma forte sensibilidade para com a pobre
 
 
 
-![video](https://www.youtube.com/watch?v=GtxJlUa_H08)
 
 
 
@@ -1582,7 +1557,6 @@ Esta análise permite-nos também compreender como os sistemas de não-liberdade
 
 
 
-![video](https://www.youtube.com/watch?v=ary4UJhwRl8)
 
 
 
@@ -1646,7 +1620,6 @@ Courcelle-Seneuil limitou-se a afirmar as ideias da Revolução Francesa sobre a
 
 
 
-![video](https://www.youtube.com/watch?v=c8Wi5jkSEu8)
 
 
 
@@ -1707,7 +1680,6 @@ A realidade atual revela uma situação paradoxal e triste. Os profissionais da 
 
 
 
-![video](https://www.youtube.com/watch?v=cEzFGSnYfnk)
 
 
 
@@ -1771,7 +1743,6 @@ Molinari e a grande maioria dos liberais franceses do seu tempo viam a imigraç�
 
 
 
-![video](https://www.youtube.com/watch?v=b8PojgZ0TQo)
 
 
 
@@ -1831,7 +1802,6 @@ Um tal estado de direito internacional, que reconheça a liberdade de ação e s
 
 
 
-![video](https://www.youtube.com/watch?v=OfqTuJvo3MQ)
 
 
 
