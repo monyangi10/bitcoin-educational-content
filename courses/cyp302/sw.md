@@ -206,7 +206,7 @@ Kwa hivyo, wazo la kuweka mawasiliano siri kwa kulinda njia ya mawasiliano ni ma
 
 Kriptografia inategemea hisabati. Na ikiwa unataka kujenga uelewa zaidi wa juu juu wa kriptografia, unahitaji kuwa na unarisi na hisabati hiyo.
 
-Sura hii inatanguliza hisabati nyingi za kimsingi utakazokutana nazo katika kujifunza kriptografia. Mada hizo ni pamoja na vigeu vya nasibu, operesheni wa modulo, operesheni wa XOR, na ujumuishaji wa nasibu. Unapaswa kufahamu nyenzo katika sehemu hizi kwa uelewa wowote usio wa juu juu wa kriptografia.
+Sura hii inatanguliza hisabati nyingi za kimsingi utakazokutana nazo katika kujifunza kriptografia. Mada hizo ni pamoja na vigeu vya nasibu, operesheni ya modulo, operesheni ya XOR, na ujumuishaji wa nasibu. Unapaswa kufahamu nyenzo katika sehemu hizi kwa uelewa wowote usio wa juu juu wa kriptografia.
 
 Sehemu inayofuata inahusika na nadharia ya nambari, ambayo ni ngumu zaidi.
 
@@ -1966,7 +1966,7 @@ Lakini sitakuacha ukiwa na mashaka hadi SHA-256 iwe dhaifu. Ujumbe wa asili nili
 
 - "Huu ni ujumbe wa nasibu sana, au aina fulani ya nasibu. Sehemu hii ya mwanzo sivyo, lakini nitamalizia na baadhi ya wahusika nasibu ili kuhakikisha ujumbe usiotabirika sana. XLWz4dVG3BxUWm7zQ9qS".
 
-Njia ya kawaida ambayo operesheni wa Hash na sifa ya kuficha hutumiwa ni katika usimamizi wa nenosiri (upinzani wa mgongano pia ni muhimu kwa programu hii). Huduma yoyote nzuri ya mtandaoni inayotegemea akaunti kama vile Facebook au Google haitahifadhi manenosiri yako moja kwa moja ili kudhibiti ufikiaji wa akaunti yako. Badala yake, watahifadhi tu Hash ya nenosiri hilo. Kila wakati unapojaza nenosiri lako kwenye kivinjari, Hash huhesabiwa kwanza. Hash pekee ndiyo inatumwa kwa seva ya mtoa huduma na ikilinganishwa na Hash iliyohifadhiwa kwenye hifadhidata ya nyuma. Sifa iliyofichwa inaweza kusaidia kuhakikisha kuwa wavamizi hawawezi kuirejesha kutoka kwa thamani ya Hash.
+Njia ya kawaida ambayo operesheni ya Hash na sifa ya kuficha hutumiwa ni katika usimamizi wa nenosiri (upinzani wa mgongano pia ni muhimu kwa programu hii). Huduma yoyote nzuri ya mtandaoni inayotegemea akaunti kama vile Facebook au Google haitahifadhi manenosiri yako moja kwa moja ili kudhibiti ufikiaji wa akaunti yako. Badala yake, watahifadhi tu Hash ya nenosiri hilo. Kila wakati unapojaza nenosiri lako kwenye kivinjari, Hash huhesabiwa kwanza. Hash pekee ndiyo inatumwa kwa seva ya mtoa huduma na ikilinganishwa na Hash iliyohifadhiwa kwenye hifadhidata ya nyuma. Sifa iliyofichwa inaweza kusaidia kuhakikisha kuwa wavamizi hawawezi kuirejesha kutoka kwa thamani ya Hash.
 
 Udhibiti wa nenosiri kupitia heshi, bila shaka, hufanya kazi tu ikiwa watumiaji watachagua manenosiri magumu. Sifa ya kuficha huchukulia kuwa x huchaguliwa nasibu kutoka kwa safu kubwa sana. Kuchagua manenosiri kama vile "1234", "mypassword", au tarehe yako ya kuzaliwa hakutatoa usalama wowote wa kweli. Orodha ndefu za manenosiri ya kawaida na heshi zao zipo ambazo washambulizi wanaweza kutumia ikiwa watapata Hash ya nenosiri lako. Aina hizi za mashambulizi hujulikana kama **mashambulizi ya kamusi**. Iwapo washambuliaji wanajua baadhi ya maelezo yako ya kibinafsi, wanaweza pia kujaribu kukisia kwa ufahamu. Kwa hivyo, daima unahitaji manenosiri marefu, salama (ikiwezekana mifuatano mirefu, isiyo na mpangilio kutoka kwa kidhibiti nenosiri).
 
@@ -2119,7 +2119,7 @@ Hili ni tokeo kuu la tatizo la RSA hasa, na limeelezwa katika **Pendekezo la 2**
 
 **Pendekezo la 2**. Ikiwa $N$ ni bidhaa ya matoleo mawili ya awali, $p$ na $q$, mpangilio wa $N$ ni bidhaa $(p - 1) \cdot (q - 1)$.
 
-Kwa mfano, tuseme $N = 119$. Nambari hii kamili inaweza kujumuishwa katika nambari kuu mbili, ambazo ni 7 na 17. Kwa hivyo, operesheni wa Euler wa Phi unapendekeza kwamba mpangilio wa 119 ni kama ifuatavyo:
+Kwa mfano, tuseme $N = 119$. Nambari hii kamili inaweza kujumuishwa katika nambari kuu mbili, ambazo ni 7 na 17. Kwa hivyo, operesheni ya Euler wa Phi unapendekeza kwamba mpangilio wa 119 ni kama ifuatavyo:
 
 $$\phi(119) = (7 - 1) \cdot (17 - 1) = 6 \cdot 16 = 96$$
 
