@@ -2119,7 +2119,7 @@ Hili ni tokeo kuu la tatizo la RSA hasa, na limeelezwa katika **Pendekezo la 2**
 
 **Pendekezo la 2**. Ikiwa $N$ ni bidhaa ya matoleo mawili ya awali, $p$ na $q$, mpangilio wa $N$ ni bidhaa $(p - 1) \cdot (q - 1)$.
 
-Kwa mfano, tuseme $N = 119$. Nambari hii kamili inaweza kujumuishwa katika nambari kuu mbili, ambazo ni 7 na 17. Kwa hivyo, operesheni ya Euler wa Phi unapendekeza kwamba mpangilio wa 119 ni kama ifuatavyo:
+Kwa mfano, tuseme $N = 119$. Nambari hii kamili inaweza kujumuishwa katika nambari kuu mbili, ambazo ni 7 na 17. Kwa hivyo, operesheni ya Euler ya Phi inapendekeza kwamba mpangilio wa 119 ni kama ifuatavyo:
 
 $$\phi(119) = (7 - 1) \cdot (17 - 1) = 6 \cdot 16 = 96$$
 
