@@ -1,4 +1,4 @@
-question: Kwa nini misimbo ya mkondo wa pseudorandom hutumiwa sana katika mazoezi kuliko pedi za wakati mmoja?
+question: Kwa nini misimbo ya mkondo wa nasibu bandia hutumiwa sana katika mazoezi kuliko pedi za wakati mmoja?
 answer: Huruhusu utumizi wa ufunguo mfupi zaidi huku ikizalisha mtiririko wa ufunguo mrefu zaidi
 wrong_answers:
   - Hazihitaji ufunguo wa siri
@@ -6,4 +6,4 @@ wrong_answers:
   - Hazihitaji sasisho muhimu
 explanation: |
   Nakala za mtiririko wa uwongo ni za vitendo zaidi kwa sababu huruhusu ufunguo mfupi kupanuliwa hadi kwenye mkondo mrefu wa ufunguo, kuzuia hitaji la kuhifadhi ufunguo mradi tu ujumbe wenyewe.
-reviewed: false
+reviewed: true
