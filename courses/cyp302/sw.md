@@ -142,9 +142,9 @@ Pili, mifumo ya usimbaji fiche ya kitambo kama vile misimbo ya Beale kila mara i
 
 Tawi la kriptografia linaloshughulika na mipango ambapo wahusika wote hushiriki ufunguo mmoja hujulikana kama **symmetric cryptography**. Kitufe kimoja katika mpango kama huo kawaida huitwa **private key** (au ufunguo wa siri). Tawi la kriptografia ambalo linashughulika na mipango inayohitaji jozi ya ufunguo wa faragha-umma inajulikana kama **asymmetric cryptography**. Matawi haya wakati mwingine pia hujulikana kama **kriptografia ya funguo ya faragha** na **usimbuaji wa ufunguo wa umma**, mtawalia (ingawa hii inaweza kuibua mkanganyiko, kwani mifumo ya ufunguo wa siri ya ufunguo wa umma pia ina funguo za faragha).
 
-Ujio wa kriptografia asymmetric mwishoni mwa miaka ya 1970 imekuwa moja ya matukio muhimu zaidi katika historia ya kriptografia. Bila hivyo, mifumo yetu mingi ya kisasa ya mawasiliano, ikijumuisha Bitcoin, isingewezekana, au angalau isingewezekana sana.
+Ujio wa kriptografia isiyolinganishwa mwishoni mwa miaka ya 1970 imekuwa moja ya matukio muhimu zaidi katika historia ya kriptografia. Bila hivyo, mifumo yetu mingi ya kisasa ya mawasiliano, ikijumuisha Bitcoin, isingewezekana, au angalau isingewezekana sana.
 
-Muhimu zaidi, usimbaji fiche wa kisasa si somo la kipekee la miundo ya kriptografia ya ulinganifu na assymetric (ingawa hiyo inashughulikia sehemu kubwa). Kriptografia pia inahusiana na [funsi_ya_hash](https://planb.academy/resources/glossary/hash-function) (hash functions) na vizalishaji vya namba zisizotabirika, na unaweza kuunda programu kwenye viasili hivi ambavyo havihusiani na ulinganifu wa ufunguo wa assymetric.
+Muhimu zaidi, usimbaji fiche wa kisasa si somo la kipekee la miundo ya kriptografia linganifu na isiyolinganishwa (ingawa hiyo inashughulikia sehemu kubwa). Kriptografia pia inahusiana na [funsi za hash](https://planb.academy/resources/glossary/hash-function) (hash functions) na vizalishaji vya namba zisizotabirika, na unaweza kuunda programu kwenye viasili hivi ambavyo havihusiani na ulinganifu wa ufunguo wa kriptografia isiyolinganishwa.
 
 Tatu, mbinu za usimbaji fiche za kitambo, kama zile zinazotumiwa katika maandishi ya Beale, zilikuwa za sanaa zaidi kuliko sayansi. Usalama wao unaotambulika uliegemezwa sana na mawazo kuhusu ugumu wao. Kwa kawaida wangetiwa viraka wakati shambulio jipya kwao lilipojulikana, au kuachwa kabisa ikiwa shambulio hilo lilikuwa kali sana. Hata hivyo, kriptografia ya kisasa ni sayansi makini inayotumia mbinu rasmi za kihisabati katika kubuni na kuchambua mbinu za usimbaji fiche
 
@@ -1720,7 +1720,7 @@ Sababu ya utendakazi nyuma ya misimbo ya Rijndael ni kwamba hutoa kiwango cha ju
 
 Kama ilivyo kwa kriptografia linganifu, mifumo isiyolinganishwa inaweza kutumika ili kuhakikisha usiri na uthibitishaji. Kwa kulinganisha, hata hivyo, mipango hii hutumia funguo mbili badala ya moja: ufunguo wa kibinafsi na wa umma.
 
-Tunaanza uchunguzi wetu kwa ugunduzi wa kriptografia isiyolinganishwa, haswa matatizo ambayo yalichochea. Ifuatayo, tunajadili jinsi mipango ya asymmetric ya usimbaji fiche na uthibitishaji inavyofanya kazi kwa kiwango cha juu. Basi, tunatanguliza operesheni ya Hash, ambayo ni muhimu katika kuelewa mipango ya uthibitishaji linganifu, na pia zina umuhimu katika miktadha mingine ya kriptografia, kama vile misimbo ya uthibitishaji ya ujumbe unaotegemea Hash tuliyojadili katika Sura ya 4.
+Tunaanza uchunguzi wetu kwa ugunduzi wa kriptografia isiyolinganishwa, haswa matatizo ambayo yalichochea. Ifuatayo, tunajadili jinsi mipango ya kriptografia isiyolinganishwa ya usimbaji fiche na uthibitishaji inavyofanya kazi kwa kiwango cha juu. Basi, tunatanguliza operesheni ya Hash, ambayo ni muhimu katika kuelewa mipango ya uthibitishaji linganifu, na pia zina umuhimu katika miktadha mingine ya kriptografia, kama vile misimbo ya uthibitishaji ya ujumbe unaotegemea Hash tuliyojadili katika Sura ya 4.
 
 ___
 
@@ -1806,7 +1806,7 @@ Vitendo vya kukokotoa vya mlango wa mtego vinavyotumika katika usimbaji fiche us
 
 Miradi mahususi ya msingi wa logariti hutegemea aina mbili kuu za vikundi vya mzunguko: vikundi zidishi vya nambari kamili na vikundi ambavyo vinajumuisha vidokezo kwenye [mikondo ya duaradufu](https://planb.academy/resources/glossary/elliptic-curve). Kitufe cha asili cha Diffie Helmann Exchange kama inavyowasilishwa katika "Maelekezo Mapya katika kriptografia" hufanya kazi na kikundi cha kuzidisha cha mzunguko cha nambari kamili. Kanuni za [saini za kidijitali](https://planb.academy/resources/glossary/digital-signature) za Bitcoin na mpango wa sahihi wa [Schnorr](https://planb.academy/resources/glossary/schnorr-protocol) ulioletwa hivi majuzi (2021) zote zinatokana na tatizo la logarithm maalum kwa kikundi fulani cha mzunguko wa curve elliptic.
 
-Ifuatayo, tutageuka kwa muhtasari wa hali ya juu wa usiri na uthibitishaji katika mpangilio wa asymmetric. Kabla ya kufanya hivyo, hata hivyo, tunahitaji kufanya maelezo mafupi ya kihistoria.
+Ifuatayo, tutageuka kwa muhtasari wa hali ya juu wa usiri na uthibitishaji katika mpangilio wa kriptografia isiyolinganishwa. Kabla ya kufanya hivyo, hata hivyo, tunahitaji kufanya maelezo mafupi ya kihistoria.
 
 Sasa inaonekana kuwa ni sawa kwamba kikundi cha waandishi wa maandishi wa Uingereza na wanahisabati wanaofanya kazi katika Makao Makuu ya Mawasiliano ya Serikali (GCHQ) walikuwa wamegundua kwa kujitegemea ugunduzi uliotajwa hapo juu miaka michache mapema. Kundi hili lilikuwa na James Ellis, Clifford Cocks, na Malcolm Williamson.
 
@@ -2073,7 +2073,7 @@ $$ \frac{2^{1024}}{\LN(2^{1024})} - \frac{2^{1023}}{\LN(2^{1023})} $$
 
 ...ambayo ni sawa na takriban $1.265 \mara 10^{305}$.
 
-[3] Vile vile ni kweli kwa matatizo tofauti ya logarithm. Kwa hivyo, kwa nini ujenzi wa asymmetric hufanya kazi na funguo kubwa zaidi kuliko miundo ya kriptografia linganifu.
+[3] Vile vile ni kweli kwa matatizo tofauti ya logarithm. Kwa hivyo, kwa nini ujenzi wa kriptografia isiyolinganishwa hufanya kazi na funguo kubwa zaidi kuliko miundo ya kriptografia linganifu.
 
 ## Idadi ya matokeo ya kinadharia
 
